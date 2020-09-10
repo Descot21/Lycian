@@ -16,7 +16,7 @@
 
 "Omicron": ![Omicron](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3329,0.05863,0.02933,0.1642&wID=50&CVT=JPEG)
 
-"Gamma": ![Gamma](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3756,0.04523,0.02615,0.1692&wID=50&CVT=JPEG)
+"Pi": ![Pi](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3756,0.04523,0.02615,0.1692&wID=50&CVT=JPEG)
 
 "Double V": ![Double V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.4141,0.05025,0.03251,0.1575&wID=50&CVT=JPEG)
 
