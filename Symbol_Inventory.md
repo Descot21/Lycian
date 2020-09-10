@@ -33,3 +33,9 @@
 "Epsilon": ![Epsilon](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1173,0.2898,0.02261,0.1524&wID=100&CVT=JPEG)
 
 "Kappa": ![Kappa](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1580,0.2848,0.02049,0.1524&wID=100&CVT=JPEG)
+
+"Cross": ![Cross](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.5703,0.2312,0.02261,0.1441&wID=100&CVT=JPEG)
+
+"Delta": ![Delta](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.6848,0.2446,0.02933,0.1441&wID=100&CVT=JPEG)
+
+"Lambda": ![Lambda](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.5021,0.4188,0.02968,0.1374&wID=100&CVT=JPEG)
