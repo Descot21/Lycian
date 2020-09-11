@@ -6,7 +6,7 @@ Beta: ![Beta](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/home
 
 I with a crossbar: ![I with a crossbar](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1597,0.06365,0.02226,0.1508&wID=50&CVT=JPEG)
 
-Nu: ![Nu](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1947,0.07203,0.02367,0.1189&wID=50&CVT=JPEG),![Nu](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.1571,0.6236,0.09524,0.1439&wID=50&CVT=JPEG)
+Nu: ![Nu](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1947,0.07203,0.02367,0.1189&wID=50&CVT=JPEG) ![Nu](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.1571,0.6236,0.09524,0.1439&wID=50&CVT=JPEG)
 
 I with double V: ![I with double V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2336,0.07538,0.02827,0.1374&wID=50&CVT=JPEG)
 
