@@ -50,3 +50,4 @@ Scythe: ![Scythe](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/
 
 Lagu: ![Lagu](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.3833,0.4760,0.05238,0.1365&wID=50&CVT=JPEG)
 
+Star: ![Star](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.01982,0.6164,0.02265,0.1663&wID=50&CVT=JPEG)
