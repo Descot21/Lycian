@@ -52,6 +52,9 @@ Scythe: ![Scythe](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/
 
 Lagu: ![Lagu](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.3833,0.4760,0.05238,0.1365&wID=50&CVT=JPEG)
 
-Star: ![Star](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.01982,0.6164,0.02265,0.1663&wID=50&CVT=JPEG)
+Star: ![Star](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.01982,0.6164,0.02265,0.1663&wID=50&CVT=JPEG) ![Star](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.1357,0.6508,0.03717,0.03392&wID=50&CVT=JPEG)
 
 Chi: ![Chi](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0068.tif&RGN=0.08011,0.5152,0.02779,0.1991&wID=50&CVT=JPEG)
+
+Funky Group: ![Funky Group](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.3606,0.5251,0.04275,0.03078&wID=50&CVT=JPEG) ![Funky Group](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.3674,0.5597,0.07931,0.03580&wID=50&CVT=JPEG) ![Funky Group](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.5973,0.5144,0.07187,0.03580&wID=50&CVT=JPEG) ![Funky Group](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.7230,0.5427,0.07311,0.03266&wID=50&CVT=JPEG)
+
