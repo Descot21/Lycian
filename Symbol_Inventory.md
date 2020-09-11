@@ -1,8 +1,8 @@
 # Symbol Inventory
 
-I with a hat: ![I with a hat](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0004.tif&RGN=0.03977,0.04392,0.05712,0.1303&wID=100&CVT=JPEG)
+Tiwaz: ![Tiwaz](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0004.tif&RGN=0.03977,0.04392,0.05712,0.1303&wID=50&CVT=JPEG)
 
-Beta: ![Beta](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.07845,0.07705,0.01873,0.1625&wID=50&CVT=JPEG)
+Beta: ![Beta](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.07845,0.07705,0.01873,0.1625&wID=30&CVT=JPEG)
 
 I with a crossbar: ![I with a crossbar](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1597,0.06365,0.02226,0.1508&wID=50&CVT=JPEG)
 
@@ -18,7 +18,9 @@ Omicron: ![Omicron](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/projec
 
 Pi: ![Pi](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3756,0.04523,0.02615,0.1692&wID=50&CVT=JPEG)
 
-Double V: ![Double V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.4141,0.05025,0.03251,0.1575&wID=50&CVT=JPEG)
+Double V: ![Double V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.4141,0.05025,0.03251,0.1575&wID=50&CVT=JPEG) ![Double V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.2881,0.06430,0.02478,0.1818&wID=50&CVT=JPEG)
+
+Trident: ![Trident](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.2117,0.05987,0.02159,0.1486&wID=50&CVT=JPEG)
 
 Mu: ![Mu](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.4827,0.04858,0.03145,0.1240&wID=50&CVT=JPEG)
 
@@ -44,7 +46,7 @@ W with a Hook: ![W with a Hook](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0
 
 Digamma: ![Digamma](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.5238,0.3210,0.06190,0.1328&wID=50&CVT=JPEG)
 
-P: ![P](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.1833,0.4760,0.05714,0.1218&wID=50&CVT=JPEG)
+Scythe: ![Scythe](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.1833,0.4760,0.05714,0.1218&wID=50&CVT=JPEG) ![Scythe](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.4570,0.09534,0.01912,0.1641&wID=50&CVT=JPEG)
 
 Lagu: ![Lagu](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.3833,0.4760,0.05238,0.1365&wID=50&CVT=JPEG)
 
