@@ -10,6 +10,8 @@ Nu: ![Nu](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/py
 
 I with double V: ![I with double V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2336,0.07538,0.02827,0.1374&wID=50&CVT=JPEG)
 
+Y with V: ![Y with V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0068.tif&RGN=0.2229,0.2338,0.03651,0.2511&wID=50&CVT=JPEG)
+
 Colon: ![Colon](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2717,0.05695,0.02367,0.1859&wID=50&CVT=JPEG)
 
 Algiz: ![Algiz](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2996,0.06533,0.02544,0.1759&wID=50&CVT=JPEG)
@@ -51,3 +53,5 @@ Scythe: ![Scythe](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/
 Lagu: ![Lagu](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.3833,0.4760,0.05238,0.1365&wID=50&CVT=JPEG)
 
 Star: ![Star](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.01982,0.6164,0.02265,0.1663&wID=50&CVT=JPEG)
+
+Chi: ![Chi](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0068.tif&RGN=0.08011,0.5152,0.02779,0.1991&wID=50&CVT=JPEG)
