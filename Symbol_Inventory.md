@@ -20,7 +20,7 @@ Omicron: ![Omicron](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/projec
 
 Pi: ![Pi](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3756,0.04523,0.02615,0.1692&wID=50&CVT=JPEG)
 
-Double V: ![Double V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.4141,0.05025,0.03251,0.1575&wID=50&CVT=JPEG) ![Double V 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.2881,0.06430,0.02478,0.1818&wID=50&CVT=JPEG)
+Double V: ![Double V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.4141,0.05025,0.03251,0.1575&wID=50&CVT=JPEG) ![Double V 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.2881,0.06430,0.02478,0.1818&wID=50&CVT=JPEG) ![Double V 3](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0054.tif&RGN=0.2206,0.5989,0.02371,0.1545&wID=50&CVT=JPEG) ![Double V 4](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0054.tif&RGN=0.3691,0.5691,0.02729,0.1707&wID=50&CVT=JPEG)
 
 Trident: ![Trident](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.2117,0.05987,0.02159,0.1486&wID=50&CVT=JPEG)
 
@@ -58,4 +58,6 @@ Chi: ![Chi](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/
 
 Funky Group: ![Funky Group 1](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.3606,0.5251,0.04275,0.03078&wID=50&CVT=JPEG) ![Funky Group 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.3674,0.5597,0.07931,0.03580&wID=50&CVT=JPEG) ![Funky Group 3](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.5973,0.5144,0.07187,0.03580&wID=50&CVT=JPEG) ![Funky Group 4](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.7230,0.5427,0.07311,0.03266&wID=50&CVT=JPEG)
 
-I: ![I](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0034.tif&RGN=0.1828,0.2153,0.01774,0.2536&wID=50&CVT=JPEG)
+I With Serif: ![I With Serif](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0034.tif&RGN=0.1828,0.2153,0.01774,0.2536&wID=50&CVT=JPEG)
+
+I Without Serif: ![I Without Serif](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0054.tif&RGN=0.3557,0.5827,0.01253,0.1599&wID=50&CVT=JPEG)
