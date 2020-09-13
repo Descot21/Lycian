@@ -61,3 +61,5 @@ Funky Group: ![Funky Group 1](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&F
 I With Serif: ![I With Serif](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0034.tif&RGN=0.1828,0.2153,0.01774,0.2536&wID=50&CVT=JPEG)
 
 I Without Serif: ![I Without Serif](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0054.tif&RGN=0.3557,0.5827,0.01253,0.1599&wID=50&CVT=JPEG)
+
+Double C: ![Double C](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0112.tif&RGN=0.3688,0.4943,0.03028,0.1625&wID=50&CVT=JPEG)
