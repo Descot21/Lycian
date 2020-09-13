@@ -14,7 +14,7 @@ Y with V: ![Y with V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/proj
 
 Colon: ![Colon](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2717,0.05695,0.02367,0.1859&wID=50&CVT=JPEG)
 
-Algiz: ![Algiz](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2996,0.06533,0.02544,0.1759&wID=50&CVT=JPEG) Algiz: ![Algiz 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0034.tif&RGN=0.4566,0.3923,0.01231,0.2249&wID=50&CVT=JPEG)
+Algiz: ![Algiz](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2996,0.06533,0.02544,0.1759&wID=50&CVT=JPEG) ![Algiz 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0034.tif&RGN=0.4566,0.3923,0.01231,0.2249&wID=50&CVT=JPEG)
 
 Omicron: ![Omicron](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3329,0.05863,0.02933,0.1642&wID=50&CVT=JPEG)
 
