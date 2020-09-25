@@ -1,3 +1,5 @@
+## Alphabetic
+
 | Number |    Lycian Letter    |    Transcription    |
 |--------|---------------------|---------------------|
 | 1      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.7905,0.03518,0.01979,0.1759&wID=30&CVT=JPEG)           |   a    |
@@ -19,13 +21,20 @@
 | 17     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0068.tif&RGN=0.08011,0.5152,0.02779,0.1991&wID=30&CVT=JPEG)           |        |
 | 18     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1597,0.06365,0.02226,0.1508&wID=30&CVT=JPEG)           |        |
 | 19     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3329,0.05863,0.02933,0.1642&wID=30&CVT=JPEG)           |   u    |
-| 20     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3756,0.04523,0.02615,0.1692&wID=30&CVT=JPEG)           |   p    |
+| 20     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3756,0.04523,0.02615,0.1692&wID=30&CVT=JPEG) ![Scythe 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.4570,0.09534,0.01912,0.1641&wID=30&CVT=JPEG)           |   p    |
 | 21     | diamond   | velar  |
 | 22     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.6876,0.04188,0.01943,0.1658&wID=30&CVT=JPEG)           |   r    |
 | 23     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.02756,0.2965,0.02191,0.1491&wID=30&CVT=JPEG)           |   s    |
 | 24     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.8208,0.05025,0.02792,0.1390&wID=30&CVT=JPEG)           |        |
 | 25     | T         |        | 
-| 26     | ![Double V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.4141,0.05025,0.03251,0.1575&wID=30&CVT=JPEG)           |        |
-| 27     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2336,0.07538,0.02827,0.1374&wID=30&CVT=JPEG)           |        |
+| 26     | ![Double V](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.4141,0.05025,0.03251,0.1575&wID=30&CVT=JPEG)![Double V 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.2881,0.06430,0.02478,0.1818&wID=30&CVT=JPEG) ![Double V 3](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0054.tif&RGN=0.2206,0.5989,0.02371,0.1545&wID=30&CVT=JPEG) ![Double V 4](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0054.tif&RGN=0.3691,0.5691,0.02729,0.1707&wID=30&CVT=JPEG)           |        |
+| 27     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2336,0.07538,0.02827,0.1374&wID=30&CVT=JPEG)![I with double V 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0068.tif&RGN=0.2229,0.2338,0.03651,0.2511&wID=30&CVT=JPEG) ![I with double V 3](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0147.tif&RGN=0.4669,0.1500,0.02219,0.6917&wID=30&CVT=JPEG)         |        |
 | 28     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.5703,0.2312,0.02261,0.1441&wID=30&CVT=JPEG)            |        |
-| 29     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.2117,0.05987,0.02159,0.1486&wID=30&CVT=JPEG)           |        |
+| 29     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.2117,0.05987,0.02159,0.1486&wID=30&CVT=JPEG)![Algiz](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2996,0.06533,0.02544,0.1759&wID=30&CVT=JPEG) ![Algiz 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0034.tif&RGN=0.4566,0.3923,0.01231,0.2249&wID=30&CVT=JPEG)           |        |
+
+## Non Alphabetic
+
+| Number |    Lycian Symbol    |    Transcription    |
+|--------|---------------------|---------------------|
+| 1      | ![Funky Group 1](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.3606,0.5251,0.04275,0.03078&wID=30&CVT=JPEG) ![Funky Group 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.3674,0.5597,0.07931,0.03580&wID=40&CVT=JPEG) ![Funky Group 3](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.5973,0.5144,0.07187,0.03580&wID=50&CVT=JPEG) ![Funky Group 4](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.7230,0.5427,0.07311,0.03266&wID=50&CVT=JPEG)           |   numerical   |
+| 2      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2717,0.05695,0.02367,0.1859&wID=30&CVT=JPEG)           |   :    |
