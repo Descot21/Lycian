@@ -21,8 +21,8 @@
 | 17     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0068.tif&RGN=0.08011,0.5152,0.02779,0.1991&wID=30&CVT=JPEG)           |        |        |
 | 18     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1597,0.06365,0.02226,0.1508&wID=30&CVT=JPEG)           |        |        |
 | 19     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3329,0.05863,0.02933,0.1642&wID=30&CVT=JPEG)           |        |   u    |
-| 20     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3756,0.04523,0.02615,0.1692&wID=30&CVT=JPEG) ![Scythe 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.4570,0.09534,0.01912,0.1641&wID=30&CVT=JPEG)           |   p    |
-| 21     | diamond   | velar  |
+| 20     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3756,0.04523,0.02615,0.1692&wID=30&CVT=JPEG) ![Scythe 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.4570,0.09534,0.01912,0.1641&wID=30&CVT=JPEG)           |        |   p    |
+| 21     | diamond   |        | velar  |
 | 22     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.6876,0.04188,0.01943,0.1658&wID=30&CVT=JPEG)           |        |   r    |
 | 23     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.02756,0.2965,0.02191,0.1491&wID=30&CVT=JPEG)           |        |   s    |
 | 24     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.8208,0.05025,0.02792,0.1390&wID=30&CVT=JPEG)           |        |        |
