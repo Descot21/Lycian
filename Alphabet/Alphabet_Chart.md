@@ -2,13 +2,13 @@
 
 | Number |    Lycian Letter    |    Unicode          |    Transcription    |   Phonetic Value    |
 |--------|---------------------|---------------------|---------------------|--------------------|
-| 1      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.7905,0.03518,0.01979,0.1759&wID=30&CVT=JPEG)           |   𐊀   |   a    |       |
-| 2      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0004.tif&RGN=0.03977,0.04392,0.05712,0.1303&wID=30&CVT=JPEG)          |   𐊁   |   e    |       |
+| 1      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.7905,0.03518,0.01979,0.1759&wID=30&CVT=JPEG)           |   𐊀   |   a    |    [ɑ] (as in English f**a**ther)   |
+| 2      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0004.tif&RGN=0.03977,0.04392,0.05712,0.1303&wID=30&CVT=JPEG)          |   𐊁   |   e    |    [æ] (as in English c**a**t)   |
 | 3      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.07845,0.07705,0.01873,0.1625&wID=30&CVT=JPEG)          |   𐊂   |   b   |       |
 | 4      | ![W with a Hook](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.6690,0.1771,0.1690,0.1218&wID=60&CVT=JPEG)             |   𐊃   |    B    |       |
 | 5      | "gamma"   |    𐊄    |   g    |       |
 | 6      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.6848,0.2446,0.02933,0.1441&wID=30&CVT=JPEG)            |  𐊅   |   d    |       |
-| 7      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1173,0.2898,0.02261,0.1524&wID=30&CVT=JPEG)            |   𐊆   |   i    |       |
+| 7      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1173,0.2898,0.02261,0.1524&wID=30&CVT=JPEG)            |   𐊆   |   i    |    ɪ (as in English l**i**st)    |
 | 8      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.5238,0.3210,0.06190,0.1328&wID=30&CVT=JPEG)            |   𐊇   |    w    |       |
 | 9      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0034.tif&RGN=0.1828,0.2153,0.01774,0.2536&wID=30&CVT=JPEG)            |    𐊈    |   z     |       |
 | 10     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0112.tif&RGN=0.3688,0.4943,0.03028,0.1625&wID=30&CVT=JPEG)            |   𐊉     |   Θ     |       |
@@ -20,7 +20,7 @@
 | 16     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1947,0.07203,0.02367,0.1189&wID=30&CVT=JPEG)           |    𐊏     |    n    |       |
 | 17     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0068.tif&RGN=0.08011,0.5152,0.02779,0.1991&wID=30&CVT=JPEG)           |    𐊐    |    M    |       |
 | 18     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1597,0.06365,0.02226,0.1508&wID=30&CVT=JPEG)           |    𐊑    |    N    |       |
-| 19     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3329,0.05863,0.02933,0.1642&wID=30&CVT=JPEG)           |    𐊒    |   o    |       |
+| 19     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3329,0.05863,0.02933,0.1642&wID=30&CVT=JPEG)           |    𐊒    |   o    |   [ʊ] (as in English b**oo**k)    |
 | 20     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.3756,0.04523,0.02615,0.1692&wID=30&CVT=JPEG) ![Scythe 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0137.tif&RGN=0.4570,0.09534,0.01912,0.1641&wID=30&CVT=JPEG)           |    𐊓    |   p    |       |
 | 21     |      |    𐊔    | K  |       |
 | 22     | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.6876,0.04188,0.01943,0.1658&wID=30&CVT=JPEG)           |   𐊕     |   r    |       |
