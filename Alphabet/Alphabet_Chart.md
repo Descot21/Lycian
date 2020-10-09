@@ -4,10 +4,10 @@
 |--------|---------------------|---------------------|---------------------|--------------------|
 | 1      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.7905,0.03518,0.01979,0.1759&wID=30&CVT=JPEG)           |   𐊀   |   a    |    /ɑ/ (as in English f**a**ther)   |
 | 2      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0004.tif&RGN=0.03977,0.04392,0.05712,0.1303&wID=30&CVT=JPEG)          |   𐊁   |   e    |    /æ/ (as in English c**a**t)   |
-| 3      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.07845,0.07705,0.01873,0.1625&wID=30&CVT=JPEG)          |   𐊂   |   b   |    /β/   |
+| 3      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.07845,0.07705,0.01873,0.1625&wID=30&CVT=JPEG)          |   𐊂   |   b   |    /β/, /φ/   |
 | 4      | ![W with a Hook](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.6690,0.1771,0.1690,0.1218&wID=60&CVT=JPEG)             |   𐊃   |    B    |    /ç/   |
-| 5      | "gamma"   |    𐊄    |   g    |   /ɣ/    |
-| 6      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.6848,0.2446,0.02933,0.1441&wID=30&CVT=JPEG)            |  𐊅   |   d    |    /ð/   |
+| 5      | "gamma"   |    𐊄    |   g    |   /ɣ/, /χ/    |
+| 6      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.6848,0.2446,0.02933,0.1441&wID=30&CVT=JPEG)            |  𐊅   |   d    |    /ð/, /θ/   |
 | 7      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1173,0.2898,0.02261,0.1524&wID=30&CVT=JPEG)            |   𐊆   |   i    |    /ɪ/ (as in English l**i**st)    |
 | 8      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.5238,0.3210,0.06190,0.1328&wID=30&CVT=JPEG)            |   𐊇   |    w    |    /w/   |
 | 9      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0034.tif&RGN=0.1828,0.2153,0.01774,0.2536&wID=30&CVT=JPEG)            |    𐊈    |   z     |   /t͡s/    |
