@@ -1,6 +1,6 @@
 ## Alphabetic
 
-| Number |    Lycian Letter    |    Unicode          |    Transcription    |   Phonetic Value    |
+| Number |    Lycian Letter    |    Unicode          |    Transcription    |   Phonetic Value (according to Kloekhorst2008)    |
 |--------|---------------------|---------------------|---------------------|--------------------|
 | 1      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.7905,0.03518,0.01979,0.1759&wID=30&CVT=JPEG)           |   𐊀   |   a    |    /ɑ/ (as in English f**a**ther)   |
 | 2      | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0004.tif&RGN=0.03977,0.04392,0.05712,0.1303&wID=30&CVT=JPEG)          |   𐊁   |   e    |    /æ/ (as in English c**a**t)   |
