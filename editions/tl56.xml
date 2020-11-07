@@ -1,1 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TL 56</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="1">ebEN<unclear><supplied>n</supplied></unclear>E prNnAwo meti <unclear><supplied>p</supplied></unclear>rNnawatE</ab>
+     <ab n="2"><unclear><supplied>E</supplied></unclear>Atta m: hlah :tideimi : hrppi ladi : ehbi</ab>
+     <ab n="3">se tideimi : ehbiye : se iye tiedi : tike : mEtE : </ab>
+     <ab n="4">meneqastto : Eni : qlrhi : ebiyehi : se wedri : weh<unclear><supplied>N</supplied></unclear> <gap></gap> tezi</ab>
+     <ab n="5">ΙΚΤΑΣ ΛΑ ΑΝΤΙΦΕΛΛΙΤΗΣ ΤΟΥΤΙ ΤΟ ΜΝΗΜΑ ΗΡΓΑΖΑΤΟ ΑΥΤΩ </ab>
+     <ab n="6"><unclear><supplied>ΤΕ</supplied></unclear> ΚΑΙ ΓΥΝΑΙΚΙ ΚΑΙ ΤΕΚΝΟΙΣ ΕΑΝ ΔΕ ΤΙΣ ΑΔΙΚΗΣΗΙ ΑΓΟΡΑΣΙ<unclear><supplied>Ι</supplied></unclear> ΤΟ ΜΝΗΜΑ Η ΛΗΤΩ ΑΥΤΟΝ ΕΠΙΤΝ</ab>
+    </body>
+  </text>
+</TEI>
