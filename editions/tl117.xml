@@ -18,13 +18,13 @@
   <text>
     <body>
      <ab n="1">ebeiya : arawziya : meti :</ab>
-     <ab n="2">p</ab>
-     <ab n="3"></ab>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
-     <ab n="6"></ab>
-     <ab n="7"></ab>
-     <ab n="8"></ab>
+     <ab n="2">prNnawatE : <persName>sideriya</persName> : <persName><w>pe<supplied>r</supplied>m</w></persName></ab>
+     <ab n="3"><persName><w>ne</w></persName> : tideimi<unclear><supplied>h</supplied></unclear>rppi :etli behbi se</ab>
+     <ab n="4">ladi : ehbi : se tideimi : <persName><w>pobie</w></persName></ab>
+     <ab n="5"><persName><w>leye</w></persName> ΤΟ ΜΝΗΜΑ ΤΟΔ <w>ΕΠ</w></ab>
+     <ab n="6"><w>ΟΙΗΣΑΤΟ</w> <persName>ΣΙΔΑΡΙΟΣ</persName> <persName><w>ΠΑΡΜΕΝΟ</w></persName></ab>
+     <ab n="7"><persName><w>ΝΤΟΣ</w></persName> ΥΙΟΣ ΕΑΥΤΩΙ ΚΑΙ ΤΗΙ <w>ΓΥΝ</w></ab>
+     <ab n="8"><w>ΙΚΙ</w> ΚΑΙ ΥΙΩΙ <persName>ΠΥΒΙΑΛΗ</persName></ab>
     </body>
   </text>
 </TEI>
