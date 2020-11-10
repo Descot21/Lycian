@@ -17,12 +17,10 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1">ebEN<unclear><supplied>n</supplied></unclear>E prNnAwo meti <unclear><supplied>p</supplied></unclear>rNnawatE</ab>
-     <ab n="2"><unclear><supplied>E</supplied></unclear>Atta m: hlah :tideimi : hrppi ladi : ehbi</ab>
+     <ab n="1"><w>ebEN<unclear><supplied>n</supplied></unclear>E</w> prNnAwo me=ti <w><unclear>p</unclear>rNnawatE</w></ab>
+     <ab n="2"><w><gap quantity="1" unit="chars"/><unclear>A</unclear>tta</w> : hlah :tideimi : hrppi ladi : ehbi</ab>
      <ab n="3">se tideimi : ehbiye : se iye tiedi : tike : mEtE : </ab>
-     <ab n="4">meneqastto : Eni : qlrhi : ebiyehi : se wedri : weh<unclear><supplied>N</supplied></unclear> <gap></gap> tezi</ab>
-     <ab n="5">ΙΚΤΑΣ ΛΑ ΑΝΤΙΦΕΛΛΙΤΗΣ ΤΟΥΤΙ ΤΟ ΜΝΗΜΑ ΗΡΓΑΖΑΤΟ ΑΥΤΩ </ab>
-     <ab n="6"><unclear><supplied>ΤΕ</supplied></unclear> ΚΑΙ ΓΥΝΑΙΚΙ ΚΑΙ ΤΕΚΝΟΙΣ ΕΑΝ ΔΕ ΤΙΣ ΑΔΙΚΗΣΗΙ ΑΓΟΡΑΣΙ<unclear><supplied>Ι</supplied></unclear> ΤΟ ΜΝΗΜΑ Η ΛΗΤΩ ΑΥΤΟΝ ΕΠΙΤΝ</ab>
+     <ab n="4">meneqastto : Eni : qlrhi : ebiyehi : se wedri : <w>weh<unclear>N</unclear></w> <gap/> tezi</ab>
     </body>
   </text>
 </TEI>

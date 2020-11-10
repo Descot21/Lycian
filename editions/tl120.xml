@@ -1,1 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TL 120</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="1">ebENnE : xopA : me=ti : prNnawatE : <persName><w>pomaza</w></persName> <persName><w>erteliyeseh</w></persName> : tideimi</ab>
+     <ab n="2">hrppi ladi : ehbi : <persName><w>owiNte</w></persName> : <w>kom<unclear>e</unclear>tiyeh</w> : zzimazi : se : tideime : ehbiye</ab>
+    </body>
+  </text>
+</TEI>

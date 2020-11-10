@@ -1,1 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TL 56 (Greek text)</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="5">ΙΚΤΑΣ ΛΑ ΑΝΤΙΦΕΛΛΙΤΗΣ ΤΟΥΤΙ ΤΟ ΜΝΗΜΑ ΗΡΓΑΣΑΤΟ ΑΥΤΩ </ab>
+     <ab n="6"><w><unclear>ΤΕ</unclear></w> ΚΑΙ ΓΥΝΑΙΚΙ ΚΑΙ ΤΕΚΝΟΙΣ ΕΑΝ ΔΕ ΤΙΣ ΑΔΙΚΗΣΗΙ <w>ΑΓΟΡΑΣΗ<unclear>Ι</unclear></w> ΤΟ ΜΝΗΜΑ Η ΛΗΤΩ ΑΥΤΟΝ ΕΠΙΤΝ</ab>
+    </body>
+  </text>
+</TEI>
