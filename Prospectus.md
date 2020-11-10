@@ -1,15 +1,7 @@
-Introduction - "what's the focus"
-  buiding on top of the tutorial
-  summarize highlights from this fall tutorial (decipherment of script / identifying morphological features / recogmizing standard formulaic langauge in funerary texts /       started the process of XML editing that are tied to canoncially cited images) 
-  
-  
-Define concrete things - expanding the edited corpus / building out a model of the morphological analyses / building out a digital lexicon--> coordinating all three of these with canonical citation. 
-Developing digital data sets which give us contexual information about each epigraphic source
-
-"perseus project for Lycian" 
-
-revisit questions about Lycian religion --> can we use digital corpus and archaeological evidence to craft a picture of Lycian religious/burial practice (e.g. tombs in middle of sanctuary)....different perspective on Lycian religion!!
-
-Bibliographic listing --> put in Bib file in git (Bryce and Keen) surveying the research since these two monographs. Offer an up-to-date annotated Bibliography 
-
-
+My tutorial in the Lycian language with Professor Smith will build off of the rapidly-growing work done during the Fall semester and culminate in a systematic digital edition of Lycian epigraphic sources--a “Lycian Perseus Project,” if you will. The work done in this semester has laid the groundwork for further in-depth research into this rich--but often understudied--Anatolian Language. 
+ 
+The Fall tutorial has been structured around primary-source based work. Using bilingual Greek-Lycian texts, I have systematically “deciphered” the Lycian alphabet. This was done to experimentally confirm the findings of previous Lycian scholars and increase my familiarity with the sources. I have also begun identifying key morphological and syntactical features by analyzing standard funerary formulaic language. Most recently, I have started the process of digitally editing these primary sources using XML and tying these editions to canonically cited digital images. 
+ 
+This coming tutorial will build upon the work I started in this tutorial. I will continue to expand the edited corpus of Lycian inscriptions. I will also continue to  build out a model of morphological analyses and a digital lexicon. All of these will be coordinated with canonical citation. Moreover, I plan to expand the corpus to include contextual information about each epigraphic source including it’s geographic, chronological, and political provenance.  Throughout this process, I will compile an annotated bibliography of Lycian scholarship, which will be a useful resource for other scholars and students interested in Lycia.
+ 
+When I have compiled enough information in this digital edition, I hope to use the findings to revisit important questions about Lycian religion. The last scholar to tackle this area of Lycian culture was Trever Bryce in 1986. Since then, valuable archeological and linguistic evidence has surfaced. I plan to use the Lycian corpus and archaeological evidence to craft an updated picture of Lycian religious life as seen through it’s votive and funerary practices. 
