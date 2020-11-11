@@ -1,1 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TL 53</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="1">ebENnE : prNnawo : <w>mE<unclear>n</unclear></w></ab>
+     <ab n="2">e=prNnawatE : hanadaza : <w n="2">hrp</w></ab>
+     <ab n="3"><w n="2">pi=ladi</w> : ehbi : se=tideimi</ab>
+    </body>
+  </text>
+</TEI>
