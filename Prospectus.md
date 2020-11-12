@@ -1,6 +1,6 @@
 **Dane Scott: tutorial prospectus**
 
-I am proposing a tutorial in the Lycian language with Professor Smith to build off of the rapidly-growing work I completed during the Fall semester, and to culminate in a systematic digital edition of Lycian epigraphic sources--a “Lycian Perseus Project,” if you will. The work done in this semester has laid the groundwork for further in-depth research into this rich--but often understudied--Anatolian Language.
+I am proposing a tutorial in the Lycian language with Professor Smith to build off of the rapidly-growing work I completed during the Fall semester, and to culminate in a systematic digital edition of Lycian epigraphic sources--a “Lycian Perseus Project,” if you will. The work done in this semester has laid the groundwork for further in-depth research into this rich--but often understudied--Anatolian language.
 
 The Fall tutorial has been structured around primary-source based work. Using bilingual Greek-Lycian texts, I have systematically “deciphered” the Lycian alphabet. This was done to experimentally confirm the findings of previous Lycian scholars and increase my familiarity with the sources. I have also begun identifying key morphological and syntactical features by analyzing standard funerary formulaic language. Most recently, I have started the process of digitally editing these primary sources using XML and tying these editions to canonically cited digital images.
 
