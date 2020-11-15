@@ -1,1 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TL 4</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="1"><w>eb<unclear>A</unclear>Nn</w> prNnawA : <w>me=<supplied>t</supplied>i</w></ab>
+     <ab n="2">prNnawatE : <w>telex<unclear>o</unclear>zi</w> : <w>hrp<supplied>p</supplied>i</w></ab>
+     <ab n="3"><w>l<gap/>di</w> : <w>ehb<supplied>i</supplied></w> : se tideimi sedi</ab>
+     <ab n="4">Nt.....</ab>
+     <ab n="5"></ab>
+    </body>
+  </text>
+</TEI>
