@@ -1,1 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TL 13</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="1">ebENnE : <w><unclear>x</unclear>opA : mene</w></ab>
+     <ab n="2">prNnaretE : <persName><w>pddAxNta</w></persName></ab>
+     <ab n="3"><persName><w>xzzobezeh</w></persName> : tideimi</ab>
+     <ab n="4">hrppi <w>l<unclear>a</unclear>di</w> : <w>eh<supplied>b</supplied>i</w> se <w n="4">tide</w></ab>
+     <ab n="5"><w n="4">imen</w> ehbiye</ab>
+    </body>
+  </text>
+</TEI>
