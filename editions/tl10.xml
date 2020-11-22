@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>TL 4</title>
+        <title>TL 10</title>
         <editor>Dane Scott</editor>
       </titleStmt>
       <publicationStmt>
@@ -17,11 +17,7 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"><w>eb<unclear>A</unclear>Nn</w> prNnawA : <w>me=<supplied>t</supplied>i</w></ab>
-     <ab n="2">prNnawatE{19} : <persName><w>telex<unclear>o</unclear>zi</w></persName> : <w>hrp<supplied>p</supplied>i</w></ab>
-     <ab n="3"><w>l<supplied>a</supplied>di</w> : <w>ehb<supplied>i</supplied></w> : se tideimi sedi</ab>
-     <ab n="4">Nta <w><supplied>t</supplied>adE</w> tesi : miNti : <w n="4">alad</w></ab>
-     <ab n="5"><w n="4">ehali</w> : adE <num>IIII</num> </ab>
+     <ab n="1"><persName><w>pttlezEi</w></persName> : <persName><w>sb<supplied>i</supplied>kazah</w></persName> : <w><unclear>t</unclear>ideimi</w></ab>
     </body>
   </text>
 </TEI>
