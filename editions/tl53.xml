@@ -17,8 +17,8 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1">ebENnE : prNnawo : <w>mE<unclear>n</unclear></w></ab>
-     <ab n="2">e=prNnawatE : <persName><w>hanadaza</w></persName> : <w n="2">hrp</w></ab>
+     <ab n="1">ebENnE : prNnawo : <w n="1">mE=<unclear>n</unclear></w></ab>
+     <ab n="2"><w n="1">e</w> prNnawatE : <persName><w>hanadaza</w></persName> : <w n="2">hrp</w></ab>
      <ab n="3"><w n="2">pi=ladi</w> : ehbi : se=tideimi</ab>
     </body>
   </text>
