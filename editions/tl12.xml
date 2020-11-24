@@ -1,1 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TL 12</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="1"><w>ebE<supplied>N</supplied>nE</w> : xopA : me=ne prNnewAtE</ab>
+     <ab n="2"><persName><w>slMm<supplied>e</supplied>we</w></persName> : <persName><w>pNnoteh</w></persName> : tideimi : se <persName><w>howe<gap quantity="1" unit="chars"/>tEne</w></persName></ab>
+    </body>
+  </text>
+</TEI>
