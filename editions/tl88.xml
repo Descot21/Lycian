@@ -1,1 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TL 88</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="1">ebENnE prNnawA me=ne <w><unclear>p</unclear>rNnawatE</w> <persName><w>ddaqasa</w></persName> <persName><w>sttoleh</w></persName> :</ab>
+     <ab n="2">tideimi hrpi ladi ehbi se tideime se Eke lati <persName><w>ddaqasa</w></persName></ab>
+     <ab n="3">me=ne Ntepi tAti Ntipa <w>te<choice><sic>N</sic><corr>z</corr></choice>i</w> se ladA ehbi kbi tike mei nipe Ntepi tAto</ab>
+     <ab n="4">tibei nipe hlMmi toweto hlMmi mei toweti tike tibei</ab>
+     <ab n="5">Ntepi tadi tik<unclear>e</unclear> me=ne itlehi tobeiti trMmili : howedri</ab>
+     <ab n="6">se <persName><w>trqqas</w></persName> se mAhAi howedri</ab>
+    </body>
+  </text>
+</TEI>
