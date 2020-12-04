@@ -1,1 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TL 89</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="1">xopA : ebENnE : mE nadE : <persName><w>hri<supplied>xMm</supplied>a</w></persName> nEne : ehbiye : mei <w n="1">Nt</w></ab>
+     <ab n="2"><w n="1">epi</w> tasNti : Enehi : <persName>hrixM<choice><sic>n</sic><corr>m</corr></choice>a</persName> <gap quantity="3" unit="chars"/> esedENnewE : adimeyE</ab>
+     <ab n="3"><w>tik : e</w>  : xttbA : tisNke : mE=ne : <w>i<supplied>t</supplied>lehi</w> : qAti : trMmili :</ab>
+     <ab n="4">seipM : pablAti tiyAi</ab>
+    </body>
+  </text>
+</TEI>
