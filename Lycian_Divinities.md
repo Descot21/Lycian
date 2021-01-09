@@ -7,5 +7,7 @@
 | qeli | | god of grain | N322|
 | trzzubi | origin of Greek name Τρωσοβιός | deity who protects tombs? | TL 111.1,4 |
 | eliyAna | | equated with Greek (water) nymphs | N320.40 |
-| 12 gods | ?| ?| ?
+| 12 gods | | | 
 | erBBazuma- | | "the rider god" | N320.28-29, N320.8, N320.18, N320.24-25
+| ertEmi- | | Lycian translation of Artemis | N311.1, N312.5
+| padrita- | | Lycian translation of Aphrodite | TL 44b.53, N307a
