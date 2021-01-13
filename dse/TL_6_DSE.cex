@@ -1,8 +1,8 @@
-text#image#surface
-urn:cts:trmilli:tl.6.v1:1#urn:cite2:lycian:hc.v1:2007.02.0001@0.009211,0.03436,0.9904,0.1289#urn:cite2:trmilli:inscriptions.v1:TL6
-urn:cts:trmilli:tl.6.v1:2#urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.1254,0.9904,0.1289#urn:cite2:trmilli:inscriptions.v1:TL6
-urn:cts:trmilli:tl.6.v1:3#urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.2251,0.9904,0.1289#urn:cite2:trmilli:inscriptions.v1:TL6
-urn:cts:trmilli:tl.6.v1:4#urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.3230,0.9904,0.1289#urn:cite2:trmilli:inscriptions.v1:TL6
-urn:cts:trmilli:tl.6.v1:5#urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.4089,0.9904,0.1289#urn:cite2:trmilli:inscriptions.v1:TL6
-urn:cts:trmilli:tl.6.v1:6#urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.4966,0.9904,0.1289#urn:cite2:trmilli:inscriptions.v1:TL6
-urn:cts:trmilli:tl.6.v1:7#urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.6804,0.9904,0.1649#urn:cite2:trmilli:inscriptions.v1:TL6
+text|image|surface
+urn:cts:trmilli:tl.6.v1:1|urn:cite2:lycian:hc.v1:2007.02.0001@0.009211,0.03436,0.9904,0.1289|urn:cite2:trmilli:inscriptions.v1:TL6
+urn:cts:trmilli:tl.6.v1:2|urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.1254,0.9904,0.1289|urn:cite2:trmilli:inscriptions.v1:TL6
+urn:cts:trmilli:tl.6.v1:3|urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.2251,0.9904,0.1289|urn:cite2:trmilli:inscriptions.v1:TL6
+urn:cts:trmilli:tl.6.v1:4|urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.3230,0.9904,0.1289|urn:cite2:trmilli:inscriptions.v1:TL6
+urn:cts:trmilli:tl.6.v1:5|urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.4089,0.9904,0.1289|urn:cite2:trmilli:inscriptions.v1:TL6
+urn:cts:trmilli:tl.6.v1:6|urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.4966,0.9904,0.1289|urn:cite2:trmilli:inscriptions.v1:TL6
+urn:cts:trmilli:tl.6.v1:7|urn:cite2:lycian:hc.v1:2007.02.0001@0.009649,0.6804,0.9904,0.1649|urn:cite2:trmilli:inscriptions.v1:TL6
