@@ -1,2 +1,2 @@
-urn|file|converter
-urn:cts:trmilli:tl.25.v1:|tl25.xml|simpleAbReader
+urn|file|converter|diplomatic|normalized|orthography
+urn:cts:trmilli:tl.25.v1:|tl25.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|SimpleAscii()
