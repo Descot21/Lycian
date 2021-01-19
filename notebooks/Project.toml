@@ -1,5 +1,5 @@
 name = "MID validator notebook"
-version = "0.4.0"
+version = "0.4.1"
 
 [deps]
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
@@ -19,6 +19,6 @@ PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
 CitableObject = "0.2"
 CitableTeiReaders = "0.2"
 CitableText = "0.4"
-EditionBuilders = "0.1.0"
-EditorsRepo = "0.6.0"
-Orthography = "0.3.0"
+EditionBuilders = "0.1"
+EditorsRepo = "0.6"
+Orthography = "0.3"

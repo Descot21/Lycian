@@ -270,7 +270,7 @@ css = html"""
    font-style: normal;
 	  }
 .warn {
-     background-color: 	#ffdd00;
+     background-color: 	#ffeeab;
      border-left: solid 4px  black;
      line-height: 18px;
      overflow: hidden;
