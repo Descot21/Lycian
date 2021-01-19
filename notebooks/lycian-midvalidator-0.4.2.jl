@@ -529,15 +529,21 @@ end
 # Compose string of HTML for a tokenized row including
 # tagging of invalid tokens
 function tokenizeRow(row)
-	ortho = orthographyforurn(textconfig, row.passage)
+
 	citation = "<b>" * passagecomponent(row.passage)  * "</b> "
-	txt = diplnode(row.passage)
-	tokenstart::Array{OrthographicToken} = []
-	tokens = tokenize(ortho, txt,tokenstart)
-	highlighted = map(t -> formatToken(ortho, t.text), tokens)
-	html = join(highlighted, " ")
-	"<p>$(citation) $(html)</p>"
 	
+	ortho = orthographyforurn(textconfig, row.passage)
+	if ortho === nothing
+		"<p class='warn'>⚠️  $(citation). No text configured</p>"
+	else
+
+		txt = diplnode(row.passage)
+		tokenstart::Array{OrthographicToken} = []
+		tokens = tokenize(ortho, txt,tokenstart)
+		highlighted = map(t -> formatToken(ortho, t.text), tokens)
+		html = join(highlighted, " ")
+		"<p>$(citation) $(html)</p>"
+	end	
 end
 
 # ╔═╡ aa385f1a-5827-11eb-2319-6f84d3201a7e
@@ -607,7 +613,7 @@ end
 # ╟─bf77d456-573d-11eb-05b6-e51fd2be98fe
 # ╟─2d218414-573e-11eb-33dc-af1f2df86cf7
 # ╟─bec00462-596a-11eb-1694-076c78f2ba95
-# ╟─4133cbbc-5971-11eb-0bcd-658721f886f1
+# ╠═4133cbbc-5971-11eb-0bcd-658721f886f1
 # ╟─9ac99da0-573c-11eb-080a-aba995c3fbbf
 # ╟─b899d304-574b-11eb-1d50-5b7813ea201e
 # ╟─356f7236-573c-11eb-18b5-2f5a6bfc545d
