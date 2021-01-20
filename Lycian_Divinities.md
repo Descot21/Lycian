@@ -9,6 +9,8 @@ According to Bryce 1986
 | trzzubi | origin of Greek name Τρωσοβιός |identified as the patron of a priest on sepulchral inscription; deity who protects tombs? | | TL 111.1,4 |
 | eliyAna | | equated with Greek nymphs; thought to be water nymphs due to connection with Luwian work ali(ya)- "liquid" | | N320.40 |
 | 12 gods | | | 
-| erBBazuma- | | "the rider god" | | N320.28-29, N320.8, N320.18, N320.24-25
+| kakasbos| "the rider god" | | appears in Greek inscripitons, no clear indentification in Lycian inscriptions (possible variant xaxakba in N314b)|
+| erBBazuma- | | | | N320.28-29, N320.8, N320.18, N320.24-25
+| xNtawata xbidENi | =βασιλεὺς Καύνιος | | 
 | ertEmi- | | Lycian translation of Artemis | | N311.1, N312.5
 | padrita- | | Lycian translation of Aphrodite | | TL 44b.53, N307a
