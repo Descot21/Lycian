@@ -25,7 +25,6 @@ begin
 	using CitableTeiReaders
 	using CSV
 	using DataFrames
-	using DataFramesMeta
 	using EditionBuilders
 	using EditorsRepo
 	using HTTP
@@ -538,8 +537,8 @@ surfacemenu = begin
 end
 
 # ╔═╡ e08d5418-573b-11eb-2375-35a717b36a30
-md"""
-*Choose a surface to verify*: 
+md"""###  Choose a surface to verify
+
 $(@bind surface Select(surfacemenu))
 """
 
