@@ -7,7 +7,7 @@ According to Bryce 1986
 | tesMmi- | |varient: tesEti "oath (gods)"; related to Hittite tesi/tasa ("oaths")| disciplinary agent(s)| TL 135.2, 149.10
 | qeli | | god of grain(?) | identified as the patron of a priest on sepulchral inscription; related to Hittite grain goddessHalki(?) |  N322|
 | trzzubi | origin of Greek name Τρωσοβιός |identified as the patron of a priest on sepulchral inscription; deity who protects tombs? | | TL 111.1,4 |
-| eliyAna- | | equated with Greek nymphs; thought to be water nymphs due to connection with Luwian work ali(ya)- "liquid" | | N320.40 |
+| eliyAna- | | equated with Greek nymphs; thought to be water nymphs due to connection with Luwian word ali(ya)- "liquid" | | N320.40 |
 | 12 gods | | | 
 | erBBazuma- | | | deity of Carian origin; not much known | N320.28-29, N320.8, N320.18, N320.24-25
 | xNtawata xbidENi | =βασιλεὺς Καύνιος | Possibly of Carian origin (city of Kaunos); shares a temenos with maliya and ertEmi | TL 44c.8-9, N320.7-8, 17-18, 23-24
