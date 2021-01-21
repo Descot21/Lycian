@@ -17,20 +17,6 @@ end
 begin
 	import Pkg
 	Pkg.activate(".")
-	
-	#=
-	Pkg.add("PlutoUI")
-	Pkg.add("CitableText")
-	Pkg.add("CitableObject")
-	Pkg.add("CitableImage")
-	Pkg.add("CitableTeiReaders")
-	Pkg.add("CSV")
-	Pkg.add("HTTP")
-	Pkg.add("DataFrames")
-	Pkg.add("EditorsRepo")
-	Pkg.add("Orthography")
-	Pkg.add("EditionBuilders")
-	=#
 
 	using PlutoUI
 	using CitableText
@@ -39,11 +25,12 @@ begin
 	using CitableTeiReaders
 	using CSV
 	using DataFrames
+	using DataFramesMeta
 	using EditionBuilders
 	using EditorsRepo
 	using HTTP
 	using Markdown
-	using Orthography	
+	using Orthography
 
 end
 
@@ -63,8 +50,34 @@ md"""
 
 """
 
+# ╔═╡ 66454380-5bf7-11eb-2634-85d4b4b10243
+md"""
+
+### Verify *completeness* of indexing
+
+
+*Check completeness of indexing by following linked thumb to overlay view in the Image Citation Tool*
+"""
+
+# ╔═╡ b5951d46-5c1c-11eb-2af9-116000308410
+md"*Height of thumbnail image*: $(@bind thumbht Slider(150:500, show_value=true))"
+
+
+# ╔═╡ 77acba86-5bf7-11eb-21ac-bb1d76532e04
+md"""
+### Verify *accuracy* of indexing
+
+*Check that diplomatic text and indexed image correspond.*
+
+
+"""
+
 # ╔═╡ f1f5643c-573d-11eb-1fd1-99c111eb523f
-md"Maximum width of image: $(@bind w Slider(200:1200, show_value=true))"
+md"""
+*Maximum width of image*: $(@bind w Slider(200:1200, show_value=true))
+
+---
+"""
 
 
 # ╔═╡ 13e8b16c-574c-11eb-13a6-61c5f05dfca2
@@ -175,7 +188,17 @@ md"This is the `EditingRepository` built from these settings:"
 editorsrepo = EditingRepository(reporoot, editions, dsedir, configdir)
 
 # ╔═╡ 547c4ffa-574b-11eb-3b6e-69fa417421fc
-uniquesurfaces = EditorsRepo.surfaces(editorsrepo)
+uniquesurfaces = begin
+	loadem
+	try
+		EditorsRepo.surfaces(editorsrepo)
+	catch e
+		msg = """<div class='danger'><h2>🧨🧨 Configuration error 🧨🧨</h2>
+		<p><b>$(e)</b></p></div>
+		"""
+		HTML(msg)
+	end
+end
 
 # ╔═╡ 2a84a042-5739-11eb-13f1-1d881f215521
 diplomaticpassages = begin
@@ -583,6 +606,36 @@ begin
 	end
 end
 
+# ╔═╡ b0a23a54-5bf8-11eb-07dc-eba00196b4f7
+# Compose markdown for thumbnail images linked to ICT with overlay of all
+# DSE regions.
+function completenessView()
+	# Group images witt ROI into a dictionary keyed by image
+	# WITHOUT RoI.
+	grouped = Dict()
+	for row in eachrow(surfaceDse)
+		trimmed = CitableObject.dropsubref(row.image)
+		if haskey(grouped, trimmed)
+			push!(grouped[trimmed], row.image)
+		else
+			grouped[trimmed] = [row.image]
+		end
+	end
+	
+	mdstrings = []
+	for k in keys(grouped)
+		thumb = markdownImage(k, iiifsvc, thumbht)
+		
+		params = map(img -> "urn=" * img.urn * "&", grouped[k]) 
+		lnk = ict * join(params,"") 
+		push!(mdstrings, "[$(thumb)]($(lnk))")
+	end
+	Markdown.parse(join(mdstrings, " "))	
+end
+
+# ╔═╡ b913d18e-5c1b-11eb-37d1-6b5f387ae248
+completenessView()
+
 # ╔═╡ aac2d102-5829-11eb-2e89-ad4510c25f28
 md"""
 
@@ -651,6 +704,10 @@ end
 # ╟─558e587a-573c-11eb-3364-632f0b0703da
 # ╟─e08d5418-573b-11eb-2375-35a717b36a30
 # ╟─c9a3bd8c-573d-11eb-2034-6f608e8bf414
+# ╟─66454380-5bf7-11eb-2634-85d4b4b10243
+# ╟─b5951d46-5c1c-11eb-2af9-116000308410
+# ╟─b913d18e-5c1b-11eb-37d1-6b5f387ae248
+# ╟─77acba86-5bf7-11eb-21ac-bb1d76532e04
 # ╟─f1f5643c-573d-11eb-1fd1-99c111eb523f
 # ╟─00a9347c-573e-11eb-1b25-bb15d56c1b0d
 # ╟─13e8b16c-574c-11eb-13a6-61c5f05dfca2
@@ -688,6 +745,7 @@ end
 # ╟─17d926a4-574b-11eb-1180-9376c363f71c
 # ╟─0da08ada-574b-11eb-3d9a-11226200f537
 # ╟─bf77d456-573d-11eb-05b6-e51fd2be98fe
+# ╟─b0a23a54-5bf8-11eb-07dc-eba00196b4f7
 # ╟─2d218414-573e-11eb-33dc-af1f2df86cf7
 # ╟─bec00462-596a-11eb-1694-076c78f2ba95
 # ╟─4133cbbc-5971-11eb-0bcd-658721f886f1
