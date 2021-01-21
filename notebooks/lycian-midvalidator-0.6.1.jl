@@ -37,7 +37,7 @@ end
 @bind loadem Button("Load/reload data")
 
 # ╔═╡ 6b4decf8-573b-11eb-3ef3-0196c9bb5b4b
-md"**CTS URNs of all cataloged texts**"
+md"**CTS URNs of all texts cataloged as online**"
 
 # ╔═╡ 4010cf78-573c-11eb-03cf-b7dd1ae23b60
 md"**CITE2 URNS of all indexed surfaces**"
@@ -174,7 +174,8 @@ Subdirectories in the repository:
 # ╔═╡ 2fdc8988-5736-11eb-262d-9b8d44c2e2cc
 catalogedtexts = begin
 	loadem
-	fromfile(CatalogedText, reporoot * "/" * configdir * "/catalog.cex")
+	allcataloged = fromfile(CatalogedText, reporoot * "/" * configdir * "/catalog.cex")
+	filter(row -> row.online, allcataloged)
 end
 
 # ╔═╡ 0bd05af4-573b-11eb-1b90-31d469940e5b
@@ -723,7 +724,7 @@ end
 # ╟─100a1942-573c-11eb-211e-371998789bfa
 # ╟─175f2e58-573c-11eb-3a36-f3142c341d93
 # ╟─43f724c6-573b-11eb-28d6-f9ec8adebb8a
-# ╟─2fdc8988-5736-11eb-262d-9b8d44c2e2cc
+# ╠═2fdc8988-5736-11eb-262d-9b8d44c2e2cc
 # ╟─4fa5738a-5737-11eb-0e78-0155bfc12112
 # ╟─0cabc908-5737-11eb-2ef9-d51aedfbbe5f
 # ╟─a7142d7e-5736-11eb-037b-5540068734e6
@@ -755,7 +756,7 @@ end
 # ╟─cb954628-574b-11eb-29e3-a7f277852b45
 # ╟─901ae238-573c-11eb-15e2-3f7611dacab7
 # ╟─d9495f98-574b-11eb-2ee9-a38e09af22e6
-# ╟─e57c9326-573b-11eb-100c-ed7f37414d79
+# ╠═e57c9326-573b-11eb-100c-ed7f37414d79
 # ╟─aac2d102-5829-11eb-2e89-ad4510c25f28
 # ╟─bdeb6d18-5827-11eb-3f90-8dd9e41a8c0e
 # ╟─6dd532e6-5827-11eb-1dea-696e884652ac
