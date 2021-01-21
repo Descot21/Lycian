@@ -1,2 +1,8 @@
 urn|file|converter|diplomatic|normalized|orthography
+urn:cts:trmilli:tl.3.v1:|tl3.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|SimpleAscii()
+urn:cts:trmilli:tl.4.v1:|tl4.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|SimpleAscii()
+urn:cts:trmilli:tl.6.v1:|tl6.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|SimpleAscii()
+urn:cts:trmilli:tl.10.v1:|tl10.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|SimpleAscii()
+urn:cts:trmilli:tl.12.v1:|tl12.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|SimpleAscii()
+urn:cts:trmilli:tl.13.v1:|tl13.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|SimpleAscii()
 urn:cts:trmilli:tl.25.v1:|tl25.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|SimpleAscii()
