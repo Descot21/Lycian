@@ -7,10 +7,13 @@ According to Bryce 1986
 | tesMmi- | |varient: tesEti "oath (gods)"; related to Hittite tesi/tasa ("oaths")| disciplinary agent(s)| TL 135.2, 149.10
 | qeli | | god of grain(?) | identified as the patron of a priest on sepulchral inscription; related to Hittite grain goddessHalki(?) |  N322|
 | trzzubi | origin of Greek name Τρωσοβιός |identified as the patron of a priest on sepulchral inscription; deity who protects tombs? | | TL 111.1,4 |
-| eliyAna | | equated with Greek nymphs; thought to be water nymphs due to connection with Luwian work ali(ya)- "liquid" | | N320.40 |
+| eliyAna- | | equated with Greek nymphs; thought to be water nymphs due to connection with Luwian work ali(ya)- "liquid" | | N320.40 |
 | 12 gods | | | 
-| kakasbos| "the rider god" | | appears in Greek inscripitons, no clear indentification in Lycian inscriptions (possible variant xaxakba in N314b)|
-| erBBazuma- | | | | N320.28-29, N320.8, N320.18, N320.24-25
-| xNtawata xbidENi | =βασιλεὺς Καύνιος | | 
-| ertEmi- | | Lycian translation of Artemis | | N311.1, N312.5
+| erBBazuma- | | | deity of Carian origin; not much known | N320.28-29, N320.8, N320.18, N320.24-25
+| xNtawata xbidENi | =βασιλεὺς Καύνιος | Possibly of Carian origin (city of Kaunos); shares a temenos with maliya and ertEmi | TL 44c.8-9, N320.7-8, 17-18, 23-24
+| 12 gods | | |
+| natri- | |Only appears in theophoric name natrbbiyEmi/Apollodotos. "piye" - "give" = dotos. Natri = Apollo(?) | | TL 44c.33, 48
+| ertEmi- | | Lycian translation of Artemis |shared a temenos with maliya and xNtawata xbidENi (temple C on Xanthos acropolis)| N311.1, N312.5
 | padrita- | | Lycian translation of Aphrodite | | TL 44b.53, N307a
+| leθθe/i- | possible translation of Greek "Leto"(?) | In Greek and Roman sources, Leto is associated with Lycia. However, the Lycian inscriptions don't definitively reflect her presence. She might be conflated with Eni, but also might exist as a distinct goddess as leθθi. All conjecture. | TL 44b.61
+| kakasbos| "the rider god" | | appears in Greek inscripitons, no clear indentification in Lycian inscriptions (possible variant xaxakba in N314b)|
