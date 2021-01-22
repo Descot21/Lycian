@@ -18,7 +18,6 @@ sequence#urn#lemma#xlit#article
 #urn:cite2:trmilli:lexicon.v1:?#𐊗𐊆𐊖𐊁#tise#*pronoun*, "any(one/thing), (interrogotive = who/whatever)".
 #urn:cite2:trmilli:lexicon.v1:?#𐊌𐊙(𐊏)-#qA(n)-#*Verb*, "destroy".
 #urn:cite2:trmilli:lexicon.v1:?#𐊗𐊕𐊐𐊎𐊆𐊍𐊁/𐊆-#trMmile/i-#*adjective and Noun*, "Lycian".
-#urn:cite2:trmilli:lexicon.v1:?#-𐊆#-i#*preposition (enclitic)*, "for/to him, her".
 #urn:cite2:trmilli:lexicon.v1:?#𐊓𐊀𐊂𐊍𐊀-#pabla-#*Verb*, "chase (intrans.)".
 #urn:cite2:trmilli:lexicon.v1:?#𐊗𐊆𐊊𐊀-#tiya-#*Noun*, "penalty, amends".
 #urn:cite2:trmilli:lexicon.v1:?#𐊓𐊅𐊅𐊚𐊏-#pddEn-#*Noun*, "place, precinct".
@@ -142,3 +141,49 @@ sequence#urn#lemma#xlit#article
 108#urn:cite2:trmilli:lexicon.v1:m108##hrihe-#*Noun*, "supreme power" (or similar).
 109#urn:cite2:trmilli:lexicon.v1:m109##hrMma-#*Noun*, "land section; temenos".
 110#urn:cite2:trmilli:lexicon.v1:m110#𐊛𐊕𐊓𐊓𐊆#hrppi#*preverb*,*preposition*, "on; for".
+111#urn:cite2:trmilli:lexicon.v1:m111##hrzze/i-#*adjective*, "upper".
+112#urn:cite2:trmilli:lexicon.v1:m112##httEme/i-#*adjective*, "angry".
+113#urn:cite2:trmilli:lexicon.v1:m113##httEmi-#*Noun*, "anger, wrath".
+114#urn:cite2:trmilli:lexicon.v1:m114##homeli(ye)-#*adjective*, "legitimate" (?).
+115#urn:cite2:trmilli:lexicon.v1:m115##howedr(i)-#*adjective*, "all".
+116#urn:cite2:trmilli:lexicon.v1:m116#-𐊆#-i#*preposition (enclitic)*, "for/to him, her".
+117#urn:cite2:trmilli:lexicon.v1:m117#-𐊆#-i#*adverb*, "therein, thereon" (allomorph of -iye).
+118#urn:cite2:trmilli:lexicon.v1:m118##idAb#*Noun*, "Idebessos" (?).
+119#urn:cite2:trmilli:lexicon.v1:m119##iyaeosas-#*Noun*, "Iasos".
+120#urn:cite2:trmilli:lexicon.v1:m120##iyAna-#*Noun*, "Ionian".
+121#urn:cite2:trmilli:lexicon.v1:m121##iyAnihe-#*adjective*, "Ionian".
+122#urn:cite2:trmilli:lexicon.v1:m122##iyAnis-#*Noun*, "Ionia".
+123#urn:cite2:trmilli:lexicon.v1:m123##iye-#*Verb*, "buy".
+124#urn:cite2:trmilli:lexicon.v1:m124##-iye#*adverb*, "therein, thereon; on him/her".
+125#urn:cite2:trmilli:lexicon.v1:m125##ikeze/i-#*Noun*, "of Ikos".
+126#urn:cite2:trmilli:lexicon.v1:m126##iprehe/i-#*Noun*, "(animal) of the open country".
+127#urn:cite2:trmilli:lexicon.v1:m127##isbaziye-#*Noun*, "bench, couch".
+128#urn:cite2:trmilli:lexicon.v1:m128##isNta-#*Noun*, "Isinda".
+129#urn:cite2:trmilli:lexicon.v1:m129##itaze/i-#*Noun*, "treasury/treasurer" (or similar).
+130#urn:cite2:trmilli:lexicon.v1:m130##ite-#*Noun*, "pact, foedus" (possibly also "league, alliance")
+131#urn:cite2:trmilli:lexicon.v1:m131##ite-#*Verb*, "entrust" (or similar).
+132#urn:cite2:trmilli:lexicon.v1:m132##itehe/i-#*adjective*, "of a pact, federal".
+133#urn:cite2:trmilli:lexicon.v1:m133##itlehe/i-#*adjective*, "foederatus, belonging to a league".
+134#urn:cite2:trmilli:lexicon.v1:m134##izre/i-#*Noun*, "hand".
+135#urn:cite2:trmilli:lexicon.v1:m135##kbatra-#*Noun*, "daughter".
+136#urn:cite2:trmilli:lexicon.v1:m136##kbiho#*adjective*, "twice".
+137#urn:cite2:trmilli:lexicon.v1:m137##kbi(ye)-#*adjective*, "(an)other"; kbi...kbi = "the one...the other".
+138#urn:cite2:trmilli:lexicon.v1:m138##kbiyEt(i)-#*adjective*, "double, paired".
+139#urn:cite2:trmilli:lexicon.v1:m139##kbiyEteze/i-#*adjective*, "of Tyinda".
+140#urn:cite2:trmilli:lexicon.v1:m140##kbisNne/i-#*Noun*, "two-year-old".
+141#urn:cite2:trmilli:lexicon.v1:m141##kbisNtAta-#*Number*, "twenty".
+142#urn:cite2:trmilli:lexicon.v1:m142##-ke#*eclitic adverb*, "and, also".
+143#urn:cite2:trmilli:lexicon.v1:m143##kebe/i-#*adjective*, "small".
+144#urn:cite2:trmilli:lexicon.v1:m144##kerθθi-#*Noun*, (place name).
+145#urn:cite2:trmilli:lexicon.v1:m145##kerθθis-#*adjective*, "of Kerθθi".
+146#urn:cite2:trmilli:lexicon.v1:m146##kete-#*Noun*, (title?).
+147#urn:cite2:trmilli:lexicon.v1:m147##kiyeze/i-#*adjective*, "Chian, of Chios".
+148#urn:cite2:trmilli:lexicon.v1:m148##kMme/i-#*adjective*, "whole; all".
+149#urn:cite2:trmilli:lexicon.v1:m149##kMmEt(i)-#*adverb*, "how(ever) many".
+150#urn:cite2:trmilli:lexicon.v1:m150##krzzAnase-#*Noun*, "peninsula".
+151#urn:cite2:trmilli:lexicon.v1:m151##komalihe-#*adjective*, "sacrificial/sacred__".
+152#urn:cite2:trmilli:lexicon.v1:m152##komaza-#*Noun*, "priest".
+153#urn:cite2:trmilli:lexicon.v1:m153##komaza-#*Verb*, "perform a sacrifice".
+154#urn:cite2:trmilli:lexicon.v1:m154##komehe/i-#*adjective*, "sacred, sacral"; "sacrifice, sacrificial sheep".
+155#urn:cite2:trmilli:lexicon.v1:m155##komez(e)i-#*Verb*, "to sacrifice, worship".
+156#urn:cite2:trmilli:lexicon.v1:m156##komezi(ye)-#*Noun*, "sacred"; "sacred precinct".
