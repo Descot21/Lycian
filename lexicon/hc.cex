@@ -6,18 +6,14 @@ sequence#urn#lemma#xlit#article
 417#urn:cite2:trmilli:lexicon.v1:m417#𐊗𐊆𐊅𐊁𐊆𐊎𐊆-#tideimi-#*Noun*, "child, son".
 557#urn:cite2:trmilli:lexicon.v1:m557#𐊜𐊒𐊓𐊀#xopa#*Noun*, "tomb".
 328#urn:cite2:trmilli:lexicon.v1:m328#𐊓𐊕𐊑𐊏𐊀𐊇𐊀-#prNnawa-#*Noun*, "mausoleum, (grave-)house".
-#urn:cite2:trmilli:lexicon.v1:?#𐊛𐊕𐊓𐊓𐊆#hrppi#*preverb*,*preposition*, "on; for".
 #urn:cite2:trmilli:lexicon.v1:?#𐊍𐊀𐊅𐊀#lada#*Noun*, "wife".
-#urn:cite2:trmilli:lexicon.v1:?#𐊁𐊛𐊂𐊆#ehb(ye)-#*pronoun*, "his".
 #urn:cite2:trmilli:lexicon.v1:?#𐊑𐊗𐊁#Nte#*adverb*, *preverb*, "in(side)".
 #urn:cite2:trmilli:lexicon.v1:?#𐊗𐊁𐊖𐊁-#tese-#*Noun*, "oath, vow".
 #urn:cite2:trmilli:lexicon.v1:?#𐊎𐊆𐊑𐊗(𐊆)-#miNt(i)-#*Noun*, "(local supervisory authority of elders)".
 #urn:cite2:trmilli:lexicon.v1:?#𐊓𐊆𐊊𐊁-#piye-#*Verb*, "give; allocate, assign".
 #urn:cite2:trmilli:lexicon.v1:?##seyEni#
 #urn:cite2:trmilli:lexicon.v1:?##wAtA#
-#urn:cite2:trmilli:lexicon.v1:?#𐊁𐊖𐊁𐊅𐊚𐊑𐊁𐊇𐊁-#esedENnewe-#*Noun*, "consanguineal descendant(s)".
 #urn:cite2:trmilli:lexicon.v1:?#𐊗𐊀-#ta-#*Verb*, "put, place".
-#urn:cite2:trmilli:lexicon.v1:?#-𐊚#-E#*pronoun*, "him, her, it".
 #urn:cite2:trmilli:lexicon.v1:?#𐊜𐊗𐊗𐊂𐊀-#xttba-#*Noun*, "harm".
 #urn:cite2:trmilli:lexicon.v1:?#𐊗𐊆𐊖𐊁#tise#*pronoun*, "any(one/thing), (interrogotive = who/whatever)".
 #urn:cite2:trmilli:lexicon.v1:?#𐊌𐊙(𐊏)-#qA(n)-#*Verb*, "destroy".
@@ -30,18 +26,15 @@ sequence#urn#lemma#xlit#article
 #urn:cite2:trmilli:lexicon.v1:?#𐊖𐊆-#si-#*Verb*, "lie".
 #urn:cite2:trmilli:lexicon.v1:?#𐊗𐊕𐊂𐊂𐊁𐊍𐊁/𐊆#trbbele/i-#*adjective*, "hostile".
 #urn:cite2:trmilli:lexicon.v1:?#𐊐𐊎𐊁/𐊆-#Mme/i-#*Noun*, "building, installation (or similar)".
-#urn:cite2:trmilli:lexicon.v1:?#𐊛𐊕𐊆#hri#*preposition*, "up; on (top)".
 #urn:cite2:trmilli:lexicon.v1:?#𐊒𐊇𐊁#uwe#*preverb*.
 #urn:cite2:trmilli:lexicon.v1:?#𐊗𐊁𐊇𐊁-#tewe-#*Noun*, "eye".
 #urn:cite2:trmilli:lexicon.v1:?#𐊜𐊂𐊀-#xba-#*Verb*, "inflict".
 #urn:cite2:trmilli:lexicon.v1:?#𐊈𐊒𐊐𐊎𐊀-#zoMma-#*Noun*, "harm".
 #urn:cite2:trmilli:lexicon.v1:?#𐊈𐊒𐊐𐊎𐊚𐊑𐊏𐊁-#zoMmENne-#*Verb*, "do harm to".
-#urn:cite2:trmilli:lexicon.v1:?#𐊚𐊎𐊆-#Emi-#*pronoun*, "my".
 #urn:cite2:trmilli:lexicon.v1:?##xahba-#*Noun*, "grandchild".
-#urn:cite2:trmilli:lexicon.v1:?##atla-#*Noun*, "person, self".
 1#urn:cite2:trmilli:lexicon.v1:m1##adai(ye)-#*Noun*, "quantity of ade-".
 2#urn:cite2:trmilli:lexicon.v1:m2##adAma-#*Noun*, "name".
-3#urn:cite2:trmilli:lexicon.v1:m3###ade-*Noun*, (unit of weight equal to the Persian σίγλος).
+3#urn:cite2:trmilli:lexicon.v1:m3##ade-#-*Noun*, (unit of weight equal to the Persian σίγλος).
 4#urn:cite2:trmilli:lexicon.v1:m4##adra-#*Noun*, "bowl".
 5#urn:cite2:trmilli:lexicon.v1:m5##ahata-#*Noun*, "peace, rest".
 6#urn:cite2:trmilli:lexicon.v1:m6##ahAma-#*Noun*, "occupation".
@@ -111,3 +104,41 @@ sequence#urn#lemma#xlit#article
 70#urn:cite2:trmilli:lexicon.v1:m70##epre/i#*Noun*, "back-, rear-".
 71#urn:cite2:trmilli:lexicon.v1:m71##epri-#*Noun*, "hand over" (or similar).
 72#urn:cite2:trmilli:lexicon.v1:m72##epttehe/i#*possesive pronoun*, "their".
+73#urn:cite2:trmilli:lexicon.v1:m73##erbbe-#*Noun*, "strife, war, battle".
+74#urn:cite2:trmilli:lexicon.v1:m74##eri(ye)-#*Verb*, "raise".
+75#urn:cite2:trmilli:lexicon.v1:m75##erBBazuma-#*Noun*, (divine name or title).
+76#urn:cite2:trmilli:lexicon.v1:m76##ertEme/i-#*Noun*, "Artemis".
+77#urn:cite2:trmilli:lexicon.v1:m77##erubliye-#*Noun*, "monument".
+78#urn:cite2:trmilli:lexicon.v1:m78##erowe-#*Verb*, "raise" or "exalt".
+79#urn:cite2:trmilli:lexicon.v1:m79##es-#*Verb*, "be".
+80#urn:cite2:trmilli:lexicon.v1:m80##esbe-#*Noun*, "horse".
+81#urn:cite2:trmilli:lexicon.v1:m81##esbEt(i)-#*Noun*, "horseman, knight".
+82#urn:cite2:trmilli:lexicon.v1:m82##ese-#*preverb*.
+83#urn:cite2:trmilli:lexicon.v1:83#𐊁𐊖𐊁𐊅𐊚𐊑𐊁𐊇𐊁-#esedENnewe-#*Noun*, "consanguineal descendant(s)".
+84#urn:cite2:trmilli:lexicon.v1:m84##eseri-#*preverb*, similar to Latin preposition "de-".
+85#urn:cite2:trmilli:lexicon.v1:m85##esEnemla-#*Noun*, "blood sacrifice".
+86#urn:cite2:trmilli:lexicon.v1:m86##eti#*Noun*, "father".
+87#urn:cite2:trmilli:lexicon.v1:m87##esbEt(i)-#*Noun*, "horseman, knight".
+88#urn:cite2:trmilli:lexicon.v1:m88##E#*particle*, "if".
+89#urn:cite2:trmilli:lexicon.v1:m89#-𐊚#-E#*pronoun*, "him, her, it".
+90#urn:cite2:trmilli:lexicon.v1:m90##Eke-#*adverb*, "when".
+91#urn:cite2:trmilli:lexicon.v1:m91##Ekepi#*adverb*, "before. until".
+92#urn:cite2:trmilli:lexicon.v1:m92#𐊚𐊎𐊆-#Emi-#*possesive pronouns*, "my".
+93#urn:cite2:trmilli:lexicon.v1:m93##Emo-#*pronoun*, "I, me".
+94#urn:cite2:trmilli:lexicon.v1:m94##Ene/i-#*Noun*, "mother".
+95#urn:cite2:trmilli:lexicon.v1:m95##EnE#*preposition*, "under".
+96#urn:cite2:trmilli:lexicon.v1:m96##Eti-#*adverb, preposition*, "down" (preverb), "under; in, on" (preposition).
+97#urn:cite2:trmilli:lexicon.v1:m97##Etre/i-#*adjective*, "lower".
+98#urn:cite2:trmilli:lexicon.v1:m98##gasabala-#*Noun*, (title).
+99#urn:cite2:trmilli:lexicon.v1:m99##ha-#*Verb*, "release, let go".
+100#urn:cite2:trmilli:lexicon.v1:m100##haxlaza-#*Noun*, (administrative title for representative of Persian king).
+101#urn:cite2:trmilli:lexicon.v1:m101##hAta-#*adjective*, "deceased".
+102#urn:cite2:trmilli:lexicon.v1:m102##hAta-#*Noun*, "Sanda".
+103#urn:cite2:trmilli:lexicon.v1:m103##herikle-#*Noun*, "Heracles".
+104#urn:cite2:trmilli:lexicon.v1:m104##hEmen(e)-#*adjective*, "combined".
+105#urn:cite2:trmilli:lexicon.v1:m105##hlMme/i-#*Noun*, "addition; gain, income".
+106#urn:cite2:trmilli:lexicon.v1:m106##hNti-#(preverb).
+107#urn:cite2:trmilli:lexicon.v1:m107#𐊛𐊕𐊆#hri#*preposition*, "up; on (top)".
+108#urn:cite2:trmilli:lexicon.v1:m108##hrihe-#*Noun*, "supreme power" (or similar).
+109#urn:cite2:trmilli:lexicon.v1:m109##hrMma-#*Noun*, "land section; temenos".
+110#urn:cite2:trmilli:lexicon.v1:m110#𐊛𐊕𐊓𐊓𐊆#hrppi#*preverb*,*preposition*, "on; for".
