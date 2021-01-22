@@ -390,7 +390,7 @@ function catalogcheck()
 		md"> Summary of cataloged content"
 	else
 		
-		missingcats = catalogony(catalogedtexts, textconfig) #catalogonly()
+		missingcats = catalogonly(catalogedtexts, textconfig) #catalogonly()
 		catitems = map(c -> "<li>" * c.urn * "</li>", missingcats)
 		catlist = "<p>In catalog, but not <code>citation.cex</code>:</p><ul>" * join(catitems,"\n") * "</ul>"
 		cathtml = isempty(catitems) ? "" : catlist
@@ -415,7 +415,8 @@ begin
 		catalogcheck()
 	catch e
 		msg = "<div class='danger'><h1>🧨🧨 Configuration error 🧨🧨</h1>" *
-		"<p>One or more invalid CTS URNs in <code>catalog.cex</code></p></div>"
+		"<p>There were errors in <code>catalog.cex</code></p></div>" *
+		"<p><b>$(e)</b></p>"
 		HTML(msg)
 	end
 		

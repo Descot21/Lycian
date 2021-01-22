@@ -18,6 +18,10 @@
   <text>
     <body>
      <ab n="1">LINE 1</ab>
+     <ab n="10">LINE 10</ab>
+     <ab n="20">LINE 20</ab>
+     <ab n="30">LINE 30</ab>
+     <ab n="41">LINE 41</ab>
     </body>
   </text>
 </TEI>
