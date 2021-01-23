@@ -17,8 +17,12 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1">LINE 1</ab>
-     <ab n="10">LINE 10</ab>
+     <ab n="1">Eke : <placeName><w>trMmisN</w></placeName> xssaθrapazate <persName><w n="1">pig</w></persName></ab>
+     <ab n="2"><persName><w n="1">esere</w></persName> : <persName><w>katamlah</w></persName> : tideimi : <w n="2">sE=<unclear>N</unclear>neN</w></ab>
+     <ab n="3"><w n="2">te=pddE=hadE</w> : trMmile : <w n="3">pddEnehMm</w></ab>
+     <ab n="4"><w n="3">is</w> : <persName><w>iyero</w></persName> : <w><persName>se=natrbbiyEmi</persName></w> : <w n="4"><placeName>sey=arN</placename></w></ab>
+     <ab n="5"><w n="4"><placeName>na</placeName></w> asaxlazo <persName><w>erttimeli</w></persname> <w n="5">me=hNti=t</w></ab>
+     <ab n="6"><w n="5"></ab>
      <ab n="20">LINE 20</ab>
      <ab n="30">LINE 30</ab>
      <ab n="41">LINE 41</ab>
