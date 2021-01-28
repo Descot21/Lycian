@@ -137,13 +137,13 @@ sequence|urn|lemma|xlit|article
 136|urn:cite2:trmilli:lexicon.v1:m136||kbiho|*adjective*, "twice".
 137|urn:cite2:trmilli:lexicon.v1:m137||kbi(ye)-|*adjective*, "(an)other"; kbi...kbi = "the one...the other".
 138|urn:cite2:trmilli:lexicon.v1:m138||kbiyEt(i)-|*adjective*, "double, paired".
-139|urn:cite2:trmilli:lexicon.v1:m139||kbiyEteze/i-|*adjective*, "of Tyinda".
+139|urn:cite2:trmilli:lexicon.v1:m139||kbiyEteze/i-|*Noun*, "of Tyinda".
 140|urn:cite2:trmilli:lexicon.v1:m140||kbisNne/i-|*Noun*, "two-year-old".
 141|urn:cite2:trmilli:lexicon.v1:m141||kbisNtAta-|*Number*, "twenty".
 142|urn:cite2:trmilli:lexicon.v1:m142||-ke|*eclitic adverb*, "and, also".
 143|urn:cite2:trmilli:lexicon.v1:m143||kebe/i-|*adjective*, "small".
 144|urn:cite2:trmilli:lexicon.v1:m144||kerθθi-|*Noun*, (place name).
-145|urn:cite2:trmilli:lexicon.v1:m145||kerθθis-|*adjective*, "of Kerθθi".
+145|urn:cite2:trmilli:lexicon.v1:m145||kerθθis-|*Noun*, "of Kerθθi".
 146|urn:cite2:trmilli:lexicon.v1:m146||kete-|*Noun*, (title?).
 147|urn:cite2:trmilli:lexicon.v1:m147||kiyeze/i-|*adjective*, "Chian, of Chios".
 148|urn:cite2:trmilli:lexicon.v1:m148||kMme/i-|*adjective*, "whole; all".
@@ -185,7 +185,7 @@ sequence|urn|lemma|xlit|article
 184|urn:cite2:trmilli:lexicon.v1:m184||Mma(i)-|*Verb*, "build, install" (or similar).
 185|urn:cite2:trmilli:lexicon.v1:m185|𐊐𐊎𐊁/𐊆-|Mme/i-|*Noun*, "building, installation" (or similar).
 186|urn:cite2:trmilli:lexicon.v1:m186||Mm(e)i-|*Verb*, "build".
-187|urn:cite2:trmilli:lexicon.v1:m187||Mmeiye-|*adjective*, "of an installation" (or similar).
+187|urn:cite2:trmilli:lexicon.v1:m187||Mmeiye-|*Noun*, "of an installation" (or similar).
 188|urn:cite2:trmilli:lexicon.v1:m188||Mmeiye|Verb*, "make an installation" (or similar).
 189|urn:cite2:trmilli:lexicon.v1:m189||MmE-|*adverb*, "except".
 190|urn:cite2:trmilli:lexicon.v1:m190||MmEt(i)-|*adjective*, "having 'Mme-'".
@@ -227,27 +227,107 @@ sequence|urn|lemma|xlit|article
 226|urn:cite2:trmilli:lexicon.v1:m226||pibi(ye)-|*Verb*, "give".
 227|urn:cite2:trmilli:lexicon.v1:m227||piyata-|*Noun*, "gift".
 228|urn:cite2:trmilli:lexicon.v1:m228|𐊓𐊆𐊊𐊁-|piye-|*Verb*, "give; allocate, assign".
-229|urn:cite2:trmilli:lexicon.v1:m229||parttala-|*Noun*, "portion".
-|urn:cite2:trmilli:lexicon.v1:m329|𐊓𐊕𐊑𐊏𐊀𐊇𐊀-|prNnawa-|*Verb*, "to build, construct".
-|urn:cite2:trmilli:lexicon.v1:m361|𐊖𐊁|se|*Conjunction*, "and".
-|urn:cite2:trmilli:lexicon.v1:m414|-𐊗𐊆|-ti|*Reflexive pronoun (enclitic)*.
-|urn:cite2:trmilli:lexicon.v1:m417|𐊗𐊆𐊅𐊁𐊆𐊎𐊆-|tideimi-|*Noun*, "child, son".
+229|urn:cite2:trmilli:lexicon.v1:m229||pilleNne/i-|*Noun*, "of Pinara".
+230|urn:cite2:trmilli:lexicon.v1:m230||pillewe/i-|*adjective*, "of Pinara, Pinaran".
+231|urn:cite2:trmilli:lexicon.v1:m231||pinale-|*Noun*, "Pinara".
+232|urn:cite2:trmilli:lexicon.v1:m232||pri|*adverb*, "forth; in front".
+233|urn:cite2:trmilli:lexicon.v1:m233||pilleNne/i-|*Noun*, "of Pinara".
+234|urn:cite2:trmilli:lexicon.v1:m234|𐊓𐊕𐊑𐊏𐊀𐊇𐊀-|prNnawa-|*Noun*, "mausoleum, (grave-)house".
+235|urn:cite2:trmilli:lexicon.v1:m235|𐊓𐊕𐊑𐊏𐊀𐊇𐊀-|prNnawa-|*Verb*, "to build, construct".
+236|urn:cite2:trmilli:lexicon.v1:m236||prNneze/i-|*Noun*, "household".
+237|urn:cite2:trmilli:lexicon.v1:m237||prNnezi(ye)-|*Noun*, "household member".
+238|urn:cite2:trmilli:lexicon.v1:m238||proliye-|*Noun*, "trophies" (collective plurale tantum).
+239|urn:cite2:trmilli:lexicon.v1:m239||przze/i-|*adverb*, "front-" (also "foremost").
+240|urn:cite2:trmilli:lexicon.v1:m240||przzid-|*Noun*, "foremost rank/class".
+241|urn:cite2:trmilli:lexicon.v1:m241||pttara-|*Noun*, "Patara".
+242|urn:cite2:trmilli:lexicon.v1:m242||pttaraze/i-|*Noun*,"of Patara".
+243|urn:cite2:trmilli:lexicon.v1:m243||po-|*Verb*, "inscribe".
+244|urn:cite2:trmilli:lexicon.v1:m244||ponAma-|*Noun*, "totality".
+245|urn:cite2:trmilli:lexicon.v1:m245||ponamada|*Noun*, "totality".
+246|urn:cite2:trmilli:lexicon.v1:m246||ponemedeze/i-|*adjective*, "belonging to the totality; all".
+247|urn:cite2:trmilli:lexicon.v1:m247||pota-|*Noun*, (sacrifical animal).
+248|urn:cite2:trmilli:lexicon.v1:m248||powe-|*Noun*, "goat".
+249|urn:cite2:trmilli:lexicon.v1:m249||p(p)owe-|*Verb*, "write, inscribe".
+250|urn:cite2:trmilli:lexicon.v1:m250||pzzi-|*Verb*, "decide, decree, determine".
+251|urn:cite2:trmilli:lexicon.v1:m251||qA(n)-|*Verb*, "destroy".
+252|urn:cite2:trmilli:lexicon.v1:m252||qanowe-|*Noun*, "cause to be destroyed".
+253|urn:cite2:trmilli:lexicon.v1:m253||qele/i-|*Noun*, "(god of) grain".
+254|urn:cite2:trmilli:lexicon.v1:m254||qla-|*Noun*, "court(yard); (sacred) precinct" (also a symbol of authority).
+255|urn:cite2:trmilli:lexicon.v1:m255||sAma-|*Noun*, "Samos".
+256|urn:cite2:trmilli:lexicon.v1:m256|𐊖𐊁|se|*Conjunction*, "and".
+257|urn:cite2:trmilli:lexicon.v1:m257|𐊖𐊆-|si-|*Verb*, "lie".
+258|urn:cite2:trmilli:lexicon.v1:m258||side/i-|*Noun*, "son-in-law" (?).
+259|urn:cite2:trmilli:lexicon.v1:m259||sixla-|*Noun*, "shekel".
+260|urn:cite2:trmilli:lexicon.v1:m260||sMma-|*Verb*, "bind; enjoin" (= "command" and "forbid").
+261|urn:cite2:trmilli:lexicon.v1:m261||sppartaliya-|*Noun*, "land of Sparta".
+262|urn:cite2:trmilli:lexicon.v1:m262||sppartaze/i-|*Noun*, "Spartan".
+263|urn:cite2:trmilli:lexicon.v1:m263||stta-|*Verb*, "stand, remain; be placed (in a standing position)".
+264|urn:cite2:trmilli:lexicon.v1:m264||sttala-|*Noun*, "stele".
+265|urn:cite2:trmilli:lexicon.v1:m265||sttrat[]|*Noun*, "general" (< Greek στρατηγός).
+266|urn:cite2:trmilli:lexicon.v1:m266||soreze/i-|*Noun*, "of Sura".
+267|urn:cite2:trmilli:lexicon.v1:m267|𐊗𐊀-|ta-|*Verb*, "put, place".
+268|urn:cite2:trmilli:lexicon.v1:m268||tama-|*Noun*, "house, building".
+269|urn:cite2:trmilli:lexicon.v1:m269||tarb(e)i-|*Verb*, "overpower, conquer" (or similar).
+270|urn:cite2:trmilli:lexicon.v1:m270||tAmada-|*Noun*, "house/building complex" (or similar).
+271|urn:cite2:trmilli:lexicon.v1:m271||te-|*particle*, (= Luvian -tta).
+272|urn:cite2:trmilli:lexicon.v1:m272||tebe-|*Verb*, "overwhelm, conquer" (or similar).
+273|urn:cite2:trmilli:lexicon.v1:m273||tede/i-|*Noun*, "father".
+274|urn:cite2:trmilli:lexicon.v1:m274||telebehi-|*Noun*, "Telmessos".
+275|urn:cite2:trmilli:lexicon.v1:m275||telEziye-|*Noun*, "(military) camp/fort".
+276|urn:cite2:trmilli:lexicon.v1:m276||tere-|*Noun*, "territory, district" (or similar).
+277|urn:cite2:trmilli:lexicon.v1:m277||teri|*adverb*, "when".
+278|urn:cite2:trmilli:lexicon.v1:m278||teri-|*number*, "three".
+279|urn:cite2:trmilli:lexicon.v1:m279|𐊗𐊁𐊖𐊁-|tese-|*Noun*, "oath, vow".
+280|urn:cite2:trmilli:lexicon.v1:m280||tesEti-|*Noun*, "oath".
+281|urn:cite2:trmilli:lexicon.v1:m281||tesMmi-|*Noun*, (divine agent).
+282|urn:cite2:trmilli:lexicon.v1:m282||tetere/i-|*Noun*, "city".
+283|urn:cite2:trmilli:lexicon.v1:m283|𐊗𐊁𐊇𐊁-|tewe-|*Noun*, "eye".
+284|urn:cite2:trmilli:lexicon.v1:m284||tewinaza-|*Noun*, (title).
+285|urn:cite2:trmilli:lexicon.v1:m285||tezi-|*Noun*, "sacrophagus, coffin" (or similar).
+286|urn:cite2:trmilli:lexicon.v1:m286|𐊗𐊆-|ti-|*pronoun* "who, which" (relative pronoun).
+287|urn:cite2:trmilli:lexicon.v1:m287||tti-|*Verb*, "cause to pay" (a penalty).
+288|urn:cite2:trmilli:lexicon.v1:m288|-𐊗𐊆|ti|*Reflexive pronoun (enclitic) (=Luvian -ti).
+289|urn:cite2:trmilli:lexicon.v1:m289||tibe|*conjunction*, "or".
+290|urn:cite2:trmilli:lexicon.v1:m290|𐊗𐊆𐊅𐊁𐊆𐊎𐊆-|tideimi-|*Noun*, "child, son".
+291|urn:cite2:trmilli:lexicon.v1:m291||tidere/i-|*Noun*, "collacteus, collactea".
+292|urn:cite2:trmilli:lexicon.v1:m292||tihe|*pronoun, determiner*, "any".
+293|urn:cite2:trmilli:lexicon.v1:m293|𐊗𐊆𐊊𐊀-|tiya-|*Verb*, "penalty, amends" (?).
+294|urn:cite2:trmilli:lexicon.v1:m294||tiyala-|*Noun*, "penalty payments, fines" (or similar).
+295|urn:cite2:trmilli:lexicon.v1:m295||tike|*pronoun*, "some/anyone, some/anything".
+296|urn:cite2:trmilli:lexicon.v1:m296|𐊗𐊆𐊖𐊁|tise|*pronoun*, "any(one/thing), (interrogotive = who/whatever)".
+297|urn:cite2:trmilli:lexicon.v1:m297||tla-|*Noun*, "Tlos".
+298|urn:cite2:trmilli:lexicon.v1:m298||tlah-|*adjective*, "Tloan".
+299|urn:cite2:trmilli:lexicon.v1:m299||tlANna-|*Noun*, "Tloan".
+300|urn:cite2:trmilli:lexicon.v1:m300||tlawe/i-|*Noun*, "Tlos".
+301|urn:cite2:trmilli:lexicon.v1:m301||tllaxNta-|*Noun*, "payment standard" (or similar).
+302|urn:cite2:trmilli:lexicon.v1:m302||ttl(e)i-|*Verb*, "pay".
+303|urn:cite2:trmilli:lexicon.v1:m303||trbbAmara-|*Noun*, (divine agent).
+304|urn:cite2:trmilli:lexicon.v1:m304||trbbe-|*Verb*, "oppose, resist".
+305|urn:cite2:trmilli:lexicon.v1:m305||trbbe/i-|*Noun*, "oponent, enemy".
+306|urn:cite2:trmilli:lexicon.v1:m306||trbbeite-|*adjective*, "opposing" (??).
+307|urn:cite2:trmilli:lexicon.v1:m307|𐊗𐊕𐊂𐊂𐊁𐊍𐊁/𐊆|trbbele/i-|*adjective*, "hostile".
+308|urn:cite2:trmilli:lexicon.v1:m308||trbEtadr(a)-|*Noun*, "counter-X" (??).
+309|urn:cite2:trmilli:lexicon.v1:m309||triyere-|*Noun*, "trireme".
+310|urn:cite2:trmilli:lexicon.v1:m310||trsNne/i-|*Noun*, "three-year-old".
+311|urn:cite2:trmilli:lexicon.v1:m311|𐊗𐊕𐊐𐊎𐊆𐊍𐊁/𐊆-|trMmile/i-|*adjective and Noun*, "Lycian".
+312|urn:cite2:trmilli:lexicon.v1:m312||trMmilihe-|*adjective*, "Lycian __".
+313|urn:cite2:trmilli:lexicon.v1:m313||trMmili(ye)-|*adjective*, "Lycian".
+314|urn:cite2:trmilli:lexicon.v1:m314||trMmilis-|*Noun*, "Lycia".
+315|urn:cite2:trmilli:lexicon.v1:m315||trMmis-|*Noun*, "Lycia".
+316|urn:cite2:trmilli:lexicon.v1:m316||trppeme|*adjective*, "three(fold)".
+317|urn:cite2:trmilli:lexicon.v1:m317||trqqNt-|*Noun*, "Storm-god" (= Tarhunt-).
+318|urn:cite2:trmilli:lexicon.v1:m318||tros-|*Noun*, "Trysa".
+319|urn:cite2:trmilli:lexicon.v1:m319||trzzobe/i-|*Noun*, "Τρωσοβιος".
+320|urn:cite2:trmilli:lexicon.v1:m320||tobehid-|*Noun*, "class/collectivity of those who are tobehe/i".
+321|urn:cite2:trmilli:lexicon.v1:m321||tob(e)i-|*Verb*, "strike" (= Luvian. dup(a)i-).
+322|urn:cite2:trmilli:lexicon.v1:m322||toborehi-|*Noun*, "Tyberissos".
+
 |urn:cite2:trmilli:lexicon.v1:m557|𐊜𐊒𐊓𐊀|xopa|*Noun*, "tomb".
-|urn:cite2:trmilli:lexicon.v1:?|𐊗𐊁𐊖𐊁-|tese-|*Noun*, "oath, vow".
-|urn:cite2:trmilli:lexicon.v1:?||seyEni|
-|urn:cite2:trmilli:lexicon.v1:?||wAtA|
-|urn:cite2:trmilli:lexicon.v1:?|𐊗𐊀-|ta-|*Verb*, "put, place".
 |urn:cite2:trmilli:lexicon.v1:?|𐊜𐊗𐊗𐊂𐊀-|xttba-|*Noun*, "harm".
-|urn:cite2:trmilli:lexicon.v1:?|𐊗𐊆𐊖𐊁|tise|*pronoun*, "any(one/thing), (interrogotive = who/whatever)".
 |urn:cite2:trmilli:lexicon.v1:?|𐊌𐊙(𐊏)-|qA(n)-|*Verb*, "destroy".
-|urn:cite2:trmilli:lexicon.v1:?|𐊗𐊕𐊐𐊎𐊆𐊍𐊁/𐊆-|trMmile/i-|*adjective and Noun*, "Lycian".
-|urn:cite2:trmilli:lexicon.v1:?|𐊗𐊆𐊊𐊀-|tiya-|*Noun*, "penalty, amends".
 |urn:cite2:trmilli:lexicon.v1:?|𐊉𐊒𐊕𐊗𐊗𐊀-|Θortta-|*Noun*, "(title)".
-|urn:cite2:trmilli:lexicon.v1:?|𐊖𐊆-|si-|*Verb*, "lie".
-|urn:cite2:trmilli:lexicon.v1:?|𐊗𐊕𐊂𐊂𐊁𐊍𐊁/𐊆|trbbele/i-|*adjective*, "hostile".
 |urn:cite2:trmilli:lexicon.v1:?|𐊐𐊎𐊁/𐊆-|Mme/i-|*Noun*, "building, installation (or similar)".
 |urn:cite2:trmilli:lexicon.v1:?|𐊒𐊇𐊁|uwe|*preverb*.
-|urn:cite2:trmilli:lexicon.v1:?|𐊗𐊁𐊇𐊁-|tewe-|*Noun*, "eye".
 |urn:cite2:trmilli:lexicon.v1:?|𐊜𐊂𐊀-|xba-|*Verb*, "inflict".
 |urn:cite2:trmilli:lexicon.v1:?|𐊈𐊒𐊐𐊎𐊀-|zoMma-|*Noun*, "harm".
 |urn:cite2:trmilli:lexicon.v1:?|𐊈𐊒𐊐𐊎𐊚𐊑𐊏𐊁-|zoMmENne-|*Verb*, "do harm to".
