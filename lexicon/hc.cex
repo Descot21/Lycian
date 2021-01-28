@@ -321,14 +321,89 @@ sequence|urn|lemma|xlit|article
 320|urn:cite2:trmilli:lexicon.v1:m320||tobehid-|*Noun*, "class/collectivity of those who are tobehe/i".
 321|urn:cite2:trmilli:lexicon.v1:m321||tob(e)i-|*Verb*, "strike" (= Luvian. dup(a)i-).
 322|urn:cite2:trmilli:lexicon.v1:m322||toborehi-|*Noun*, "Tyberissos".
-
-|urn:cite2:trmilli:lexicon.v1:m557|𐊜𐊒𐊓𐊀|xopa|*Noun*, "tomb".
-|urn:cite2:trmilli:lexicon.v1:?|𐊜𐊗𐊗𐊂𐊀-|xttba-|*Noun*, "harm".
-|urn:cite2:trmilli:lexicon.v1:?|𐊌𐊙(𐊏)-|qA(n)-|*Verb*, "destroy".
-|urn:cite2:trmilli:lexicon.v1:?|𐊉𐊒𐊕𐊗𐊗𐊀-|Θortta-|*Noun*, "(title)".
-|urn:cite2:trmilli:lexicon.v1:?|𐊐𐊎𐊁/𐊆-|Mme/i-|*Noun*, "building, installation (or similar)".
-|urn:cite2:trmilli:lexicon.v1:?|𐊒𐊇𐊁|uwe|*preverb*.
-|urn:cite2:trmilli:lexicon.v1:?|𐊜𐊂𐊀-|xba-|*Verb*, "inflict".
-|urn:cite2:trmilli:lexicon.v1:?|𐊈𐊒𐊐𐊎𐊀-|zoMma-|*Noun*, "harm".
-|urn:cite2:trmilli:lexicon.v1:?|𐊈𐊒𐊐𐊎𐊚𐊑𐊏𐊁-|zoMmENne-|*Verb*, "do harm to".
-|urn:cite2:trmilli:lexicon.v1:?||xahba-|*Noun*, "grandchild".
+323|urn:cite2:trmilli:lexicon.v1:m323||tohe(s)|*Noun*, "nephew, niece".
+324|urn:cite2:trmilli:lexicon.v1:m324||tokedr(i)-|*Noun*, "statue".
+325|urn:cite2:trmilli:lexicon.v1:m325||tominehi-|*Noun*, "Tymnessos".
+326|urn:cite2:trmilli:lexicon.v1:m326||tominehi(ye)-|*Noun*, "of Tymnessos".
+327|urn:cite2:trmilli:lexicon.v1:m327||topMme-|*Noun*, "two(fold), pair".
+328|urn:cite2:trmilli:lexicon.v1:m328||toraxssi-|*Noun*, "Thuraksis".
+329|urn:cite2:trmilli:lexicon.v1:m329||towe-|*Verb*, "place (upright)".
+330|urn:cite2:trmilli:lexicon.v1:m330||towe/i-|*Noun*, "ritual offering" (or similar?).
+331|urn:cite2:trmilli:lexicon.v1:m331||towere/i-|*Noun*, "celebrant" (or similar?).
+332|urn:cite2:trmilli:lexicon.v1:m332||ΘΘe-|*Noun*, "place of sacrifice, altar".
+333|urn:cite2:trmilli:lexicon.v1:m333||ΘibAna-|*Noun*, "Simena".
+334|urn:cite2:trmilli:lexicon.v1:m334||Θr(e)i-|*Verb*, "command" (or similar?).
+335|urn:cite2:trmilli:lexicon.v1:m335||ΘrMma-|*Noun*, "command, injuction".
+336|urn:cite2:trmilli:lexicon.v1:m336|𐊉𐊒𐊕𐊗𐊗𐊀-|Θortta-|*Noun*, (title).
+337|urn:cite2:trmilli:lexicon.v1:m337||oba-|*Noun*, "grant, offering" (or similar).
+338|urn:cite2:trmilli:lexicon.v1:m338||obe-|*Verb*, "dedicate, offer".
+339|urn:cite2:trmilli:lexicon.v1:m339||odreki-|*Noun*, (city name).
+340|urn:cite2:trmilli:lexicon.v1:m340||ohaziti-|*Noun*,"year's interval" (?).
+341|urn:cite2:trmilli:lexicon.v1:m341||ohe/i-|*Noun*, "year".
+342|urn:cite2:trmilli:lexicon.v1:m342||orobliye-|*Noun*, "monument".
+343|urn:cite2:trmilli:lexicon.v1:m343||otAna-|*Noun*, "Hytenna".
+344|urn:cite2:trmilli:lexicon.v1:m344|𐊒𐊇𐊁|uwe|*preverb*.
+345|urn:cite2:trmilli:lexicon.v1:m345|𐊒𐊇𐊁|owe-|*Noun*, "dependent, fosterling".
+346|urn:cite2:trmilli:lexicon.v1:m346||wasaza-|*Noun*, (some kind of priest).
+347|urn:cite2:trmilli:lexicon.v1:m347||wawa-|*Noun*, "cow, bovine".
+348|urn:cite2:trmilli:lexicon.v1:m348||wawadr(a)-|*Noun*, "herd, collection of cattle" (or similar).
+349|urn:cite2:trmilli:lexicon.v1:m349||wazzis-|*Noun*, "__-ship".
+350|urn:cite2:trmilli:lexicon.v1:m350||-we|*particle*
+351|urn:cite2:trmilli:lexicon.v1:m351||wedre-|*Noun*, "Rhodiapolis".
+352|urn:cite2:trmilli:lexicon.v1:m352||wedrewe/i-|*Noun*, "of Wedre".
+353|urn:cite2:trmilli:lexicon.v1:m353||wedrENne/i-|*Noun*, ethnicon of Wedre.
+354|urn:cite2:trmilli:lexicon.v1:m354||wedri(ye)-|*adjective and Noun*, "watery" hence, "naiad".
+355|urn:cite2:trmilli:lexicon.v1:m355||weh-|*Noun*, "pasture".
+356|urn:cite2:trmilli:lexicon.v1:m356||wehNte/i-|*Noun*, "Phellos".
+357|urn:cite2:trmilli:lexicon.v1:m357||wehNteze/i-|*Noun*, "of Phellos".
+358|urn:cite2:trmilli:lexicon.v1:m358||xadawAti-|*Noun*, "Kadyanda".
+359|urn:cite2:trmilli:lexicon.v1:m359||xaha-|*Noun*, "altar".
+360|urn:cite2:trmilli:lexicon.v1:m360||xahba-|*Noun*, "grandchild".
+361|urn:cite2:trmilli:lexicon.v1:m361||xal-|*Verb*, "take control of, control".
+362|urn:cite2:trmilli:lexicon.v1:m362||xale/i-|*Noun*, "precinct, sphere of control" (or similar).
+363|urn:cite2:trmilli:lexicon.v1:m363||xawa-|*Noun*, "sheep".
+364|urn:cite2:trmilli:lexicon.v1:m364||xaxakba-|*Noun*, "Kakasbos".
+365|urn:cite2:trmilli:lexicon.v1:m365||xAxbi(ye)-|*Noun*, "of Kandyba".
+366|urn:cite2:trmilli:lexicon.v1:m366|𐊜𐊂𐊀-|xba-|*Verb*, "inflict".
+367|urn:cite2:trmilli:lexicon.v1:m367||xba-|*Noun*, "Hebat".
+368|urn:cite2:trmilli:lexicon.v1:m368||xba(i)-|*Verb*, "irrigate".
+369|urn:cite2:trmilli:lexicon.v1:m369||xbane-|*Noun*, "Kyaneai".
+370|urn:cite2:trmilli:lexicon.v1:m370||obe-|*Noun*, "of Kynaneai".
+371|urn:cite2:trmilli:lexicon.v1:m371||xbide-|*Noun*, "Kaunos".
+372|urn:cite2:trmilli:lexicon.v1:m372||xbidENne/i-|*Noun*, "of Kaunos".
+373|urn:cite2:trmilli:lexicon.v1:m373||xddaza-|*Noun*, "slave".
+374|urn:cite2:trmilli:lexicon.v1:m374||xi-|*Verb*, "make an animal sacrifice" (?).
+375|urn:cite2:trmilli:lexicon.v1:m375||xla(i)-|*Verb*, "take control of, dominate".
+376|urn:cite2:trmilli:lexicon.v1:m376||xNna-|*Noun*, "grandmother".
+377|urn:cite2:trmilli:lexicon.v1:m377||xNta-|*Verb*, "entrust, consign" (or similar).
+378|urn:cite2:trmilli:lexicon.v1:m378||xNtawa-|*Verb*, "to rule".
+379|urn:cite2:trmilli:lexicon.v1:m379||xNtawat(i)-|*Noun*, "ruler, king".
+380|urn:cite2:trmilli:lexicon.v1:m380||xNtawata-|*Noun*, "rule, kingship".
+381|urn:cite2:trmilli:lexicon.v1:m381||xNtawati(ye)-|*adjective*, "of the ruler, royal".
+382|urn:cite2:trmilli:lexicon.v1:m382||xrowe/i-|*Noun*, "offering stand" (or something similar).
+383|urn:cite2:trmilli:lexicon.v1:m383||xrowete-|*Noun*, "votive offerings" (or similar).
+384|urn:cite2:trmilli:lexicon.v1:m384||xssadrapa-|*Noun*, "satrap".
+385|urn:cite2:trmilli:lexicon.v1:m385||xssaθrapaza-|*Verb*, "rule as a satrap".
+386|urn:cite2:trmilli:lexicon.v1:m386|𐊜𐊗𐊗𐊂𐊀-|xttba-|*Noun*, "harm".
+387|urn:cite2:trmilli:lexicon.v1:m387||xoga-|*Noun*, "grandfather".
+388|urn:cite2:trmilli:lexicon.v1:m388|𐊜𐊒𐊓𐊀|xopa|*Noun*, "tomb".
+389|urn:cite2:trmilli:lexicon.v1:m389||xorzaze/i-|*Noun*, "figures in a carving" (??).
+390|urn:cite2:trmilli:lexicon.v1:m390||xorz(e)i-|*Verb*, "carve" (??).
+391|urn:cite2:trmilli:lexicon.v1:m391||xowa-|*Verb*, "stand close to" (or similar).
+392|urn:cite2:trmilli:lexicon.v1:m392||za-|*Noun*, "allotment, portion" (?).
+393|urn:cite2:trmilli:lexicon.v1:m393||zagaba-|*Noun*, "Lagbos".
+394|urn:cite2:trmilli:lexicon.v1:m394||zala-|*Verb*, "take a share" (?).
+395|urn:cite2:trmilli:lexicon.v1:m395||zas-|*Verb*, "deliver, furnish".
+396|urn:cite2:trmilli:lexicon.v1:m396||zata-|*Noun*, "tribute" (or similar).
+397|urn:cite2:trmilli:lexicon.v1:m397||zzati(ye)-|*Noun*, "pertaining to tribute, offering".
+398|urn:cite2:trmilli:lexicon.v1:m398||zAnaza-|*Noun*, (title).
+399|urn:cite2:trmilli:lexicon.v1:m399||ze-|*Verb*, "assign a share to" (??).
+400|urn:cite2:trmilli:lexicon.v1:m400||zemoris-|*Noun*, "of Limyra".
+401|urn:cite2:trmilli:lexicon.v1:m401||zeos(i)-|*Noun*, "Zeus".
+402|urn:cite2:trmilli:lexicon.v1:m402||zEmore-|*Noun*, "Limyra".
+403|urn:cite2:trmilli:lexicon.v1:m403||zzimaza-|*Noun*, (title).
+404|urn:cite2:trmilli:lexicon.v1:m404|𐊈𐊒𐊐𐊎𐊀-|zoMma-|*Noun*, "harm".
+405|urn:cite2:trmilli:lexicon.v1:m405|𐊈𐊒𐊐𐊎𐊚𐊑𐊏𐊁-|zoMmENne-|*Verb*, "do harm to".
+406|urn:cite2:trmilli:lexicon.v1:m406||zxxa-|*Verb*, "fight" (or "strike").
+407|urn:cite2:trmilli:lexicon.v1:m407||zxxaza-|*Noun*, "fighter, warrior".
+408|urn:cite2:trmilli:lexicon.v1:m408||zxxazi(ye)-|*Noun*, "of a warrior".
