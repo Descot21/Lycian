@@ -24,7 +24,14 @@ begin
 end
 
 # ╔═╡ c5f70fae-6230-11eb-27e8-0d77dee7fc27
-md"Lycian transcoder"
+md"""
+
+> ## Lycian transcoder
+>
+>Enter text in the `trmilli` project's ASCII-based transcription.
+>
+>Copy/paste the displayed Unicode Lycian text.
+"""
 
 # ╔═╡ 26ce4608-6231-11eb-2a3b-894aba4cb7fd
 md"*Text in ASCII-based form*: $(@bind src TextField())"
@@ -32,9 +39,11 @@ md"*Text in ASCII-based form*: $(@bind src TextField())"
 # ╔═╡ 419e610c-6231-11eb-07a7-dd07c6c95500
 begin
 	if isempty(src)
-		md""
+		md"*Unicode Lycian equivalent*:"
 	else
 		md"""
+		*Unicode Lycian equivalent*:
+		
 		### $(Lycian.ucode(src))
 		"""
 	end
