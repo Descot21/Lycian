@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.12.19
+# v0.12.20
 
 using Markdown
 using InteractiveUtils
@@ -14,9 +14,24 @@ macro bind(def, element)
 end
 
 # ╔═╡ 0589b23a-5736-11eb-2cb7-8b122e101c35
+# build environment
 begin
 	import Pkg
 	Pkg.activate(".")
+	Pkg.add("PlutoUI")
+	Pkg.add("CitableText")
+	Pkg.add("CitableObject")
+	Pkg.add("CitableImage")
+	Pkg.add("CitableTeiReaders")
+	Pkg.add("CSV")
+	Pkg.add("DataFrames")
+	Pkg.add("EditionBuilders")
+	Pkg.add("EditorsRepo")
+	Pkg.add("HTTP")
+	Pkg.add("Lycian")
+	Pkg.add("Markdown")
+	Pkg.add("Orthography")
+	
 
 	using PlutoUI
 	using CitableText
@@ -28,6 +43,7 @@ begin
 	using EditionBuilders
 	using EditorsRepo
 	using HTTP
+	using Lycian
 	using Markdown
 	using Orthography
 
@@ -688,8 +704,7 @@ function tokenizeRow(row)
 	else
 
 		txt = normednode(row.passage)
-		tokenstart::Array{OrthographicToken} = []
-		tokens = tokenize(ortho, txt,tokenstart)
+		tokens = ortho.tokenizer(txt)
 		highlighted = map(t -> formatToken(ortho, t.text), tokens)
 		html = join(highlighted, " ")
 		"<p>$(citation) $(html)</p>"
