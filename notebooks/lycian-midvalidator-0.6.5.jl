@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.12.18
+# v0.12.19
 
 using Markdown
 using InteractiveUtils
@@ -202,16 +202,29 @@ end
 
 # ╔═╡ 2a84a042-5739-11eb-13f1-1d881f215521
 diplomaticpassages = begin
-	diplomaticarrays = map(u -> diplomaticnodes(editorsrepo, u), urnlist)
-	singlearray = reduce(vcat, diplomaticarrays)
-	filter(psg -> psg !== nothing, singlearray)
+	loadem
+	try 
+		diplomaticarrays = map(u -> diplomaticnodes(editorsrepo, u), urnlist)
+		singlearray = reduce(vcat, diplomaticarrays)
+		filter(psg -> psg !== nothing, singlearray)
+	catch e
+		msg = "<div class='danger'><h1>🧨🧨 Markup error 🧨🧨</h1><p><b>$(e)</b></p></div>"
+		HTML(msg)
+	end
 end
 
 # ╔═╡ 9974fadc-573a-11eb-10c4-13c589f5810b
 normalizedpassages =  begin
-	normalizedarrays = map(u -> normalizednodes(editorsrepo, u), urnlist)
-	onearray = reduce(vcat, normalizedarrays)
-	filter(psg -> psg !== nothing, onearray)
+	loadem
+	try 
+		normalizedarrays = map(u -> normalizednodes(editorsrepo, u), urnlist)
+		onearray = reduce(vcat, normalizedarrays)
+		filter(psg -> psg !== nothing, onearray)
+	catch e
+		msg = "<div class='danger'><h1>🧨🧨 Markup error 🧨🧨</h1><p><b>$(e)</b></p></div>"
+		
+		HTML(msg)
+	end
 end
 
 # ╔═╡ 175f2e58-573c-11eb-3a36-f3142c341d93
@@ -357,7 +370,6 @@ function diplnode(urn)
 	else 
 		""
 	end
-	#"Found stuffs " * le
 end
 
 # ╔═╡ bf77d456-573d-11eb-05b6-e51fd2be98fe
@@ -382,6 +394,17 @@ $(img)
 	record
 end
 
+
+# ╔═╡ 4a129b20-5e80-11eb-0b5c-b915b2919db8
+# Select a node from list of diplomatic nodes
+function normednode(urn)
+	filtered = filter(cn -> dropversion(cn.urn) == dropversion(urn), normalizedpassages)
+	if length(filtered) > 0
+		filtered[1].text
+	else 
+		""
+	end
+end
 
 # ╔═╡ bec00462-596a-11eb-1694-076c78f2ba95
 # Compose HTML reporting on status of text cataloging
@@ -411,15 +434,7 @@ end
 # ╔═╡ c9652ac8-5974-11eb-2dd0-654e93786446
 begin
 	loadem
-	try
-		catalogcheck()
-	catch e
-		msg = "<div class='danger'><h1>🧨🧨 Configuration error 🧨🧨</h1>" *
-		"<p>There were errors in <code>catalog.cex</code></p></div>" *
-		"<p><b>$(e)</b></p>"
-		HTML(msg)
-	end
-		
+	catalogcheck()
 end
 
 # ╔═╡ 4133cbbc-5971-11eb-0bcd-658721f886f1
@@ -590,11 +605,18 @@ begin
 	if surface == ""
 		md""
 	else
-		cellout = []
-		for r in eachrow(surfaceDse)
-			push!(cellout, mdForDseRow(r))
+
+			cellout = []
+		try
+			for r in eachrow(surfaceDse)
+				push!(cellout, mdForDseRow(r))
+			end
+			Markdown.parse(join(cellout,"\n"))
+		catch e
+			html"<p class='danger'>Problem with XML edition: see message below</p>"
 		end
-		Markdown.parse(join(cellout,"\n"))
+			
+	
 	end
 end
 
@@ -665,7 +687,7 @@ function tokenizeRow(row)
 		"<p class='warn'>⚠️  $(citation). No text configured</p>"
 	else
 
-		txt = diplnode(row.passage)
+		txt = normednode(row.passage)
 		tokenstart::Array{OrthographicToken} = []
 		tokens = tokenize(ortho, txt,tokenstart)
 		highlighted = map(t -> formatToken(ortho, t.text), tokens)
@@ -678,15 +700,19 @@ end
 # Orthographic verification:
 # display highlighted tokens for verification
 begin
+	loadem
 	if surface == ""
 		md""
 	else
 		htmlout = []
-		for r in eachrow(surfaceDse)
-			
-			push!(htmlout, tokenizeRow(r))
+		try 
+			for r in eachrow(surfaceDse)
+				push!(htmlout, tokenizeRow(r))
+			end
+			HTML(join(htmlout,"\n"))
+		catch e
+			html"<p class='danger'>Problem with XML edition: see message below</p>"
 		end
-		HTML(join(htmlout,"\n"))
 	end
 end
 
@@ -725,7 +751,7 @@ end
 # ╟─100a1942-573c-11eb-211e-371998789bfa
 # ╟─175f2e58-573c-11eb-3a36-f3142c341d93
 # ╟─43f724c6-573b-11eb-28d6-f9ec8adebb8a
-# ╠═2fdc8988-5736-11eb-262d-9b8d44c2e2cc
+# ╟─2fdc8988-5736-11eb-262d-9b8d44c2e2cc
 # ╟─4fa5738a-5737-11eb-0e78-0155bfc12112
 # ╟─0cabc908-5737-11eb-2ef9-d51aedfbbe5f
 # ╟─a7142d7e-5736-11eb-037b-5540068734e6
@@ -748,6 +774,7 @@ end
 # ╟─bf77d456-573d-11eb-05b6-e51fd2be98fe
 # ╟─b0a23a54-5bf8-11eb-07dc-eba00196b4f7
 # ╟─2d218414-573e-11eb-33dc-af1f2df86cf7
+# ╟─4a129b20-5e80-11eb-0b5c-b915b2919db8
 # ╟─bec00462-596a-11eb-1694-076c78f2ba95
 # ╟─4133cbbc-5971-11eb-0bcd-658721f886f1
 # ╟─9fcf6ece-5a89-11eb-2f2a-9d03a433c597
@@ -757,7 +784,7 @@ end
 # ╟─cb954628-574b-11eb-29e3-a7f277852b45
 # ╟─901ae238-573c-11eb-15e2-3f7611dacab7
 # ╟─d9495f98-574b-11eb-2ee9-a38e09af22e6
-# ╠═e57c9326-573b-11eb-100c-ed7f37414d79
+# ╟─e57c9326-573b-11eb-100c-ed7f37414d79
 # ╟─aac2d102-5829-11eb-2e89-ad4510c25f28
 # ╟─bdeb6d18-5827-11eb-3f90-8dd9e41a8c0e
 # ╟─6dd532e6-5827-11eb-1dea-696e884652ac
