@@ -15,7 +15,7 @@ sequence|urn|lemma|xlit|article
 14|urn:cite2:trmilli:lexicon.v1:m14|𐊀𐊓𐊓-|app-|*verb*, "take, seize".
 15|urn:cite2:trmilli:lexicon.v1:m15|𐊀𐊓𐊑𐊜𐊀𐊛𐊂𐊀-|apNxahba-|*noun*, "descendant".
 16|urn:cite2:trmilli:lexicon.v1:m16|𐊀𐊓𐊕𐊍𐊍𐊀-|aprlla-|*noun*, "Aperlai".
-17|urn:cite2:trmilli:lexicon.v1:m17||Aprllaze/i-|*noun*, "of Aperlai".
+17|urn:cite2:trmilli:lexicon.v1:m17|𐊀𐊓𐊕𐊍𐊍𐊀𐊈𐊁/𐊆|aprllaze/i-|*noun*, "of Aperlai".
 18|urn:cite2:trmilli:lexicon.v1:m18|𐊀𐊕𐊀-|ara-|*noun*, "rite".
 19|urn:cite2:trmilli:lexicon.v1:m19|𐊀𐊕𐊀𐊇𐊀-|arawa-|*noun*, "freedom".
 20|urn:cite2:trmilli:lexicon.v1:m20|𐊀𐊕𐊀𐊇𐊀𐊈𐊆𐊊𐊁-|arawaziye-|*noun*, used only in plural in singular sense, "monument".
@@ -37,14 +37,14 @@ sequence|urn|lemma|xlit|article
 36|urn:cite2:trmilli:lexicon.v1:m36|𐊀𐊈𐊈𐊀𐊍𐊀-|azzala-|*noun*, "decree" (or similar).
 37|urn:cite2:trmilli:lexicon.v1:m37|𐊙𐊋𐊀-|Aka-|*adverb*, "as, like".
 38|urn:cite2:trmilli:lexicon.v1:m38|𐊙𐊏𐊀𐊂𐊀𐊛𐊁-|Anabahe-|*noun*, (divine agent of punishment).
-39|urn:cite2:trmilli:lexicon.v1:m39||-be|*particle*.
-40|urn:cite2:trmilli:lexicon.v1:m40||-de|*particle*.
-41|urn:cite2:trmilli:lexicon.v1:m41||dderi-|*noun*, "curse" (??).
-42|urn:cite2:trmilli:lexicon.v1:m42||ddewe-|*noun*, "gift, dedication".
-43|urn:cite2:trmilli:lexicon.v1:m43||ddewe-|*verb*, "give, dedicate".
-44|urn:cite2:trmilli:lexicon.v1:m44||ddewi-|*verb*, "make a gift to" (or similar).
-45|urn:cite2:trmilli:lexicon.v1:m45||ddewe-|*verb*, "set aside" (?).
-46|urn:cite2:trmilli:lexicon.v1:m46||ddewe-|*noun*, "gift, dedication".
+39|urn:cite2:trmilli:lexicon.v1:m39|-𐊂𐊁|-be|*particle*.
+40|urn:cite2:trmilli:lexicon.v1:m40|-𐊅𐊁|-de|*particle*.
+41|urn:cite2:trmilli:lexicon.v1:m41|𐊅𐊅𐊁𐊕𐊆-|dderi-|*noun*, "curse" (??).
+42|urn:cite2:trmilli:lexicon.v1:m42|𐊅𐊅𐊁𐊇𐊁-|ddewe-|*noun*, "gift, dedication".
+43|urn:cite2:trmilli:lexicon.v1:m43|𐊅𐊅𐊁𐊇𐊁-|ddewe-|*verb*, "give, dedicate".
+44|urn:cite2:trmilli:lexicon.v1:m44|𐊅𐊅𐊁𐊇𐊆-|ddewi-|*verb*, "make a gift to" (or similar).
+45|urn:cite2:trmilli:lexicon.v1:m45|𐊅𐊅𐊁𐊈𐊁-|ddeze-|*verb*, "set aside" (?).
+46|urn:cite2:trmilli:lexicon.v1:m46|𐊅𐊅𐊁𐊇𐊁-|ddewe-|*noun*, "gift, dedication".
 47|urn:cite2:trmilli:lexicon.v1:m47|-𐊁|-e|*pronoun*, "they, them" (enclitic).
 48|urn:cite2:trmilli:lexicon.v1:m48||ddewe-|*noun*, "gift, dedication".
 49|urn:cite2:trmilli:lexicon.v1:m49|𐊁𐊂𐊁-|ebe-|*Demonstrative article*, "this".
@@ -55,49 +55,49 @@ sequence|urn|lemma|xlit|article
 54|urn:cite2:trmilli:lexicon.v1:m54|𐊁𐊂𐊁𐊆𐊍𐊆-|ebeili|*preposition, "here".
 55|urn:cite2:trmilli:lexicon.v1:m55|𐊁𐊂𐊆-|ebi|*conjunction, "or" (+ negative ="nor").
 56|urn:cite2:trmilli:lexicon.v1:m56|𐊁𐊂𐊆(𐊊𐊁)-|ebi(ye)-|*noun*, "local, of this place"
-57|urn:cite2:trmilli:lexicon.v1:m57||-ede|*pronoun*, "it, them"
-58|urn:cite2:trmilli:lexicon.v1:m58||ehbi(ye)-|*posessive pronoun*, "his"
-59|urn:cite2:trmilli:lexicon.v1:m59||eli-|*preverb*.
-60|urn:cite2:trmilli:lexicon.v1:m60||eliyAna-|*noun*, "(water-)nymph".
-61|urn:cite2:trmilli:lexicon.v1:m61||epa-|*verb*, "take possesion of, appropropriate".
-62|urn:cite2:trmilli:lexicon.v1:m62||ep(e)i-|*verb*, "levy" (or similar).
-63|urn:cite2:trmilli:lexicon.v1:m63||epenEtiya-|*verb*, "act as a seller/sales agent".
-64|urn:cite2:trmilli:lexicon.v1:m64||epewEtlMme|*noun*, "περίοικος".
-65|urn:cite2:trmilli:lexicon.v1:m65||epi|*adverb*, (local adverb with varying force): "upon" +Nte+_+ta-, +powe, +towe; "on top of that, moreover" +de.
-66|urn:cite2:trmilli:lexicon.v1:m66||epiriye-|*verb*, "sell" (+ -ti).
-67|urn:cite2:trmilli:lexicon.v1:m67||epN|*adverb*, "afterwards".
-68|urn:cite2:trmilli:lexicon.v1:m68||epNnEne/i|*noun*, "younger brother".
-69|urn:cite2:trmilli:lexicon.v1:m69||epNte|*adverb*, "thereafter".
-70|urn:cite2:trmilli:lexicon.v1:m70||epre/i|*noun*, "back-, rear-".
-71|urn:cite2:trmilli:lexicon.v1:m71||epri-|*noun*, "hand over" (or similar).
-72|urn:cite2:trmilli:lexicon.v1:m72||epttehe/i|*possesive pronoun*, "their".
-73|urn:cite2:trmilli:lexicon.v1:m73||erbbe-|*noun*, "strife, war, battle".
-74|urn:cite2:trmilli:lexicon.v1:m74||eri(ye)-|*verb*, "raise".
-75|urn:cite2:trmilli:lexicon.v1:m75||erBBazuma-|*noun*, (divine name or title).
-76|urn:cite2:trmilli:lexicon.v1:m76||ertEme/i-|*noun*, "Artemis".
-77|urn:cite2:trmilli:lexicon.v1:m77||erubliye-|*noun*, "monument".
-78|urn:cite2:trmilli:lexicon.v1:m78||erowe-|*verb*, "raise" or "exalt".
-79|urn:cite2:trmilli:lexicon.v1:m79||es-|*verb*, "be".
-80|urn:cite2:trmilli:lexicon.v1:m80||esbe-|*noun*, "horse".
-81|urn:cite2:trmilli:lexicon.v1:m81||esbEt(i)-|*noun*, "horseman, knight".
-82|urn:cite2:trmilli:lexicon.v1:m82||ese-|*preverb*.
+57|urn:cite2:trmilli:lexicon.v1:m57|-𐊁𐊅𐊁|-ede|*pronoun*, "it, them"
+58|urn:cite2:trmilli:lexicon.v1:m58|𐊁𐊛𐊂𐊆(𐊊𐊁)-|ehbi(ye)-|*posessive pronoun*, "his"
+59|urn:cite2:trmilli:lexicon.v1:m59|𐊁𐊍𐊆|eli-|*preverb*.
+60|urn:cite2:trmilli:lexicon.v1:m60|𐊁𐊍𐊆𐊊𐊙𐊏𐊀-|eliyAna-|*noun*, "(water-)nymph".
+61|urn:cite2:trmilli:lexicon.v1:m61|𐊁𐊓𐊀-|epa-|*verb*, "take possesion of, appropropriate".
+62|urn:cite2:trmilli:lexicon.v1:m62|𐊁𐊓(𐊁)𐊆-|ep(e)i-|*verb*, "levy" (or similar).
+63|urn:cite2:trmilli:lexicon.v1:m63|𐊁𐊓𐊁𐊏𐊚𐊗𐊆𐊊𐊀-|epenEtiya-|*verb*, "act as a seller/sales agent".
+64|urn:cite2:trmilli:lexicon.v1:m64|𐊁𐊓𐊁𐊇𐊚𐊗𐊍𐊐𐊎𐊁|epewEtlMme|*noun*, "περίοικος".
+65|urn:cite2:trmilli:lexicon.v1:m65|𐊁𐊓𐊆|epi|*adverb*, (local adverb with varying force): "upon" +Nte+_+ta-, +powe, +towe; "on top of that, moreover" +de.
+66|urn:cite2:trmilli:lexicon.v1:m66|𐊁𐊓𐊆𐊕𐊆𐊊𐊁-|epiriye-|*verb*, "sell" (+ -ti).
+67|urn:cite2:trmilli:lexicon.v1:m67|𐊁𐊓𐊑|epN|*adverb*, "afterwards".
+68|urn:cite2:trmilli:lexicon.v1:m68|𐊁𐊓𐊑𐊏𐊚𐊏𐊁/𐊆|epNnEne/i|*noun*, "younger brother".
+69|urn:cite2:trmilli:lexicon.v1:m69|𐊁𐊓𐊑𐊗𐊁|epNte|*adverb*, "thereafter".
+70|urn:cite2:trmilli:lexicon.v1:m70|𐊁𐊓𐊕𐊁/𐊆|epre/i|*noun*, "back-, rear-".
+71|urn:cite2:trmilli:lexicon.v1:m71|𐊁𐊓𐊕𐊆-|epri-|*noun*, "hand over" (or similar).
+72|urn:cite2:trmilli:lexicon.v1:m72|𐊁𐊓𐊗𐊗𐊁𐊛𐊁/𐊆|epttehe/i|*possesive pronoun*, "their".
+73|urn:cite2:trmilli:lexicon.v1:m73|𐊁𐊕𐊂𐊂𐊁-|erbbe-|*noun*, "strife, war, battle".
+74|urn:cite2:trmilli:lexicon.v1:m74|𐊁𐊕𐊆(𐊊𐊁)-|eri(ye)-|*verb*, "raise".
+75|urn:cite2:trmilli:lexicon.v1:m75|𐊁𐊕𐊃𐊃𐊀𐊈𐊒𐊎𐊀|erBBazoma-|*noun*, (divine name or title).
+76|urn:cite2:trmilli:lexicon.v1:m76|𐊁𐊕𐊗𐊚𐊎𐊁/𐊆-|ertEme/i-|*noun*, "Artemis".
+77|urn:cite2:trmilli:lexicon.v1:m77|𐊁𐊕𐊒𐊂𐊍𐊆𐊊𐊁-|erobliye-|*noun*, "monument".
+78|urn:cite2:trmilli:lexicon.v1:m78|𐊁𐊕𐊒𐊇𐊁-|erowe-|*verb*, "raise" or "exalt".
+79|urn:cite2:trmilli:lexicon.v1:m79|𐊁𐊖-|es-|*verb*, "be".
+80|urn:cite2:trmilli:lexicon.v1:m80|𐊁𐊖𐊂𐊁-|esbe-|*noun*, "horse".
+81|urn:cite2:trmilli:lexicon.v1:m81|𐊁𐊖𐊂𐊚𐊗𐊆|esbEt(i)-|*noun*, "horseman, knight".
+82|urn:cite2:trmilli:lexicon.v1:m82|𐊁𐊖𐊁-|ese-|*preverb*.
 83|urn:cite2:trmilli:lexicon.v1:83|𐊁𐊖𐊁𐊅𐊚𐊑𐊁𐊇𐊁-|esedENnewe-|*noun*, "consanguineal descendant(s)".
-84|urn:cite2:trmilli:lexicon.v1:m84||eseri-|*preverb*, similar to Latin preposition "de-".
-85|urn:cite2:trmilli:lexicon.v1:m85||esEnemla-|*noun*, "blood sacrifice".
-86|urn:cite2:trmilli:lexicon.v1:m86||eti|*noun*, "father".
+84|urn:cite2:trmilli:lexicon.v1:m84|𐊁𐊖𐊁𐊕𐊆-|eseri-|*preverb*, similar to Latin preposition "de-".
+85|urn:cite2:trmilli:lexicon.v1:m85|𐊁𐊖𐊚𐊏𐊁𐊎𐊍𐊀-|esEnemla-|*noun*, "blood sacrifice".
+86|urn:cite2:trmilli:lexicon.v1:m86|𐊁𐊗𐊆|eti|*noun*, "father".
 87|urn:cite2:trmilli:lexicon.v1:m87||esbEt(i)-|*noun*, "horseman, knight".
-88|urn:cite2:trmilli:lexicon.v1:m88||E|*particle*, "if".
+88|urn:cite2:trmilli:lexicon.v1:m88|𐊚|E|*particle*, "if".
 89|urn:cite2:trmilli:lexicon.v1:m89|-𐊚|-E|*pronoun*, "him, her, it".
-90|urn:cite2:trmilli:lexicon.v1:m90||Eke-|*adverb*, "when".
-91|urn:cite2:trmilli:lexicon.v1:m91||Ekepi|*adverb*, "before. until".
+90|urn:cite2:trmilli:lexicon.v1:m90|𐊚𐊋𐊁-|Eke-|*adverb*, "when".
+91|urn:cite2:trmilli:lexicon.v1:m91|𐊚𐊋𐊁𐊓𐊆|Ekepi|*adverb*, "before. until".
 92|urn:cite2:trmilli:lexicon.v1:m92|𐊚𐊎𐊆-|Emi-|*possesive pronouns*, "my".
-93|urn:cite2:trmilli:lexicon.v1:m93||Emo-|*pronoun*, "I, me".
-94|urn:cite2:trmilli:lexicon.v1:m94||Ene/i-|*noun*, "mother".
-95|urn:cite2:trmilli:lexicon.v1:m95||EnE|*preposition*, "under".
-96|urn:cite2:trmilli:lexicon.v1:m96||Eti-|*adverb, preposition*, "down" (preverb), "under; in, on" (preposition).
-97|urn:cite2:trmilli:lexicon.v1:m97||Etre/i-|*adjective*, "lower".
-98|urn:cite2:trmilli:lexicon.v1:m98||gasabala-|*noun*, (title).
-99|urn:cite2:trmilli:lexicon.v1:m99||ha-|*verb*, "release, let go".
+93|urn:cite2:trmilli:lexicon.v1:m93|𐊚𐊎𐊒|Emo-|*pronoun*, "I, me".
+94|urn:cite2:trmilli:lexicon.v1:m94|𐊚𐊏𐊁/𐊆-|Ene/i-|*noun*, "mother".
+95|urn:cite2:trmilli:lexicon.v1:m95|𐊚𐊏𐊚|EnE|*preposition*, "under".
+96|urn:cite2:trmilli:lexicon.v1:m96|𐊚𐊗𐊆-|Eti-|*adverb, preposition*, "down" (preverb), "under; in, on" (preposition).
+97|urn:cite2:trmilli:lexicon.v1:m97|𐊚𐊗𐊕𐊁/𐊆-|Etre/i-|*adjective*, "lower".
+98|urn:cite2:trmilli:lexicon.v1:m98|𐊄𐊀𐊖𐊀𐊂𐊀𐊍𐊀-|gasabala-|*noun*, (title).
+99|urn:cite2:trmilli:lexicon.v1:m99|𐊛𐊀|ha-|*verb*, "release, let go".
 100|urn:cite2:trmilli:lexicon.v1:m100||haxlaza-|*noun*, (administrative title for representative of Persian king).
 101|urn:cite2:trmilli:lexicon.v1:m101||hAta-|*adjective*, "deceased".
 102|urn:cite2:trmilli:lexicon.v1:m102||hAta-|*noun*, "Sanda".
