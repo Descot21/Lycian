@@ -1,3 +1,4 @@
+# Lycian Divinities Chart
 According to Bryce 1986
 | Divinity |    Epithets   |    Description  |    Function  |    Sources   |
 |----------|---------------|-----------------|--------------|--------------|
@@ -16,3 +17,8 @@ According to Bryce 1986
 | padrita- | | Lycian translation of Aphrodite | | TL 44b.53, N307a
 | leθθe/i- | possible translation of Greek "Leto"(?) | In Greek and Roman sources, Leto is associated with Lycia. However, the Lycian inscriptions don't definitively reflect her presence. She might be conflated with Eni, but also might exist as a distinct goddess as leθθi. All conjecture. | | TL 44b.61
 | kakasbos| "the rider god" | | appears in Greek inscripitons, no clear indentification in Lycian inscriptions (possible variant xaxakba in N314b)|
+
+
+## *Maliya*
+
+insert passage on Maliya
