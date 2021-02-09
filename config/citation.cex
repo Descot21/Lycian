@@ -18,6 +18,7 @@ urn:cts:trmilli:tl.88.v1:|tl88.xml|simpleAbReader|LiteralTextBuilder("Literal te
 urn:cts:trmilli:tl.89.v1:|tl89.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|lycianAscii()
 urn:cts:trmilli:tl.102.v1:|tl102.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|lycianAscii()
 urn:cts:trmilli:tl.106.v1:|tl106.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|lycianAscii()
+urn:cts:trmilli:tl.110.v1:|tl110.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|lycianAscii()
 urn:cts:trmilli:tl.117.v1:|tl117.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|lycianAscii()
 urn:cts:trmilli:tl.120.v1:|tl120.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|lycianAscii()
 urn:cts:trmilli:tl.123.v1:|tl123.xml|simpleAbReader|LiteralTextBuilder("Literal text builder","rawtext")|LiteralTextBuilder("Literal text builder","rawtext")|lycianAscii()
