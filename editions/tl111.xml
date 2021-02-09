@@ -17,13 +17,13 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"></ab>
-     <ab n="2"></ab>
-     <ab n="3"></ab>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
-     <ab n="6"></ab>
-     <ab n="7"></ab>
+     <ab n="1">ebENnE : xopA : me=ti : <w>prNnawat<supplied>E</supplied></w> <persName><w>erzesinobe</w></persName> : komaza : <persName><w><choice><sic>r</sic><corr>t</corr></choice><choice><sic>a</sic><corr>r</corr></choice>zzoba</w></persName></ab>
+     <ab n="2">tAti : ebNnE : ebei : tiye : <w>h<supplied>r</supplied>ppi</w> <w><supplied>tA</supplied>ti</w> tike : ebei : <w>etli<supplied>hi</supplied></w> <gap quantity="2" unit="chars"/> : e</ab>
+     <ab n="3">me ttlidi : kbisNtAta : AMmAm : qlebi : <w>kerot<unclear>i</unclear></w> : e</ab>
+     <ab n="4">se ttlidi : <persName><w>trzzobi</w></persName> : AMmAma : kbisNtAta : owa : <w>k<unclear>iy</unclear>o</w></ab>
+     <ab n="5">ebei : E : kepi : Ntepi siyEni : hri : hladi ti : me ttlidiyE : i</ab>
+     <ab n="6">tise tise : prNnawati : sedetti : <w n="6">epiri</w></ab>
+     <ab n="7"><w n="6">yeti</w></ab>
     </body>
   </text>
 </TEI>
