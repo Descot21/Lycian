@@ -3,5 +3,4 @@ title: "Eni"
 layout: page
 ---
 
-# Eni 
-## The Mother Goddess
+# Eni, *the mother goddess*
