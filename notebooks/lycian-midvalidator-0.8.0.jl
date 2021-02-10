@@ -47,6 +47,10 @@ begin
 	using Markdown
 	using Orthography
 
+	
+	
+	Pkg.add("PolytonicGreek")
+	using PolytonicGreek
 end
 
 # ╔═╡ 7ee4b3a6-573d-11eb-1470-67a241783b23
@@ -726,7 +730,8 @@ begin
 			end
 			HTML(join(htmlout,"\n"))
 		catch e
-			html"<p class='danger'>Problem with XML edition: see message below</p>"
+			msg = "<p class='danger'>Problem with XML edition: $(e)</p>"
+			HTML(msg)
 		end
 	end
 end
