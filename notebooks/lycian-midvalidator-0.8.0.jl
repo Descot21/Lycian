@@ -18,19 +18,7 @@ end
 begin
 	import Pkg
 	Pkg.activate(".")
-	Pkg.add("PlutoUI")
-	Pkg.add("CitableText")
-	Pkg.add("CitableObject")
-	Pkg.add("CitableImage")
-	Pkg.add("CitableTeiReaders")
-	Pkg.add("CSV")
-	Pkg.add("DataFrames")
-	Pkg.add("EditionBuilders")
-	Pkg.add("EditorsRepo")
-	Pkg.add("HTTP")
-	Pkg.add("Lycian")
-	Pkg.add("Markdown")
-	Pkg.add("Orthography")
+	Pkg.instantiate()
 	
 
 	using PlutoUI
@@ -737,7 +725,7 @@ begin
 end
 
 # ╔═╡ Cell order:
-# ╟─0589b23a-5736-11eb-2cb7-8b122e101c35
+# ╠═0589b23a-5736-11eb-2cb7-8b122e101c35
 # ╟─fef09e62-5748-11eb-0944-c983eef98e1b
 # ╟─22980f4c-574b-11eb-171b-170c4a68b30b
 # ╟─7ee4b3a6-573d-11eb-1470-67a241783b23
