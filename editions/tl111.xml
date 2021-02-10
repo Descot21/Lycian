@@ -17,7 +17,18 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1">ebENnE : xopA : me=ti : <w>prNnawat<supplied>E</supplied></w> <persName><w>erzesinobe</w></persName> : komaza : <persName><w><choice><sic>r</sic><corr>t</corr></choice><choice><sic>a</sic><corr>r</corr></choice>zzoba</w></persName></ab>
+     <ab n="1">ebENnE : xopA : me=ti : <w>prNnawat<supplied>E</supplied></w> 
+      <persName>erzesinobe</persName> : komaza : 
+      <persName>
+     
+        <choice>
+          <sic>razzoba</sic>
+          <corr>trzzoba</corr>
+        </choice>
+      </persName>
+      
+      
+      </ab>
      <ab n="2">tAti : ebNnE : ebei : tiye : <w>h<supplied>r</supplied>ppi</w> <w><supplied>tA</supplied>ti</w> tike : ebei : <w>etli<supplied>hi</supplied></w> <gap quantity="2" unit="chars"/> : e</ab>
      <ab n="3">me ttlidi : kbisNtAta : AMmAm : qlebi : <w>kerot<unclear>i</unclear></w> : e</ab>
      <ab n="4">se ttlidi : <persName><w>trzzobi</w></persName> : AMmAma : kbisNtAta : owa : <w>k<unclear>iy</unclear>o</w></ab>
