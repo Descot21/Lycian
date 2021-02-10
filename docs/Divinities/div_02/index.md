@@ -1,6 +1,6 @@
 ---
-title: "Trqqas"
+title: "Eni"
 layout: page
 ---
 
-# Trqqas, the storm god
+# Trqqas, *the storm god*
