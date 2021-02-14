@@ -1,5 +1,5 @@
 ---
-title: "Trqqas"
+title: "trqqas"
 layout: page
 parent: Divinities
 nav_order: 2
