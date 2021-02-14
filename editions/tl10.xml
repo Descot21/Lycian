@@ -17,7 +17,7 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"><persName><w>pttlezEi</w></persName> : <persName><w>sb<supplied>i</supplied>kazah</w></persName> : <w><unclear>t</unclear>ideimi</w></ab>
+     <ab n="1"><persName>pttlezEi</persName> : <persName><w>sb<supplied>i</supplied>kazah</w></persName> : <w><unclear>t</unclear>ideimi</w></ab>
     </body>
   </text>
 </TEI>

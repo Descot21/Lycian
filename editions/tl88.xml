@@ -17,12 +17,12 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1">ebENnE prNnawA me=ne <w><unclear>p</unclear>rNnawatE</w> <persName><w>ddaqasa</w></persName> <persName><w>sttoleh</w></persName> :</ab>
-     <ab n="2">tideimi hrpi ladi ehbi se tideime se Eke lati <persName><w>ddaqasa</w></persName></ab>
+     <ab n="1">ebENnE prNnawA me=ne <w><unclear>p</unclear>rNnawatE</w> <persName>ddaqasa</persName> <persName>sttoleh</persName> :</ab>
+     <ab n="2">tideimi hrpi ladi ehbi se tideime se Eke lati <persName>ddaqasa</persName></ab>
      <ab n="3">me=ne Ntepi tAti Ntipa <w>te<choice><sic>N</sic><corr>z</corr></choice>i</w> se ladA ehbi kbi tike mei nipe Ntepi tAto</ab>
      <ab n="4">tibei nipe hlMmi toweto hlMmi mei toweti tike tibei</ab>
      <ab n="5">Ntepi tadi tik<unclear>e</unclear> me=ne itlehi tobeiti trMmili : howedri</ab>
-     <ab n="6">se <persName><w>trqqas</w></persName> se mAhAi howedri</ab>
+     <ab n="6">se <persName>trqqas</persName> se mAhAi howedri</ab>
     </body>
   </text>
 </TEI>

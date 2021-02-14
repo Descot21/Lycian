@@ -17,11 +17,11 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1">ebENnE : xopA : <w>mE=n<supplied>e</supplied></w> <w><supplied>pr</supplied>NnawatE</w> <persName><w>tettMpe</w></persName> :</ab>
-     <ab n="2"><persName><w>hNtihAmah</w></persName> <w>tid<supplied>ei</supplied>mi</w> se ne Nte : tAti tde</ab>
+     <ab n="1">ebENnE : xopA : <w>mE=n<supplied>e</supplied></w> <w><supplied>pr</supplied>NnawatE</w> <persName>tettMpe</persName> :</ab>
+     <ab n="2"><persName>hNtihAmah</persName> <w>tid<supplied>ei</supplied>mi</w> se ne Nte : tAti tde</ab>
      <ab n="3"><w>i<supplied>s</supplied>bazi</w> : me iye : ne <w>hr<supplied>ppi</supplied></w> tAto : tike MmE : ladA tiye</ab>
      <ab n="4"><w><supplied>hrpp</supplied>i</w> <w><choice><sic>e</sic><corr>l</corr></choice>a<supplied>t</supplied></w> hrppi <gap quantity="4" unit="chars"/>i : tadi : tike : <w>kb<supplied>i</supplied></w> mE=ne</ab>
-     <ab n="5"><w>to<supplied>b</supplied>idi</w> : <w>q<supplied>l</supplied>a<supplied>y</supplied>eb</w>  <w><supplied>s</supplied>e</w> <persName><w>maliya</w></persName> : se <w>t<gap quantity="3" unit="chars"/></w> : miNtaha</ab>
+     <ab n="5"><w>to<supplied>b</supplied>idi</w> : <w>q<supplied>l</supplied>a<supplied>y</supplied>eb</w>  <w><supplied>s</supplied>e</w> <persName>maliya</persName> : se <w>t<gap quantity="3" unit="chars"/></w> : miNtaha</ab>
     </body>
   </text>
 </TEI>

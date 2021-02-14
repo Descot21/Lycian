@@ -18,7 +18,7 @@
   <text>
     <body>
      <ab n="1"><w>ebE<supplied>N</supplied>nE</w> : xopA : me=ne prNnewAtE</ab>
-     <ab n="2"><persName><w>slMm<supplied>e</supplied>we</w></persName> : <persName><w>pNnoteh</w></persName> : tideimi : se <persName><w>howe<gap quantity="1" unit="chars"/>tEne</w></persName></ab>
+     <ab n="2"><persName><w>slMm<supplied>e</supplied>we</w></persName> : <persName>pNnoteh</persName> : tideimi : se <persName><w>howe<gap quantity="1" unit="chars"/>tEne</w></persName></ab>
     </body>
   </text>
 </TEI>

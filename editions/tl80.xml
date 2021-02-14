@@ -17,9 +17,9 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1">ebeNnE : xopA : me=ne prNnawatE <persName><w>xakbiya</w></persName> hrppi ladi ehbi se <w n="1">tide<supplied>i</supplied></w></ab>
+     <ab n="1">ebeNnE : xopA : me=ne prNnawatE <persName>xakbiya</persName> hrppi ladi ehbi se <w n="1">tide<supplied>i</supplied></w></ab>
      <ab n="2"><w n="1">me</w> se=i ne Ntepi tAto tiyenede xowati tike mei me=ne</ab>
-     <ab n="3">as tobidi se <persName><w>maliya</w></persName> <w>eriyo<supplied>p</supplied>ama</w></ab>
+     <ab n="3">as tobidi se <persName>maliya</persName> <w>eriyo<supplied>p</supplied>ama</w></ab>
     </body>
   </text>
 </TEI>
