@@ -1,8 +1,8 @@
 ---
-title: "Maliya"
+title: "maliya"
 layout: page
 parent: Divinities
 nav_order: 3
 ---
 
-# Maliya, *the punisher*
+# maliya, *the punisher*
