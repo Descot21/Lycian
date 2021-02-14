@@ -1,9 +1,9 @@
 ---
-title: "Qeli"
+title: "qeli"
 layout: page
 parent: Divinities
 nav_order: 5
 ---
 
-# Qeli, *the goddess of grain*
+# qeli, *the goddess of grain*
 
