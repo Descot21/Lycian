@@ -1,6 +1,6 @@
 ---
-title: "leθθe"
+title: "natri"
 layout: page
 parent: Divinities
-nav_order: 13
+nav_order: 10
 ---
