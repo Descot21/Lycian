@@ -45,7 +45,7 @@ nav_order: 1
  |   Lycian Symbol    |    Transcription    |
 |---------------------|---------------------|
  ![Funky Group 1](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.3606,0.5251,0.04275,0.03078&wID=30&CVT=JPEG) ![Funky Group 2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.3674,0.5597,0.07931,0.03580&wID=40&CVT=JPEG) ![Funky Group 3](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.5973,0.5144,0.07187,0.03580&wID=50&CVT=JPEG) ![Funky Group 4](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0079.tif&RGN=0.7230,0.5427,0.07311,0.03266&wID=50&CVT=JPEG)           |   numerical   |
- ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2717,0.05695,0.02367,0.1859&wID=30&CVT=JPEG)           |   :    |
+ ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.2717,0.05695,0.02367,0.1859&wID=30&CVT=JPEG)        |   :    |
 
 -------------
 *to be revised*
