@@ -15,9 +15,9 @@ The Lycian maliya---as far as we can tell---bears a close resemblance to the Luw
 
 In sepuchral inscriptions, maliya mostly features as a disciplinary agent invoked by the tomb's owner to punish violators (see TL 75.5, 80.3, 149.2 and 12, and 150.6). For instance, the tomb owner hNtihAma in TL 75 writes:
 
-> 𐊗𐊀𐊅𐊆 : 𐊗𐊆𐊋𐊁 : 𐊋𐊂𐊆 𐊎𐊚𐊏𐊁 𐊗𐊒𐊂𐊆𐊅𐊆 : 𐊌\[𐊍]𐊀\[𐊊]𐊁𐊂\[𐊆 𐊖]𐊁 𐊎𐊀𐊍𐊆𐊊𐊀 : 𐊖𐊁 𐊗\[𐊀𐊖𐊀] : 𐊎𐊆𐊑𐊗𐊀𐊛𐊀\
-> tadi : tike : kbi mEne tobidi : qlayebi se maliya : se tasa : miNtaha\
-> "Whoever places anythone else upon \[the individuals already entombed], this *qla* and maliya and the oaths of the miNti will punish him." 
+> 𐊗𐊀𐊅𐊆 : 𐊗𐊆𐊋𐊁 : 𐊋𐊂𐊆 𐊎𐊚𐊏𐊁 𐊗𐊒𐊂𐊆𐊅𐊆 : 𐊌\[𐊍]𐊀\[𐊊]𐊁𐊂\[𐊆 𐊖]𐊁 **𐊎𐊀𐊍𐊆𐊊𐊀** : 𐊖𐊁 𐊗\[𐊀𐊖𐊀] : 𐊎𐊆𐊑𐊗𐊀𐊛𐊀\
+> *tadi : tike : kbi mEne tobidi : qlayebi se **maliya** : se tasa : miNtaha*\
+> "Whoever places anytone else upon \[the individuals already entombed], this *qla* and maliya and the oaths of the miNti will punish him." 
 
 *insert something here about her epithet in tl 44 "sacker of cities"*
 
