@@ -6,6 +6,6 @@ nav_order: 1
 ---
 
 
-# All the words beginning 𐊀- !
+# 𐊀, a
 
-- 𐊀𐊅𐊀𐊆(𐊊𐊁), **adai(ye)-** *noun*: "quantity of ade-"
+- 𐊀𐊅𐊀𐊆(𐊊𐊁), **adai(ye)-** *noun*, "quantity of ade-"
