@@ -82,9 +82,9 @@ function diplmarkdown(nodelist)
     nodelist)
     lycian = join(lycianitems, "\n\n")
     blocks = ["## Diplomatic edition",
-    "Transcription",
+    "*Transcription*",
     xcription,
-    "Unicode Lycian",
+    "*Unicode Lycian*",
     lycian
     ]
     join(blocks, "\n\n")
