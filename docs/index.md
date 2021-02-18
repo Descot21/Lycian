@@ -1,6 +1,7 @@
 ---
 title: "Home Page"
 layout: page
+nav_order: 1
 ---
 
 # Trmilli Texts
