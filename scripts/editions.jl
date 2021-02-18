@@ -76,10 +76,15 @@ end
 function diplmarkdown(nodelist)
     items = map(cn -> "`" * passagecomponent(cn.urn) * "` " * cn.text, nodelist)
     xcription = join(items,"\n\n")
-    lycianitems = map(cn -> 
-    "`" * passagecomponent(cn.urn) * 
-    "` " * Lycian.ucode(cn.text), 
-    nodelist)
+    lycianitems = []
+    for cn in nodelist
+        try 
+         push!(lycianitems, "`" * passagecomponent(cn.urn) * 
+        "` " * Lycian.ucode(cn.text))
+        catch e
+            push!(lycianitems, "Could not convert: $(e)")
+        end
+    end
     lycian = join(lycianitems, "\n\n")
     blocks = ["## Diplomatic edition",
     "*Transcription*",

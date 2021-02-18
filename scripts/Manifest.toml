@@ -220,9 +220,9 @@ uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
 
 [[Lycian]]
 deps = ["DocStringExtensions", "Documenter", "Orthography", "Test"]
-git-tree-sha1 = "0e60ee71aa0ca0f7e403045738787529301b084a"
+git-tree-sha1 = "92df94c85a6e84dfa786821a97418afc3fd16f06"
 uuid = "7c215dd3-d1b4-4517-b6c6-0123f1059a20"
-version = "0.1.6"
+version = "0.1.7"
 
 [[Markdown]]
 deps = ["Base64"]
