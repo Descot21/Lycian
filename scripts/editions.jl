@@ -2,11 +2,12 @@
 using Pkg
 Pkg.activate(".")
 
-using EditorsRepo
 using CitableText
+using CitableTeiReaders
 using CSV
 using DataFrames
-
+using EditorsRepo
+using Lycian
 
 function citation(repo::EditingRepository)
 	arr = CSV.File(repo.root * "/" * repo.configs * "/citation.cex", skipto=2, delim="|", 
@@ -71,15 +72,40 @@ function textforurn_df(df, urn)
 	end
 end
 
+
+function diplmarkdown(nodelist)
+    items = map(cn -> "`" * passagecomponent(cn.urn) * "` " * cn.text, nodelist)
+    xcription = join(items,"\n\n")
+    lycianitems = map(cn -> 
+    "`" * passagecomponent(cn.urn) * 
+    "` " * Lycian.ucode(cn.text), 
+    nodelist)
+    lycian = join(lycianitems, "\n\n")
+    blocks = ["## Diplomatic edition",
+    "Transcription",
+    xcription,
+    "Unicode Lycian",
+    lycian
+    ]
+    join(blocks, "\n\n")
+end
+
 for txt in online
     fname = editionfile(txt, textroot)
     top = yamlplus(txt)
-    open(fname, "w") do io
-        print(io, top)
-    end
-    xmlfile = textforun(citedf, CtsUrn(txt.urn))
+
+    urnlabel = string("`", txt.urn, "`\n\n")
+    urn = CtsUrn(txt.urn)
+    xmlfile = textforurn(repo, urn)
+    converter = o2converter(repo, urn)
     # now make it citable
-    # then make it univocal
+    dipl = diplomaticnodes(repo,urn)
+    normed = normalizednodes(repo,urn)
+    
+    document = join([top, urnlabel], "\n\n")    
+    open(fname, "w") do io
+        print(io, document, diplmarkdown(dipl))
+    end
 end
 
 
