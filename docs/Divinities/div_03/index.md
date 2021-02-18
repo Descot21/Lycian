@@ -7,6 +7,8 @@ nav_order: 3
 
 # maliya, *the punisher*
 
+`urn:cite2:trmilli:divinities.v1:div_03`
+
 The goddess maliya (𐊎𐊀𐊍𐊆𐊊𐊀) is one of the most prominent Lycian divinities. She appears in ten separate inscriptions, usually as a disciplinary agent on tombs.
 
 maliya's origins most likely lie in the Anatolian bronze age. The Luwians worshiped her as a "the mother of wine and grain" and she had close associations with mountains and rivers. In fact, one inscription (KUB 38.33) refers to a river maliya, and the goddess "maliya of the river" who governs it. she is frequently invoked in conjunction with other major Luwian deities like tarhunt (see trqqas), tiwad (the sun-god) and kamrushepa, placing her at the among one of the most widespread Luwian deities. Interestingly, the Luwians also honored two goddesses titled the maliyanni (little-maliyas). These goddesses were invoked in a religio-magical ritual wherein devotees would dig a pit full of cakes in front of the maliyanni's cult statue in order to restore fertility to a vinyard. 
