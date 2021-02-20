@@ -1,5 +1,5 @@
 ---
-title: 𐊀
+title: 𐊀, a
 layout: page
 parent: Lexicon
 nav_order: 1
