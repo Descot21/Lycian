@@ -47,21 +47,21 @@ version = "0.2.1"
 
 [[CitablePhysicalText]]
 deps = ["CitableObject", "CitableText", "DataFrames", "DocStringExtensions", "Documenter", "Test"]
-git-tree-sha1 = "bb6cea258c75fc0066ca595e85c14072c8582cfb"
+git-tree-sha1 = "140047ee7ee51a83c93e6786cdbe781836d82b9b"
 uuid = "e38a874e-a7c2-4ff3-8dea-81ae2e5c9b07"
-version = "0.2.0"
+version = "0.2.1"
 
 [[CitableTeiReaders]]
 deps = ["CitableText", "DocStringExtensions", "Documenter", "EzXML", "Test"]
-git-tree-sha1 = "ca77ff3536da3f9406aa3f38e16889164401bd29"
+git-tree-sha1 = "333cf1ca4d2e06337a980e96b78eebe46b3898b5"
 uuid = "b4325aa9-906c-402e-9c3f-19ab8a88308e"
-version = "0.4.3"
+version = "0.5.0"
 
 [[CitableText]]
 deps = ["BenchmarkTools", "CSV", "CitableBase", "DataFrames", "DocStringExtensions", "Documenter", "HTTP", "Test"]
-git-tree-sha1 = "86b6a790e2af40f6c3db5d7bb12aacc223d6c9a5"
+git-tree-sha1 = "457b7f9bd625b2988ffc32f59122e778bdee4f2a"
 uuid = "41e66566-473b-49d4-85b7-da83b66615d8"
-version = "0.4.1"
+version = "0.6.0"
 
 [[Compat]]
 deps = ["Base64", "Dates", "DelimitedFiles", "Distributed", "InteractiveUtils", "LibGit2", "Libdl", "LinearAlgebra", "Markdown", "Mmap", "Pkg", "Printf", "REPL", "Random", "SHA", "Serialization", "SharedArrays", "Sockets", "SparseArrays", "Statistics", "Test", "UUIDs", "Unicode"]
@@ -122,15 +122,15 @@ version = "0.26.2"
 
 [[EditionBuilders]]
 deps = ["CitableText", "DocStringExtensions", "Documenter", "EzXML", "Test"]
-git-tree-sha1 = "25d577053324bfe297aefb66a1a07ecdc0b060d4"
+git-tree-sha1 = "ff5f83743d379a2f7669a74c6d27dd506cde814f"
 uuid = "2fb66cca-c1f8-4a32-85dd-1a01a9e8cd8f"
-version = "0.2.12"
+version = "0.3.0"
 
 [[EditorsRepo]]
 deps = ["CSV", "CategoricalArrays", "CitableBase", "CitableObject", "CitablePhysicalText", "CitableTeiReaders", "CitableText", "DataFrames", "DocStringExtensions", "Documenter", "EditionBuilders", "Lycian", "Orthography", "PolytonicGreek", "PooledArrays", "Test"]
-git-tree-sha1 = "fda67e66f26e602b3ee6c89a513700b57541c0f3"
+git-tree-sha1 = "0798b19873e17fba107976d9059aafd3a9b3394d"
 uuid = "3fa2051c-bcb6-4d65-8a68-41ff86d56437"
-version = "0.6.13"
+version = "0.7.1"
 
 [[EzXML]]
 deps = ["Printf", "XML2_jll"]
@@ -220,9 +220,9 @@ uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
 
 [[Lycian]]
 deps = ["DocStringExtensions", "Documenter", "Orthography", "Test"]
-git-tree-sha1 = "92df94c85a6e84dfa786821a97418afc3fd16f06"
+git-tree-sha1 = "eb1e324fc2262181a575bc6948ffc69c9ebfee49"
 uuid = "7c215dd3-d1b4-4517-b6c6-0123f1059a20"
-version = "0.1.7"
+version = "0.1.8"
 
 [[Markdown]]
 deps = ["Base64"]
@@ -278,9 +278,9 @@ uuid = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [[Pluto]]
 deps = ["Base64", "Dates", "Distributed", "FuzzyCompletions", "HTTP", "InteractiveUtils", "Logging", "Markdown", "MsgPack", "Pkg", "REPL", "Sockets", "Tables", "UUIDs"]
-git-tree-sha1 = "fe1fdbff28f179216a1e756bd5494057b036945f"
+git-tree-sha1 = "63f2a51822bc5f402d6f1175f1ed751102f9c39a"
 uuid = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
-version = "0.12.20"
+version = "0.12.21"
 
 [[PlutoUI]]
 deps = ["Base64", "Dates", "Logging", "Markdown", "Random", "Suppressor"]
@@ -290,9 +290,9 @@ version = "0.6.11"
 
 [[PolytonicGreek]]
 deps = ["DocStringExtensions", "Documenter", "Orthography", "Test", "Unicode"]
-git-tree-sha1 = "71cdcc713f3c3867edcd64745f9d747d4d33594c"
+git-tree-sha1 = "7d0b1310564b18137fcef1bed778acc2af44ddfd"
 uuid = "72b824a7-2b4a-40fa-944c-ac4f345dc63a"
-version = "0.1.2"
+version = "0.2.0"
 
 [[PooledArrays]]
 deps = ["DataAPI"]
@@ -358,9 +358,9 @@ uuid = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
 [[StructTypes]]
 deps = ["Dates", "UUIDs"]
-git-tree-sha1 = "65a43f5218197bc7091b76bc273a5e323a1d7b0d"
+git-tree-sha1 = "5df8d5254973ce3e4532443aa3cd2a1134d227d5"
 uuid = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
-version = "1.2.3"
+version = "1.3.0"
 
 [[Suppressor]]
 git-tree-sha1 = "a819d77f31f83e5792a76081eee1ea6342ab8787"
