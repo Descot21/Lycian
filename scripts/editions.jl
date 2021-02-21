@@ -73,10 +73,12 @@ function textforurn_df(df, urn)
 end
 
 
+
 function diplmarkdown(nodelist)
-    items = map(cn -> "`" * passagecomponent(cn.urn) * "` " * cn.text, nodelist)
-    xcription = join(items,"\n\n")
-    lycianitems = []
+    items = map(cn -> "| `" * passagecomponent(cn.urn) * "` | " * cn.text * " | " *  Lycian.ucode(cn.text) * " |", nodelist)
+    #xcription = join(items,"\n\n")
+    #lycianitems = []
+    #=
     for cn in nodelist
         try 
          push!(lycianitems, "`" * passagecomponent(cn.urn) * 
@@ -85,6 +87,7 @@ function diplmarkdown(nodelist)
             push!(lycianitems, "Could not convert: $(e)")
         end
     end
+    
     lycian = join(lycianitems, "\n\n")
     blocks = ["## Diplomatic edition",
     "*Transcription*",
@@ -92,8 +95,19 @@ function diplmarkdown(nodelist)
     "*Unicode Lycian*",
     lycian
     ]
+    =#
+    dipltable = [
+        "| Passage | Transcription | Lycian |",
+        "| --- | --- | --- |",
+        join(items, "\n")
+    ]
+    blocks = [
+        "## Diplomatic edition",
+        join(dipltable,"")
+    ]
     join(blocks, "\n\n")
 end
+
 
 for txt in online
     fname = editionfile(txt, textroot)
