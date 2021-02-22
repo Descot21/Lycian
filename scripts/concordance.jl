@@ -75,9 +75,14 @@ end
 
 
 function mdrow(pr)
-    hdg = pr[1]
+    hdg = "**" * pr[1] * "** (" * Lycian.ucode(pr[1]) * ")"
     
-    "**" * hdg * "**:  " * pr[2]
+     hdg * ":  " * pr[2]
+end
+function editionlink(u::CtsUrn)
+    lnk = "../Texts/" * workparts(u)[1] * "_" * workparts(u)[2]
+    label = string("*", workparts(u)[1], "* ",workparts(u)[2],", ", passagecomponent(u) )
+    "[" * label * "](" * lnk * ")"
 end
 function mdpage(gdf)
     delimited = []
@@ -85,7 +90,9 @@ function mdpage(gdf)
         term = k.term
         vals = idx[k]
         urns = vals[!, :urn]
-        urnlabels = map(u -> string("*", workparts(u)[1], "* ",workparts(u)[2],", ", passagecomponent(u) ) , urns)
+     
+
+        urnlabels = map(u ->  editionlink(u), urns)
         push!(delimited, term * "|" * join(urnlabels,"; "))
     end
     sorted = sort(delimited)
@@ -104,6 +111,10 @@ function yamlplus()
         "---",
         "\n\n",
         "# Concordance of lexical tokens",
+        "\n\n",
+        """Hyphens indicate line breaks when lexical tokens 
+        span more than one line.  References in the concordance
+        are to the line where the lexical token begins.""",
         "\n\n"
     ]
     join(lines,"\n")
