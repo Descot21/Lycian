@@ -9,19 +9,25 @@ using DataFrames
 using EditorsRepo
 using Lycian
 
+# Read citation configuration in an Array
 function citation(repo::EditingRepository)
 	arr = CSV.File(repo.root * "/" * repo.configs * "/citation.cex", skipto=2, delim="|", 
 	quotechar='&', escapechar='&') |> Array
 end
 
+# Compose markdown string for page title
 function mdtitle(csvrow)
     string("*", csvrow.groupName, "*, ", csvrow.workTitle)
 end
 
+# Compose title for use in yaml header
+# (no markdown supported in yaml)
 function shorttitle(csvrow)
     string("\"", csvrow.groupName, ", ", csvrow.workTitle, "\"")
 end
 
+# Compose full path to file for a single
+# row of configuration table
 function editionfile(csvrow, basedir)
     urn = CtsUrn(csvrow.urn)
     parts = workparts(urn)
@@ -32,13 +38,7 @@ function editionfile(csvrow, basedir)
     editiondir * "/index.md"
 end
 
-root = dirname(pwd())
-textroot = root * "/offline/Texts/" 
-repo = EditingRepository(root, "editions", "dse", "config")
-textcat = textcatalog(repo, "catalog.cex")
-online = filter(row -> row.online, textcat)
-
-
+# Compose yaml header and title header for page
 function yamlplus(csvrow)
     title = shorttitle(csvrow)
     titlehdr = mdtitle(csvrow)
@@ -56,9 +56,8 @@ function yamlplus(csvrow)
     join(lines,"\n")
 end
 
-
-citedf = citation_df(repo)
-
+# Read XML text from  local file for a
+# document identified by URN
 function textforurn_df(df, urn)
 	row = filter(r -> droppassage(urn) == r[:urn], df)
 	if nrow(row) == 0
@@ -72,42 +71,39 @@ function textforurn_df(df, urn)
 	end
 end
 
-
-
-function diplmarkdown(nodelist)
-    items = map(cn -> "| `" * passagecomponent(cn.urn) * "` | " * cn.text * " | " *  Lycian.ucode(cn.text) * " |", nodelist)
-    #xcription = join(items,"\n\n")
-    #lycianitems = []
-    #=
-    for cn in nodelist
-        try 
-         push!(lycianitems, "`" * passagecomponent(cn.urn) * 
-        "` " * Lycian.ucode(cn.text))
-        catch e
-            push!(lycianitems, "Could not convert: $(e)")
-        end
-    end
-    
-    lycian = join(lycianitems, "\n\n")
-    blocks = ["## Diplomatic edition",
-    "*Transcription*",
-    xcription,
-    "*Unicode Lycian*",
-    lycian
-    ]
-    =#
+# Compose tabular display of editions
+# from lists of citable nodes
+function tablemarkdown(dipllist, normlist)
+   
+    diplitems = map(cn -> "| `" * passagecomponent(cn.urn) * "` | " * cn.text * " | " *  Lycian.ucode(cn.text) * " |", dipllist)
     dipltable = [
-        "| Passage | Transcription | Lycian |",
-        "| --- | --- | --- |",
-        join(items, "\n")
+        "|  | Transcription | Lycian |",
+        "| :---: | :------ | :------ |",
+        join(diplitems, "\n")
     ]
+
+    normitems = map(cn -> "| `" * passagecomponent(cn.urn) * "` | " * cn.text * " | " *  Lycian.ucode(cn.text) * " |", normlist)
+    normtable = [
+        "|  | Transcription | Lycian |",
+        "| :---: | :------ | :------ |",
+        join(normitems, "\n")
+    ]
+
     blocks = [
         "## Diplomatic edition",
-        join(dipltable,"")
+        join(dipltable,"\n"),
+        "## Normalized edition",
+        join(normtable,"\n"),
     ]
     join(blocks, "\n\n")
 end
 
+root = dirname(pwd())
+textroot = root * "/offline/Texts/" 
+repo = EditingRepository(root, "editions", "dse", "config")
+textcat = textcatalog(repo, "catalog.cex")
+online = filter(row -> row.online, textcat)
+citedf = citation_df(repo)
 
 for txt in online
     fname = editionfile(txt, textroot)
@@ -123,7 +119,7 @@ for txt in online
     
     document = join([top, urnlabel], "\n\n")    
     open(fname, "w") do io
-        print(io, document, diplmarkdown(dipl))
+        print(io, document, tablemarkdown(dipl, normed))
     end
 end
 
