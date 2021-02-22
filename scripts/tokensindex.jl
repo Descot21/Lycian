@@ -95,8 +95,19 @@ function mdpage(gdf)
 end
 
 
-
-
+function yamlplus()
+    lines = [
+        "---",
+        "title: Concordance",
+        "layout: page",
+        "nav_order: 8",
+        "---",
+        "\n\n",
+        "# Concordance of lexical tokens",
+        "\n\n"
+    ]
+    join(lines,"\n")
+end
 
 
 root = dirname(pwd())
@@ -106,8 +117,7 @@ repo = EditingRepository(root, "editions", "dse", "config")
 indexable = normalcorpus(repo)
 # A GroupedDataFrame keyed by term
 idx = indexcorpus(indexable)
-document = ""
-fname = "concordance.md"
+fname = root * "/offline/Concordance/index.md" 
 open(fname, "w") do io
-    print(io, document, mdpage(idx))
+    print(io, yamlplus(), mdpage(idx))
 end
