@@ -16,14 +16,7 @@ nav_order: 12
 
 ## Diplomatic edition
 
-*Transcription*
-
-`1` ebENnE : xopA : me=ne prNnewAtE
-
-`2` slMmewe : pNnoteh : tideimi : se howetEne
-
-*Unicode Lycian*
-
-`1` 𐊁𐊂𐊚𐊑𐊏𐊚 : 𐊜𐊒𐊓𐊙 : 𐊎𐊁𐊏𐊁 𐊓𐊕𐊑𐊏𐊁𐊇𐊙𐊗𐊚
-
-`2` 𐊖𐊍𐊐𐊎𐊁𐊇𐊁 : 𐊓𐊑𐊏𐊒𐊗𐊁𐊛 : 𐊗𐊆𐊅𐊁𐊆𐊎𐊆 : 𐊖𐊁 𐊛𐊒𐊇𐊁𐊗𐊚𐊏𐊁
+|  | Transcription | Lycian |
+| :---: | :------ | :------ |
+| `1` | ebEnE : xopA : me=ne prNnewAtE | 𐊁𐊂𐊚𐊏𐊚 : 𐊜𐊒𐊓𐊙 : 𐊎𐊁𐊏𐊁 𐊓𐊕𐊑𐊏𐊁𐊇𐊙𐊗𐊚 |
+| `2` | slMmwe : pNnoteh : tideimi : se howetEne | 𐊖𐊍𐊐𐊎𐊇𐊁 : 𐊓𐊑𐊏𐊒𐊗𐊁𐊛 : 𐊗𐊆𐊅𐊁𐊆𐊎𐊆 : 𐊖𐊁 𐊛𐊒𐊇𐊁𐊗𐊚𐊏𐊁 |

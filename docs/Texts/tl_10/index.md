@@ -16,10 +16,6 @@ nav_order: 10
 
 ## Diplomatic edition
 
-*Transcription*
-
-`1` pttlezEi : sbikazah : tideimi
-
-*Unicode Lycian*
-
-`1` 𐊓𐊗𐊗𐊍𐊁𐊈𐊚𐊆 : 𐊖𐊂𐊆𐊋𐊀𐊈𐊀𐊛 : 𐊗𐊆𐊅𐊁𐊆𐊎𐊆
+|  | Transcription | Lycian |
+| :---: | :------ | :------ |
+| `1` | pttlezEi : sbkazah : tideimi | 𐊓𐊗𐊗𐊍𐊁𐊈𐊚𐊆 : 𐊖𐊂𐊋𐊀𐊈𐊀𐊛 : 𐊗𐊆𐊅𐊁𐊆𐊎𐊆 |
