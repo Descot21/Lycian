@@ -6,6 +6,7 @@ using CitableText
 using CitableTeiReaders
 using CSV
 using DataFrames
+using EditionBuilders
 using EditorsRepo
 using Lycian
 
