@@ -66,13 +66,48 @@ function indexcorpus(c)
         pairs = map(tkn -> (tkn.text, n.urn), lextokens)
         push!(concordance, pairs)
     end
-    collect(Iterators.flatten(concordance))
+    idx = collect(Iterators.flatten(concordance))
+    terms = map(entry -> entry[1], idx)
+    urns = map(entry -> entry[2], idx)
+    df = DataFrame( term = terms, urn = urns,)
+    groupby(df, :term)
 end
 
 
+function mdrow(pr)
+    hdg = pr[1]
+    
+    "**" * hdg * "**:  " * pr[2]
+end
+function mdpage(gdf)
+    delimited = []
+    for k in keys(gdf)
+        term = k.term
+        vals = idx[k]
+        urns = vals[!, :urn]
+        urnlabels = map(u -> string("*", workparts(u)[1], "* ",workparts(u)[2],", ", passagecomponent(u) ) , urns)
+        push!(delimited, term * "|" * join(urnlabels,"; "))
+    end
+    sorted = sort(delimited)
+    paired = map(ln -> split(ln, "|"), sorted)
+    rows = map(pr -> mdrow(pr), paired)
+    join(rows, "\n\n")
+end
+
+
+
+
+
+
 root = dirname(pwd())
-textroot = root * "/offline/Texts/" 
 repo = EditingRepository(root, "editions", "dse", "config")
 
+# A CitableCorpus:
 indexable = normalcorpus(repo)
-
+# A GroupedDataFrame keyed by term
+idx = indexcorpus(indexable)
+document = ""
+fname = "concordance.md"
+open(fname, "w") do io
+    print(io, document, mdpage(idx))
+end
