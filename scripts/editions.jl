@@ -3,6 +3,7 @@ using Pkg
 Pkg.activate(".")
 
 using CitableImage
+using CitableObject
 using CitableText
 using CitableTeiReaders
 using CSV
@@ -75,13 +76,18 @@ end
 
 # Compose tabular display of editions
 # from lists of citable nodes
-function tablemarkdown(dipllist, normlist)
+function tablemarkdown(dipllist, normlist, linkedimages)
    
     diplitems = map(cn -> "| `" * passagecomponent(cn.urn) * "` | " * cn.text * " | " *  Lycian.ucode(cn.text) * " |", dipllist)
+    illustrateddipl = []
+    for i in 1:length(diplitems)
+        push!(illustrateddipl, diplitems[i] *  linkedimages[i] * " |")
+    end
     dipltable = [
-        "|  | Transcription | Lycian |",
-        "| :---: | :------ | :------ |",
-        join(diplitems, "\n")
+        "|  | Transcription | Lycian | Image link |",
+        "| :---: | :------ | :------ | --- |",
+      
+        join(illustrateddipl, "\n")
     ]
 
     normitems = map(cn -> "| `" * passagecomponent(cn.urn) * "` | " * cn.text * " | " *  Lycian.ucode(cn.text) * " |", normlist)
@@ -107,29 +113,45 @@ textcat = textcatalog(repo, "catalog.cex")
 online = filter(row -> row.online, textcat)
 citedf = citation_df(repo)
 dse = dse_df(repo)
-baseicturl = "http://www.homermultitext.org/ict2/?"
+baseiifurl = "http://www.homermultitext.org/iipsrv"
+ict = "http://www.homermultitext.org/ict2/?"
 imgroot = "/project/homer/pyramidal/deepzoom"
-iiifsvc = IIIFservice(baseicturl, imgroot)
+iiifsvc = IIIFservice(baseiifurl, imgroot)
 
-# filter(row -> urncontains(urn, row.passage),dse)
-
-#= from mdForDseRow:(row::DataFrameRow)
-citation = "**" * passagecomponent(row.passage)  * "** "
-caption = passagecomponent(row.passage)
-img = linkedMarkdownImage(ict, row.image, iiifsvc, w, caption)
-=#
-
-
+w = 100
 for txt in online
     fname = editionfile(txt, textroot)
     top = yamlplus(txt)
 
     urnlabel = string("`", txt.urn, "`\n\n")
     urn = CtsUrn(txt.urn)
+    thumb = ""
+    rowmatches  = filter(row -> urncontains(urn, row.passage), dse)
+    if nrow(rowmatches) > 0
+        imgurn = rowmatches[1, :image]
+        thumburn = CitableObject.dropsubref(imgurn)
+        thumb = "\n\nAll images are linked to pannable/zoomable versions\n\n" * linkedMarkdownImage(ict,thumburn, iiifsvc, 200, "thumb") * "\n\n"
+    end
+        
     xml = textforurn(repo, urn)
     converter = o2converter(repo, urn)
     # Can directly convert diplomatic from nodes:
     dipl = diplomaticnodes(repo,urn)
+    
+
+    linkedimgs = [] 
+    if (length(dipl) != nrow(rowmatches))
+        for row in eachrow(rowmatches)
+            push!(linkedimgs, "Invalid indexing of text to source images.")
+        end
+    else 
+        for row in eachrow(rowmatches)
+           push!(linkedimgs, linkedMarkdownImage(ict, row.image, iiifsvc, w, "image"))
+        end
+    end
+    #println(dipl, linkedimgs)
+    
+
     # But need an xml corpus to build normalized:
     reader = ohco2forurn(citedf, urn)
 	normbuilder = normalizerforurn(citedf, urn)
@@ -139,9 +161,14 @@ for txt in online
     
     document = join([top, urnlabel], "\n\n")    
     open(fname, "w") do io
-        print(io, document, tablemarkdown(dipl, normed))
+        try 
+            print(io, document, thumb, tablemarkdown(dipl, normed, linkedimgs))
+        catch e
+            groupurn = droppassage(dipl[1].urn)
+            println("FAILED in ", groupurn, " with ", length(dipl), " diplomatic lines and ", length(linkedimgs), " DSE records." )
+        end
     end
+    
 end
-
 
 
