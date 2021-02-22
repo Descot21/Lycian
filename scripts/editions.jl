@@ -2,6 +2,7 @@
 using Pkg
 Pkg.activate(".")
 
+using CitableImage
 using CitableText
 using CitableTeiReaders
 using CSV
@@ -105,6 +106,19 @@ repo = EditingRepository(root, "editions", "dse", "config")
 textcat = textcatalog(repo, "catalog.cex")
 online = filter(row -> row.online, textcat)
 citedf = citation_df(repo)
+dse = dse_df(repo)
+baseicturl = "http://www.homermultitext.org/ict2/?"
+imgroot = "/project/homer/pyramidal/deepzoom"
+iiifsvc = IIIFservice(baseicturl, imgroot)
+
+# filter(row -> urncontains(urn, row.passage),dse)
+
+#= from mdForDseRow:(row::DataFrameRow)
+citation = "**" * passagecomponent(row.passage)  * "** "
+caption = passagecomponent(row.passage)
+img = linkedMarkdownImage(ict, row.image, iiifsvc, w, caption)
+=#
+
 
 for txt in online
     fname = editionfile(txt, textroot)
