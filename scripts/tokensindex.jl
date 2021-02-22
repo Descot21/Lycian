@@ -9,6 +9,7 @@ using DataFrames
 using EditionBuilders
 using EditorsRepo
 using Lycian
+using Orthography
 
 # Read citation configuration in an Array
 function citation(repo::EditingRepository)
@@ -31,7 +32,10 @@ function textforurn_df(df, urn)
 	end
 end
 
-function indexcorpus(repo)
+
+# Build a single epigraphically normalized corpus
+# for the whole repository
+function normalcorpus(repo) 
     textcat = textcatalog(repo, "catalog.cex")
     citedf = citation_df(repo)
 
@@ -49,12 +53,26 @@ function indexcorpus(repo)
         push!(documents, normcorp)
     end
     onecorpus  = CitableText.composite_array(documents)
+
 end
 
-
+# Index a corpus of Lycian
+function indexcorpus(c)
+    orthography = lycianAscii()
+    concordance = []
+    for n in c.corpus
+        tkns = orthography.tokenizer(n.text)
+        lextokens = filter(t -> t.tokencategory == Orthography.LexicalToken(), tkns)
+        pairs = map(tkn -> (tkn.text, n.urn), lextokens)
+        push!(concordance, pairs)
+    end
+    collect(Iterators.flatten(concordance))
+end
 
 
 root = dirname(pwd())
 textroot = root * "/offline/Texts/" 
 repo = EditingRepository(root, "editions", "dse", "config")
+
+indexable = normalcorpus(repo)
 
