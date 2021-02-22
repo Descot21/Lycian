@@ -9,784 +9,790 @@ nav_order: 8
 # Concordance of lexical tokens
 
 
-**-eliyAna**:  [*nf* 320, 39](../Texts/nf_320)
 
-**-ma**:  [*tl* 37, 5](../Texts/tl_37)
+Hyphens indicate line breaks when lexical tokens 
+span more than one line.  References in the concordance
+are to the line where the lexical token begins.
 
-**AMmAma**:  [*tl* 111, 4](../Texts/tl_111)
 
-**AMmAm**:  [*tl* 111, 3](../Texts/tl_111)
+**-eliyAna** (-𐊁𐊍𐊆𐊊𐊙𐊏𐊀):  [*nf* 320, 39](../Texts/nf_320)
 
-**Atta**:  [*tl* 56, 2](../Texts/tl_56)
+**-ma** (-𐊎𐊀):  [*tl* 37, 5](../Texts/tl_37)
 
-**Eke**:  [*nf* 320, 1](../Texts/nf_320); [*tl* 88, 2](../Texts/tl_88)
+**AMmAma** (𐊙𐊐𐊎𐊙𐊎𐊀):  [*tl* 111, 4](../Texts/tl_111)
 
-**Emis**:  [*tl* 106, 3](../Texts/tl_106)
+**AMmAm** (𐊙𐊐𐊎𐊙𐊎):  [*tl* 111, 3](../Texts/tl_111)
 
-**Emi**:  [*tl* 106, 3](../Texts/tl_106)
+**Atta** (𐊙𐊗𐊗𐊀):  [*tl* 56, 2](../Texts/tl_56)
 
-**Enehi**:  [*tl* 89, 2](../Texts/tl_89)
+**Eke** (𐊚𐊋𐊁):  [*nf* 320, 1](../Texts/nf_320); [*tl* 88, 2](../Texts/tl_88)
 
-**Eni**:  [*nf* 320, 38](../Texts/nf_320); [*tl* 131, 3](../Texts/tl_131); [*tl* 131, 4](../Texts/tl_131); [*tl* 110, 3](../Texts/tl_110); [*tl* 102, 3](../Texts/tl_102); [*tl* 56, 4](../Texts/tl_56)
+**Emis** (𐊚𐊎𐊆𐊖):  [*tl* 106, 3](../Texts/tl_106)
 
-**Eti**:  [*nf* 320, 16](../Texts/nf_320); [*nf* 320, 19](../Texts/nf_320); [*nf* 320, 22](../Texts/nf_320); [*nf* 320, 33](../Texts/nf_320)
+**Emi** (𐊚𐊎𐊆):  [*tl* 106, 3](../Texts/tl_106)
 
-**E**:  [*tl* 111, 5](../Texts/tl_111); [*tl* 102, 4](../Texts/tl_102)
+**Enehi** (𐊚𐊏𐊁𐊛𐊆):  [*tl* 89, 2](../Texts/tl_89)
 
-**MmE**:  [*tl* 75, 3](../Texts/tl_75)
+**Eni** (𐊚𐊏𐊆):  [*nf* 320, 38](../Texts/nf_320); [*tl* 131, 3](../Texts/tl_131); [*tl* 131, 4](../Texts/tl_131); [*tl* 110, 3](../Texts/tl_110); [*tl* 102, 3](../Texts/tl_102); [*tl* 56, 4](../Texts/tl_56)
 
-**MmaitE**:  [*nf* 320, 7](../Texts/nf_320)
+**Eti** (𐊚𐊗𐊆):  [*nf* 320, 16](../Texts/nf_320); [*nf* 320, 19](../Texts/nf_320); [*nf* 320, 22](../Texts/nf_320); [*nf* 320, 33](../Texts/nf_320)
 
-**Mmi**:  [*tl* 106, 1](../Texts/tl_106)
+**E** (𐊚):  [*tl* 111, 5](../Texts/tl_111); [*tl* 102, 4](../Texts/tl_102)
 
-**N-te**:  [*nf* 320, 2](../Texts/nf_320)
+**MmE** (𐊐𐊎𐊚):  [*tl* 75, 3](../Texts/tl_75)
 
-**Nne**:  [*nf* 320, 2](../Texts/nf_320)
+**MmaitE** (𐊐𐊎𐊀𐊆𐊗𐊚):  [*nf* 320, 7](../Texts/nf_320)
 
-**Nt-epi**:  [*tl* 89, 1](../Texts/tl_89)
+**Mmi** (𐊐𐊎𐊆):  [*tl* 106, 1](../Texts/tl_106)
 
-**NtatA**:  [*tl* 6, 1](../Texts/tl_6)
+**N-te** (𐊑-𐊗𐊁):  [*nf* 320, 2](../Texts/nf_320)
 
-**Nta**:  [*tl* 52, 2](../Texts/tl_52); [*tl* 4, 4](../Texts/tl_4)
+**Nne** (𐊑𐊏𐊁):  [*nf* 320, 2](../Texts/nf_320)
 
-**Ntepi**:  [*tl* 131, 1](../Texts/tl_131); [*tl* 111, 5](../Texts/tl_111); [*tl* 110, 2](../Texts/tl_110); [*tl* 102, 1](../Texts/tl_102); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 5](../Texts/tl_88); [*tl* 80, 2](../Texts/tl_80)
+**Nt-epi** (𐊑𐊗-𐊁𐊓𐊆):  [*tl* 89, 1](../Texts/tl_89)
 
-**NtewE**:  [*nf* 320, 36](../Texts/nf_320)
+**NtatA** (𐊑𐊗𐊀𐊗𐊙):  [*tl* 6, 1](../Texts/tl_6)
 
-**Nte**:  [*tl* 102, 2](../Texts/tl_102); [*tl* 102, 2](../Texts/tl_102); [*tl* 75, 2](../Texts/tl_75)
+**Nta** (𐊑𐊗𐊀):  [*tl* 52, 2](../Texts/tl_52); [*tl* 4, 4](../Texts/tl_4)
 
-**Ntipa**:  [*tl* 88, 3](../Texts/tl_88)
+**Ntepi** (𐊑𐊗𐊁𐊓𐊆):  [*tl* 131, 1](../Texts/tl_131); [*tl* 111, 5](../Texts/tl_111); [*tl* 110, 2](../Texts/tl_110); [*tl* 102, 1](../Texts/tl_102); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 5](../Texts/tl_88); [*tl* 80, 2](../Texts/tl_80)
 
-**aMmAma**:  [*tl* 131, 4](../Texts/tl_131); [*tl* 102, 3](../Texts/tl_102)
+**NtewE** (𐊑𐊗𐊁𐊇𐊚):  [*nf* 320, 36](../Texts/nf_320)
 
-**adE**:  [*tl* 4, 5](../Texts/tl_4)
+**Nte** (𐊑𐊗𐊁):  [*tl* 102, 2](../Texts/tl_102); [*tl* 102, 2](../Texts/tl_102); [*tl* 75, 2](../Texts/tl_75)
 
-**adaiyE**:  [*tl* 3, 4](../Texts/tl_3)
+**Ntipa** (𐊑𐊗𐊆𐊓𐊀):  [*tl* 88, 3](../Texts/tl_88)
 
-**ada**:  [*nf* 320, 19](../Texts/nf_320); [*tl* 131, 4](../Texts/tl_131)
+**aMmAma** (𐊀𐊐𐊎𐊙𐊎𐊀):  [*tl* 131, 4](../Texts/tl_131); [*tl* 102, 3](../Texts/tl_102)
 
-**adimeyE**:  [*tl* 89, 2](../Texts/tl_89)
+**adE** (𐊀𐊅𐊚):  [*tl* 4, 5](../Texts/tl_4)
 
-**ad**:  [*tl* 102, 3](../Texts/tl_102)
+**adaiyE** (𐊀𐊅𐊀𐊆𐊊𐊚):  [*tl* 3, 4](../Texts/tl_3)
 
-**aitAta**:  [*tl* 102, 3](../Texts/tl_102)
+**ada** (𐊀𐊅𐊀):  [*nf* 320, 19](../Texts/nf_320); [*tl* 131, 4](../Texts/tl_131)
 
-**alad-ehali**:  [*tl* 4, 4](../Texts/tl_4)
+**adimeyE** (𐊀𐊅𐊆𐊎𐊁𐊊𐊚):  [*tl* 89, 2](../Texts/tl_89)
 
-**alahadi**:  [*tl* 131, 2](../Texts/tl_131); [*tl* 102, 2](../Texts/tl_102)
+**ad** (𐊀𐊅):  [*tl* 102, 3](../Texts/tl_102)
 
-**arA**:  [*nf* 320, 27](../Texts/nf_320)
+**aitAta** (𐊀𐊆𐊗𐊙𐊗𐊀):  [*tl* 102, 3](../Texts/tl_102)
 
-**arBBaz-oma**:  [*nf* 320, 28](../Texts/nf_320)
+**alad-ehali** (𐊀𐊍𐊀𐊅-𐊁𐊛𐊀𐊍𐊆):  [*tl* 4, 4](../Texts/tl_4)
 
-**arBBazoma-ha**:  [*nf* 320, 24](../Texts/nf_320)
+**alahadi** (𐊀𐊍𐊀𐊛𐊀𐊅𐊆):  [*tl* 131, 2](../Texts/tl_131); [*tl* 102, 2](../Texts/tl_102)
 
-**arBBazomahi**:  [*nf* 320, 18](../Texts/nf_320)
+**arA** (𐊀𐊕𐊙):  [*nf* 320, 27](../Texts/nf_320)
 
-**arBBazoma**:  [*nf* 320, 8](../Texts/nf_320)
+**arBBaz-oma** (𐊀𐊕𐊃𐊃𐊀𐊈-𐊒𐊎𐊀):  [*nf* 320, 28](../Texts/nf_320)
 
-**arN-nAi-xNtawa**:  [*nf* 320, 6](../Texts/nf_320)
+**arBBazoma-ha** (𐊀𐊕𐊃𐊃𐊀𐊈𐊒𐊎𐊀-𐊛𐊀):  [*nf* 320, 24](../Texts/nf_320)
 
-**arN-na**:  [*nf* 320, 4](../Texts/nf_320)
+**arBBazomahi** (𐊀𐊕𐊃𐊃𐊀𐊈𐊒𐊎𐊀𐊛𐊆):  [*nf* 320, 18](../Texts/nf_320)
 
-**arNn-as**:  [*nf* 320, 31](../Texts/nf_320)
+**arBBazoma** (𐊀𐊕𐊃𐊃𐊀𐊈𐊒𐊎𐊀):  [*nf* 320, 8](../Texts/nf_320)
 
-**arNna**:  [*nf* 320, 20](../Texts/nf_320)
+**arN-nAi-xNtawa** (𐊀𐊕𐊑-𐊏𐊙𐊆-𐊜𐊑𐊗𐊀𐊇𐊀):  [*nf* 320, 6](../Texts/nf_320)
 
-**arawA**:  [*nf* 320, 12](../Texts/nf_320)
+**arN-na** (𐊀𐊕𐊑-𐊏𐊀):  [*nf* 320, 4](../Texts/nf_320)
 
-**arawa**:  [*nf* 320, 21](../Texts/nf_320)
+**arNn-as** (𐊀𐊕𐊑𐊏-𐊀𐊖):  [*nf* 320, 31](../Texts/nf_320)
 
-**arnNai**:  [*nf* 320, 32](../Texts/nf_320)
+**arNna** (𐊀𐊕𐊑𐊏𐊀):  [*nf* 320, 20](../Texts/nf_320)
 
-**aros**:  [*nf* 320, 6](../Texts/nf_320)
+**arawA** (𐊀𐊕𐊀𐊇𐊙):  [*nf* 320, 12](../Texts/nf_320)
 
-**asNne**:  [*nf* 320, 41](../Texts/nf_320)
+**arawa** (𐊀𐊕𐊀𐊇𐊀):  [*nf* 320, 21](../Texts/nf_320)
 
-**asawAzala**:  [*tl* 3, 2](../Texts/tl_3)
+**arnNai** (𐊀𐊕𐊏𐊑𐊀𐊆):  [*nf* 320, 32](../Texts/nf_320)
 
-**asaxlazo**:  [*nf* 320, 5](../Texts/nf_320)
+**aros** (𐊀𐊕𐊒𐊖):  [*nf* 320, 6](../Texts/nf_320)
 
-**as**:  [*tl* 80, 3](../Texts/tl_80)
+**asNne** (𐊀𐊖𐊑𐊏𐊁):  [*nf* 320, 41](../Texts/nf_320)
 
-**atli**:  [*tl* 123, 2](../Texts/tl_123); [*tl* 37, 6](../Texts/tl_37)
+**asawAzala** (𐊀𐊖𐊀𐊇𐊙𐊈𐊀𐊍𐊀):  [*tl* 3, 2](../Texts/tl_3)
 
-**atro**:  [*tl* 25, 4](../Texts/tl_25)
+**asaxlazo** (𐊀𐊖𐊀𐊜𐊍𐊀𐊈𐊒):  [*nf* 320, 5](../Texts/nf_320)
 
-**a**:  [*tl* 131, 1](../Texts/tl_131); [*tl* 89, 2](../Texts/tl_89)
+**as** (𐊀𐊖):  [*tl* 80, 3](../Texts/tl_80)
 
-**dapara**:  [*tl* 6, 1](../Texts/tl_6)
+**atli** (𐊀𐊗𐊍𐊆):  [*tl* 123, 2](../Texts/tl_123); [*tl* 37, 6](../Texts/tl_37)
 
-**ddaqasa**:  [*tl* 88, 1](../Texts/tl_88); [*tl* 88, 2](../Texts/tl_88)
+**atro** (𐊀𐊗𐊕𐊒):  [*tl* 25, 4](../Texts/tl_25)
 
-**de**:  [*nf* 320, 11](../Texts/nf_320)
+**a** (𐊀):  [*tl* 131, 1](../Texts/tl_131); [*tl* 89, 2](../Texts/tl_89)
 
-**di**:  [*tl* 4, 3](../Texts/tl_4)
+**dapara** (𐊅𐊀𐊓𐊀𐊕𐊀):  [*tl* 6, 1](../Texts/tl_6)
 
-**eb-ette**:  [*nf* 320, 9](../Texts/nf_320)
+**ddaqasa** (𐊅𐊅𐊀𐊌𐊀𐊖𐊀):  [*tl* 88, 1](../Texts/tl_88); [*tl* 88, 2](../Texts/tl_88)
 
-**ebANnE**:  [*tl* 4, 1](../Texts/tl_4)
+**de** (𐊅𐊁):  [*nf* 320, 11](../Texts/nf_320)
 
-**ebENnE**:  [*tl* 123, 1](../Texts/tl_123); [*tl* 120, 1](../Texts/tl_120); [*tl* 111, 1](../Texts/tl_111); [*tl* 102, 1](../Texts/tl_102); [*tl* 89, 1](../Texts/tl_89); [*tl* 88, 1](../Texts/tl_88); [*tl* 75, 1](../Texts/tl_75); [*tl* 56, 1](../Texts/tl_56); [*tl* 53, 1](../Texts/tl_53); [*tl* 37, 1](../Texts/tl_37); [*tl* 13, 1](../Texts/tl_13); [*tl* 12, 1](../Texts/tl_12); [*tl* 6, 1](../Texts/tl_6); [*tl* 3, 1](../Texts/tl_3)
+**di** (𐊅𐊆):  [*tl* 4, 3](../Texts/tl_4)
 
-**ebENne**:  [*tl* 110, 1](../Texts/tl_110)
+**eb-ette** (𐊁𐊂-𐊁𐊗𐊗𐊁):  [*nf* 320, 9](../Texts/nf_320)
 
-**ebEnnE**:  [*tl* 78, 1](../Texts/tl_78)
+**ebANnE** (𐊁𐊂𐊙𐊑𐊏𐊚):  [*tl* 4, 1](../Texts/tl_4)
 
-**ebNnE**:  [*tl* 131, 1](../Texts/tl_131); [*tl* 111, 2](../Texts/tl_111); [*tl* 52, 1](../Texts/tl_52)
+**ebENnE** (𐊁𐊂𐊚𐊑𐊏𐊚):  [*tl* 123, 1](../Texts/tl_123); [*tl* 120, 1](../Texts/tl_120); [*tl* 111, 1](../Texts/tl_111); [*tl* 102, 1](../Texts/tl_102); [*tl* 89, 1](../Texts/tl_89); [*tl* 88, 1](../Texts/tl_88); [*tl* 75, 1](../Texts/tl_75); [*tl* 56, 1](../Texts/tl_56); [*tl* 53, 1](../Texts/tl_53); [*tl* 37, 1](../Texts/tl_37); [*tl* 13, 1](../Texts/tl_13); [*tl* 12, 1](../Texts/tl_12); [*tl* 6, 1](../Texts/tl_6); [*tl* 3, 1](../Texts/tl_3)
 
-**ebeNnE**:  [*tl* 80, 1](../Texts/tl_80); [*tl* 70, 1](../Texts/tl_70)
+**ebENne** (𐊁𐊂𐊚𐊑𐊏𐊁):  [*tl* 110, 1](../Texts/tl_110)
 
-**ebehi**:  [*nf* 320, 23](../Texts/nf_320); [*nf* 320, 34](../Texts/nf_320); [*nf* 320, 36](../Texts/nf_320); [*tl* 131, 2](../Texts/tl_131); [*tl* 106, 1](../Texts/tl_106)
+**ebEnnE** (𐊁𐊂𐊚𐊏𐊏𐊚):  [*tl* 78, 1](../Texts/tl_78)
 
-**ebeis**:  [*tl* 25, 1](../Texts/tl_25)
+**ebNnE** (𐊁𐊂𐊑𐊏𐊚):  [*tl* 131, 1](../Texts/tl_131); [*tl* 111, 2](../Texts/tl_111); [*tl* 52, 1](../Texts/tl_52)
 
-**ebeiya**:  [*nf* 320, 33](../Texts/nf_320); [*tl* 131, 3](../Texts/tl_131); [*tl* 117, 1](../Texts/tl_117)
+**ebeNnE** (𐊁𐊂𐊁𐊑𐊏𐊚):  [*tl* 80, 1](../Texts/tl_80); [*tl* 70, 1](../Texts/tl_70)
 
-**ebei**:  [*tl* 111, 2](../Texts/tl_111); [*tl* 111, 2](../Texts/tl_111); [*tl* 111, 5](../Texts/tl_111)
+**ebehi** (𐊁𐊂𐊁𐊛𐊆):  [*nf* 320, 23](../Texts/nf_320); [*nf* 320, 34](../Texts/nf_320); [*nf* 320, 36](../Texts/nf_320); [*tl* 131, 2](../Texts/tl_131); [*tl* 106, 1](../Texts/tl_106)
 
-**ebett-e**:  [*nf* 320, 35](../Texts/nf_320)
+**ebeis** (𐊁𐊂𐊁𐊆𐊖):  [*tl* 25, 1](../Texts/tl_25)
 
-**ebette**:  [*nf* 320, 31](../Texts/nf_320); [*nf* 320, 38](../Texts/nf_320)
+**ebeiya** (𐊁𐊂𐊁𐊆𐊊𐊀):  [*nf* 320, 33](../Texts/nf_320); [*tl* 131, 3](../Texts/tl_131); [*tl* 117, 1](../Texts/tl_117)
 
-**ebineNtewe**:  [*nf* 320, 35](../Texts/nf_320)
+**ebei** (𐊁𐊂𐊁𐊆):  [*tl* 111, 2](../Texts/tl_111); [*tl* 111, 2](../Texts/tl_111); [*tl* 111, 5](../Texts/tl_111)
 
-**ebine**:  [*nf* 320, 36](../Texts/nf_320)
+**ebett-e** (𐊁𐊂𐊁𐊗𐊗-𐊁):  [*nf* 320, 35](../Texts/nf_320)
 
-**ebiyehi**:  [*nf* 320, 38](../Texts/nf_320); [*tl* 131, 3](../Texts/tl_131); [*tl* 131, 4](../Texts/tl_131); [*tl* 110, 5](../Texts/tl_110); [*tl* 102, 3](../Texts/tl_102); [*tl* 56, 4](../Texts/tl_56)
+**ebette** (𐊁𐊂𐊁𐊗𐊗𐊁):  [*nf* 320, 31](../Texts/nf_320); [*nf* 320, 38](../Texts/nf_320)
 
-**edi**:  [*tl* 56, 3](../Texts/tl_56)
+**ebineNtewe** (𐊁𐊂𐊆𐊏𐊁𐊑𐊗𐊁𐊇𐊁):  [*nf* 320, 35](../Texts/nf_320)
 
-**ehbis**:  [*tl* 102, 2](../Texts/tl_102)
+**ebine** (𐊁𐊂𐊆𐊏𐊁):  [*nf* 320, 36](../Texts/nf_320)
 
-**ehbiyE**:  [*nf* 320, 12](../Texts/nf_320)
+**ebiyehi** (𐊁𐊂𐊆𐊊𐊁𐊛𐊆):  [*nf* 320, 38](../Texts/nf_320); [*tl* 131, 3](../Texts/tl_131); [*tl* 131, 4](../Texts/tl_131); [*tl* 110, 5](../Texts/tl_110); [*tl* 102, 3](../Texts/tl_102); [*tl* 56, 4](../Texts/tl_56)
 
-**ehbiye**:  [*nf* 320, 39](../Texts/nf_320); [*tl* 120, 2](../Texts/tl_120); [*tl* 89, 1](../Texts/tl_89); [*tl* 56, 3](../Texts/tl_56); [*tl* 13, 5](../Texts/tl_13)
+**edi** (𐊁𐊅𐊆):  [*tl* 56, 3](../Texts/tl_56)
 
-**ehbi**:  [*tl* 131, 1](../Texts/tl_131); [*tl* 131, 1](../Texts/tl_131); [*tl* 123, 2](../Texts/tl_123); [*tl* 123, 2](../Texts/tl_123); [*tl* 120, 2](../Texts/tl_120); [*tl* 117, 3](../Texts/tl_117); [*tl* 117, 4](../Texts/tl_117); [*tl* 110, 2](../Texts/tl_110); [*tl* 102, 1](../Texts/tl_102); [*tl* 88, 2](../Texts/tl_88); [*tl* 88, 3](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 56, 2](../Texts/tl_56); [*tl* 53, 3](../Texts/tl_53); [*tl* 37, 5](../Texts/tl_37); [*tl* 25, 4](../Texts/tl_25); [*tl* 25, 5](../Texts/tl_25); [*tl* 13, 4](../Texts/tl_13); [*tl* 4, 3](../Texts/tl_4)
+**ehbis** (𐊁𐊛𐊂𐊆𐊖):  [*tl* 102, 2](../Texts/tl_102)
 
-**ep-ide**:  [*nf* 320, 20](../Texts/nf_320)
+**ehbiyE** (𐊁𐊛𐊂𐊆𐊊𐊚):  [*nf* 320, 12](../Texts/nf_320)
 
-**epNnEni**:  [*tl* 37, 4](../Texts/tl_37)
+**ehbiye** (𐊁𐊛𐊂𐊆𐊊𐊁):  [*nf* 320, 39](../Texts/nf_320); [*tl* 120, 2](../Texts/tl_120); [*tl* 89, 1](../Texts/tl_89); [*tl* 56, 3](../Texts/tl_56); [*tl* 13, 5](../Texts/tl_13)
 
-**epNte**:  [*tl* 106, 3](../Texts/tl_106)
+**ehbi** (𐊁𐊛𐊂𐊆):  [*tl* 131, 1](../Texts/tl_131); [*tl* 131, 1](../Texts/tl_131); [*tl* 123, 2](../Texts/tl_123); [*tl* 123, 2](../Texts/tl_123); [*tl* 120, 2](../Texts/tl_120); [*tl* 117, 3](../Texts/tl_117); [*tl* 117, 4](../Texts/tl_117); [*tl* 110, 2](../Texts/tl_110); [*tl* 102, 1](../Texts/tl_102); [*tl* 88, 2](../Texts/tl_88); [*tl* 88, 3](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 56, 2](../Texts/tl_56); [*tl* 53, 3](../Texts/tl_53); [*tl* 37, 5](../Texts/tl_37); [*tl* 25, 4](../Texts/tl_25); [*tl* 25, 5](../Texts/tl_25); [*tl* 13, 4](../Texts/tl_13); [*tl* 4, 3](../Texts/tl_4)
 
-**epewEtlM-mEi**:  [*nf* 320, 13](../Texts/nf_320)
+**ep-ide** (𐊁𐊓-𐊆𐊅𐊁):  [*nf* 320, 20](../Texts/nf_320)
 
-**epewEtlMmEi**:  [*nf* 320, 6](../Texts/nf_320); [*nf* 320, 32](../Texts/nf_320)
+**epNnEni** (𐊁𐊓𐊑𐊏𐊚𐊏𐊆):  [*tl* 37, 4](../Texts/tl_37)
 
-**epiri-yeti**:  [*tl* 111, 6](../Texts/tl_111)
+**epNte** (𐊁𐊓𐊑𐊗𐊁):  [*tl* 106, 3](../Texts/tl_106)
 
-**epnemei**:  [*tl* 110, 3](../Texts/tl_110)
+**epewEtlM-mEi** (𐊁𐊓𐊁𐊇𐊚𐊗𐊍𐊐-𐊎𐊚𐊆):  [*nf* 320, 13](../Texts/nf_320)
 
-**erawaziya**:  [*tl* 117, 1](../Texts/tl_117)
+**epewEtlMmEi** (𐊁𐊓𐊁𐊇𐊚𐊗𐊍𐊐𐊎𐊚𐊆):  [*nf* 320, 6](../Texts/nf_320); [*nf* 320, 32](../Texts/nf_320)
 
-**eriyopama**:  [*tl* 80, 3](../Texts/tl_80)
+**epiri-yeti** (𐊁𐊓𐊆𐊕𐊆-𐊊𐊁𐊗𐊆):  [*tl* 111, 6](../Texts/tl_111)
 
-**eromao**:  [*tl* 131, 2](../Texts/tl_131)
+**epnemei** (𐊁𐊓𐊏𐊁𐊎𐊁𐊆):  [*tl* 110, 3](../Texts/tl_110)
 
-**erteliyeseh**:  [*tl* 120, 1](../Texts/tl_120)
+**erawaziya** (𐊁𐊕𐊀𐊇𐊀𐊈𐊆𐊊𐊀):  [*tl* 117, 1](../Texts/tl_117)
 
-**erttimeli**:  [*nf* 320, 5](../Texts/nf_320)
+**eriyopama** (𐊁𐊕𐊆𐊊𐊒𐊓𐊀𐊎𐊀):  [*tl* 80, 3](../Texts/tl_80)
 
-**erzesinobe**:  [*tl* 111, 1](../Texts/tl_111)
+**eromao** (𐊁𐊕𐊒𐊎𐊀𐊒):  [*tl* 131, 2](../Texts/tl_131)
 
-**esedENnewE**:  [*tl* 89, 2](../Texts/tl_89)
+**erteliyeseh** (𐊁𐊕𐊗𐊁𐊍𐊆𐊊𐊁𐊖𐊁𐊛):  [*tl* 120, 1](../Texts/tl_120)
 
-**esedeNnewe**:  [*tl* 78, 2](../Texts/tl_78); [*tl* 78, 4](../Texts/tl_78)
+**erttimeli** (𐊁𐊕𐊗𐊗𐊆𐊎𐊁𐊍𐊆):  [*nf* 320, 5](../Texts/nf_320)
 
-**eseimiyaye**:  [*nf* 320, 11](../Texts/nf_320)
+**erzesinobe** (𐊁𐊕𐊈𐊁𐊖𐊆𐊏𐊒𐊂𐊁):  [*tl* 111, 1](../Texts/tl_111)
 
-**eseimiyo**:  [*nf* 320, 10](../Texts/nf_320)
+**esedENnewE** (𐊁𐊖𐊁𐊅𐊚𐊑𐊏𐊁𐊇𐊚):  [*tl* 89, 2](../Texts/tl_89)
 
-**eseri-hhati**:  [*nf* 320, 40](../Texts/nf_320)
+**esedeNnewe** (𐊁𐊖𐊁𐊅𐊁𐊑𐊏𐊁𐊇𐊁):  [*tl* 78, 2](../Texts/tl_78); [*tl* 78, 4](../Texts/tl_78)
 
-**eseri**:  [*tl* 131, 2](../Texts/tl_131)
+**eseimiyaye** (𐊁𐊖𐊁𐊆𐊎𐊆𐊊𐊀𐊊𐊁):  [*nf* 320, 11](../Texts/nf_320)
 
-**ese**:  [*nf* 320, 15](../Texts/nf_320)
+**eseimiyo** (𐊁𐊖𐊁𐊆𐊎𐊆𐊊𐊒):  [*nf* 320, 10](../Texts/nf_320)
 
-**esiti**:  [*nf* 320, 12](../Texts/nf_320)
+**eseri-hhati** (𐊁𐊖𐊁𐊕𐊆-𐊛𐊛𐊀𐊗𐊆):  [*nf* 320, 40](../Texts/nf_320)
 
-**etlihi**:  [*tl* 111, 2](../Texts/tl_111)
+**eseri** (𐊁𐊖𐊁𐊕𐊆):  [*tl* 131, 2](../Texts/tl_131)
 
-**etli**:  [*tl* 117, 3](../Texts/tl_117)
+**ese** (𐊁𐊖𐊁):  [*nf* 320, 15](../Texts/nf_320)
 
-**exeteiya**:  [*tl* 123, 1](../Texts/tl_123)
+**esiti** (𐊁𐊖𐊆𐊗𐊆):  [*nf* 320, 12](../Texts/nf_320)
 
-**e**:  [*tl* 111, 2](../Texts/tl_111); [*tl* 111, 3](../Texts/tl_111); [*tl* 88, 5](../Texts/tl_88)
+**etlihi** (𐊁𐊗𐊍𐊆𐊛𐊆):  [*tl* 111, 2](../Texts/tl_111)
 
-**hAtikMmEtis**:  [*nf* 320, 21](../Texts/nf_320)
+**etli** (𐊁𐊗𐊍𐊆):  [*tl* 117, 3](../Texts/tl_117)
 
-**hMprA**:  [*tl* 37, 5](../Texts/tl_37)
+**exeteiya** (𐊁𐊜𐊁𐊗𐊁𐊆𐊊𐊀):  [*tl* 123, 1](../Texts/tl_123)
 
-**hNtihAmah**:  [*tl* 75, 2](../Texts/tl_75)
+**e** (𐊁):  [*tl* 111, 2](../Texts/tl_111); [*tl* 111, 3](../Texts/tl_111); [*tl* 88, 5](../Texts/tl_88)
 
-**hNti**:  [*nf* 320, 5](../Texts/nf_320)
+**hAtikMmEtis** (𐊛𐊙𐊗𐊆𐊋𐊐𐊎𐊚𐊗𐊆𐊖):  [*nf* 320, 21](../Texts/nf_320)
 
-**hadE**:  [*nf* 320, 2](../Texts/nf_320)
+**hMprA** (𐊛𐊐𐊓𐊕𐊙):  [*tl* 37, 5](../Texts/tl_37)
 
-**hanadaza**:  [*tl* 53, 2](../Texts/tl_53)
+**hNtihAmah** (𐊛𐊑𐊗𐊆𐊛𐊙𐊎𐊀𐊛):  [*tl* 75, 2](../Texts/tl_75)
 
-**hati**:  [*tl* 106, 2](../Texts/tl_106)
+**hNti** (𐊛𐊑𐊗𐊆):  [*nf* 320, 5](../Texts/nf_320)
 
-**himetehe**:  [*tl* 6, 2](../Texts/tl_6)
+**hadE** (𐊛𐊀𐊅𐊚):  [*nf* 320, 2](../Texts/nf_320)
 
-**hlMmipiyata**:  [*nf* 320, 25](../Texts/nf_320)
+**hanadaza** (𐊛𐊀𐊏𐊀𐊅𐊀𐊈𐊀):  [*tl* 53, 2](../Texts/tl_53)
 
-**hlMmi**:  [*tl* 88, 4](../Texts/tl_88); [*tl* 88, 4](../Texts/tl_88)
+**hati** (𐊛𐊀𐊗𐊆):  [*tl* 106, 2](../Texts/tl_106)
 
-**hladi**:  [*tl* 111, 5](../Texts/tl_111)
+**himetehe** (𐊛𐊆𐊎𐊁𐊗𐊁𐊛𐊁):  [*tl* 6, 2](../Texts/tl_6)
 
-**hlah**:  [*tl* 56, 2](../Texts/tl_56)
+**hlMmipiyata** (𐊛𐊍𐊐𐊎𐊆𐊓𐊆𐊊𐊀𐊗𐊀):  [*nf* 320, 25](../Texts/nf_320)
 
-**howedri**:  [*tl* 88, 5](../Texts/tl_88); [*tl* 88, 6](../Texts/tl_88)
+**hlMmi** (𐊛𐊍𐊐𐊎𐊆):  [*tl* 88, 4](../Texts/tl_88); [*tl* 88, 4](../Texts/tl_88)
 
-**howetEne**:  [*tl* 12, 2](../Texts/tl_12)
+**hladi** (𐊛𐊍𐊀𐊅𐊆):  [*tl* 111, 5](../Texts/tl_111)
 
-**hrMmada**:  [*nf* 320, 14](../Texts/nf_320)
+**hlah** (𐊛𐊍𐊀𐊛):  [*tl* 56, 2](../Texts/tl_56)
 
-**hribe**:  [*tl* 106, 2](../Texts/tl_106)
+**howedri** (𐊛𐊒𐊇𐊁𐊅𐊕𐊆):  [*tl* 88, 5](../Texts/tl_88); [*tl* 88, 6](../Texts/tl_88)
 
-**hrixMma**:  [*tl* 89, 1](../Texts/tl_89)
+**howetEne** (𐊛𐊒𐊇𐊁𐊗𐊚𐊏𐊁):  [*tl* 12, 2](../Texts/tl_12)
 
-**hrixM**:  [*tl* 89, 2](../Texts/tl_89)
+**hrMmada** (𐊛𐊕𐊐𐊎𐊀𐊅𐊀):  [*nf* 320, 14](../Texts/nf_320)
 
-**hri**:  [*nf* 320, 41](../Texts/nf_320); [*tl* 111, 5](../Texts/tl_111); [*tl* 102, 2](../Texts/tl_102)
+**hribe** (𐊛𐊕𐊆𐊂𐊁):  [*tl* 106, 2](../Texts/tl_106)
 
-**hrottla**:  [*tl* 131, 3](../Texts/tl_131)
+**hrixMma** (𐊛𐊕𐊆𐊜𐊐𐊎𐊀):  [*tl* 89, 1](../Texts/tl_89)
 
-**hrp-pi**:  [*tl* 53, 2](../Texts/tl_53)
+**hrixM** (𐊛𐊕𐊆𐊜𐊐):  [*tl* 89, 2](../Texts/tl_89)
 
-**hrpi**:  [*tl* 88, 2](../Texts/tl_88)
+**hri** (𐊛𐊕𐊆):  [*nf* 320, 41](../Texts/nf_320); [*tl* 111, 5](../Texts/tl_111); [*tl* 102, 2](../Texts/tl_102)
 
-**hrppi**:  [*tl* 131, 1](../Texts/tl_131); [*tl* 123, 2](../Texts/tl_123); [*tl* 120, 2](../Texts/tl_120); [*tl* 117, 3](../Texts/tl_117); [*tl* 111, 2](../Texts/tl_111); [*tl* 110, 2](../Texts/tl_110); [*tl* 102, 2](../Texts/tl_102); [*tl* 80, 1](../Texts/tl_80); [*tl* 75, 3](../Texts/tl_75); [*tl* 75, 4](../Texts/tl_75); [*tl* 75, 4](../Texts/tl_75); [*tl* 56, 2](../Texts/tl_56); [*tl* 13, 4](../Texts/tl_13); [*tl* 4, 2](../Texts/tl_4); [*tl* 3, 3](../Texts/tl_3)
+**hrottla** (𐊛𐊕𐊒𐊗𐊗𐊍𐊀):  [*tl* 131, 3](../Texts/tl_131)
 
-**idAxre**:  [*tl* 78, 5](../Texts/tl_78)
+**hrp-pi** (𐊛𐊕𐊓-𐊓𐊆):  [*tl* 53, 2](../Texts/tl_53)
 
-**ip-ibiti**:  [*nf* 320, 18](../Texts/nf_320)
+**hrpi** (𐊛𐊕𐊓𐊆):  [*tl* 88, 2](../Texts/tl_88)
 
-**ipiyEtE**:  [*nf* 320, 11](../Texts/nf_320)
+**hrppi** (𐊛𐊕𐊓𐊓𐊆):  [*tl* 131, 1](../Texts/tl_131); [*tl* 123, 2](../Texts/tl_123); [*tl* 120, 2](../Texts/tl_120); [*tl* 117, 3](../Texts/tl_117); [*tl* 111, 2](../Texts/tl_111); [*tl* 110, 2](../Texts/tl_110); [*tl* 102, 2](../Texts/tl_102); [*tl* 80, 1](../Texts/tl_80); [*tl* 75, 3](../Texts/tl_75); [*tl* 75, 4](../Texts/tl_75); [*tl* 75, 4](../Texts/tl_75); [*tl* 56, 2](../Texts/tl_56); [*tl* 13, 4](../Texts/tl_13); [*tl* 4, 2](../Texts/tl_4); [*tl* 3, 3](../Texts/tl_3)
 
-**isbazi**:  [*tl* 75, 3](../Texts/tl_75)
+**idAxre** (𐊆𐊅𐊙𐊜𐊕𐊁):  [*tl* 78, 5](../Texts/tl_78)
 
-**itlehi**:  [*tl* 89, 3](../Texts/tl_89); [*tl* 88, 5](../Texts/tl_88)
+**ip-ibiti** (𐊆𐊓-𐊆𐊂𐊆𐊗𐊆):  [*nf* 320, 18](../Texts/nf_320)
 
-**iyehbiyai-tE**:  [*nf* 320, 30](../Texts/nf_320)
+**ipiyEtE** (𐊆𐊓𐊆𐊊𐊚𐊗𐊚):  [*nf* 320, 11](../Texts/nf_320)
 
-**iyero**:  [*nf* 320, 4](../Texts/nf_320)
+**isbazi** (𐊆𐊖𐊂𐊀𐊈𐊆):  [*tl* 75, 3](../Texts/tl_75)
 
-**iye**:  [*tl* 131, 2](../Texts/tl_131); [*tl* 110, 2](../Texts/tl_110); [*tl* 75, 3](../Texts/tl_75); [*tl* 56, 3](../Texts/tl_56)
+**itlehi** (𐊆𐊗𐊍𐊁𐊛𐊆):  [*tl* 89, 3](../Texts/tl_89); [*tl* 88, 5](../Texts/tl_88)
 
-**iy**:  [*nf* 320, 40](../Texts/nf_320)
+**iyehbiyai-tE** (𐊆𐊊𐊁𐊛𐊂𐊆𐊊𐊀𐊆-𐊗𐊚):  [*nf* 320, 30](../Texts/nf_320)
 
-**i**:  [*tl* 111, 5](../Texts/tl_111); [*tl* 80, 2](../Texts/tl_80); [*tl* 75, 4](../Texts/tl_75)
+**iyero** (𐊆𐊊𐊁𐊕𐊒):  [*nf* 320, 4](../Texts/nf_320)
 
-**kMMe**:  [*nf* 320, 23](../Texts/nf_320)
+**iye** (𐊆𐊊𐊁):  [*tl* 131, 2](../Texts/tl_131); [*tl* 110, 2](../Texts/tl_110); [*tl* 75, 3](../Texts/tl_75); [*tl* 56, 3](../Texts/tl_56)
 
-**kMmis**:  [*tl* 110, 2](../Texts/tl_110)
+**iy** (𐊆𐊊):  [*nf* 320, 40](../Texts/nf_320)
 
-**katamlah**:  [*nf* 320, 2](../Texts/nf_320)
+**i** (𐊆):  [*tl* 111, 5](../Texts/tl_111); [*tl* 80, 2](../Texts/tl_80); [*tl* 75, 4](../Texts/tl_75)
 
-**kbatro**:  [*tl* 25, 6](../Texts/tl_25)
+**kMMe** (𐊋𐊐𐊐𐊁):  [*nf* 320, 23](../Texts/nf_320)
 
-**kba**:  [*tl* 102, 4](../Texts/tl_102)
+**kMmis** (𐊋𐊐𐊎𐊆𐊖):  [*tl* 110, 2](../Texts/tl_110)
 
-**kbisNtAta**:  [*tl* 111, 3](../Texts/tl_111); [*tl* 111, 4](../Texts/tl_111)
+**katamlah** (𐊋𐊀𐊗𐊀𐊎𐊍𐊀𐊛):  [*nf* 320, 2](../Texts/nf_320)
 
-**kbi**:  [*tl* 88, 3](../Texts/tl_88); [*tl* 75, 4](../Texts/tl_75)
+**kbatro** (𐊋𐊂𐊀𐊗𐊕𐊒):  [*tl* 25, 6](../Texts/tl_25)
 
-**kepi**:  [*tl* 111, 5](../Texts/tl_111)
+**kba** (𐊋𐊂𐊀):  [*tl* 102, 4](../Texts/tl_102)
 
-**keroti**:  [*tl* 111, 3](../Texts/tl_111)
+**kbisNtAta** (𐊋𐊂𐊆𐊖𐊑𐊗𐊙𐊗𐊀):  [*tl* 111, 3](../Texts/tl_111); [*tl* 111, 4](../Texts/tl_111)
 
-**kiyo**:  [*tl* 111, 4](../Texts/tl_111)
+**kbi** (𐊋𐊂𐊆):  [*tl* 88, 3](../Texts/tl_88); [*tl* 75, 4](../Texts/tl_75)
 
-**komaha**:  [*nf* 320, 22](../Texts/nf_320)
+**kepi** (𐊋𐊁𐊓𐊆):  [*tl* 111, 5](../Texts/tl_111)
 
-**komaza**:  [*tl* 111, 1](../Texts/tl_111)
+**keroti** (𐊋𐊁𐊕𐊒𐊗𐊆):  [*tl* 111, 3](../Texts/tl_111)
 
-**komazi**:  [*nf* 320, 36](../Texts/nf_320)
+**kiyo** (𐊋𐊆𐊊𐊒):  [*tl* 111, 4](../Texts/tl_111)
 
-**komazo**:  [*nf* 320, 9](../Texts/nf_320)
+**komaha** (𐊋𐊒𐊎𐊀𐊛𐊀):  [*nf* 320, 22](../Texts/nf_320)
 
-**komehedi**:  [*nf* 320, 27](../Texts/nf_320)
+**komaza** (𐊋𐊒𐊎𐊀𐊈𐊀):  [*tl* 111, 1](../Texts/tl_111)
 
-**komezidi**:  [*nf* 320, 26](../Texts/nf_320)
+**komazi** (𐊋𐊒𐊎𐊀𐊈𐊆):  [*nf* 320, 36](../Texts/nf_320)
 
-**komeziye**:  [*nf* 320, 7](../Texts/nf_320)
+**komazo** (𐊋𐊒𐊎𐊀𐊈𐊒):  [*nf* 320, 9](../Texts/nf_320)
 
-**kopA**:  [*tl* 52, 1](../Texts/tl_52)
+**komehedi** (𐊋𐊒𐊎𐊁𐊛𐊁𐊅𐊆):  [*nf* 320, 27](../Texts/nf_320)
 
-**krehEnobe**:  [*tl* 52, 1](../Texts/tl_52)
+**komezidi** (𐊋𐊒𐊎𐊁𐊈𐊆𐊅𐊆):  [*nf* 320, 26](../Texts/nf_320)
 
-**krop**:  [*tl* 25, 2](../Texts/tl_25)
+**komeziye** (𐊋𐊒𐊎𐊁𐊈𐊆𐊊𐊁):  [*nf* 320, 7](../Texts/nf_320)
 
-**ladA**:  [*tl* 131, 1](../Texts/tl_131); [*tl* 106, 3](../Texts/tl_106); [*tl* 88, 3](../Texts/tl_88); [*tl* 75, 3](../Texts/tl_75)
+**kopA** (𐊋𐊒𐊓𐊙):  [*tl* 52, 1](../Texts/tl_52)
 
-**lada**:  [*tl* 110, 2](../Texts/tl_110)
+**krehEnobe** (𐊋𐊕𐊁𐊛𐊚𐊏𐊒𐊂𐊁):  [*tl* 52, 1](../Texts/tl_52)
 
-**ladi**:  [*tl* 131, 1](../Texts/tl_131); [*tl* 123, 2](../Texts/tl_123); [*tl* 120, 2](../Texts/tl_120); [*tl* 117, 4](../Texts/tl_117); [*tl* 88, 2](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 56, 2](../Texts/tl_56); [*tl* 53, 3](../Texts/tl_53); [*tl* 13, 4](../Texts/tl_13); [*tl* 4, 3](../Texts/tl_4); [*tl* 3, 3](../Texts/tl_3)
+**krop** (𐊋𐊕𐊒𐊓):  [*tl* 25, 2](../Texts/tl_25)
 
-**lado**:  [*tl* 102, 1](../Texts/tl_102); [*tl* 25, 5](../Texts/tl_25)
+**ladA** (𐊍𐊀𐊅𐊙):  [*tl* 131, 1](../Texts/tl_131); [*tl* 106, 3](../Texts/tl_106); [*tl* 88, 3](../Texts/tl_88); [*tl* 75, 3](../Texts/tl_75)
 
-**lati**:  [*tl* 88, 2](../Texts/tl_88)
+**lada** (𐊍𐊀𐊅𐊀):  [*tl* 110, 2](../Texts/tl_110)
 
-**lat**:  [*tl* 75, 4](../Texts/tl_75)
+**ladi** (𐊍𐊀𐊅𐊆):  [*tl* 131, 1](../Texts/tl_131); [*tl* 123, 2](../Texts/tl_123); [*tl* 120, 2](../Texts/tl_120); [*tl* 117, 4](../Texts/tl_117); [*tl* 88, 2](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 56, 2](../Texts/tl_56); [*tl* 53, 3](../Texts/tl_53); [*tl* 13, 4](../Texts/tl_13); [*tl* 4, 3](../Texts/tl_4); [*tl* 3, 3](../Texts/tl_3)
 
-**mAhAi**:  [*tl* 88, 6](../Texts/tl_88)
+**lado** (𐊍𐊀𐊅𐊒):  [*tl* 102, 1](../Texts/tl_102); [*tl* 25, 5](../Texts/tl_25)
 
-**mEtE**:  [*tl* 56, 3](../Texts/tl_56)
+**lati** (𐊍𐊀𐊗𐊆):  [*tl* 88, 2](../Texts/tl_88)
 
-**mE**:  [*tl* 123, 1](../Texts/tl_123); [*tl* 110, 1](../Texts/tl_110); [*tl* 102, 1](../Texts/tl_102); [*tl* 102, 1](../Texts/tl_102); [*tl* 89, 1](../Texts/tl_89); [*tl* 89, 3](../Texts/tl_89); [*tl* 75, 1](../Texts/tl_75); [*tl* 75, 4](../Texts/tl_75); [*tl* 53, 1](../Texts/tl_53); [*tl* 52, 1](../Texts/tl_52); [*tl* 37, 2](../Texts/tl_37); [*tl* 3, 1](../Texts/tl_3)
+**lat** (𐊍𐊀𐊗):  [*tl* 75, 4](../Texts/tl_75)
 
-**mahAna**:  [*nf* 320, 9](../Texts/nf_320); [*nf* 320, 35](../Texts/nf_320); [*nf* 320, 37](../Texts/nf_320)
+**mAhAi** (𐊎𐊙𐊛𐊙𐊆):  [*tl* 88, 6](../Texts/tl_88)
 
-**maliya**:  [*tl* 80, 3](../Texts/tl_80); [*tl* 75, 5](../Texts/tl_75)
+**mEtE** (𐊎𐊚𐊗𐊚):  [*tl* 56, 3](../Texts/tl_56)
 
-**mara**:  [*nf* 320, 33](../Texts/nf_320)
+**mE** (𐊎𐊚):  [*tl* 123, 1](../Texts/tl_123); [*tl* 110, 1](../Texts/tl_110); [*tl* 102, 1](../Texts/tl_102); [*tl* 102, 1](../Texts/tl_102); [*tl* 89, 1](../Texts/tl_89); [*tl* 89, 3](../Texts/tl_89); [*tl* 75, 1](../Texts/tl_75); [*tl* 75, 4](../Texts/tl_75); [*tl* 53, 1](../Texts/tl_53); [*tl* 52, 1](../Texts/tl_52); [*tl* 37, 2](../Texts/tl_37); [*tl* 3, 1](../Texts/tl_3)
 
-**maxah**:  [*tl* 78, 2](../Texts/tl_78); [*tl* 78, 4](../Texts/tl_78); [*tl* 78, 5](../Texts/tl_78)
+**mahAna** (𐊎𐊀𐊛𐊙𐊏𐊀):  [*nf* 320, 9](../Texts/nf_320); [*nf* 320, 35](../Texts/nf_320); [*nf* 320, 37](../Texts/nf_320)
 
-**me-de**:  [*tl* 37, 3](../Texts/tl_37)
+**maliya** (𐊎𐊀𐊍𐊆𐊊𐊀):  [*tl* 80, 3](../Texts/tl_80); [*tl* 75, 5](../Texts/tl_75)
 
-**medemodi**:  [*tl* 110, 1](../Texts/tl_110)
+**mara** (𐊎𐊀𐊕𐊀):  [*nf* 320, 33](../Texts/nf_320)
 
-**medetewE**:  [*nf* 320, 26](../Texts/nf_320)
+**maxah** (𐊎𐊀𐊜𐊀𐊛):  [*tl* 78, 2](../Texts/tl_78); [*tl* 78, 4](../Texts/tl_78); [*tl* 78, 5](../Texts/tl_78)
 
-**meipibi-ti**:  [*nf* 320, 21](../Texts/nf_320)
+**me-de** (𐊎𐊁-𐊅𐊁):  [*tl* 37, 3](../Texts/tl_37)
 
-**meiyesitEniti**:  [*nf* 320, 25](../Texts/nf_320)
+**medemodi** (𐊎𐊁𐊅𐊁𐊎𐊒𐊅𐊆):  [*tl* 110, 1](../Texts/tl_110)
 
-**mei**:  [*tl* 106, 1](../Texts/tl_106); [*tl* 89, 1](../Texts/tl_89); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 4](../Texts/tl_88); [*tl* 80, 2](../Texts/tl_80)
+**medetewE** (𐊎𐊁𐊅𐊁𐊗𐊁𐊇𐊚):  [*nf* 320, 26](../Texts/nf_320)
 
-**mekomezidi**:  [*nf* 320, 29](../Texts/nf_320)
+**meipibi-ti** (𐊎𐊁𐊆𐊓𐊆𐊂𐊆-𐊗𐊆):  [*nf* 320, 21](../Texts/nf_320)
 
-**melebi**:  [*tl* 106, 4](../Texts/tl_106)
+**meiyesitEniti** (𐊎𐊁𐊆𐊊𐊁𐊖𐊆𐊗𐊚𐊏𐊆𐊗𐊆):  [*nf* 320, 25](../Texts/nf_320)
 
-**mepddE**:  [*nf* 320, 37](../Texts/nf_320)
+**mei** (𐊎𐊁𐊆):  [*tl* 106, 1](../Texts/tl_106); [*tl* 89, 1](../Texts/tl_89); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 4](../Texts/tl_88); [*tl* 80, 2](../Texts/tl_80)
 
-**mere**:  [*nf* 320, 31](../Texts/nf_320)
+**mekomezidi** (𐊎𐊁𐊋𐊒𐊎𐊁𐊈𐊆𐊅𐊆):  [*nf* 320, 29](../Texts/nf_320)
 
-**mete-pitowEti**:  [*nf* 320, 32](../Texts/nf_320)
+**melebi** (𐊎𐊁𐊍𐊁𐊂𐊆):  [*tl* 106, 4](../Texts/tl_106)
 
-**mexbaitE**:  [*nf* 320, 14](../Texts/nf_320)
+**mepddE** (𐊎𐊁𐊓𐊅𐊅𐊚):  [*nf* 320, 37](../Texts/nf_320)
 
-**me**:  [*nf* 320, 5](../Texts/nf_320); [*nf* 320, 40](../Texts/nf_320); [*nf* 320, 41](../Texts/nf_320); [*tl* 131, 1](../Texts/tl_131); [*tl* 131, 3](../Texts/tl_131); [*tl* 120, 1](../Texts/tl_120); [*tl* 117, 1](../Texts/tl_117); [*tl* 111, 1](../Texts/tl_111); [*tl* 111, 3](../Texts/tl_111); [*tl* 111, 5](../Texts/tl_111); [*tl* 110, 2](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 106, 2](../Texts/tl_106); [*tl* 102, 2](../Texts/tl_102); [*tl* 88, 1](../Texts/tl_88); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 5](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 80, 2](../Texts/tl_80); [*tl* 78, 1](../Texts/tl_78); [*tl* 75, 3](../Texts/tl_75); [*tl* 70, 1](../Texts/tl_70); [*tl* 56, 1](../Texts/tl_56); [*tl* 56, 4](../Texts/tl_56); [*tl* 25, 3](../Texts/tl_25); [*tl* 13, 1](../Texts/tl_13); [*tl* 12, 1](../Texts/tl_12); [*tl* 6, 1](../Texts/tl_6); [*tl* 4, 1](../Texts/tl_4)
+**mere** (𐊎𐊁𐊕𐊁):  [*nf* 320, 31](../Texts/nf_320)
 
-**miNtaha**:  [*tl* 75, 5](../Texts/tl_75)
+**mete-pitowEti** (𐊎𐊁𐊗𐊁-𐊓𐊆𐊗𐊒𐊇𐊚𐊗𐊆):  [*nf* 320, 32](../Texts/nf_320)
 
-**miNtehi**:  [*tl* 106, 1](../Texts/tl_106)
+**mexbaitE** (𐊎𐊁𐊜𐊂𐊀𐊆𐊗𐊚):  [*nf* 320, 14](../Texts/nf_320)
 
-**miNti**:  [*tl* 52, 2](../Texts/tl_52); [*tl* 4, 4](../Texts/tl_4); [*tl* 3, 4](../Texts/tl_3)
+**me** (𐊎𐊁):  [*nf* 320, 5](../Texts/nf_320); [*nf* 320, 40](../Texts/nf_320); [*nf* 320, 41](../Texts/nf_320); [*tl* 131, 1](../Texts/tl_131); [*tl* 131, 3](../Texts/tl_131); [*tl* 120, 1](../Texts/tl_120); [*tl* 117, 1](../Texts/tl_117); [*tl* 111, 1](../Texts/tl_111); [*tl* 111, 3](../Texts/tl_111); [*tl* 111, 5](../Texts/tl_111); [*tl* 110, 2](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 106, 2](../Texts/tl_106); [*tl* 102, 2](../Texts/tl_102); [*tl* 88, 1](../Texts/tl_88); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 5](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 80, 2](../Texts/tl_80); [*tl* 78, 1](../Texts/tl_78); [*tl* 75, 3](../Texts/tl_75); [*tl* 70, 1](../Texts/tl_70); [*tl* 56, 1](../Texts/tl_56); [*tl* 56, 4](../Texts/tl_56); [*tl* 25, 3](../Texts/tl_25); [*tl* 13, 1](../Texts/tl_13); [*tl* 12, 1](../Texts/tl_12); [*tl* 6, 1](../Texts/tl_6); [*tl* 4, 1](../Texts/tl_4)
 
-**molliyeseh**:  [*tl* 6, 1](../Texts/tl_6)
+**miNtaha** (𐊎𐊆𐊑𐊗𐊀𐊛𐊀):  [*tl* 75, 5](../Texts/tl_75)
 
-**m**:  [*tl* 89, 2](../Texts/tl_89)
+**miNtehi** (𐊎𐊆𐊑𐊗𐊁𐊛𐊆):  [*tl* 106, 1](../Texts/tl_106)
 
-**n-e**:  [*tl* 53, 1](../Texts/tl_53)
+**miNti** (𐊎𐊆𐊑𐊗𐊆):  [*tl* 52, 2](../Texts/tl_52); [*tl* 4, 4](../Texts/tl_4); [*tl* 3, 4](../Texts/tl_3)
 
-**nEne**:  [*tl* 89, 1](../Texts/tl_89)
+**molliyeseh** (𐊎𐊒𐊍𐊍𐊆𐊊𐊁𐊖𐊁𐊛):  [*tl* 6, 1](../Texts/tl_6)
 
-**nEni**:  [*tl* 78, 4](../Texts/tl_78)
+**m** (𐊎):  [*tl* 89, 2](../Texts/tl_89)
 
-**nadE**:  [*tl* 89, 1](../Texts/tl_89); [*tl* 52, 1](../Texts/tl_52)
+**n-e** (𐊏-𐊁):  [*tl* 53, 1](../Texts/tl_53)
 
-**natrbbiyEmi**:  [*nf* 320, 4](../Texts/nf_320)
+**nEne** (𐊏𐊚𐊏𐊁):  [*tl* 89, 1](../Texts/tl_89)
 
-**nepNne**:  [*tl* 78, 2](../Texts/tl_78)
+**nEni** (𐊏𐊚𐊏𐊆):  [*tl* 78, 4](../Texts/tl_78)
 
-**nepNniyetE**:  [*tl* 78, 4](../Texts/tl_78)
+**nadE** (𐊏𐊀𐊅𐊚):  [*tl* 89, 1](../Texts/tl_89); [*tl* 52, 1](../Texts/tl_52)
 
-**ne**:  [*tl* 131, 1](../Texts/tl_131); [*tl* 110, 2](../Texts/tl_110); [*tl* 102, 1](../Texts/tl_102); [*tl* 89, 3](../Texts/tl_89); [*tl* 88, 1](../Texts/tl_88); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 5](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 80, 2](../Texts/tl_80); [*tl* 80, 2](../Texts/tl_80); [*tl* 78, 1](../Texts/tl_78); [*tl* 75, 1](../Texts/tl_75); [*tl* 75, 2](../Texts/tl_75); [*tl* 75, 3](../Texts/tl_75); [*tl* 75, 4](../Texts/tl_75); [*tl* 70, 1](../Texts/tl_70); [*tl* 56, 4](../Texts/tl_56); [*tl* 37, 2](../Texts/tl_37); [*tl* 13, 1](../Texts/tl_13); [*tl* 12, 1](../Texts/tl_12); [*tl* 6, 1](../Texts/tl_6)
+**natrbbiyEmi** (𐊏𐊀𐊗𐊕𐊂𐊂𐊆𐊊𐊚𐊎𐊆):  [*nf* 320, 4](../Texts/nf_320)
 
-**nipe**:  [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 4](../Texts/tl_88)
+**nepNne** (𐊏𐊁𐊓𐊑𐊏𐊁):  [*tl* 78, 2](../Texts/tl_78)
 
-**niyepi**:  [*tl* 131, 4](../Texts/tl_131)
+**nepNniyetE** (𐊏𐊁𐊓𐊑𐊏𐊆𐊊𐊁𐊗𐊚):  [*tl* 78, 4](../Texts/tl_78)
 
-**noNtAta**:  [*tl* 131, 3](../Texts/tl_131)
+**ne** (𐊏𐊁):  [*tl* 131, 1](../Texts/tl_131); [*tl* 110, 2](../Texts/tl_110); [*tl* 102, 1](../Texts/tl_102); [*tl* 89, 3](../Texts/tl_89); [*tl* 88, 1](../Texts/tl_88); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 5](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 80, 2](../Texts/tl_80); [*tl* 80, 2](../Texts/tl_80); [*tl* 78, 1](../Texts/tl_78); [*tl* 75, 1](../Texts/tl_75); [*tl* 75, 2](../Texts/tl_75); [*tl* 75, 3](../Texts/tl_75); [*tl* 75, 4](../Texts/tl_75); [*tl* 70, 1](../Texts/tl_70); [*tl* 56, 4](../Texts/tl_56); [*tl* 37, 2](../Texts/tl_37); [*tl* 13, 1](../Texts/tl_13); [*tl* 12, 1](../Texts/tl_12); [*tl* 6, 1](../Texts/tl_6)
 
-**nore-di**:  [*nf* 320, 26](../Texts/nf_320)
+**nipe** (𐊏𐊆𐊓𐊁):  [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 4](../Texts/tl_88)
 
-**noredi**:  [*nf* 320, 26](../Texts/nf_320)
+**niyepi** (𐊏𐊆𐊊𐊁𐊓𐊆):  [*tl* 131, 4](../Texts/tl_131)
 
-**ohazata**:  [*nf* 320, 19](../Texts/nf_320); [*nf* 320, 27](../Texts/nf_320)
+**noNtAta** (𐊏𐊒𐊑𐊗𐊙𐊗𐊀):  [*tl* 131, 3](../Texts/tl_131)
 
-**ortaqeyahN**:  [*tl* 25, 6](../Texts/tl_25)
+**nore-di** (𐊏𐊒𐊕𐊁-𐊅𐊆):  [*nf* 320, 26](../Texts/nf_320)
 
-**owad-i**:  [*nf* 320, 27](../Texts/nf_320)
+**noredi** (𐊏𐊒𐊕𐊁𐊅𐊆):  [*nf* 320, 26](../Texts/nf_320)
 
-**owatiseh**:  [*tl* 78, 3](../Texts/tl_78)
+**ohazata** (𐊒𐊛𐊀𐊈𐊀𐊗𐊀):  [*nf* 320, 19](../Texts/nf_320); [*nf* 320, 27](../Texts/nf_320)
 
-**owa**:  [*tl* 131, 4](../Texts/tl_131); [*tl* 111, 4](../Texts/tl_111)
+**ortaqeyahN** (𐊒𐊕𐊗𐊀𐊌𐊁𐊊𐊀𐊛𐊑):  [*tl* 25, 6](../Texts/tl_25)
 
-**owelahadi**:  [*tl* 106, 2](../Texts/tl_106)
+**owad-i** (𐊒𐊇𐊀𐊅-𐊆):  [*nf* 320, 27](../Texts/nf_320)
 
-**owiNte**:  [*tl* 120, 2](../Texts/tl_120)
+**owatiseh** (𐊒𐊇𐊀𐊗𐊆𐊖𐊁𐊛):  [*tl* 78, 3](../Texts/tl_78)
 
-**pNnoteh**:  [*tl* 12, 2](../Texts/tl_12)
+**owa** (𐊒𐊇𐊀):  [*tl* 131, 4](../Texts/tl_131); [*tl* 111, 4](../Texts/tl_111)
 
-**pNntreNni**:  [*tl* 102, 3](../Texts/tl_102)
+**owelahadi** (𐊒𐊇𐊁𐊍𐊀𐊛𐊀𐊅𐊆):  [*tl* 106, 2](../Texts/tl_106)
 
-**pNpodE**:  [*tl* 78, 5](../Texts/tl_78)
+**owiNte** (𐊒𐊇𐊆𐊑𐊗𐊁):  [*tl* 120, 2](../Texts/tl_120)
 
-**pNtrENni**:  [*nf* 320, 39](../Texts/nf_320)
+**pNnoteh** (𐊓𐊑𐊏𐊒𐊗𐊁𐊛):  [*tl* 12, 2](../Texts/tl_12)
 
-**pablAti**:  [*tl* 89, 4](../Texts/tl_89)
+**pNntreNni** (𐊓𐊑𐊏𐊗𐊕𐊁𐊑𐊏𐊆):  [*tl* 102, 3](../Texts/tl_102)
 
-**pddAxNta**:  [*tl* 13, 2](../Texts/tl_13)
+**pNpodE** (𐊓𐊑𐊓𐊒𐊅𐊚):  [*tl* 78, 5](../Texts/tl_78)
 
-**pddEnehMm-is**:  [*nf* 320, 3](../Texts/nf_320)
+**pNtrENni** (𐊓𐊑𐊗𐊕𐊚𐊑𐊏𐊆):  [*nf* 320, 39](../Texts/nf_320)
 
-**pddEneh**:  [*tl* 106, 1](../Texts/tl_106)
+**pablAti** (𐊓𐊀𐊂𐊍𐊙𐊗𐊆):  [*tl* 89, 4](../Texts/tl_89)
 
-**pddE**:  [*nf* 320, 2](../Texts/nf_320)
+**pddAxNta** (𐊓𐊅𐊅𐊙𐊜𐊑𐊗𐊀):  [*tl* 13, 2](../Texts/tl_13)
 
-**perm-ne**:  [*tl* 117, 2](../Texts/tl_117)
+**pddEnehMm-is** (𐊓𐊅𐊅𐊚𐊏𐊁𐊛𐊐𐊎-𐊆𐊖):  [*nf* 320, 3](../Texts/nf_320)
 
-**pig-esere**:  [*nf* 320, 1](../Texts/nf_320)
+**pddEneh** (𐊓𐊅𐊅𐊚𐊏𐊁𐊛):  [*tl* 106, 1](../Texts/tl_106)
 
-**pigesereye**:  [*nf* 320, 40](../Texts/nf_320)
+**pddE** (𐊓𐊅𐊅𐊚):  [*nf* 320, 2](../Texts/nf_320)
 
-**pigrEi**:  [*nf* 320, 15](../Texts/nf_320)
+**perm-ne** (𐊓𐊁𐊕𐊎-𐊏𐊁):  [*tl* 117, 2](../Texts/tl_117)
 
-**pilleNni**:  [*tl* 25, 6](../Texts/tl_25)
+**pig-esere** (𐊓𐊆𐊄-𐊁𐊖𐊁𐊕𐊁):  [*nf* 320, 1](../Texts/nf_320)
 
-**piyEtE**:  [*tl* 52, 1](../Texts/tl_52)
+**pigesereye** (𐊓𐊆𐊄𐊁𐊖𐊁𐊕𐊁𐊊𐊁):  [*nf* 320, 40](../Texts/nf_320)
 
-**piyetE**:  [*tl* 78, 2](../Texts/tl_78); [*tl* 52, 2](../Texts/tl_52)
+**pigrEi** (𐊓𐊆𐊄𐊕𐊚𐊆):  [*nf* 320, 15](../Texts/nf_320)
 
-**pobie-leye**:  [*tl* 117, 4](../Texts/tl_117)
+**pilleNni** (𐊓𐊆𐊍𐊍𐊁𐊑𐊏𐊆):  [*tl* 25, 6](../Texts/tl_25)
 
-**polenyda**:  [*tl* 6, 1](../Texts/tl_6)
+**piyEtE** (𐊓𐊆𐊊𐊚𐊗𐊚):  [*tl* 52, 1](../Texts/tl_52)
 
-**pomaza**:  [*tl* 120, 1](../Texts/tl_120)
+**piyetE** (𐊓𐊆𐊊𐊁𐊗𐊚):  [*tl* 78, 2](../Texts/tl_78); [*tl* 52, 2](../Texts/tl_52)
 
-**porihimeiqa**:  [*tl* 78, 3](../Texts/tl_78)
+**pobie-leye** (𐊓𐊒𐊂𐊆𐊁-𐊍𐊁𐊊𐊁):  [*tl* 117, 4](../Texts/tl_117)
 
-**porihi**:  [*tl* 25, 3](../Texts/tl_25)
+**polenyda** (𐊓𐊒𐊍𐊁𐊏𐊊𐊅𐊀):  [*tl* 6, 1](../Texts/tl_6)
 
-**powa**:  [*tl* 102, 3](../Texts/tl_102)
+**pomaza** (𐊓𐊒𐊎𐊀𐊈𐊀):  [*tl* 120, 1](../Texts/tl_120)
 
-**ppNtazah**:  [*tl* 3, 2](../Texts/tl_3)
+**porihimeiqa** (𐊓𐊒𐊕𐊆𐊛𐊆𐊎𐊁𐊆𐊌𐊀):  [*tl* 78, 3](../Texts/tl_78)
 
-**ppowEtime**:  [*nf* 320, 34](../Texts/nf_320)
+**porihi** (𐊓𐊒𐊕𐊆𐊛𐊆):  [*tl* 25, 3](../Texts/tl_25)
 
-**ppoweti**:  [*nf* 320, 23](../Texts/nf_320)
+**powa** (𐊓𐊒𐊇𐊀):  [*tl* 102, 3](../Texts/tl_102)
 
-**pr-NnawatE**:  [*tl* 37, 2](../Texts/tl_37)
+**ppNtazah** (𐊓𐊓𐊑𐊗𐊀𐊈𐊀𐊛):  [*tl* 3, 2](../Texts/tl_3)
 
-**prNnAwo**:  [*tl* 56, 1](../Texts/tl_56)
+**ppowEtime** (𐊓𐊓𐊒𐊇𐊚𐊗𐊆𐊎𐊁):  [*nf* 320, 34](../Texts/nf_320)
 
-**prNnawAtE**:  [*tl* 6, 1](../Texts/tl_6)
+**ppoweti** (𐊓𐊓𐊒𐊇𐊁𐊗𐊆):  [*nf* 320, 23](../Texts/nf_320)
 
-**prNnawA**:  [*tl* 88, 1](../Texts/tl_88); [*tl* 4, 1](../Texts/tl_4)
+**pr-NnawatE** (𐊓𐊕-𐊑𐊏𐊀𐊇𐊀𐊗𐊚):  [*tl* 37, 2](../Texts/tl_37)
 
-**prNnawatE**:  [*tl* 123, 1](../Texts/tl_123); [*tl* 120, 1](../Texts/tl_120); [*tl* 117, 2](../Texts/tl_117); [*tl* 111, 1](../Texts/tl_111); [*tl* 110, 1](../Texts/tl_110); [*tl* 102, 1](../Texts/tl_102); [*tl* 88, 1](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 78, 1](../Texts/tl_78); [*tl* 75, 1](../Texts/tl_75); [*tl* 70, 1](../Texts/tl_70); [*tl* 56, 1](../Texts/tl_56); [*tl* 53, 2](../Texts/tl_53); [*tl* 4, 2](../Texts/tl_4); [*tl* 3, 1](../Texts/tl_3)
+**prNnAwo** (𐊓𐊕𐊑𐊏𐊙𐊇𐊒):  [*tl* 56, 1](../Texts/tl_56)
 
-**prNnawate**:  [*tl* 131, 1](../Texts/tl_131)
+**prNnawAtE** (𐊓𐊕𐊑𐊏𐊀𐊇𐊙𐊗𐊚):  [*tl* 6, 1](../Texts/tl_6)
 
-**prNnawati**:  [*tl* 111, 6](../Texts/tl_111); [*tl* 110, 3](../Texts/tl_110)
+**prNnawA** (𐊓𐊕𐊑𐊏𐊀𐊇𐊙):  [*tl* 88, 1](../Texts/tl_88); [*tl* 4, 1](../Texts/tl_4)
 
-**prNnawetE**:  [*tl* 13, 2](../Texts/tl_13)
+**prNnawatE** (𐊓𐊕𐊑𐊏𐊀𐊇𐊀𐊗𐊚):  [*tl* 123, 1](../Texts/tl_123); [*tl* 120, 1](../Texts/tl_120); [*tl* 117, 2](../Texts/tl_117); [*tl* 111, 1](../Texts/tl_111); [*tl* 110, 1](../Texts/tl_110); [*tl* 102, 1](../Texts/tl_102); [*tl* 88, 1](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 78, 1](../Texts/tl_78); [*tl* 75, 1](../Texts/tl_75); [*tl* 70, 1](../Texts/tl_70); [*tl* 56, 1](../Texts/tl_56); [*tl* 53, 2](../Texts/tl_53); [*tl* 4, 2](../Texts/tl_4); [*tl* 3, 1](../Texts/tl_3)
 
-**prNnawo**:  [*tl* 53, 1](../Texts/tl_53)
+**prNnawate** (𐊓𐊕𐊑𐊏𐊀𐊇𐊀𐊗𐊁):  [*tl* 131, 1](../Texts/tl_131)
 
-**prNnewAtE**:  [*tl* 12, 1](../Texts/tl_12)
+**prNnawati** (𐊓𐊕𐊑𐊏𐊀𐊇𐊀𐊗𐊆):  [*tl* 111, 6](../Texts/tl_111); [*tl* 110, 3](../Texts/tl_110)
 
-**prNneziyehi**:  [*tl* 6, 2](../Texts/tl_6)
+**prNnawetE** (𐊓𐊕𐊑𐊏𐊀𐊇𐊁𐊗𐊚):  [*tl* 13, 2](../Texts/tl_13)
 
-**priyenobehN**:  [*tl* 25, 7](../Texts/tl_25)
+**prNnawo** (𐊓𐊕𐊑𐊏𐊀𐊇𐊒):  [*tl* 53, 1](../Texts/tl_53)
 
-**pttlezEi**:  [*tl* 10, 1](../Texts/tl_10)
+**prNnewAtE** (𐊓𐊕𐊑𐊏𐊁𐊇𐊙𐊗𐊚):  [*tl* 12, 1](../Texts/tl_12)
 
-**pzzititi**:  [*nf* 320, 41](../Texts/nf_320)
+**prNneziyehi** (𐊓𐊕𐊑𐊏𐊁𐊈𐊆𐊊𐊁𐊛𐊆):  [*tl* 6, 2](../Texts/tl_6)
 
-**qAti**:  [*tl* 89, 3](../Texts/tl_89)
+**priyenobehN** (𐊓𐊕𐊆𐊊𐊁𐊏𐊒𐊂𐊁𐊛𐊑):  [*tl* 25, 7](../Texts/tl_25)
 
-**qNtati**:  [*nf* 320, 15](../Texts/nf_320)
+**pttlezEi** (𐊓𐊗𐊗𐊍𐊁𐊈𐊚𐊆):  [*tl* 10, 1](../Texts/tl_10)
 
-**qNtorahahN**:  [*nf* 320, 10](../Texts/nf_320)
+**pzzititi** (𐊓𐊈𐊈𐊆𐊗𐊆𐊗𐊆):  [*nf* 320, 41](../Texts/nf_320)
 
-**qanoweti**:  [*tl* 110, 3](../Texts/tl_110)
+**qAti** (𐊌𐊙𐊗𐊆):  [*tl* 89, 3](../Texts/tl_89)
 
-**qastto**:  [*tl* 56, 4](../Texts/tl_56)
+**qNtati** (𐊌𐊑𐊗𐊀𐊗𐊆):  [*nf* 320, 15](../Texts/nf_320)
 
-**qebeliya**:  [*tl* 102, 3](../Texts/tl_102)
+**qNtorahahN** (𐊌𐊑𐊗𐊒𐊕𐊀𐊛𐊀𐊛𐊑):  [*nf* 320, 10](../Texts/nf_320)
 
-**qlahi**:  [*nf* 320, 38](../Texts/nf_320); [*tl* 131, 3](../Texts/tl_131); [*tl* 131, 4](../Texts/tl_131); [*tl* 110, 4](../Texts/tl_110); [*tl* 102, 3](../Texts/tl_102); [*tl* 56, 4](../Texts/tl_56)
+**qanoweti** (𐊌𐊀𐊏𐊒𐊇𐊁𐊗𐊆):  [*tl* 110, 3](../Texts/tl_110)
 
-**qlayeb**:  [*tl* 75, 5](../Texts/tl_75)
+**qastto** (𐊌𐊀𐊖𐊗𐊗𐊒):  [*tl* 56, 4](../Texts/tl_56)
 
-**qla**:  [*nf* 320, 41](../Texts/nf_320)
+**qebeliya** (𐊌𐊁𐊂𐊁𐊍𐊆𐊊𐊀):  [*tl* 102, 3](../Texts/tl_102)
 
-**qlebi**:  [*tl* 111, 3](../Texts/tl_111)
+**qlahi** (𐊌𐊍𐊀𐊛𐊆):  [*nf* 320, 38](../Texts/nf_320); [*tl* 131, 3](../Texts/tl_131); [*tl* 131, 4](../Texts/tl_131); [*tl* 110, 4](../Texts/tl_110); [*tl* 102, 3](../Texts/tl_102); [*tl* 56, 4](../Texts/tl_56)
 
-**rMmazata**:  [*tl* 131, 4](../Texts/tl_131)
+**qlayeb** (𐊌𐊍𐊀𐊊𐊁𐊂):  [*tl* 75, 5](../Texts/tl_75)
 
-**s-e**:  [*nf* 320, 11](../Texts/nf_320)
+**qla** (𐊌𐊍𐊀):  [*nf* 320, 41](../Texts/nf_320)
 
-**sENnaitE**:  [*nf* 320, 9](../Texts/nf_320)
+**qlebi** (𐊌𐊍𐊁𐊂𐊆):  [*tl* 111, 3](../Texts/tl_111)
 
-**sENteNtekMmE**:  [*nf* 320, 16](../Texts/nf_320)
+**rMmazata** (𐊕𐊐𐊎𐊀𐊈𐊀𐊗𐊀):  [*tl* 131, 4](../Texts/tl_131)
 
-**sE**:  [*nf* 320, 2](../Texts/nf_320)
+**s-e** (𐊖-𐊁):  [*nf* 320, 11](../Texts/nf_320)
 
-**sMma-ti**:  [*nf* 320, 37](../Texts/nf_320)
+**sENnaitE** (𐊖𐊚𐊑𐊏𐊀𐊆𐊗𐊚):  [*nf* 320, 9](../Texts/nf_320)
 
-**sbiKaza**:  [*tl* 106, 1](../Texts/tl_106)
+**sENteNtekMmE** (𐊖𐊚𐊑𐊗𐊁𐊑𐊗𐊁𐊋𐊐𐊎𐊚):  [*nf* 320, 16](../Texts/nf_320)
 
-**sbikazah**:  [*tl* 10, 1](../Texts/tl_10)
+**sE** (𐊖𐊚):  [*nf* 320, 2](../Texts/nf_320)
 
-**sbikaza**:  [*tl* 70, 2](../Texts/tl_70)
+**sMma-ti** (𐊖𐊐𐊎𐊀-𐊗𐊆):  [*nf* 320, 37](../Texts/nf_320)
 
-**se-deliNtAte**:  [*nf* 320, 12](../Texts/nf_320)
+**sbiKaza** (𐊖𐊂𐊆𐊔𐊀𐊈𐊀):  [*tl* 106, 1](../Texts/tl_106)
 
-**se-imiyaye**:  [*nf* 320, 29](../Texts/nf_320)
+**sbikazah** (𐊖𐊂𐊆𐊋𐊀𐊈𐊀𐊛):  [*tl* 10, 1](../Texts/tl_10)
 
-**seNnaha**:  [*tl* 106, 3](../Texts/tl_106)
+**sbikaza** (𐊖𐊂𐊆𐊋𐊀𐊈𐊀):  [*tl* 70, 2](../Texts/tl_70)
 
-**sedetti**:  [*tl* 111, 6](../Texts/tl_111)
+**se-deliNtAte** (𐊖𐊁-𐊅𐊁𐊍𐊆𐊑𐊗𐊙𐊗𐊁):  [*nf* 320, 12](../Texts/nf_320)
 
-**sede**:  [*nf* 320, 29](../Texts/nf_320)
+**se-imiyaye** (𐊖𐊁-𐊆𐊎𐊆𐊊𐊀𐊊𐊁):  [*nf* 320, 29](../Texts/nf_320)
 
-**seimiya**:  [*nf* 320, 29](../Texts/nf_320)
+**seNnaha** (𐊖𐊁𐊑𐊏𐊀𐊛𐊀):  [*tl* 106, 3](../Texts/tl_106)
 
-**seipM**:  [*tl* 89, 4](../Texts/tl_89)
+**sedetti** (𐊖𐊁𐊅𐊁𐊗𐊗𐊆):  [*tl* 111, 6](../Texts/tl_111)
 
-**sei**:  [*tl* 106, 2](../Texts/tl_106); [*tl* 78, 2](../Texts/tl_78); [*tl* 78, 3](../Texts/tl_78); [*tl* 78, 4](../Texts/tl_78); [*tl* 78, 5](../Texts/tl_78)
+**sede** (𐊖𐊁𐊅𐊁):  [*nf* 320, 29](../Texts/nf_320)
 
-**sesMmati**:  [*nf* 320, 20](../Texts/nf_320)
+**seimiya** (𐊖𐊁𐊆𐊎𐊆𐊊𐊀):  [*nf* 320, 29](../Texts/nf_320)
 
-**sewe**:  [*tl* 131, 5](../Texts/tl_131); [*tl* 102, 3](../Texts/tl_102)
+**seipM** (𐊖𐊁𐊆𐊓𐊐):  [*tl* 89, 4](../Texts/tl_89)
 
-**seyEni**:  [*tl* 52, 2](../Texts/tl_52)
+**sei** (𐊖𐊁𐊆):  [*tl* 106, 2](../Texts/tl_106); [*tl* 78, 2](../Texts/tl_78); [*tl* 78, 3](../Texts/tl_78); [*tl* 78, 4](../Texts/tl_78); [*tl* 78, 5](../Texts/tl_78)
 
-**seyeni**:  [*tl* 78, 3](../Texts/tl_78)
+**sesMmati** (𐊖𐊁𐊖𐊐𐊎𐊀𐊗𐊆):  [*nf* 320, 20](../Texts/nf_320)
 
-**sey**:  [*nf* 320, 4](../Texts/nf_320); [*nf* 320, 8](../Texts/nf_320); [*nf* 320, 13](../Texts/nf_320); [*nf* 320, 16](../Texts/nf_320); [*nf* 320, 18](../Texts/nf_320); [*nf* 320, 28](../Texts/nf_320); [*nf* 320, 32](../Texts/nf_320); [*nf* 320, 38](../Texts/nf_320); [*nf* 320, 39](../Texts/nf_320); [*tl* 37, 6](../Texts/tl_37)
+**sewe** (𐊖𐊁𐊇𐊁):  [*tl* 131, 5](../Texts/tl_131); [*tl* 102, 3](../Texts/tl_102)
 
-**se**:  [*nf* 320, 4](../Texts/nf_320); [*nf* 320, 11](../Texts/nf_320); [*nf* 320, 15](../Texts/nf_320); [*nf* 320, 17](../Texts/nf_320); [*nf* 320, 18](../Texts/nf_320); [*nf* 320, 22](../Texts/nf_320); [*nf* 320, 24](../Texts/nf_320); [*nf* 320, 27](../Texts/nf_320); [*nf* 320, 30](../Texts/nf_320); [*nf* 320, 34](../Texts/nf_320); [*nf* 320, 39](../Texts/nf_320); [*tl* 131, 1](../Texts/tl_131); [*tl* 131, 2](../Texts/tl_131); [*tl* 131, 2](../Texts/tl_131); [*tl* 131, 3](../Texts/tl_131); [*tl* 131, 4](../Texts/tl_131); [*tl* 131, 4](../Texts/tl_131); [*tl* 123, 2](../Texts/tl_123); [*tl* 123, 2](../Texts/tl_123); [*tl* 120, 2](../Texts/tl_120); [*tl* 117, 3](../Texts/tl_117); [*tl* 117, 4](../Texts/tl_117); [*tl* 111, 4](../Texts/tl_111); [*tl* 110, 2](../Texts/tl_110); [*tl* 110, 2](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 106, 3](../Texts/tl_106); [*tl* 106, 4](../Texts/tl_106); [*tl* 106, 4](../Texts/tl_106); [*tl* 102, 1](../Texts/tl_102); [*tl* 102, 2](../Texts/tl_102); [*tl* 88, 2](../Texts/tl_88); [*tl* 88, 2](../Texts/tl_88); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 6](../Texts/tl_88); [*tl* 88, 6](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 80, 2](../Texts/tl_80); [*tl* 80, 3](../Texts/tl_80); [*tl* 75, 2](../Texts/tl_75); [*tl* 75, 5](../Texts/tl_75); [*tl* 75, 5](../Texts/tl_75); [*tl* 56, 3](../Texts/tl_56); [*tl* 56, 3](../Texts/tl_56); [*tl* 56, 4](../Texts/tl_56); [*tl* 53, 3](../Texts/tl_53); [*tl* 52, 1](../Texts/tl_52); [*tl* 52, 2](../Texts/tl_52); [*tl* 25, 3](../Texts/tl_25); [*tl* 25, 5](../Texts/tl_25); [*tl* 25, 7](../Texts/tl_25); [*tl* 13, 4](../Texts/tl_13); [*tl* 12, 2](../Texts/tl_12); [*tl* 6, 1](../Texts/tl_6); [*tl* 4, 3](../Texts/tl_4); [*tl* 4, 3](../Texts/tl_4); [*tl* 3, 3](../Texts/tl_3)
+**seyEni** (𐊖𐊁𐊊𐊚𐊏𐊆):  [*tl* 52, 2](../Texts/tl_52)
 
-**sibe**:  [*tl* 131, 3](../Texts/tl_131)
+**seyeni** (𐊖𐊁𐊊𐊁𐊏𐊆):  [*tl* 78, 3](../Texts/tl_78)
 
-**sideriya**:  [*tl* 117, 2](../Texts/tl_117)
+**sey** (𐊖𐊁𐊊):  [*nf* 320, 4](../Texts/nf_320); [*nf* 320, 8](../Texts/nf_320); [*nf* 320, 13](../Texts/nf_320); [*nf* 320, 16](../Texts/nf_320); [*nf* 320, 18](../Texts/nf_320); [*nf* 320, 28](../Texts/nf_320); [*nf* 320, 32](../Texts/nf_320); [*nf* 320, 38](../Texts/nf_320); [*nf* 320, 39](../Texts/nf_320); [*tl* 37, 6](../Texts/tl_37)
 
-**sixlas**:  [*nf* 320, 22](../Texts/nf_320)
+**se** (𐊖𐊁):  [*nf* 320, 4](../Texts/nf_320); [*nf* 320, 11](../Texts/nf_320); [*nf* 320, 15](../Texts/nf_320); [*nf* 320, 17](../Texts/nf_320); [*nf* 320, 18](../Texts/nf_320); [*nf* 320, 22](../Texts/nf_320); [*nf* 320, 24](../Texts/nf_320); [*nf* 320, 27](../Texts/nf_320); [*nf* 320, 30](../Texts/nf_320); [*nf* 320, 34](../Texts/nf_320); [*nf* 320, 39](../Texts/nf_320); [*tl* 131, 1](../Texts/tl_131); [*tl* 131, 2](../Texts/tl_131); [*tl* 131, 2](../Texts/tl_131); [*tl* 131, 3](../Texts/tl_131); [*tl* 131, 4](../Texts/tl_131); [*tl* 131, 4](../Texts/tl_131); [*tl* 123, 2](../Texts/tl_123); [*tl* 123, 2](../Texts/tl_123); [*tl* 120, 2](../Texts/tl_120); [*tl* 117, 3](../Texts/tl_117); [*tl* 117, 4](../Texts/tl_117); [*tl* 111, 4](../Texts/tl_111); [*tl* 110, 2](../Texts/tl_110); [*tl* 110, 2](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 106, 3](../Texts/tl_106); [*tl* 106, 4](../Texts/tl_106); [*tl* 106, 4](../Texts/tl_106); [*tl* 102, 1](../Texts/tl_102); [*tl* 102, 2](../Texts/tl_102); [*tl* 88, 2](../Texts/tl_88); [*tl* 88, 2](../Texts/tl_88); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 6](../Texts/tl_88); [*tl* 88, 6](../Texts/tl_88); [*tl* 80, 1](../Texts/tl_80); [*tl* 80, 2](../Texts/tl_80); [*tl* 80, 3](../Texts/tl_80); [*tl* 75, 2](../Texts/tl_75); [*tl* 75, 5](../Texts/tl_75); [*tl* 75, 5](../Texts/tl_75); [*tl* 56, 3](../Texts/tl_56); [*tl* 56, 3](../Texts/tl_56); [*tl* 56, 4](../Texts/tl_56); [*tl* 53, 3](../Texts/tl_53); [*tl* 52, 1](../Texts/tl_52); [*tl* 52, 2](../Texts/tl_52); [*tl* 25, 3](../Texts/tl_25); [*tl* 25, 5](../Texts/tl_25); [*tl* 25, 7](../Texts/tl_25); [*tl* 13, 4](../Texts/tl_13); [*tl* 12, 2](../Texts/tl_12); [*tl* 6, 1](../Texts/tl_6); [*tl* 4, 3](../Texts/tl_4); [*tl* 4, 3](../Texts/tl_4); [*tl* 3, 3](../Texts/tl_3)
 
-**siyEni**:  [*tl* 111, 5](../Texts/tl_111); [*tl* 106, 1](../Texts/tl_106)
+**sibe** (𐊖𐊆𐊂𐊁):  [*tl* 131, 3](../Texts/tl_131)
 
-**slMmewe**:  [*tl* 12, 2](../Texts/tl_12)
+**sideriya** (𐊖𐊆𐊅𐊁𐊕𐊆𐊊𐊀):  [*tl* 117, 2](../Texts/tl_117)
 
-**sttal-i**:  [*nf* 320, 33](../Texts/nf_320)
+**sixlas** (𐊖𐊆𐊜𐊍𐊀𐊖):  [*nf* 320, 22](../Texts/nf_320)
 
-**sttali**:  [*nf* 320, 23](../Texts/nf_320)
+**siyEni** (𐊖𐊆𐊊𐊚𐊏𐊆):  [*tl* 111, 5](../Texts/tl_111); [*tl* 106, 1](../Texts/tl_106)
 
-**sttat-iteli**:  [*nf* 320, 16](../Texts/nf_320)
+**slMmewe** (𐊖𐊍𐊐𐊎𐊁𐊇𐊁):  [*tl* 12, 2](../Texts/tl_12)
 
-**sttoleh**:  [*tl* 88, 1](../Texts/tl_88)
+**sttal-i** (𐊖𐊗𐊗𐊀𐊍-𐊆):  [*nf* 320, 33](../Texts/nf_320)
 
-**sxxotrazi**:  [*tl* 102, 1](../Texts/tl_102); [*tl* 102, 1](../Texts/tl_102)
+**sttali** (𐊖𐊗𐊗𐊀𐊍𐊆):  [*nf* 320, 23](../Texts/nf_320)
 
-**t-obedE**:  [*nf* 320, 5](../Texts/nf_320)
+**sttat-iteli** (𐊖𐊗𐊗𐊀𐊗-𐊆𐊗𐊁𐊍𐊆):  [*nf* 320, 16](../Texts/nf_320)
 
-**tAti**:  [*tl* 131, 1](../Texts/tl_131); [*tl* 111, 2](../Texts/tl_111); [*tl* 111, 2](../Texts/tl_111); [*tl* 110, 2](../Texts/tl_110); [*tl* 88, 3](../Texts/tl_88); [*tl* 75, 2](../Texts/tl_75)
+**sttoleh** (𐊖𐊗𐊗𐊒𐊍𐊁𐊛):  [*tl* 88, 1](../Texts/tl_88)
 
-**tAto**:  [*tl* 88, 3](../Texts/tl_88); [*tl* 80, 2](../Texts/tl_80); [*tl* 75, 3](../Texts/tl_75)
+**sxxotrazi** (𐊖𐊜𐊜𐊒𐊗𐊕𐊀𐊈𐊆):  [*tl* 102, 1](../Texts/tl_102); [*tl* 102, 1](../Texts/tl_102)
 
-**tEti**:  [*tl* 102, 1](../Texts/tl_102)
+**t-obedE** (𐊗-𐊒𐊂𐊁𐊅𐊚):  [*nf* 320, 5](../Texts/nf_320)
 
-**tadE**:  [*tl* 4, 4](../Texts/tl_4)
+**tAti** (𐊗𐊙𐊗𐊆):  [*tl* 131, 1](../Texts/tl_131); [*tl* 111, 2](../Texts/tl_111); [*tl* 111, 2](../Texts/tl_111); [*tl* 110, 2](../Texts/tl_110); [*tl* 88, 3](../Texts/tl_88); [*tl* 75, 2](../Texts/tl_75)
 
-**tade**:  [*tl* 131, 2](../Texts/tl_131)
+**tAto** (𐊗𐊙𐊗𐊒):  [*tl* 88, 3](../Texts/tl_88); [*tl* 80, 2](../Texts/tl_80); [*tl* 75, 3](../Texts/tl_75)
 
-**tadi**:  [*tl* 110, 2](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 102, 2](../Texts/tl_102); [*tl* 88, 5](../Texts/tl_88); [*tl* 75, 4](../Texts/tl_75)
+**tEti** (𐊗𐊚𐊗𐊆):  [*tl* 102, 1](../Texts/tl_102)
 
-**tahNtAi**:  [*nf* 320, 17](../Texts/nf_320)
+**tadE** (𐊗𐊀𐊅𐊚):  [*tl* 4, 4](../Texts/tl_4)
 
-**tasNti**:  [*tl* 89, 2](../Texts/tl_89)
+**tade** (𐊗𐊀𐊅𐊁):  [*tl* 131, 2](../Texts/tl_131)
 
-**tasa**:  [*nf* 320, 31](../Texts/nf_320)
+**tadi** (𐊗𐊀𐊅𐊆):  [*tl* 110, 2](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 102, 2](../Texts/tl_102); [*tl* 88, 5](../Texts/tl_88); [*tl* 75, 4](../Texts/tl_75)
 
-**tawa**:  [*tl* 131, 5](../Texts/tl_131); [*tl* 106, 2](../Texts/tl_106)
+**tahNtAi** (𐊗𐊀𐊛𐊑𐊗𐊙𐊆):  [*nf* 320, 17](../Texts/nf_320)
 
-**tde**:  [*tl* 75, 2](../Texts/tl_75)
+**tasNti** (𐊗𐊀𐊖𐊑𐊗𐊆):  [*tl* 89, 2](../Texts/tl_89)
 
-**te-winezEi**:  [*tl* 3, 1](../Texts/tl_3)
+**tasa** (𐊗𐊀𐊖𐊀):  [*nf* 320, 31](../Texts/nf_320)
 
-**telexozi**:  [*tl* 4, 2](../Texts/tl_4)
+**tawa** (𐊗𐊀𐊇𐊀):  [*tl* 131, 5](../Texts/tl_131); [*tl* 106, 2](../Texts/tl_106)
 
-**temosemotah**:  [*tl* 70, 3](../Texts/tl_70)
+**tde** (𐊗𐊅𐊁):  [*tl* 75, 2](../Texts/tl_75)
 
-**tesi**:  [*tl* 4, 4](../Texts/tl_4)
+**te-winezEi** (𐊗𐊁-𐊇𐊆𐊏𐊁𐊈𐊚𐊆):  [*tl* 3, 1](../Texts/tl_3)
 
-**teteri**:  [*nf* 320, 13](../Texts/nf_320); [*nf* 320, 31](../Texts/nf_320)
+**telexozi** (𐊗𐊁𐊍𐊁𐊜𐊒𐊈𐊆):  [*tl* 4, 2](../Texts/tl_4)
 
-**tettMpe**:  [*tl* 75, 1](../Texts/tl_75)
+**temosemotah** (𐊗𐊁𐊎𐊒𐊖𐊁𐊎𐊒𐊗𐊀𐊛):  [*tl* 70, 3](../Texts/tl_70)
 
-**tezi**:  [*tl* 88, 3](../Texts/tl_88); [*tl* 78, 1](../Texts/tl_78)
+**tesi** (𐊗𐊁𐊖𐊆):  [*tl* 4, 4](../Texts/tl_4)
 
-**te**:  [*tl* 131, 2](../Texts/tl_131)
+**teteri** (𐊗𐊁𐊗𐊁𐊕𐊆):  [*nf* 320, 13](../Texts/nf_320); [*nf* 320, 31](../Texts/nf_320)
 
-**tibei**:  [*tl* 88, 4](../Texts/tl_88); [*tl* 88, 4](../Texts/tl_88)
+**tettMpe** (𐊗𐊁𐊗𐊗𐊐𐊓𐊁):  [*tl* 75, 1](../Texts/tl_75)
 
-**tibe**:  [*tl* 131, 2](../Texts/tl_131); [*tl* 102, 2](../Texts/tl_102)
+**tezi** (𐊗𐊁𐊈𐊆):  [*tl* 88, 3](../Texts/tl_88); [*tl* 78, 1](../Texts/tl_78)
 
-**tide-imen**:  [*tl* 13, 4](../Texts/tl_13)
+**te** (𐊗𐊁):  [*tl* 131, 2](../Texts/tl_131)
 
-**tide-imi**:  [*nf* 320, 10](../Texts/nf_320)
+**tibei** (𐊗𐊆𐊂𐊁𐊆):  [*tl* 88, 4](../Texts/tl_88); [*tl* 88, 4](../Texts/tl_88)
 
-**tidei-me**:  [*tl* 80, 1](../Texts/tl_80)
+**tibe** (𐊗𐊆𐊂𐊁):  [*tl* 131, 2](../Texts/tl_131); [*tl* 102, 2](../Texts/tl_102)
 
-**tideime**:  [*tl* 123, 2](../Texts/tl_123); [*tl* 120, 2](../Texts/tl_120); [*tl* 88, 2](../Texts/tl_88)
+**tide-imen** (𐊗𐊆𐊅𐊁-𐊆𐊎𐊁𐊏):  [*tl* 13, 4](../Texts/tl_13)
 
-**tideimis**:  [*tl* 106, 3](../Texts/tl_106); [*tl* 102, 2](../Texts/tl_102)
+**tide-imi** (𐊗𐊆𐊅𐊁-𐊆𐊎𐊆):  [*nf* 320, 10](../Texts/nf_320)
 
-**tideimi**:  [*nf* 320, 2](../Texts/nf_320); [*nf* 320, 39](../Texts/nf_320); [*tl* 120, 1](../Texts/tl_120); [*tl* 117, 3](../Texts/tl_117); [*tl* 117, 4](../Texts/tl_117); [*tl* 106, 4](../Texts/tl_106); [*tl* 88, 2](../Texts/tl_88); [*tl* 75, 2](../Texts/tl_75); [*tl* 70, 2](../Texts/tl_70); [*tl* 56, 2](../Texts/tl_56); [*tl* 56, 3](../Texts/tl_56); [*tl* 53, 3](../Texts/tl_53); [*tl* 25, 3](../Texts/tl_25); [*tl* 13, 3](../Texts/tl_13); [*tl* 12, 2](../Texts/tl_12); [*tl* 10, 1](../Texts/tl_10); [*tl* 4, 3](../Texts/tl_4); [*tl* 3, 3](../Texts/tl_3); [*tl* 3, 3](../Texts/tl_3)
+**tidei-me** (𐊗𐊆𐊅𐊁𐊆-𐊎𐊁):  [*tl* 80, 1](../Texts/tl_80)
 
-**tikeokEprE**:  [*tl* 25, 5](../Texts/tl_25)
+**tideime** (𐊗𐊆𐊅𐊁𐊆𐊎𐊁):  [*tl* 123, 2](../Texts/tl_123); [*tl* 120, 2](../Texts/tl_120); [*tl* 88, 2](../Texts/tl_88)
 
-**tike**:  [*nf* 320, 35](../Texts/nf_320); [*nf* 320, 37](../Texts/nf_320); [*tl* 131, 2](../Texts/tl_131); [*tl* 131, 3](../Texts/tl_131); [*tl* 111, 2](../Texts/tl_111); [*tl* 110, 3](../Texts/tl_110); [*tl* 102, 2](../Texts/tl_102); [*tl* 102, 2](../Texts/tl_102); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 4](../Texts/tl_88); [*tl* 80, 2](../Texts/tl_80); [*tl* 75, 3](../Texts/tl_75); [*tl* 75, 4](../Texts/tl_75); [*tl* 56, 3](../Texts/tl_56)
+**tideimis** (𐊗𐊆𐊅𐊁𐊆𐊎𐊆𐊖):  [*tl* 106, 3](../Texts/tl_106); [*tl* 102, 2](../Texts/tl_102)
 
-**tik**:  [*tl* 88, 5](../Texts/tl_88)
+**tideimi** (𐊗𐊆𐊅𐊁𐊆𐊎𐊆):  [*nf* 320, 2](../Texts/nf_320); [*nf* 320, 39](../Texts/nf_320); [*tl* 120, 1](../Texts/tl_120); [*tl* 117, 3](../Texts/tl_117); [*tl* 117, 4](../Texts/tl_117); [*tl* 106, 4](../Texts/tl_106); [*tl* 88, 2](../Texts/tl_88); [*tl* 75, 2](../Texts/tl_75); [*tl* 70, 2](../Texts/tl_70); [*tl* 56, 2](../Texts/tl_56); [*tl* 56, 3](../Texts/tl_56); [*tl* 53, 3](../Texts/tl_53); [*tl* 25, 3](../Texts/tl_25); [*tl* 13, 3](../Texts/tl_13); [*tl* 12, 2](../Texts/tl_12); [*tl* 10, 1](../Texts/tl_10); [*tl* 4, 3](../Texts/tl_4); [*tl* 3, 3](../Texts/tl_3); [*tl* 3, 3](../Texts/tl_3)
 
-**tisNke**:  [*tl* 89, 3](../Texts/tl_89)
+**tikeokEprE** (𐊗𐊆𐊋𐊁𐊒𐊋𐊚𐊓𐊕𐊚):  [*tl* 25, 5](../Texts/tl_25)
 
-**tise**:  [*tl* 111, 6](../Texts/tl_111); [*tl* 111, 6](../Texts/tl_111); [*tl* 110, 3](../Texts/tl_110)
+**tike** (𐊗𐊆𐊋𐊁):  [*nf* 320, 35](../Texts/nf_320); [*nf* 320, 37](../Texts/nf_320); [*tl* 131, 2](../Texts/tl_131); [*tl* 131, 3](../Texts/tl_131); [*tl* 111, 2](../Texts/tl_111); [*tl* 110, 3](../Texts/tl_110); [*tl* 102, 2](../Texts/tl_102); [*tl* 102, 2](../Texts/tl_102); [*tl* 88, 3](../Texts/tl_88); [*tl* 88, 4](../Texts/tl_88); [*tl* 80, 2](../Texts/tl_80); [*tl* 75, 3](../Texts/tl_75); [*tl* 75, 4](../Texts/tl_75); [*tl* 56, 3](../Texts/tl_56)
 
-**tiyAi**:  [*tl* 89, 4](../Texts/tl_89)
+**tik** (𐊗𐊆𐊋):  [*tl* 88, 5](../Texts/tl_88)
 
-**tiyenede**:  [*tl* 80, 2](../Texts/tl_80)
+**tisNke** (𐊗𐊆𐊖𐊑𐊋𐊁):  [*tl* 89, 3](../Texts/tl_89)
 
-**tiye**:  [*tl* 131, 3](../Texts/tl_131); [*tl* 111, 2](../Texts/tl_111); [*tl* 75, 3](../Texts/tl_75)
+**tise** (𐊗𐊆𐊖𐊁):  [*tl* 111, 6](../Texts/tl_111); [*tl* 111, 6](../Texts/tl_111); [*tl* 110, 3](../Texts/tl_110)
 
-**ti**:  [*nf* 320, 8](../Texts/nf_320); [*tl* 131, 1](../Texts/tl_131); [*tl* 131, 2](../Texts/tl_131); [*tl* 123, 1](../Texts/tl_123); [*tl* 120, 1](../Texts/tl_120); [*tl* 117, 1](../Texts/tl_117); [*tl* 111, 1](../Texts/tl_111); [*tl* 111, 5](../Texts/tl_111); [*tl* 110, 1](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 106, 1](../Texts/tl_106); [*tl* 106, 2](../Texts/tl_106); [*tl* 102, 1](../Texts/tl_102); [*tl* 102, 2](../Texts/tl_102); [*tl* 102, 2](../Texts/tl_102); [*tl* 78, 3](../Texts/tl_78); [*tl* 56, 1](../Texts/tl_56); [*tl* 56, 3](../Texts/tl_56); [*tl* 25, 3](../Texts/tl_25); [*tl* 4, 1](../Texts/tl_4); [*tl* 3, 1](../Texts/tl_3)
+**tiyAi** (𐊗𐊆𐊊𐊙𐊆):  [*tl* 89, 4](../Texts/tl_89)
 
-**tlANna**:  [*tl* 25, 4](../Texts/tl_25)
+**tiyenede** (𐊗𐊆𐊊𐊁𐊏𐊁𐊅𐊁):  [*tl* 80, 2](../Texts/tl_80)
 
-**tobeiti**:  [*tl* 88, 5](../Texts/tl_88)
+**tiye** (𐊗𐊆𐊊𐊁):  [*tl* 131, 3](../Texts/tl_131); [*tl* 111, 2](../Texts/tl_111); [*tl* 75, 3](../Texts/tl_75)
 
-**tobidi**:  [*tl* 102, 3](../Texts/tl_102); [*tl* 80, 3](../Texts/tl_80); [*tl* 75, 5](../Texts/tl_75)
+**ti** (𐊗𐊆):  [*nf* 320, 8](../Texts/nf_320); [*tl* 131, 1](../Texts/tl_131); [*tl* 131, 2](../Texts/tl_131); [*tl* 123, 1](../Texts/tl_123); [*tl* 120, 1](../Texts/tl_120); [*tl* 117, 1](../Texts/tl_117); [*tl* 111, 1](../Texts/tl_111); [*tl* 111, 5](../Texts/tl_111); [*tl* 110, 1](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 110, 3](../Texts/tl_110); [*tl* 106, 1](../Texts/tl_106); [*tl* 106, 2](../Texts/tl_106); [*tl* 102, 1](../Texts/tl_102); [*tl* 102, 2](../Texts/tl_102); [*tl* 102, 2](../Texts/tl_102); [*tl* 78, 3](../Texts/tl_78); [*tl* 56, 1](../Texts/tl_56); [*tl* 56, 3](../Texts/tl_56); [*tl* 25, 3](../Texts/tl_25); [*tl* 4, 1](../Texts/tl_4); [*tl* 3, 1](../Texts/tl_3)
 
-**tohesN**:  [*tl* 25, 7](../Texts/tl_25)
+**tlANna** (𐊗𐊍𐊙𐊑𐊏𐊀):  [*tl* 25, 4](../Texts/tl_25)
 
-**tohes**:  [*tl* 70, 3](../Texts/tl_70); [*tl* 25, 4](../Texts/tl_25)
+**tobeiti** (𐊗𐊒𐊂𐊁𐊆𐊗𐊆):  [*tl* 88, 5](../Texts/tl_88)
 
-**tokedres**:  [*tl* 25, 1](../Texts/tl_25)
+**tobidi** (𐊗𐊒𐊂𐊆𐊅𐊆):  [*tl* 102, 3](../Texts/tl_102); [*tl* 80, 3](../Texts/tl_80); [*tl* 75, 5](../Texts/tl_75)
 
-**towetE**:  [*tl* 25, 2](../Texts/tl_25)
+**tohesN** (𐊗𐊒𐊛𐊁𐊖𐊑):  [*tl* 25, 7](../Texts/tl_25)
 
-**toweti**:  [*tl* 88, 4](../Texts/tl_88)
+**tohes** (𐊗𐊒𐊛𐊁𐊖):  [*tl* 70, 3](../Texts/tl_70); [*tl* 25, 4](../Texts/tl_25)
 
-**toweto**:  [*tl* 88, 4](../Texts/tl_88)
+**tokedres** (𐊗𐊒𐊋𐊁𐊅𐊕𐊁𐊖):  [*tl* 25, 1](../Texts/tl_25)
 
-**trMmile**:  [*nf* 320, 3](../Texts/nf_320)
+**towetE** (𐊗𐊒𐊇𐊁𐊗𐊚):  [*tl* 25, 2](../Texts/tl_25)
 
-**trMmili**:  [*tl* 89, 3](../Texts/tl_89); [*tl* 88, 5](../Texts/tl_88)
+**toweti** (𐊗𐊒𐊇𐊁𐊗𐊆):  [*tl* 88, 4](../Texts/tl_88)
 
-**trMmisN**:  [*nf* 320, 1](../Texts/nf_320)
+**toweto** (𐊗𐊒𐊇𐊁𐊗𐊒):  [*tl* 88, 4](../Texts/tl_88)
 
-**trbbalahati**:  [*tl* 131, 5](../Texts/tl_131)
+**trMmile** (𐊗𐊕𐊐𐊎𐊆𐊍𐊁):  [*nf* 320, 3](../Texts/nf_320)
 
-**trbbala**:  [*tl* 106, 2](../Texts/tl_106)
+**trMmili** (𐊗𐊕𐊐𐊎𐊆𐊍𐊆):  [*tl* 89, 3](../Texts/tl_89); [*tl* 88, 5](../Texts/tl_88)
 
-**trqqas**:  [*tl* 88, 6](../Texts/tl_88)
+**trMmisN** (𐊗𐊕𐊐𐊎𐊆𐊖𐊑):  [*nf* 320, 1](../Texts/nf_320)
 
-**trzzoba**:  [*tl* 111, 1](../Texts/tl_111)
+**trbbalahati** (𐊗𐊕𐊂𐊂𐊀𐊍𐊀𐊛𐊀𐊗𐊆):  [*tl* 131, 5](../Texts/tl_131)
 
-**trzzobi**:  [*tl* 111, 4](../Texts/tl_111)
+**trbbala** (𐊗𐊕𐊂𐊂𐊀𐊍𐊀):  [*tl* 106, 2](../Texts/tl_106)
 
-**ttaraha**:  [*nf* 320, 14](../Texts/nf_320)
+**trqqas** (𐊗𐊕𐊌𐊌𐊀𐊖):  [*tl* 88, 6](../Texts/tl_88)
 
-**ttiti**:  [*tl* 131, 4](../Texts/tl_131)
+**trzzoba** (𐊗𐊕𐊈𐊈𐊒𐊂𐊀):  [*tl* 111, 1](../Texts/tl_111)
 
-**ttla-xNta**:  [*nf* 320, 19](../Texts/nf_320)
+**trzzobi** (𐊗𐊕𐊈𐊈𐊒𐊂𐊆):  [*tl* 111, 4](../Texts/tl_111)
 
-**ttle-iti**:  [*tl* 102, 2](../Texts/tl_102)
+**ttaraha** (𐊗𐊗𐊀𐊕𐊀𐊛𐊀):  [*nf* 320, 14](../Texts/nf_320)
 
-**ttlidiyE**:  [*tl* 111, 5](../Texts/tl_111)
+**ttiti** (𐊗𐊗𐊆𐊗𐊆):  [*tl* 131, 4](../Texts/tl_131)
 
-**ttlidi**:  [*tl* 111, 3](../Texts/tl_111); [*tl* 111, 4](../Texts/tl_111)
+**ttla-xNta** (𐊗𐊗𐊍𐊀-𐊜𐊑𐊗𐊀):  [*nf* 320, 19](../Texts/nf_320)
 
-**t**:  [*tl* 75, 5](../Texts/tl_75)
+**ttle-iti** (𐊗𐊗𐊍𐊁-𐊆𐊗𐊆):  [*tl* 102, 2](../Texts/tl_102)
 
-**wAtA**:  [*tl* 52, 2](../Texts/tl_52)
+**ttlidiyE** (𐊗𐊗𐊍𐊆𐊅𐊆𐊊𐊚):  [*tl* 111, 5](../Texts/tl_111)
 
-**wayaitE**:  [*nf* 320, 22](../Texts/nf_320)
+**ttlidi** (𐊗𐊗𐊍𐊆𐊅𐊆):  [*tl* 111, 3](../Texts/tl_111); [*tl* 111, 4](../Texts/tl_111)
 
-**wazziyeye**:  [*tl* 52, 1](../Texts/tl_52)
+**t** (𐊗):  [*tl* 75, 5](../Texts/tl_75)
 
-**wedri**:  [*tl* 56, 4](../Texts/tl_56)
+**wAtA** (𐊇𐊙𐊗𐊙):  [*tl* 52, 2](../Texts/tl_52)
 
-**wehNtezi**:  [*tl* 56, 4](../Texts/tl_56)
+**wayaitE** (𐊇𐊀𐊊𐊀𐊆𐊗𐊚):  [*nf* 320, 22](../Texts/nf_320)
 
-**wene**:  [*nf* 320, 34](../Texts/nf_320)
+**wazziyeye** (𐊇𐊀𐊈𐊈𐊆𐊊𐊁𐊊𐊁):  [*tl* 52, 1](../Texts/tl_52)
 
-**xNta-wataha**:  [*nf* 320, 23](../Texts/nf_320)
+**wedri** (𐊇𐊁𐊅𐊕𐊆):  [*tl* 56, 4](../Texts/tl_56)
 
-**xNta-wati**:  [*nf* 320, 8](../Texts/nf_320)
+**wehNtezi** (𐊇𐊁𐊛𐊑𐊗𐊁𐊈𐊆):  [*tl* 56, 4](../Texts/tl_56)
 
-**xNtanobeh**:  [*tl* 70, 2](../Texts/tl_70)
+**wene** (𐊇𐊁𐊏𐊁):  [*nf* 320, 34](../Texts/nf_320)
 
-**xNtawatehi**:  [*nf* 320, 17](../Texts/nf_320)
+**xNta-wataha** (𐊜𐊑𐊗𐊀-𐊇𐊀𐊗𐊀𐊛𐊀):  [*nf* 320, 23](../Texts/nf_320)
 
-**xNtawati**:  [*nf* 320, 28](../Texts/nf_320)
+**xNta-wati** (𐊜𐊑𐊗𐊀-𐊇𐊀𐊗𐊆):  [*nf* 320, 8](../Texts/nf_320)
 
-**xahbo**:  [*tl* 78, 5](../Texts/tl_78)
+**xNtanobeh** (𐊜𐊑𐊗𐊀𐊏𐊒𐊂𐊁𐊛):  [*tl* 70, 2](../Texts/tl_70)
 
-**xakbiya**:  [*tl* 80, 1](../Texts/tl_80)
+**xNtawatehi** (𐊜𐊑𐊗𐊀𐊇𐊀𐊗𐊁𐊛𐊆):  [*nf* 320, 17](../Texts/nf_320)
 
-**xawartto**:  [*tl* 131, 2](../Texts/tl_131)
+**xNtawati** (𐊜𐊑𐊗𐊀𐊇𐊀𐊗𐊆):  [*nf* 320, 28](../Texts/nf_320)
 
-**xb-idENnehi**:  [*nf* 320, 17](../Texts/nf_320)
+**xahbo** (𐊜𐊀𐊛𐊂𐊒):  [*tl* 78, 5](../Texts/tl_78)
 
-**xbati**:  [*tl* 106, 2](../Texts/tl_106)
+**xakbiya** (𐊜𐊀𐊋𐊂𐊆𐊊𐊀):  [*tl* 80, 1](../Texts/tl_80)
 
-**xbidENnaha**:  [*nf* 320, 24](../Texts/nf_320)
+**xawartto** (𐊜𐊀𐊇𐊀𐊕𐊗𐊗𐊒):  [*tl* 131, 2](../Texts/tl_131)
 
-**xbidENni**:  [*nf* 320, 8](../Texts/nf_320); [*nf* 320, 28](../Texts/nf_320)
+**xb-idENnehi** (𐊜𐊂-𐊆𐊅𐊚𐊑𐊏𐊁𐊛𐊆):  [*nf* 320, 17](../Texts/nf_320)
 
-**xddazas**:  [*nf* 320, 20](../Texts/nf_320)
+**xbati** (𐊜𐊂𐊀𐊗𐊆):  [*tl* 106, 2](../Texts/tl_106)
 
-**xesNtedi**:  [*nf* 320, 15](../Texts/nf_320)
+**xbidENnaha** (𐊜𐊂𐊆𐊅𐊚𐊑𐊏𐊀𐊛𐊀):  [*nf* 320, 24](../Texts/nf_320)
 
-**xili**:  [*tl* 78, 5](../Texts/tl_78)
+**xbidENni** (𐊜𐊂𐊆𐊅𐊚𐊑𐊏𐊆):  [*nf* 320, 8](../Texts/nf_320); [*nf* 320, 28](../Texts/nf_320)
 
-**xo-pA**:  [*tl* 37, 1](../Texts/tl_37)
+**xddazas** (𐊜𐊅𐊅𐊀𐊈𐊀𐊖):  [*nf* 320, 20](../Texts/nf_320)
 
-**xometiyeh**:  [*tl* 120, 2](../Texts/tl_120)
+**xesNtedi** (𐊜𐊁𐊖𐊑𐊗𐊁𐊅𐊆):  [*nf* 320, 15](../Texts/nf_320)
 
-**xopA**:  [*tl* 123, 1](../Texts/tl_123); [*tl* 120, 1](../Texts/tl_120); [*tl* 111, 1](../Texts/tl_111); [*tl* 102, 1](../Texts/tl_102); [*tl* 89, 1](../Texts/tl_89); [*tl* 80, 1](../Texts/tl_80); [*tl* 75, 1](../Texts/tl_75); [*tl* 70, 1](../Texts/tl_70); [*tl* 13, 1](../Texts/tl_13); [*tl* 12, 1](../Texts/tl_12); [*tl* 3, 1](../Texts/tl_3)
+**xili** (𐊜𐊆𐊍𐊆):  [*tl* 78, 5](../Texts/tl_78)
 
-**xopa**:  [*tl* 131, 2](../Texts/tl_131); [*tl* 110, 1](../Texts/tl_110); [*tl* 106, 1](../Texts/tl_106)
+**xo-pA** (𐊜𐊒-𐊓𐊙):  [*tl* 37, 1](../Texts/tl_37)
 
-**xopriya**:  [*tl* 78, 1](../Texts/tl_78)
+**xometiyeh** (𐊜𐊒𐊎𐊁𐊗𐊆𐊊𐊁𐊛):  [*tl* 120, 2](../Texts/tl_120)
 
-**xowatiti**:  [*nf* 320, 11](../Texts/nf_320); [*nf* 320, 30](../Texts/nf_320)
+**xopA** (𐊜𐊒𐊓𐊙):  [*tl* 123, 1](../Texts/tl_123); [*tl* 120, 1](../Texts/tl_120); [*tl* 111, 1](../Texts/tl_111); [*tl* 102, 1](../Texts/tl_102); [*tl* 89, 1](../Texts/tl_89); [*tl* 80, 1](../Texts/tl_80); [*tl* 75, 1](../Texts/tl_75); [*tl* 70, 1](../Texts/tl_70); [*tl* 13, 1](../Texts/tl_13); [*tl* 12, 1](../Texts/tl_12); [*tl* 3, 1](../Texts/tl_3)
 
-**xowati**:  [*tl* 80, 2](../Texts/tl_80)
+**xopa** (𐊜𐊒𐊓𐊀):  [*tl* 131, 2](../Texts/tl_131); [*tl* 110, 1](../Texts/tl_110); [*tl* 106, 1](../Texts/tl_106)
 
-**xssbezE**:  [*tl* 25, 2](../Texts/tl_25)
+**xopriya** (𐊜𐊒𐊓𐊕𐊆𐊊𐊀):  [*tl* 78, 1](../Texts/tl_78)
 
-**xtta-demeyE**:  [*nf* 320, 36](../Texts/nf_320)
+**xowatiti** (𐊜𐊒𐊇𐊀𐊗𐊆𐊗𐊆):  [*nf* 320, 11](../Texts/nf_320); [*nf* 320, 30](../Texts/nf_320)
 
-**xttad-i**:  [*nf* 320, 34](../Texts/nf_320)
+**xowati** (𐊜𐊒𐊇𐊀𐊗𐊆):  [*tl* 80, 2](../Texts/tl_80)
 
-**xttadi**:  [*tl* 131, 3](../Texts/tl_131)
+**xssbezE** (𐊜𐊖𐊖𐊂𐊁𐊈𐊚):  [*tl* 25, 2](../Texts/tl_25)
 
-**xttbA**:  [*tl* 89, 3](../Texts/tl_89)
+**xtta-demeyE** (𐊜𐊗𐊗𐊀-𐊅𐊁𐊎𐊁𐊊𐊚):  [*nf* 320, 36](../Texts/nf_320)
 
-**xzzobezeh**:  [*tl* 13, 3](../Texts/tl_13)
+**xttad-i** (𐊜𐊗𐊗𐊀𐊅-𐊆):  [*nf* 320, 34](../Texts/nf_320)
 
-**x**:  [*nf* 320, 19](../Texts/nf_320)
+**xttadi** (𐊜𐊗𐊗𐊀𐊅𐊆):  [*tl* 131, 3](../Texts/tl_131)
 
-**z-A**:  [*nf* 320, 14](../Texts/nf_320)
+**xttbA** (𐊜𐊗𐊗𐊂𐊙):  [*tl* 89, 3](../Texts/tl_89)
 
-**zalato**:  [*tl* 131, 4](../Texts/tl_131)
+**xzzobezeh** (𐊜𐊈𐊈𐊒𐊂𐊁𐊈𐊁𐊛):  [*tl* 13, 3](../Texts/tl_13)
 
-**zoMmENneti**:  [*tl* 106, 2](../Texts/tl_106)
+**x** (𐊜):  [*nf* 320, 19](../Texts/nf_320)
 
-**zoMmE**:  [*tl* 106, 2](../Texts/tl_106)
+**z-A** (𐊈-𐊙):  [*nf* 320, 14](../Texts/nf_320)
 
-**zzimazi**:  [*tl* 120, 2](../Texts/tl_120)
+**zalato** (𐊈𐊀𐊍𐊀𐊗𐊒):  [*tl* 131, 4](../Texts/tl_131)
 
-**Θortta**:  [*tl* 106, 1](../Texts/tl_106); [*tl* 106, 3](../Texts/tl_106)
+**zoMmENneti** (𐊈𐊒𐊐𐊎𐊚𐊑𐊏𐊁𐊗𐊆):  [*tl* 106, 2](../Texts/tl_106)
+
+**zoMmE** (𐊈𐊒𐊐𐊎𐊚):  [*tl* 106, 2](../Texts/tl_106)
+
+**zzimazi** (𐊈𐊈𐊆𐊎𐊀𐊈𐊆):  [*tl* 120, 2](../Texts/tl_120)
+
+**Θortta** (𐊉𐊒𐊕𐊗𐊗𐊀):  [*tl* 106, 1](../Texts/tl_106); [*tl* 106, 3](../Texts/tl_106)
