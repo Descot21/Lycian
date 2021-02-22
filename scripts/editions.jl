@@ -113,9 +113,14 @@ for txt in online
     urn = CtsUrn(txt.urn)
     xmlfile = textforurn(repo, urn)
     converter = o2converter(repo, urn)
-    # now make it citable
+    # Can directly convert diplomatic from nodes:
     dipl = diplomaticnodes(repo,urn)
-    normed = normalizednodes(repo,urn)
+    # But need an xml corpus to build normalized:
+    reader = ohco2forurn(citedf, urn)
+	normbuilder = normalizerforurn(citedf, urn)
+    xmlcorpus = reader(xml, urn)
+    normcorp = edition(normbuilder, xmlcorpus)
+    normed = normcorp.corpus
     
     document = join([top, urnlabel], "\n\n")    
     open(fname, "w") do io
