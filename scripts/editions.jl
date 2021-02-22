@@ -111,7 +111,7 @@ for txt in online
 
     urnlabel = string("`", txt.urn, "`\n\n")
     urn = CtsUrn(txt.urn)
-    xmlfile = textforurn(repo, urn)
+    xml = textforurn(repo, urn)
     converter = o2converter(repo, urn)
     # Can directly convert diplomatic from nodes:
     dipl = diplomaticnodes(repo,urn)
