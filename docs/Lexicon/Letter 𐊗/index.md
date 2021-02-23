@@ -1,0 +1,103 @@
+---
+title: 𐊗 (a)
+layout:  page
+parent: Lexicon
+---
+
+
+
+# 𐊗
+
+
+- 𐊗𐊀- (ta-) *verb*, "put, place".
+- 𐊗𐊀𐊂𐊀𐊛𐊀𐊈𐊀- (tabahaza) ?.
+- 𐊗𐊀𐊎𐊀- (tama-) *noun*, "house, building".
+- 𐊗𐊀𐊕𐊂(𐊁)𐊆- (tarb(e)i-) *verb*, "overpower, conquer" (or similar).
+- 𐊗𐊙𐊎𐊀𐊅𐊀 (tAmada-) *noun*, "house/building complex" (or similar).
+- 𐊗𐊙𐊏𐊙𐊆 (tAnAi) ?.
+- 𐊗𐊅𐊅𐊚𐊗𐊀 (tdd[E]ta) ?.
+- 𐊗𐊁 (te-) *particle*, (= Luvian *-tta*).
+- 𐊗𐊁𐊂𐊁 (tebe-) *verb*, "overwhelm, conquer" (or similar).
+- 𐊗𐊁𐊅𐊁/𐊆 (tede/i-) *noun*, "father".
+- 𐊗𐊁𐊛𐊍𐊒𐊖 (tehlos) ?.
+- 𐊗𐊁𐊍𐊁𐊂𐊁𐊛𐊆- (telebehi-) *noun*, "Telmessos".
+- 𐊗𐊁𐊍𐊚𐊈𐊆𐊊𐊁- (telEziye-) *noun*, "(military) camp/fort".
+- 𐊗𐊁𐊍𐊆 (teli) *adverb*, "where".
+- 𐊗𐊁𐊍𐊆- (teli-) ?.
+- 𐊗𐊁𐊕𐊁- (tere-) *noun*, "territory, district" (or similar).
+- 𐊗𐊁𐊕𐊆 (teri) *adverb*, "when".
+- 𐊗𐊁𐊕𐊆- (teri-) *number*, "three".
+- 𐊗𐊁𐊖𐊁- (tese-) *noun*, "oath, vow".
+- 𐊗𐊁𐊖𐊚𐊗𐊆- (tesEti-) *noun*, "oath".
+- 𐊗𐊁𐊖𐊐𐊎𐊆 (tesMmi-) *noun*, (divine agent).
+- 𐊗𐊁𐊗𐊁𐊕𐊁/𐊆 (tetere/i-) *noun*, "city".
+- 𐊗𐊁𐊇𐊁- (tewe-) *noun*, "eye".
+- 𐊗𐊁𐊇𐊆𐊏𐊀𐊈𐊀 (tewinaza-) *noun*, (title).
+- 𐊗𐊁𐊈𐊆- (tezi-) *noun*, "sacrophagus, coffin" (or similar).
+- 𐊗𐊚𐊓𐊆𐊏𐊀 (tEpina) ?.
+- 𐊗𐊆- (ti-) *pronoun* "who, which" (relative pronoun).
+- 𐊗𐊗𐊆- (tti-) *verb*, "cause to pay" (a penalty).
+- -𐊗𐊆 (ti) *Reflexive pronoun (enclitic) (=Luvian *-ti*).
+- 𐊗𐊆𐊂𐊁 (tibe) *conjunction*, "or".
+- 𐊗𐊆𐊂𐊁𐊕𐊀 (tibera) ?.
+- 𐊗𐊆𐊅𐊁𐊆𐊎𐊆- (tideimi-) *noun*, "child, son".
+- 𐊗𐊆𐊅𐊁𐊕𐊁/𐊆- (tidere/i-) *noun*, "collacteus, collactea".
+- 𐊗𐊆𐊛𐊀𐊗𐊀 (tihata) ?.
+- 𐊗𐊆𐊛𐊁 (tihe) *pronoun, determiner*, "any".
+- 𐊗𐊆𐊛𐊁𐊗𐊀𐊈𐊁𐊆 (tihetazei) (name?).
+- 𐊗𐊆𐊊𐊀- (tiya-) *verb*, "penalty, amends" (?).
+- 𐊗𐊆𐊊𐊀𐊍𐊀- (tiyala-) *noun*, "penalty payments, fines" (or similar).
+- 𐊗𐊆𐊋𐊁 (tike) *pronoun*, "some/anyone, some/anything".
+- 𐊗𐊆𐊍𐊒𐊎𐊀 (tiloma) ?.
+- 𐊗𐊆𐊖𐊁 (tise) *pronoun*, "any(one/thing), (interrogotive = who/whatever)".
+- 𐊗𐊆𐊜𐊈𐊈𐊆𐊅𐊆 (tixzzidi) ?.
+- 𐊗𐊍𐊀- (tla-) *noun*, "Tlos".
+- 𐊗𐊍𐊀𐊛- (tlah-) *adjective*, "Tloan".
+- 𐊗𐊍𐊙𐊑𐊏𐊀- (tlANna-) *noun*, "Tloan".
+- 𐊗𐊍𐊀𐊇𐊁/𐊆- (tlawe/i-) *noun*, "Tlos".
+- 𐊗𐊍𐊍𐊀𐊜𐊑𐊗𐊀- (tllaxNta-) *noun*, "payment standard" (or similar).
+- 𐊗𐊗𐊍(𐊁)𐊆- (ttl(e)i-) *verb*, "pay".
+- 𐊗𐊐𐊓𐊁𐊕𐊆 (tMperi) ?.
+- 𐊗𐊕𐊂𐊂𐊙𐊎𐊀𐊕𐊀- (trbbAmara-) *noun*, (divine agent).
+- 𐊗𐊕𐊂𐊂𐊁- (trbbe-) *verb*, "oppose, resist".
+- 𐊗𐊕𐊂𐊂𐊁/𐊆- (trbbe/i-) *noun*, "oponent, enemy".
+- 𐊗𐊕𐊂𐊂𐊁𐊆𐊗𐊁- (trbbeite-) *adjective*, "opposing" (??).
+- 𐊗𐊕𐊂𐊂𐊁𐊍𐊁/𐊆- (trbbele/i-) *adjective*, "hostile".
+- 𐊗𐊕𐊂𐊂𐊚 (trbbE) ?.
+- 𐊗𐊕𐊂𐊚𐊗𐊀𐊅𐊕- (trbEtadr(a)-) *noun*, "counter-X" (??).
+- 𐊗𐊕𐊁𐊓𐊁- (trepe) ?.
+- 𐊗𐊕𐊆𐊊𐊀𐊗𐊕𐊂𐊂𐊀𐊛𐊁 (triyatrbbahe/i-) ?.
+- 𐊗𐊕𐊆𐊊𐊁𐊕𐊁 (triyere-) *noun*, "trireme".
+- 𐊗𐊕𐊖𐊑𐊏𐊁/𐊆 (trsNne/i-) *noun*, "three-year-old".
+- 𐊗𐊕𐊐𐊎𐊆𐊍𐊁/𐊆- (trMmile/i-) *adjective and noun*, "Lycian".
+- 𐊗𐊕𐊐𐊎𐊆𐊍𐊆𐊛𐊁 (trMmilihe-) *adjective*, "Lycian __".
+- 𐊗𐊕𐊐𐊎𐊆𐊍𐊆𐊊𐊁𐊁/𐊆- (trMmili(ye)-) *adjective*, "Lycian".
+- 𐊗𐊕𐊐𐊎𐊆𐊍𐊆𐊖 (trMmilis-) *noun*, "Lycia" (?).
+- 𐊗𐊕𐊐𐊎𐊆𐊖 (trMmis-) *noun*, "Lycia".
+- 𐊗𐊕𐊓𐊓𐊁𐊎𐊁 (trppeme) *adjective*, "three(fold)".
+- 𐊗𐊕𐊌𐊌𐊑𐊗- (trqqNt-) *noun*, "Storm-god" (= *Tarhunt-*).
+- 𐊗𐊕𐊒𐊖- (tros-) *noun*, "Trysa".
+- 𐊗𐊕𐊒𐊇𐊁𐊛𐊁/𐊆- (trowehe/i-) ?.
+- 𐊗𐊕𐊒𐊇𐊁𐊓𐊁𐊆𐊊𐊀𐊅𐊆 (trowepeiyadi) ?.
+- 𐊗𐊕𐊈𐊈𐊒𐊂𐊁/𐊆- (trzzobe/i-) *noun*, "Τρωσοβιος".
+- 𐊗𐊒𐊂𐊁 (tobe) ?.
+- 𐊗𐊒𐊂𐊁- (tobe-) ?.
+- 𐊗𐊒𐊂𐊁𐊛𐊁/𐊆- (tobehe/i-) ?.
+- 𐊗𐊒𐊂𐊁𐊛𐊆𐊅- (tobehid-) *noun*, "class/collectivity of those who are tobehe/i".
+- 𐊗𐊒𐊂(𐊁)𐊆- (tob(e)i-) *verb*, "strike" (= Luvian *dup(a)i-*).
+- 𐊗𐊒𐊂𐊒𐊕𐊁𐊛𐊆- (toborehi-) *noun*, "Tyberissos".
+- 𐊗𐊒𐊛𐊁(𐊖) (tohe(s)) *noun*, "nephew, niece".
+- 𐊗𐊒𐊋𐊁𐊅𐊕(𐊆)- (tokedr(i)-) *noun*, "statue".
+- 𐊗𐊒𐊎𐊆𐊏𐊁𐊛𐊆- (tominehi-) *noun*, "Tymnessos".
+- 𐊗𐊒𐊎𐊆𐊏𐊁𐊛𐊆(𐊊𐊁)- (tominehi(ye)-) *noun*, "of Tymnessos".
+- 𐊗𐊒𐊓𐊀 (topa) ?.
+- 𐊗𐊒𐊓𐊁𐊍𐊁𐊈𐊆𐊊𐊁- (topeleziye-) ?.
+- 𐊗𐊒𐊓𐊁𐊍𐊆𐊊𐊀- (topeliya-) ?.
+- 𐊗𐊒𐊓𐊐𐊎𐊁- (topMme-) *noun*, "two(fold), pair".
+- 𐊗𐊒𐊕𐊀𐊇𐊀𐊖 (torawas) ?.
+- 𐊗𐊒𐊕𐊀𐊜 (torax) ?.
+- 𐊗𐊒𐊕𐊀𐊜𐊖𐊖𐊆- (toraxssi-) *noun*, "Thuraksis".
+- 𐊗𐊒𐊇𐊀- (towa) ?.
+- 𐊗𐊒𐊇𐊁- (towe-) *verb*, "place (upright)".
+- 𐊗𐊒𐊇𐊁/𐊆- (towe/i-) *noun*, "ritual offering" (or similar?).
+- 𐊗𐊒𐊇𐊁𐊕𐊁/𐊆- (towere/i-) *noun*, "celebrant" (or similar?).
