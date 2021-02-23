@@ -20,3 +20,7 @@ The structure of morphology URNs:
     1. active
     2. middle-passive
 5. indeclinable part of speech
+    0. inflected form
+    1. particle
+    2. preposition
+    3. conjunction
