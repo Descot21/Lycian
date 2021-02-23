@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -18,15 +17,15 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"></ab>
-     <ab n="2"></ab>
-     <ab n="3"></ab>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
-     <ab n="6"></ab>
-     <ab n="7"></ab>
-     <ab n="8"></ab>
-     <ab n="9"></ab>
+     <ab n="1">ebeli : me siyEni : <persName>xssENziya</persName> :</ab>
+     <ab n="2"><persName>xNtlapah</persName> : tideimi : <persName>motleh</persName> :</ab>
+     <ab n="3">prNneziyehi : prNnawate ti :</ab>
+     <ab n="4">NtatA : atli : se iye ne : hrppi</ab>
+     <ab n="5">tAti : tike : kbi  hrppiye mei :</ab>
+     <ab n="6"><w>tA<unclear>t</unclear>i</w> : me=ne : qastti : <persName>maliya</persName> :</ab>
+     <ab n="7">wedrENni : se itlehi : trMmili</ab>
+     <ab n="8">howedri : <persName>xssENziyaye</persName> : hberose</ab>
+     <ab n="9">zasAni : xadrNna : ohazata : komezeine</ab>
     </body>
   </text>
 </TEI>
