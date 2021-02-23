@@ -17,8 +17,11 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1">ebENnE NtatA <w><unclear>m</unclear>e=ne</w> <w>prNnawAt<unclear>E</unclear></w> <w><supplied>p</supplied>olenyda</w> <w>moll<unclear>i</unclear><unclear>y</unclear>eseh</w> se dapara p...</ab>
-     <ab n="2"><w><unclear>h</unclear>ime<gap quantity="1" unit="chars"/>te<unclear>h</unclear>e</w> <w>pr<supplied>N</supplied>neziyehi</w></ab>
+     <ab n="1">ebENnE NtatA <w><unclear>m</unclear>e=ne</w> 
+      <w>prNnawAt<unclear>E</unclear></w> <w><supplied>p</supplied>olenyda</w> 
+      <w>moll<unclear>i</unclear><unclear>y</unclear>eseh</w> se dapara p<gap/></ab>
+     <ab n="2"><w><unclear>h</unclear>ime<gap quantity="1" unit="chars"/>te<unclear>h</unclear>e</w> 
+      <w>pr<supplied>N</supplied>neziyehi</w></ab>
      <ab n="3"></ab>
     </body>
   </text>
