@@ -1,3 +1,7 @@
+using Pkg
+Pkg.activate(".")
+
+
 using CSV
 using CitableText
 using DataFrames
