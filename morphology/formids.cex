@@ -1,11 +1,44 @@
 urn|label
-urn:cite2:trmilli:morphforms.v1:111000|noun: nominative singular
-urn:cite2:trmilli:morphforms.v1:121000|noun: genitive singular
-urn:cite2:trmilli:morphforms.v1:131000|noun: dative singular
-urn:cite2:trmilli:morphforms.v1:141000|noun: accusative singular
-urn:cite2:trmilli:morphforms.v1:151000|noun: ablative singular
-urn:cite2:trmilli:morphforms.v1:112000|noun: nominative plural
-urn:cite2:trmilli:morphforms.v1:122000|noun: genitive plural
-urn:cite2:trmilli:morphforms.v1:132000|noun: dative plural
-urn:cite2:trmilli:morphforms.v1:142000|noun: accusative plural
-urn:cite2:trmilli:morphforms.v1:152000|noun: ablative plural
+urn:cite2:trmilli:morphforms.v1:1110000|noun: nominative singular
+urn:cite2:trmilli:morphforms.v1:1210000|noun: genitive singular
+urn:cite2:trmilli:morphforms.v1:1310000|noun: dative singular
+urn:cite2:trmilli:morphforms.v1:1410000|noun: accusative singular
+urn:cite2:trmilli:morphforms.v1:1510000|noun: ablative singular
+urn:cite2:trmilli:morphforms.v1:1120000|noun: nominative plural
+urn:cite2:trmilli:morphforms.v1:1220000|noun: genitive plural
+urn:cite2:trmilli:morphforms.v1:1320000|noun: dative plural
+urn:cite2:trmilli:morphforms.v1:1420000|noun: accusative plural
+urn:cite2:trmilli:morphforms.v1:1520000|noun: ablative plural
+
+urn:cite2:trmilli:morphforms.v1:2011110|verb: singular first present active
+urn:cite2:trmilli:morphforms.v1:2012110|verb: singular second present active
+urn:cite2:trmilli:morphforms.v1:2013110|verb: singular third present active
+urn:cite2:trmilli:morphforms.v1:2021110|verb: plural first present active
+urn:cite2:trmilli:morphforms.v1:2022110|verb: plural second present active
+urn:cite2:trmilli:morphforms.v1:2023110|verb: plural third present active
+
+urn:cite2:trmilli:morphforms.v1:2011210|verb: singular first preterite active
+urn:cite2:trmilli:morphforms.v1:2012210|verb: singular second preterite active
+urn:cite2:trmilli:morphforms.v1:2013210|verb: singular third preterite active
+urn:cite2:trmilli:morphforms.v1:2021210|verb: plural first preterite active
+urn:cite2:trmilli:morphforms.v1:2022210|verb: plural second preterite active
+urn:cite2:trmilli:morphforms.v1:2023210|verb: plural third preterite active
+
+urn:cite2:trmilli:morphforms.v1:2011120|verb: singular first present middle-passive
+urn:cite2:trmilli:morphforms.v1:2012120|verb: singular second present middle-passive
+urn:cite2:trmilli:morphforms.v1:2013120|verb: singular third present middle-passive
+urn:cite2:trmilli:morphforms.v1:2021120|verb: plural first present middle-passive
+urn:cite2:trmilli:morphforms.v1:2022120|verb: plural second present middle-passive
+urn:cite2:trmilli:morphforms.v1:2023120|verb: plural third present middle-passive
+
+urn:cite2:trmilli:morphforms.v1:2011220|verb: singular first preterite middle-passive
+urn:cite2:trmilli:morphforms.v1:2012220|verb: singular second preterite middle-passive
+urn:cite2:trmilli:morphforms.v1:2013220|verb: singular third preterite middle-passive
+urn:cite2:trmilli:morphforms.v1:2021220|verb: plural first preterite middle-passive
+urn:cite2:trmilli:morphforms.v1:2022220|verb: plural second preterite middle-passive
+urn:cite2:trmilli:morphforms.v1:2023220|verb: plural third preterite middle-passive
+
+urn:cite2:trmilli:morphforms.v1:0000001|indeclinable: particle
+urn:cite2:trmilli:morphforms.v1:0000002|indeclinable: preposition
+urn:cite2:trmilli:morphforms.v1:0000003|indeclinable: conjunction
+urn:cite2:trmilli:morphforms.v1:0000004|indeclinable: adverb

@@ -1,0 +1,1 @@
+This directory is where the `editions.jl` script writes its output.

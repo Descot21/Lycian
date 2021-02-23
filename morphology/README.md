@@ -13,6 +13,10 @@ The structure of morphology URNs:
 2. number
     1. singular
     2. plural
+3. person
+    1. first
+    2. second
+    3. third    
 3. tense
     1. present
     2. preterite
