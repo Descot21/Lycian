@@ -1,7 +1,7 @@
 ---
 title: "The Alphabet and Pronunciation of Lycian"
 layout: page
-nav_order: 2
+nav_order: 3
 ---
 
 # The Alphabet and Pronunciation of Lycian
