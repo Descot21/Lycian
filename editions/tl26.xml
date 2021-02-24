@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>TL 26 (Greek text)</title>
+        <title>TL 26</title>
         <editor>Dane Scott</editor>
       </titleStmt>
       <publicationStmt>
@@ -17,30 +17,30 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"></ab>
-     <ab n="2"></ab>
-     <ab n="3"></ab>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
-     <ab n="6"></ab>
-     <ab n="7"></ab>
-     <ab n="8"></ab>
-     <ab n="9"></ab>
-     <ab n="10"></ab>
-     <ab n="11"></ab>
-     <ab n="12"></ab>
-     <ab n="13"></ab>
-     <ab n="14"></ab>
-     <ab n="15"></ab>
-     <ab n="16"></ab>
-     <ab n="17"></ab>
-     <ab n="18"></ab>
-     <ab n="19"></ab>
-     <ab n="20"></ab>
-     <ab n="21"></ab>
-     <ab n="22"></ab>
-     <ab n="23"></ab>
-     <ab n="24"></ab>
+     <ab n="1">ebeiya : erobliya : me <w>Nt<supplied>epi</supplied></w></ab>
+     <ab n="2"><w><supplied>tide</supplied>imi</w> : trMmisN : <w>xNtawat<supplied>i</supplied></w></ab>
+     <ab n="3">se qlabi : poto : se iprehi :</ab>
+     <ab n="4">ehN L tideimi : se <w>tideim<supplied>i</supplied></w></ab>
+     <ab n="5">epN : maxitEni : sei ne : ti</ab>
+     <ab n="6"><persName>izraza</persName> : tibei terN terN</ab>
+     <ab n="7">ponAmadi : mE=ne : <persName>trqqas</persName> :</ab>
+     <ab n="8">nahi : se qlayebi : poto : se</ab>
+     <ab n="9">se mohAi : NteyewE : kMmE</ab>
+     <ab n="10">pladetiyas : przis sey=epris : se <w>iy<supplied>e</supplied></w></ab>
+     <ab n="11">eimE : komazadi : mahAna : e</ab>
+     <ab n="12">na : opahi : adaiyE : <persName>maliyehe</persName> :</ab>
+     <ab n="13"><persName>arailise</persName> : <num></num> : haqadowehe : <num></num> t</ab>
+     <ab n="14"><persName>ppedENti</persName> : <num></num> : <persName>pagda</persName> : <num></num> : <persName>porθ</persName></ab>
+     <ab n="15"><persName>mNnAtahi</persName> : <num></num> : winbEte : <num></num> : x</ab>
+     <ab n="16">me komezeiti : noredi : noredi : a</ab>
+     <ab n="17">ni : qlabi : poto kbisNn : iprehi : kbi</ab>
+     <ab n="18">ohide : <persName>trqqNti</persName> : wawA : trisNni : qla</ab>
+     <ab n="19">eli : epeite mei zedi : tike : komalihe</ab>
+     <ab n="20">be : komazA : ebENnE : <persName>izraza</persName> : tibera</ab>
+     <ab n="21">pinale : telebehi : xadawAti : odreki : mei te</ab>
+     <ab n="22">ihe : ebE : mahAna : ebette : tibe: <persName>izraza</persName> : koz</ab>
+     <ab n="23"><w><supplied>w</supplied>Ati</w> : kMmE</ab>
+     <ab n="24"><w>Eni</w> <w>qla<unclear>hi</unclear></w> : <w>ebi<supplied>yehi</supplied></w></ab>
     </body>
   </text>
 </TEI>
