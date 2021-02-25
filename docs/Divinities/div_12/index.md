@@ -18,9 +18,17 @@ pedrita's identification with the Greek Aphrodite comes from a silver kantharos 
 #### Notes:
 
 <sup>1</sup> Payne (2004) 476
+
 <sup>2</sup> Bryce (1986) 181
+
 <sup>3</sup> *ibid*
+
 <sup>4</sup> Keen (1998) 204
 
-#### Spurces:
+#### Sources: 
+Bryce, Trevor R. “Disciplinary Agents in the Sepulchral Inscriptions of Lycia.” *Anatolian Studies*, vol. 31, 1981, pp. 81–93.
+
+Bryce, Trevor R. *The Lycians in Literary and Epigraphic Sources*, vol. 1, Museum Tusculanum Press, Copenhagen, 1986.
+
+Keen, Antony G. *Dynastic Lycia: A Political History of the Lycians and their Relations with Foreign Powers C. 545-326 B.C.*.Mnemosyne, Supplements, Vol. 178, Brill, Leiden. 1998.
 
