@@ -17,17 +17,15 @@ pedrita's identification with the Greek Aphrodite comes from a silver kantharos 
 
 #### Notes:
 
-<sup>1</sup> Payne (2004) 476
+<sup>1</sup> Payne (2004) 476<br/>
+<sup>2</sup> Bryce (1986) 181<br/>
+<sup>3</sup> *ibid*<br/>
+<sup>4</sup> Keen (1998) 204<br/>
 
-<sup>2</sup> Bryce (1986) 181
-
-<sup>3</sup> *ibid*
-
-<sup>4</sup> Keen (1998) 204
 
 #### Sources: 
 Bryce, Trevor R. *The Lycians in Literary and Epigraphic Sources*, vol. 1, Museum Tusculanum Press, Copenhagen, 1986.
 
 Keen, Antony G. *Dynastic Lycia: A Political History of the Lycians and their Relations with Foreign Powers C. 545-326 B.C.*.Mnemosyne, Supplements, Vol. 178, Brill, Leiden. 1998.
 
-Payne, Annick. "Lycia - Crossroads of Hittite and Greek Traditions?." *Papers on Ancient Literatures: Greece, Rome, and the Near East*, Eisenbrauns, 2008. pp. 471-487 
+Payne, Annick. "Lycia - Crossroads of Hittite and Greek Traditions?." *Papers on Ancient Literatures: Greece, Rome, and the Near East*, Eisenbrauns, 2008. pp. 471-487
