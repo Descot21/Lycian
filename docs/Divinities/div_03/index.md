@@ -27,8 +27,12 @@ In some inscriptions (insert here) maliya bears the epithet *wedrENni* (𐊇𐊁
 
 This identification of maliya with the Greek Athena probably dates to the first half of the fourth century BCE. Evidence for this identification comes from a silver double-headed kantharos (N 307) that depicts the maliya (identified by the inscription "𐊎𐊀𐊍"/"mal") seated next to figures identifyed as padrita (𐊓𐊀𐊅𐊕𐊆𐊗𐊀) and (insert Paris's Lycian name). Here, maliya bears a very clear inconographic resemblance to Athena.
 
+----------------------------------------------
+#### Notes: 
 
-### Sources: 
+tbd
+
+#### Sources: 
 Bryce, Trevor R. “Disciplinary Agents in the Sepulchral Inscriptions of Lycia.” *Anatolian Studies*, vol. 31, 1981, pp. 81–93.
 
 Bryce, Trevor R. *The Lycians in Literary and Epigraphic Sources*, vol. 1, Museum Tusculanum Press, Copenhagen, 1986.
