@@ -26,8 +26,8 @@ Though not identical, the similar structures suggest a connection between the Gr
 
 Although the Lycian inscriptions don't provide a comprehensive picture of trqqas as a deity, it seems clear that the Lycians held him in high regard. He is the second most frequent divinity in the corpus as it stands, and, based on the content of the Xanthos Stele, had a widespread cult in several sanctuaries. 
 
-
-#### notes:
+--------------------------------------------------------------
+#### Notes:
 <sup>1</sup> Hutter (2003) 221
 
 <sup>2</sup> *ibid* 222
