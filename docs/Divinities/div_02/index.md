@@ -45,7 +45,7 @@ Although the Lycian inscriptions don't provide a comprehensive picture of trqqas
 <sup>8</sup> Melchert (2003) 88
 
 
-### Sources: 
+#### Sources: 
 Bryce, Trevor R. “Disciplinary Agents in the Sepulchral Inscriptions of Lycia.” *Anatolian Studies*, vol. 31, 1981, pp. 81–93.
 
 Bryce, Trevor R. *The Lycians in Literary and Epigraphic Sources*, vol. 1, Museum Tusculanum Press, Copenhagen, 1986.
