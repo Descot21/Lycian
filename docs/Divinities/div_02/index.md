@@ -19,7 +19,7 @@ During the Hellenistic period, the cults of trqqas transformed into cults dedica
 
 | TL 44b.62| TL 44c.30 |
 |----------|----------|
-|*se dde towetE : komeziya : Tere Tere : trqqNti pddAtahi* |*Zηνί δὲ πλεῖστα τροπαῖα βροτῶν ἔστησεν ἁπαντῶν.*|
+|*se dde towetE : komeziya : Tere Tere : **trqqNti** pddAtahi* |***Zηνί** δὲ πλεῖστα τροπαῖα βροτῶν ἔστησεν ἁπαντῶν.*|
 |"and he has set up altars to the local trqqas thoughout the sanctuaries."<sup>6</sup>|"he set up the most trophies to Zeus of all mortals"|
 
 Though not identical, the similar structures suggest a connection between the Greek and Lycian deities. Furthermore, other scholars like Houwink ten Cate equate the cult of Zeus Solymeus in eastern Lycia with the cult of trqqas.<sup>7</sup> Complicating matters, however, is the Lycian name “*zeosi*” (𐊈𐊁𐊒𐊖𐊆) which appears on the Xanthos Stele as well. Melchert sees this word a Lycian derivaton of “Zeus,” which raises the question of why the Lycians would have both a Lycianized word for Zeus alongside a native equivalent.<sup>8</sup>
