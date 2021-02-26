@@ -28,21 +28,14 @@ Although the Lycian inscriptions don't provide a comprehensive picture of trqqas
 
 --------------------------------------------------------------
 #### Notes:
-<sup>1</sup> Hutter (2003) 221
-
-<sup>2</sup> *ibid* 222
-
-<sup>3</sup> *ibid* 224
-
-<sup>4</sup> KUB 43.23 and Hutter (2003) 231
-
-<sup>5</sup> Keen (1998) 201
-
-<sup>6</sup> Laroche (1980) 3
-
-<sup>7</sup> Bryce (1986) 117
-
-<sup>8</sup> Melchert (2003) 88
+<sup>1</sup> Hutter (2003) 221<br>
+<sup>2</sup> *ibid* 222<br>
+<sup>3</sup> *ibid* 224<br>
+<sup>4</sup> KUB 43.23 and Hutter (2003) 231<br>
+<sup>5</sup> Keen (1998) 201<br>
+<sup>6</sup> Laroche (1980) 3<br>
+<sup>7</sup> Bryce (1986) 117<br>
+<sup>8</sup> Melchert (2003) 88<br>
 
 
 #### Sources: 
