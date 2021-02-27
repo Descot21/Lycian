@@ -17,9 +17,9 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"></ab>
-     <ab n="2"></ab>
-     <ab n="3"></ab>
+     <ab n="1">ab <w>a<supplied>raw</supplied>az<supplied>iya</supplied></w> <w><supplied>m</supplied>e</w> <w><supplied>pr</supplied>Nnaw<supplied>at</supplied>E</w> <w><supplied>o</supplied>wata</w> trbbEnimeh : tideri : sebEla : <w>ehtEm<supplied>eh</supplied></w></ab>
+     <ab n="2"><w>t<supplied>ideri</supplied></w> k ihe Me me iye a <w><supplied>r</supplied>o</w> tike arawA : se ne <persName n="urn:cite2:trmilli:divinities.v1:div_04">teseti</persName> : tobeiti : trMmili</ab>
+     <ab n="3"><w>s<unclear>o</unclear></w> r i : <w>miNt<supplied>ah</supplied>a</w></ab>
     </body>
   </text>
 </TEI>
