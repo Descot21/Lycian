@@ -17,12 +17,12 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"></ab>
-     <ab n="2"></ab>
-     <ab n="3"></ab>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
-     <ab n="6"></ab>
+     <ab n="1"><w><unclear>eb</unclear></w> E ladA : se : tideimis : se xah</ab>
+     <ab n="2">b ati <w>tid<supplied>eim</supplied></w> <w>a<supplied>da</supplied></w> <w><unclear>x</unclear>oraz</w> e <w>x<supplied>l</supplied>atE</w> : se</ab>
+     <ab n="3">el <w><supplied>es</supplied></w> p <w>m<supplied>e=n</supplied>e</w> o <w><supplied>it</supplied>i</w> <w><supplied>o</supplied>mredeh</w> es ni se <w n="3">xabad</w></ab>
+     <ab n="4"><w n="3">ranas</w> se : soti a <w><unclear>e</unclear>tddai</w> <w><supplied>i</supplied>teri</w> se <w n="4"><supplied>tt</supplied>i<supplied>te</supplied>sN</w></ab>
+     <ab n="5"><w n="4">di</w> tike me=ne <persName n="urn:cite2:trmilli:divinities.v1:div_03"><w><supplied>m</supplied>aliya</w></persName> q eros <w><unclear>a</unclear>s</w> <w n="5">s</w></ab>
+     <ab n="6"><w n="5">e</w> ho e</ab>
     </body>
   </text>
 </TEI>
