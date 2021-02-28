@@ -3,7 +3,7 @@ Pkg.activate(".")
 
 
 using CSV
-using CitableText
+using CitableObject
 using DataFrames
 
 root = dirname(pwd())
@@ -122,22 +122,45 @@ end
 function singleyaml() 
     lines = [
         "---",
-        "title: \"Lexicon: all entries\"",
+        "title: \"Lexicon\"",
         "layout:  page",
-        "parent: Lexicon",   
+        "has_children: true",   
         "nav_order: 100",
         "---",
         "\n\n",
-        "# Lexicon"
+        "# Lexicon",
+        "{: .no_toc }",
+        "\n\n"
     ]
     join(lines, "\n")  
 end
+
+function entryhdr(row)
+    id = Cite2Urn(row.urn) |> objectcomponent
+    string("### ", id)
+end
+
 
 function singleLexicon(root)
     offlinelex = targetDir(root) 
     # The lexicon
     lexdf = loadLexiconDF(root)
+
+    rows = []
     for r in eachrow(lexdf)
         # Figure out the nav link stuff!
+        push!(rows, entryhdr(r))
+        push!(rows, mdrow(r))
     end
+
+    tail = "1. Contents\n{:toc}\n"
+    doc = string(singleyaml(), join(rows, "\n\n"), "\n\n", tail)
+
+    offlinelex = targetDir(root)
+    outfile = offlinelex * "/index.md"
+    
+
+    open(outfile, "w") do io
+        print(io, doc)
+    end 
 end
