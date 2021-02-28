@@ -1,7 +1,8 @@
 ---
-title: 𐊂 (a)
+title: 𐊂 (b)
 layout:  page
 parent: Lexicon
+nav_order: 2
 ---
 
 
@@ -9,4 +10,4 @@ parent: Lexicon
 # 𐊂
 
 
-- -𐊂𐊁 (-be) *particle*.
+- -𐊂𐊁 (-be) *particle*. `urn:cite2:trmilli:lexicon.v1:m46`

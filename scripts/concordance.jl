@@ -107,7 +107,7 @@ function yamlplus()
         "---",
         "title: Concordance",
         "layout: page",
-        "nav_order: 8",
+        "nav_order: 10",
         "---",
         "\n\n",
         "# Concordance of lexical tokens",

@@ -1,7 +1,8 @@
 ---
-title: 𐊗 (a)
+title: 𐊗 (t)
 layout:  page
 parent: Lexicon
+nav_order: 16
 ---
 
 
@@ -9,95 +10,95 @@ parent: Lexicon
 # 𐊗
 
 
-- 𐊗𐊀- (ta-) *verb*, "put, place".
-- 𐊗𐊀𐊂𐊀𐊛𐊀𐊈𐊀- (tabahaza) ?.
-- 𐊗𐊀𐊎𐊀- (tama-) *noun*, "house, building".
-- 𐊗𐊀𐊕𐊂(𐊁)𐊆- (tarb(e)i-) *verb*, "overpower, conquer" (or similar).
-- 𐊗𐊙𐊎𐊀𐊅𐊀 (tAmada-) *noun*, "house/building complex" (or similar).
-- 𐊗𐊙𐊏𐊙𐊆 (tAnAi) ?.
-- 𐊗𐊅𐊅𐊚𐊗𐊀 (tdd[E]ta) ?.
-- 𐊗𐊁 (te-) *particle*, (= Luvian *-tta*).
-- 𐊗𐊁𐊂𐊁 (tebe-) *verb*, "overwhelm, conquer" (or similar).
-- 𐊗𐊁𐊅𐊁/𐊆 (tede/i-) *noun*, "father".
-- 𐊗𐊁𐊛𐊍𐊒𐊖 (tehlos) ?.
-- 𐊗𐊁𐊍𐊁𐊂𐊁𐊛𐊆- (telebehi-) *noun*, "Telmessos".
-- 𐊗𐊁𐊍𐊚𐊈𐊆𐊊𐊁- (telEziye-) *noun*, "(military) camp/fort".
-- 𐊗𐊁𐊍𐊆 (teli) *adverb*, "where".
-- 𐊗𐊁𐊍𐊆- (teli-) ?.
-- 𐊗𐊁𐊕𐊁- (tere-) *noun*, "territory, district" (or similar).
-- 𐊗𐊁𐊕𐊆 (teri) *adverb*, "when".
-- 𐊗𐊁𐊕𐊆- (teri-) *number*, "three".
-- 𐊗𐊁𐊖𐊁- (tese-) *noun*, "oath, vow".
-- 𐊗𐊁𐊖𐊚𐊗𐊆- (tesEti-) *noun*, "oath".
-- 𐊗𐊁𐊖𐊐𐊎𐊆 (tesMmi-) *noun*, (divine agent).
-- 𐊗𐊁𐊗𐊁𐊕𐊁/𐊆 (tetere/i-) *noun*, "city".
-- 𐊗𐊁𐊇𐊁- (tewe-) *noun*, "eye".
-- 𐊗𐊁𐊇𐊆𐊏𐊀𐊈𐊀 (tewinaza-) *noun*, (title).
-- 𐊗𐊁𐊈𐊆- (tezi-) *noun*, "sacrophagus, coffin" (or similar).
-- 𐊗𐊚𐊓𐊆𐊏𐊀 (tEpina) ?.
-- 𐊗𐊆- (ti-) *pronoun* "who, which" (relative pronoun).
-- 𐊗𐊗𐊆- (tti-) *verb*, "cause to pay" (a penalty).
-- -𐊗𐊆 (ti) *Reflexive pronoun (enclitic) (=Luvian *-ti*).
-- 𐊗𐊆𐊂𐊁 (tibe) *conjunction*, "or".
-- 𐊗𐊆𐊂𐊁𐊕𐊀 (tibera) ?.
-- 𐊗𐊆𐊅𐊁𐊆𐊎𐊆- (tideimi-) *noun*, "child, son".
-- 𐊗𐊆𐊅𐊁𐊕𐊁/𐊆- (tidere/i-) *noun*, "collacteus, collactea".
-- 𐊗𐊆𐊛𐊀𐊗𐊀 (tihata) ?.
-- 𐊗𐊆𐊛𐊁 (tihe) *pronoun, determiner*, "any".
-- 𐊗𐊆𐊛𐊁𐊗𐊀𐊈𐊁𐊆 (tihetazei) (name?).
-- 𐊗𐊆𐊊𐊀- (tiya-) *verb*, "penalty, amends" (?).
-- 𐊗𐊆𐊊𐊀𐊍𐊀- (tiyala-) *noun*, "penalty payments, fines" (or similar).
-- 𐊗𐊆𐊋𐊁 (tike) *pronoun*, "some/anyone, some/anything".
-- 𐊗𐊆𐊍𐊒𐊎𐊀 (tiloma) ?.
-- 𐊗𐊆𐊖𐊁 (tise) *pronoun*, "any(one/thing), (interrogotive = who/whatever)".
-- 𐊗𐊆𐊜𐊈𐊈𐊆𐊅𐊆 (tixzzidi) ?.
-- 𐊗𐊍𐊀- (tla-) *noun*, "Tlos".
-- 𐊗𐊍𐊀𐊛- (tlah-) *adjective*, "Tloan".
-- 𐊗𐊍𐊙𐊑𐊏𐊀- (tlANna-) *noun*, "Tloan".
-- 𐊗𐊍𐊀𐊇𐊁/𐊆- (tlawe/i-) *noun*, "Tlos".
-- 𐊗𐊍𐊍𐊀𐊜𐊑𐊗𐊀- (tllaxNta-) *noun*, "payment standard" (or similar).
-- 𐊗𐊗𐊍(𐊁)𐊆- (ttl(e)i-) *verb*, "pay".
-- 𐊗𐊐𐊓𐊁𐊕𐊆 (tMperi) ?.
-- 𐊗𐊕𐊂𐊂𐊙𐊎𐊀𐊕𐊀- (trbbAmara-) *noun*, (divine agent).
-- 𐊗𐊕𐊂𐊂𐊁- (trbbe-) *verb*, "oppose, resist".
-- 𐊗𐊕𐊂𐊂𐊁/𐊆- (trbbe/i-) *noun*, "oponent, enemy".
-- 𐊗𐊕𐊂𐊂𐊁𐊆𐊗𐊁- (trbbeite-) *adjective*, "opposing" (??).
-- 𐊗𐊕𐊂𐊂𐊁𐊍𐊁/𐊆- (trbbele/i-) *adjective*, "hostile".
-- 𐊗𐊕𐊂𐊂𐊚 (trbbE) ?.
-- 𐊗𐊕𐊂𐊚𐊗𐊀𐊅𐊕- (trbEtadr(a)-) *noun*, "counter-X" (??).
-- 𐊗𐊕𐊁𐊓𐊁- (trepe) ?.
-- 𐊗𐊕𐊆𐊊𐊀𐊗𐊕𐊂𐊂𐊀𐊛𐊁 (triyatrbbahe/i-) ?.
-- 𐊗𐊕𐊆𐊊𐊁𐊕𐊁 (triyere-) *noun*, "trireme".
-- 𐊗𐊕𐊖𐊑𐊏𐊁/𐊆 (trsNne/i-) *noun*, "three-year-old".
-- 𐊗𐊕𐊐𐊎𐊆𐊍𐊁/𐊆- (trMmile/i-) *adjective and noun*, "Lycian".
-- 𐊗𐊕𐊐𐊎𐊆𐊍𐊆𐊛𐊁 (trMmilihe-) *adjective*, "Lycian __".
-- 𐊗𐊕𐊐𐊎𐊆𐊍𐊆𐊊𐊁𐊁/𐊆- (trMmili(ye)-) *adjective*, "Lycian".
-- 𐊗𐊕𐊐𐊎𐊆𐊍𐊆𐊖 (trMmilis-) *noun*, "Lycia" (?).
-- 𐊗𐊕𐊐𐊎𐊆𐊖 (trMmis-) *noun*, "Lycia".
-- 𐊗𐊕𐊓𐊓𐊁𐊎𐊁 (trppeme) *adjective*, "three(fold)".
-- 𐊗𐊕𐊌𐊌𐊑𐊗- (trqqNt-) *noun*, "Storm-god" (= *Tarhunt-*).
-- 𐊗𐊕𐊒𐊖- (tros-) *noun*, "Trysa".
-- 𐊗𐊕𐊒𐊇𐊁𐊛𐊁/𐊆- (trowehe/i-) ?.
-- 𐊗𐊕𐊒𐊇𐊁𐊓𐊁𐊆𐊊𐊀𐊅𐊆 (trowepeiyadi) ?.
-- 𐊗𐊕𐊈𐊈𐊒𐊂𐊁/𐊆- (trzzobe/i-) *noun*, "Τρωσοβιος".
-- 𐊗𐊒𐊂𐊁 (tobe) ?.
-- 𐊗𐊒𐊂𐊁- (tobe-) ?.
-- 𐊗𐊒𐊂𐊁𐊛𐊁/𐊆- (tobehe/i-) ?.
-- 𐊗𐊒𐊂𐊁𐊛𐊆𐊅- (tobehid-) *noun*, "class/collectivity of those who are tobehe/i".
-- 𐊗𐊒𐊂(𐊁)𐊆- (tob(e)i-) *verb*, "strike" (= Luvian *dup(a)i-*).
-- 𐊗𐊒𐊂𐊒𐊕𐊁𐊛𐊆- (toborehi-) *noun*, "Tyberissos".
-- 𐊗𐊒𐊛𐊁(𐊖) (tohe(s)) *noun*, "nephew, niece".
-- 𐊗𐊒𐊋𐊁𐊅𐊕(𐊆)- (tokedr(i)-) *noun*, "statue".
-- 𐊗𐊒𐊎𐊆𐊏𐊁𐊛𐊆- (tominehi-) *noun*, "Tymnessos".
-- 𐊗𐊒𐊎𐊆𐊏𐊁𐊛𐊆(𐊊𐊁)- (tominehi(ye)-) *noun*, "of Tymnessos".
-- 𐊗𐊒𐊓𐊀 (topa) ?.
-- 𐊗𐊒𐊓𐊁𐊍𐊁𐊈𐊆𐊊𐊁- (topeleziye-) ?.
-- 𐊗𐊒𐊓𐊁𐊍𐊆𐊊𐊀- (topeliya-) ?.
-- 𐊗𐊒𐊓𐊐𐊎𐊁- (topMme-) *noun*, "two(fold), pair".
-- 𐊗𐊒𐊕𐊀𐊇𐊀𐊖 (torawas) ?.
-- 𐊗𐊒𐊕𐊀𐊜 (torax) ?.
-- 𐊗𐊒𐊕𐊀𐊜𐊖𐊖𐊆- (toraxssi-) *noun*, "Thuraksis".
-- 𐊗𐊒𐊇𐊀- (towa) ?.
-- 𐊗𐊒𐊇𐊁- (towe-) *verb*, "place (upright)".
-- 𐊗𐊒𐊇𐊁/𐊆- (towe/i-) *noun*, "ritual offering" (or similar?).
-- 𐊗𐊒𐊇𐊁𐊕𐊁/𐊆- (towere/i-) *noun*, "celebrant" (or similar?).
+- 𐊗𐊀- (ta-) *verb*, "put, place". `urn:cite2:trmilli:lexicon.v1:m382`
+- 𐊗𐊀𐊂𐊀𐊛𐊀𐊈𐊀- (tabahaza) ?. `urn:cite2:trmilli:lexicon.v1:m383`
+- 𐊗𐊀𐊎𐊀- (tama-) *noun*, "house, building". `urn:cite2:trmilli:lexicon.v1:m384`
+- 𐊗𐊀𐊕𐊂(𐊁)𐊆- (tarb(e)i-) *verb*, "overpower, conquer" (or similar). `urn:cite2:trmilli:lexicon.v1:m385`
+- 𐊗𐊙𐊎𐊀𐊅𐊀 (tAmada-) *noun*, "house/building complex" (or similar). `urn:cite2:trmilli:lexicon.v1:m386`
+- 𐊗𐊙𐊏𐊙𐊆 (tAnAi) ?. `urn:cite2:trmilli:lexicon.v1:m387`
+- 𐊗𐊅𐊅𐊚𐊗𐊀 (tdd[E]ta) ?. `urn:cite2:trmilli:lexicon.v1:m388`
+- 𐊗𐊁 (te-) *particle*, (= Luvian *-tta*). `urn:cite2:trmilli:lexicon.v1:m389`
+- 𐊗𐊁𐊂𐊁 (tebe-) *verb*, "overwhelm, conquer" (or similar). `urn:cite2:trmilli:lexicon.v1:m390`
+- 𐊗𐊁𐊅𐊁/𐊆 (tede/i-) *noun*, "father". `urn:cite2:trmilli:lexicon.v1:m391`
+- 𐊗𐊁𐊛𐊍𐊒𐊖 (tehlos) ?. `urn:cite2:trmilli:lexicon.v1:m392`
+- 𐊗𐊁𐊍𐊁𐊂𐊁𐊛𐊆- (telebehi-) *noun*, "Telmessos". `urn:cite2:trmilli:lexicon.v1:m393`
+- 𐊗𐊁𐊍𐊚𐊈𐊆𐊊𐊁- (telEziye-) *noun*, "(military) camp/fort". `urn:cite2:trmilli:lexicon.v1:m394`
+- 𐊗𐊁𐊍𐊆 (teli) *adverb*, "where". `urn:cite2:trmilli:lexicon.v1:m395`
+- 𐊗𐊁𐊍𐊆- (teli-) ?. `urn:cite2:trmilli:lexicon.v1:m396`
+- 𐊗𐊁𐊕𐊁- (tere-) *noun*, "territory, district" (or similar). `urn:cite2:trmilli:lexicon.v1:m397`
+- 𐊗𐊁𐊕𐊆 (teri) *adverb*, "when". `urn:cite2:trmilli:lexicon.v1:m398`
+- 𐊗𐊁𐊕𐊆- (teri-) *number*, "three". `urn:cite2:trmilli:lexicon.v1:m399`
+- 𐊗𐊁𐊖𐊁- (tese-) *noun*, "oath, vow". `urn:cite2:trmilli:lexicon.v1:m400`
+- 𐊗𐊁𐊖𐊚𐊗𐊆- (tesEti-) *noun*, "oath". `urn:cite2:trmilli:lexicon.v1:m401`
+- 𐊗𐊁𐊖𐊐𐊎𐊆 (tesMmi-) *noun*, (divine agent). `urn:cite2:trmilli:lexicon.v1:m402`
+- 𐊗𐊁𐊗𐊁𐊕𐊁/𐊆 (tetere/i-) *noun*, "city". `urn:cite2:trmilli:lexicon.v1:m403`
+- 𐊗𐊁𐊇𐊁- (tewe-) *noun*, "eye". `urn:cite2:trmilli:lexicon.v1:m404`
+- 𐊗𐊁𐊇𐊆𐊏𐊀𐊈𐊀 (tewinaza-) *noun*, (title). `urn:cite2:trmilli:lexicon.v1:m405`
+- 𐊗𐊁𐊈𐊆- (tezi-) *noun*, "sacrophagus, coffin" (or similar). `urn:cite2:trmilli:lexicon.v1:m406`
+- 𐊗𐊚𐊓𐊆𐊏𐊀 (tEpina) ?. `urn:cite2:trmilli:lexicon.v1:m407`
+- 𐊗𐊆- (ti-) *pronoun* "who, which" (relative pronoun). `urn:cite2:trmilli:lexicon.v1:m408`
+- 𐊗𐊗𐊆- (tti-) *verb*, "cause to pay" (a penalty). `urn:cite2:trmilli:lexicon.v1:m409`
+- -𐊗𐊆 (ti) *Reflexive pronoun (enclitic) (=Luvian *-ti*). `urn:cite2:trmilli:lexicon.v1:m410`
+- 𐊗𐊆𐊂𐊁 (tibe) *conjunction*, "or". `urn:cite2:trmilli:lexicon.v1:m411`
+- 𐊗𐊆𐊂𐊁𐊕𐊀 (tibera) ?. `urn:cite2:trmilli:lexicon.v1:m412`
+- 𐊗𐊆𐊅𐊁𐊆𐊎𐊆- (tideimi-) *noun*, "child, son". `urn:cite2:trmilli:lexicon.v1:m413`
+- 𐊗𐊆𐊅𐊁𐊕𐊁/𐊆- (tidere/i-) *noun*, "collacteus, collactea". `urn:cite2:trmilli:lexicon.v1:m414`
+- 𐊗𐊆𐊛𐊀𐊗𐊀 (tihata) ?. `urn:cite2:trmilli:lexicon.v1:m415`
+- 𐊗𐊆𐊛𐊁 (tihe) *pronoun, determiner*, "any". `urn:cite2:trmilli:lexicon.v1:m416`
+- 𐊗𐊆𐊛𐊁𐊗𐊀𐊈𐊁𐊆 (tihetazei) (name?). `urn:cite2:trmilli:lexicon.v1:m417`
+- 𐊗𐊆𐊊𐊀- (tiya-) *verb*, "penalty, amends" (?). `urn:cite2:trmilli:lexicon.v1:m418`
+- 𐊗𐊆𐊊𐊀𐊍𐊀- (tiyala-) *noun*, "penalty payments, fines" (or similar). `urn:cite2:trmilli:lexicon.v1:m419`
+- 𐊗𐊆𐊋𐊁 (tike) *pronoun*, "some/anyone, some/anything". `urn:cite2:trmilli:lexicon.v1:m420`
+- 𐊗𐊆𐊍𐊒𐊎𐊀 (tiloma) ?. `urn:cite2:trmilli:lexicon.v1:m421`
+- 𐊗𐊆𐊖𐊁 (tise) *pronoun*, "any(one/thing), (interrogotive = who/whatever)". `urn:cite2:trmilli:lexicon.v1:m422`
+- 𐊗𐊆𐊜𐊈𐊈𐊆𐊅𐊆 (tixzzidi) ?. `urn:cite2:trmilli:lexicon.v1:m423`
+- 𐊗𐊍𐊀- (tla-) *noun*, "Tlos". `urn:cite2:trmilli:lexicon.v1:m424`
+- 𐊗𐊍𐊀𐊛- (tlah-) *adjective*, "Tloan". `urn:cite2:trmilli:lexicon.v1:m425`
+- 𐊗𐊍𐊙𐊑𐊏𐊀- (tlANna-) *noun*, "Tloan". `urn:cite2:trmilli:lexicon.v1:m426`
+- 𐊗𐊍𐊀𐊇𐊁/𐊆- (tlawe/i-) *noun*, "Tlos". `urn:cite2:trmilli:lexicon.v1:m427`
+- 𐊗𐊍𐊍𐊀𐊜𐊑𐊗𐊀- (tllaxNta-) *noun*, "payment standard" (or similar). `urn:cite2:trmilli:lexicon.v1:m428`
+- 𐊗𐊗𐊍(𐊁)𐊆- (ttl(e)i-) *verb*, "pay". `urn:cite2:trmilli:lexicon.v1:m429`
+- 𐊗𐊐𐊓𐊁𐊕𐊆 (tMperi) ?. `urn:cite2:trmilli:lexicon.v1:m430`
+- 𐊗𐊕𐊂𐊂𐊙𐊎𐊀𐊕𐊀- (trbbAmara-) *noun*, (divine agent). `urn:cite2:trmilli:lexicon.v1:m413`
+- 𐊗𐊕𐊂𐊂𐊁- (trbbe-) *verb*, "oppose, resist". `urn:cite2:trmilli:lexicon.v1:m432`
+- 𐊗𐊕𐊂𐊂𐊁/𐊆- (trbbe/i-) *noun*, "oponent, enemy". `urn:cite2:trmilli:lexicon.v1:m433`
+- 𐊗𐊕𐊂𐊂𐊁𐊆𐊗𐊁- (trbbeite-) *adjective*, "opposing" (??). `urn:cite2:trmilli:lexicon.v1:m434`
+- 𐊗𐊕𐊂𐊂𐊁𐊍𐊁/𐊆- (trbbele/i-) *adjective*, "hostile". `urn:cite2:trmilli:lexicon.v1:m435`
+- 𐊗𐊕𐊂𐊂𐊚 (trbbE) ?. `urn:cite2:trmilli:lexicon.v1:m436`
+- 𐊗𐊕𐊂𐊚𐊗𐊀𐊅𐊕- (trbEtadr(a)-) *noun*, "counter-X" (??). `urn:cite2:trmilli:lexicon.v1:m437`
+- 𐊗𐊕𐊁𐊓𐊁- (trepe) ?. `urn:cite2:trmilli:lexicon.v1:m438`
+- 𐊗𐊕𐊆𐊊𐊀𐊗𐊕𐊂𐊂𐊀𐊛𐊁 (triyatrbbahe/i-) ?. `urn:cite2:trmilli:lexicon.v1:m439`
+- 𐊗𐊕𐊆𐊊𐊁𐊕𐊁 (triyere-) *noun*, "trireme". `urn:cite2:trmilli:lexicon.v1:m440`
+- 𐊗𐊕𐊖𐊑𐊏𐊁/𐊆 (trsNne/i-) *noun*, "three-year-old". `urn:cite2:trmilli:lexicon.v1:m441`
+- 𐊗𐊕𐊐𐊎𐊆𐊍𐊁/𐊆- (trMmile/i-) *adjective and noun*, "Lycian". `urn:cite2:trmilli:lexicon.v1:m442`
+- 𐊗𐊕𐊐𐊎𐊆𐊍𐊆𐊛𐊁 (trMmilihe-) *adjective*, "Lycian __". `urn:cite2:trmilli:lexicon.v1:m443`
+- 𐊗𐊕𐊐𐊎𐊆𐊍𐊆𐊊𐊁𐊁/𐊆- (trMmili(ye)-) *adjective*, "Lycian". `urn:cite2:trmilli:lexicon.v1:m444`
+- 𐊗𐊕𐊐𐊎𐊆𐊍𐊆𐊖 (trMmilis-) *noun*, "Lycia" (?). `urn:cite2:trmilli:lexicon.v1:m445`
+- 𐊗𐊕𐊐𐊎𐊆𐊖 (trMmis-) *noun*, "Lycia". `urn:cite2:trmilli:lexicon.v1:m446`
+- 𐊗𐊕𐊓𐊓𐊁𐊎𐊁 (trppeme) *adjective*, "three(fold)". `urn:cite2:trmilli:lexicon.v1:m447`
+- 𐊗𐊕𐊌𐊌𐊑𐊗- (trqqNt-) *noun*, "Storm-god" (= *Tarhunt-*). `urn:cite2:trmilli:lexicon.v1:m448`
+- 𐊗𐊕𐊒𐊖- (tros-) *noun*, "Trysa". `urn:cite2:trmilli:lexicon.v1:m449`
+- 𐊗𐊕𐊒𐊇𐊁𐊛𐊁/𐊆- (trowehe/i-) ?. `urn:cite2:trmilli:lexicon.v1:m450`
+- 𐊗𐊕𐊒𐊇𐊁𐊓𐊁𐊆𐊊𐊀𐊅𐊆 (trowepeiyadi) ?. `urn:cite2:trmilli:lexicon.v1:m451`
+- 𐊗𐊕𐊈𐊈𐊒𐊂𐊁/𐊆- (trzzobe/i-) *noun*, "Τρωσοβιος". `urn:cite2:trmilli:lexicon.v1:m452`
+- 𐊗𐊒𐊂𐊁 (tobe) ?. `urn:cite2:trmilli:lexicon.v1:m453`
+- 𐊗𐊒𐊂𐊁- (tobe-) ?. `urn:cite2:trmilli:lexicon.v1:m454`
+- 𐊗𐊒𐊂𐊁𐊛𐊁/𐊆- (tobehe/i-) ?. `urn:cite2:trmilli:lexicon.v1:m455`
+- 𐊗𐊒𐊂𐊁𐊛𐊆𐊅- (tobehid-) *noun*, "class/collectivity of those who are tobehe/i". `urn:cite2:trmilli:lexicon.v1:m456`
+- 𐊗𐊒𐊂(𐊁)𐊆- (tob(e)i-) *verb*, "strike" (= Luvian *dup(a)i-*). `urn:cite2:trmilli:lexicon.v1:m457`
+- 𐊗𐊒𐊂𐊒𐊕𐊁𐊛𐊆- (toborehi-) *noun*, "Tyberissos". `urn:cite2:trmilli:lexicon.v1:m458`
+- 𐊗𐊒𐊛𐊁(𐊖) (tohe(s)) *noun*, "nephew, niece". `urn:cite2:trmilli:lexicon.v1:m459`
+- 𐊗𐊒𐊋𐊁𐊅𐊕(𐊆)- (tokedr(i)-) *noun*, "statue". `urn:cite2:trmilli:lexicon.v1:m460`
+- 𐊗𐊒𐊎𐊆𐊏𐊁𐊛𐊆- (tominehi-) *noun*, "Tymnessos". `urn:cite2:trmilli:lexicon.v1:m461`
+- 𐊗𐊒𐊎𐊆𐊏𐊁𐊛𐊆(𐊊𐊁)- (tominehi(ye)-) *noun*, "of Tymnessos". `urn:cite2:trmilli:lexicon.v1:m462`
+- 𐊗𐊒𐊓𐊀 (topa) ?. `urn:cite2:trmilli:lexicon.v1:m463`
+- 𐊗𐊒𐊓𐊁𐊍𐊁𐊈𐊆𐊊𐊁- (topeleziye-) ?. `urn:cite2:trmilli:lexicon.v1:m464`
+- 𐊗𐊒𐊓𐊁𐊍𐊆𐊊𐊀- (topeliya-) ?. `urn:cite2:trmilli:lexicon.v1:m465`
+- 𐊗𐊒𐊓𐊐𐊎𐊁- (topMme-) *noun*, "two(fold), pair". `urn:cite2:trmilli:lexicon.v1:m466`
+- 𐊗𐊒𐊕𐊀𐊇𐊀𐊖 (torawas) ?. `urn:cite2:trmilli:lexicon.v1:m467`
+- 𐊗𐊒𐊕𐊀𐊜 (torax) ?. `urn:cite2:trmilli:lexicon.v1:m468`
+- 𐊗𐊒𐊕𐊀𐊜𐊖𐊖𐊆- (toraxssi-) *noun*, "Thuraksis". `urn:cite2:trmilli:lexicon.v1:m469`
+- 𐊗𐊒𐊇𐊀- (towa) ?. `urn:cite2:trmilli:lexicon.v1:m470`
+- 𐊗𐊒𐊇𐊁- (towe-) *verb*, "place (upright)". `urn:cite2:trmilli:lexicon.v1:m471`
+- 𐊗𐊒𐊇𐊁/𐊆- (towe/i-) *noun*, "ritual offering" (or similar?). `urn:cite2:trmilli:lexicon.v1:m472`
+- 𐊗𐊒𐊇𐊁𐊕𐊁/𐊆- (towere/i-) *noun*, "celebrant" (or similar?). `urn:cite2:trmilli:lexicon.v1:m473`
