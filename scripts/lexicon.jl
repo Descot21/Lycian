@@ -32,14 +32,13 @@ function loadLexiconDF(basedir)
     DataFrame(letter = letters, urn = urns, lemma = lemmas, xlit = xlits, article = articles)
 end
 
-
-
-function yamlplus(ltr, xlit)
+function yamlplus(ltr, xlit, seq)
     lines = [
         "---",
         "title: " * string(ltr, " (", xlit, ")"),
         "layout:  page",
         "parent: Lexicon",
+        "nav_order: " * string(seq),
         "---",
         "\n\n",
         "# " * ltr,
@@ -58,18 +57,18 @@ function outputfile(basedir, ltr)
 end
 
 function mdrow(entry)
-    string("- ", entry.lemma, " (", entry.xlit, ") ", entry.article)
+    string("- ", entry.lemma, " (", entry.xlit, ") ", entry.article, " `", entry.urn, "`")
 end
 
 
-function printLetter(dictentries, outfile, letter)
-    xlitletter =  dictentries[1, :xlit][1]
-    
-    top = yamlplus(letter, xlitletter)
+function printLetter(dictentries, outfile, letter, sequenceNum)
+    rawlemma =  replace(dictentries[1, :xlit], "-" => "")
+    xlitletter = rawlemma[1]
+
+    top = yamlplus(letter, xlitletter, sequenceNum)
     mdlines = []
     for entry in eachrow(dictentries)
         push!(mdlines, mdrow(entry))
-        #println(mdrow(entry))
     end
     
     println("Writing to " * outfile)
@@ -84,21 +83,61 @@ function printLetter(dictentries, outfile, letter)
     end 
 end
 
+function alphabetize(lexdf)
+    xlits = lexdf[:, :xlit]
+    nohyphens = map(x -> replace(x, r"[-([]" => ""), xlits)
+    sortedvalues = map(wd -> lowercase(wd[1]), nohyphens) |> unique |> sort
+    dict = Dict{Char, Int}()
+    for n in 1:length(sortedvalues)
+        push!(dict, sortedvalues[n] => n)
+    end
+    dict
+end
+
+function initialAlpha(s)
+    replace(s, r"[-([]" => "")[1]
+end
 
 function printLexicon(root)
     offlinelex = targetDir(root)
-
+    
     # The lexicon
     lexdf = loadLexiconDF(root)
     # Grouped by letter
     grouped = groupby(lexdf, :letter)
+    sequenceDict = alphabetize(lexdf)
 
     for k in keys(grouped)
         string(offlinelex, k.letter)
         entries = grouped[k]
-        #xlitletter =  grouped[k][1, :xlit][1]
+
+        str = entries[1,:xlit]
+        seq = sequenceDict[initialAlpha(lowercase(str))]
         outfile = outputfile(offlinelex, string("Letter ", k.letter))
-        printLetter(entries, outfile, k.letter)
+        printLetter(entries, outfile, k.letter, seq)
     end
 end
 
+
+function singleyaml() 
+    lines = [
+        "---",
+        "title: \"Lexicon: all entries\"",
+        "layout:  page",
+        "parent: Lexicon",   
+        "nav_order: 100",
+        "---",
+        "\n\n",
+        "# Lexicon"
+    ]
+    join(lines, "\n")  
+end
+
+function singleLexicon(root)
+    offlinelex = targetDir(root) 
+    # The lexicon
+    lexdf = loadLexiconDF(root)
+    for r in eachrow(lexdf)
+        # Figure out the nav link stuff!
+    end
+end
