@@ -17,9 +17,9 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
-     <ab n="6"></ab>
+     <ab n="4"><persName><w>Ntemoxli<supplied>di</supplied></w></persName></ab>
+     <ab n="5"><placeName>zemoris</placeName> e</ab>
+     <ab n="6">xrowata</ab>
     </body>
   </text>
 </TEI>
