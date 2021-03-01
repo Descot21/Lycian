@@ -22,6 +22,7 @@ for txt in online
     converter = o2converter(repo, urn)
     println(converter)
     xml = textforurn(repo, urn)	
+    #ohco2forurn(CONF,urn)
     #println(xml)
     #converted = converter(xml, urn)
     #println(converted)
