@@ -52,7 +52,7 @@ end
 
 function editionlink(u::CtsUrn)
     lnk = "../../Texts/" * workparts(u)[1] * "_" * workparts(u)[2]
-    label = string("*", workparts(u)[1], "* ",workparts(u)[2],", ", passagecomponent(u), "/" )
+    label = string("*", workparts(u)[1], "* ",workparts(u)[2],", ", passagecomponent(u) )
     "[" * label * "](" * lnk * ")"
 end
 
