@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>TL 112</title>
+        <title>TL 106 (Greek text)</title>
         <editor>Dane Scott</editor>
       </titleStmt>
       <publicationStmt>
@@ -17,12 +17,12 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"></ab>
-     <ab n="2"></ab>
-     <ab n="3"></ab>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
-     <ab n="6"></ab>
+     <ab n="1">ebENnE : <w>x<supplied>opA</supplied></w> me ti : prNnawatE : <persName><w>m<unclear>N</unclear>nohe</w></persName> : <persName>tMpeimeh</persName> tideimi hrppi : <w>at<supplied>li</supplied></w></ab>
+     <ab n="2"><w>eh<supplied>b</supplied>i</w> se tideimi : hbi : <w>ada<supplied>M</supplied>mNnaye</w> : me : Nke : <w>qat<supplied>i</supplied></w> <persName>mNnohe</persName> : me ne <w>Nte<unclear>pi</unclear></w></ab>
+     <ab n="3">tAti : se te nepe : alahadi : tike : kbi : Ekepi : <persName>mNnohe</persName> : lasa <gap/> t <gap/> mei</ab>
+     <ab n="4">hadi : tike : tibe mei : martti : <w>td<supplied>i</supplied>ke</w> ; kbi : <w>alade<supplied>hAne</supplied></w> <gap/></ab>
+     <ab n="5"> <w><choice><sic>ahbalawiha</sic><corr>ahbalawiya</corr></choice></w> : <w>mart<unclear>t</unclear>i</w> : <w>k<unclear>M</unclear>mEti</w> : se : <w><unclear>t</unclear>e</w> : alahAti : <w>kM<supplied>mEti</supplied></w> <gap/> <persName n="urn:cite2:trmilli:divinities.v1:div_01"><w><supplied>E</supplied>ni</w></persName></ab>
+     <ab n="6">qlahi : ebiyehi : pNtrENni <w><unclear>x</unclear>ya</w> : sNta : pidenezE : <gap/> ata</ab>
     </body>
   </text>
 </TEI>
