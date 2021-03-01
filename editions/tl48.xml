@@ -17,14 +17,14 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"></ab>
-     <ab n="2"></ab>
-     <ab n="3"></ab>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
-     <ab n="6"></ab>
-     <ab n="7"></ab>
-     <ab n="8"></ab>
+     <ab n="1">ebENnE : xopA : mE=ti <w n="1">prN</w></ab>
+     <ab n="2"><w n="1">nawatE</w> : <persName>padrAma</persName> : hrppi <w n="2">ne</w></ab>
+     <ab n="3"><w n="2">re</w> : se <choice><sic><w>t : ohe</w></sic><corr>: tohe</corr></choice></ab>
+     <ab n="4">ebENnE : xopA : mE=ti : iyetE</ab>
+     <ab n="5"><persName><w>q<supplied>a</supplied>rNnaxa</w></persName> : <persName>pssoreh</persName> : <w n="5">tidei</w></ab>
+     <ab n="6"><w n="5">mi</w> : se tideimi : <persName>padrMmahe</persName></ab>
+     <ab n="7"><persName>xodiwazade</persName> : epenEtiyatte</ab>
+     <ab n="8"><persName>padrMma</persName></ab>
     </body>
   </text>
 </TEI>
