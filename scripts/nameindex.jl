@@ -2,13 +2,15 @@
 using Pkg
 Pkg.activate(".")
 
+using CitableTeiReaders
 using CitableText
 using CSV
 using EditorsRepo
 using EzXML
 
-root = dirname(pwd())
-repo = EditingRepository(root, "editions", "dse", "config")
+
+reporoot = dirname(pwd())
+repo = EditingRepository(reporoot, "editions", "dse", "config")
 
 #=
 function citation(repo::EditingRepository)
@@ -31,7 +33,30 @@ function xmlcorpus(repo::EditingRepository)
     composite_array(corpora)
 end
 
-c = xmlcorpus(repo)
-for cn in cn.corpus
-
+# Create a dictionary mapping URNs for 
+# persNames to lists of  URNs for text passages.
+function indexnames(c::CitableCorpus)
+    dict = Dict()
+    for cn in c.corpus
+        xml = parsexml(cn.text)
+        pns = findall("//persName", xml)
+        for pn in pns
+            if haskey(pn, "n")
+                n = pn["n"]
+                if haskey(dict, n)
+                    #Already seen
+                    prev = dict[n]
+                    push!(dict, n => push!(prev, cn.urn))
+                else
+                    #First time
+                    push!(dict, n => [cn.urn])
+                end
+            end 
+        end
+    end
+    dict
 end
+
+c = xmlcorpus(repo)
+namesidx = indexnames(c)
+
