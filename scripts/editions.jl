@@ -107,7 +107,7 @@ function tablemarkdown(dipllist, normlist, linkedimages)
 end
 
 root = dirname(pwd())
-textroot = root * "/offline/Texts/" 
+textroot = root * "/offline/texts/" 
 repo = EditingRepository(root, "editions", "dse", "config")
 textcat = textcatalog(repo, "catalog.cex")
 online = filter(row -> row.online, textcat)
