@@ -4,20 +4,13 @@ Pkg.activate(".")
 
 using CitableTeiReaders
 using CitableText
+using CitableObject
 using CSV
 using EditorsRepo
 using EzXML
 
-
 reporoot = dirname(pwd())
 repo = EditingRepository(reporoot, "editions", "dse", "config")
-
-#=
-function citation(repo::EditingRepository)
-	arr = CSV.File(repo.root * "/" * repo.configs * "/citation.cex", skipto=2, delim="|", 
-	quotechar='&', escapechar='&') |> Array
-end
-=#
 
 # This should be in EditorsRepo!
 function xmlcorpus(repo::EditingRepository)
@@ -57,6 +50,32 @@ function indexnames(c::CitableCorpus)
     dict
 end
 
+function editionlink(u::CtsUrn)
+    lnk = "../../Texts/" * workparts(u)[1] * "_" * workparts(u)[2]
+    label = string("*", workparts(u)[1], "* ",workparts(u)[2],", ", passagecomponent(u), "/" )
+    "[" * label * "](" * lnk * ")"
+end
+
+function mdlist(psgs)
+    items = map(psg -> "- " * editionlink(psg), psgs)
+    "\n\n## Appears in\n\n" * join(items, "\n")
+end
+
+function printindex(dict, dir)
+    for k in keys(dict)
+        u = Cite2Urn(k)
+        fname = dir * objectcomponent(u) * "/index.md"
+        println("Append to ", fname)
+        md = mdlist(dict[k])
+        open(fname, "a") do io
+            print(io, md)
+        end
+    end
+end
+
+
 c = xmlcorpus(repo)
 namesidx = indexnames(c)
+printindex(namesidx, reporoot * "/offline/Divinities/")
+
 
