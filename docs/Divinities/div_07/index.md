@@ -17,4 +17,4 @@ Larson, Jennifer. *Greek Nymphs: Myth, Cult, Lore*. Oxford University Press, 200
 
 ## Appears in
 
-- [*nf* 320, 39/](../../Texts/nf_320)
+- [*nf* 320, 39](../../Texts/nf_320)

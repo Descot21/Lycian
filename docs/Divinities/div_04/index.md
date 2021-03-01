@@ -11,4 +11,4 @@ nav_order: 4
 
 ## Appears in
 
-- [*tl* 135, 2/](../../Texts/tl_135)
+- [*tl* 135, 2](../../Texts/tl_135)

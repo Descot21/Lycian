@@ -14,10 +14,10 @@ Eni's epithets indicate her status in the Lycian pantheon. She is the *Eni mahan
 
 ## Appears in
 
-- [*nf* 320, 38/](../../Texts/nf_320)
-- [*tl* 131, 3/](../../Texts/tl_131)
-- [*tl* 131, 4/](../../Texts/tl_131)
-- [*tl* 112, 5/](../../Texts/tl_112)
-- [*tl* 110, 3/](../../Texts/tl_110)
-- [*tl* 102, 3/](../../Texts/tl_102)
-- [*tl* 56, 4/](../../Texts/tl_56)
+- [*nf* 320, 38](../../Texts/nf_320)
+- [*tl* 131, 3](../../Texts/tl_131)
+- [*tl* 131, 4](../../Texts/tl_131)
+- [*tl* 112, 5](../../Texts/tl_112)
+- [*tl* 110, 3](../../Texts/tl_110)
+- [*tl* 102, 3](../../Texts/tl_102)
+- [*tl* 56, 4](../../Texts/tl_56)

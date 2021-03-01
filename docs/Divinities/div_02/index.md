@@ -52,7 +52,7 @@ Keen, Antony G. *Dynastic Lycia: A Political History of the Lycians and their Re
 
 ## Appears in
 
-- [*tl* 93, 3/](../../Texts/tl_93)
-- [*tl* 88, 6/](../../Texts/tl_88)
-- [*tl* 80, 3/](../../Texts/tl_80)
-- [*tl* 26, 7/](../../Texts/tl_26)
+- [*tl* 93, 3](../../Texts/tl_93)
+- [*tl* 88, 6](../../Texts/tl_88)
+- [*tl* 80, 3](../../Texts/tl_80)
+- [*tl* 26, 7](../../Texts/tl_26)
