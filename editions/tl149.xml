@@ -17,19 +17,24 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1">tike : <persName>iyamaraye</persName> : tibe : <w><choice><sic>eadi</sic><corr>ladi</corr></choice></w> : ehbi <w>hrpp<supplied>i</supplied></w></ab>
-     <ab n="2">tadi tike : kbi : tike xttbadi : Eti <w>prNna<supplied>wate</supplied></w></ab>
-     <ab n="3">xbiyehi : tike : me httEmi</ab>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
-     <ab n="6"></ab>
-     <ab n="7"></ab>
-     <ab n="8"></ab>
-     <ab n="9"></ab>
-     <ab n="10"></ab>
-     <ab n="11"></ab>
-     <ab n="12"></ab>
-     <ab n="13"></ab>
+     <ab n="1">ebENnE : prNnawA me=ne : prNnawatE</ab>
+     <ab n="2"><persName>iyamara</persName> : <persName>terssexlehK</persName> : tideimi : <persName n="urn:cite2:trmilli:divinities.v1:div_03"><w n="2">mali</w></persName></ab>
+     <ab n="3"><w n="2">yahi</w> : wedrENnehi : <choice><sic>axsAtaza</sic><corr>axAtaza</corr></choice> : me pibiyeti</ab>
+     <ab n="4">prNneze : se tteri : adaiyE mei ne Nta wAtA</ab>
+     <ab n="5"> pibiyeti : tere ebehE me iye ne : hrppi tAti</ab>
+     <ab n="6">tike : <persName>iyamaraye</persName> : tibe : <w><choice><sic>eadi</sic><corr>ladi</corr></choice></w> : ehbi <w>hrpp<supplied>iye</supplied></w> <supplied>mei</supplied></ab>
+     <ab n="7">tadi tike : kbi : tike xttbadi : Eti <w>prNna<supplied>eziyehi</supplied></w></ab>
+     <ab n="8">xbiyehi : tike : me httEmi : <w>Anaba<unclear>y</unclear>E</w> : se n</ab>
+     <ab n="9">wedrENni : : AMmAma kMma : sNta : wawA : se k</ab>
+     <ab n="10">xawA : sE ne : <persName n="urn:cite2:trmilli:divinities.v1:div_04">tesEti</persName> : qANti : <choice><sic>trMmiliyEt : i</sic><corr>trMmiliyEti :</corr></choice></ab>
+     <ab n="11">se itlehi : ponemedeNi : se komezeiti :</ab>
+     <ab n="12">se teteri : ohazata : <persName n="urn:cite2:trmilli:divinities.v1:div_03"><w>mali<supplied>ya</supplied></w></persName> : wedrENni : <w>hrp<supplied>pi</supplied></w></ab>
+     <ab n="13">sei agA L iyase : hrMmA : ebE : me piyaxA : m</ab>
+     <ab n="14">mopMme : miNte me=ti mazaiti : terE : ekE : p</ab>
+     <ab n="15">tike : hrppi ttAne : kbi pddEte se ebei</ab>
+     <ab n="16">ohazata tere L ebehi : <w>kome<supplied>h</supplied>i</w> : hrppE m</ab>
+     <ab n="17">se piyaxa meipEme komezei : <w><supplied>e</supplied>me</w> : ome</ab>
+     <ab n="18">ebette :</ab>
     </body>
   </text>
 </TEI>
