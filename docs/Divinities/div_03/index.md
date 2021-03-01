@@ -38,3 +38,12 @@ Bryce, Trevor R. “Disciplinary Agents in the Sepulchral Inscriptions of Lycia.
 Bryce, Trevor R. *The Lycians in Literary and Epigraphic Sources*, vol. 1, Museum Tusculanum Press, Copenhagen, 1986.
 
 Hutter, Manfred. "Aspects in Luwian Religion." *The Luwians*, edited by Craig Melchert in *Handbook of Oriental Studies* vol. 68, Brill, Leiden, 2003. pp. 211–280.
+
+
+## Appears in
+
+- [*tl* 150, 6/](../../Texts/tl_150)
+- [*tl* 80, 3/](../../Texts/tl_80)
+- [*tl* 76, 5/](../../Texts/tl_76)
+- [*tl* 75, 5/](../../Texts/tl_75)
+- [*tl* 26, 12/](../../Texts/tl_26)

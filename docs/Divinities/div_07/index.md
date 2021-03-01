@@ -13,3 +13,8 @@ nav_order: 7
 ### Sources
 
 Larson, Jennifer. *Greek Nymphs: Myth, Cult, Lore*. Oxford University Press, 2001. pages 209--210.
+
+
+## Appears in
+
+- [*nf* 320, 39/](../../Texts/nf_320)

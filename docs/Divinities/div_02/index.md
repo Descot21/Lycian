@@ -48,3 +48,11 @@ Hutter, Manfred. "Aspects in Luwian Religion." *The Luwians*, edited by Craig Me
 Laroche, E. "Les dieux de la Lycie classique d'apres les textes lyciens." Metzger. 1980a. 1-6
 
 Keen, Antony G. *Dynastic Lycia: A Political History of the Lycians and their Relations with Foreign Powers C. 545-326 B.C.*.Mnemosyne, Supplements, Vol. 178, Brill, Leiden. 1998.
+
+
+## Appears in
+
+- [*tl* 93, 3/](../../Texts/tl_93)
+- [*tl* 88, 6/](../../Texts/tl_88)
+- [*tl* 80, 3/](../../Texts/tl_80)
+- [*tl* 26, 7/](../../Texts/tl_26)
