@@ -14,7 +14,7 @@ using CitableText
 using CitableObject
 
 
-export analysisdf, formsdf
+export labelledforms
 export repo, scriptrepo
 
 function scriptrepo()
@@ -50,6 +50,12 @@ function formsdf(repo)
     labels = map(row -> row.label, arr)
     
     DataFrame(form = urns, formlabel = labels)
+end
+
+function labelledforms(repo)
+    a = analysisdf(repo)
+    f = formsdf(repo)
+    innerjoin(a,f, on = :form)
 end
 
 end
