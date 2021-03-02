@@ -34,6 +34,15 @@ function repo(root::AbstractString)
     EditingRepository(root, "editions", "dse", "config")
 end
 
+
+
+
+
+
+#=
+These functions all take a single argument,
+an editor's repository.
+=#
 function analysisdf(repo)
     morphids = repo.root * "/morphology/analyses.cex"
     arr = CSV.File(morphids, skipto=2, delim="|") |> Array
