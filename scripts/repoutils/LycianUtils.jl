@@ -40,10 +40,8 @@ function analysisdf(repo)
     urns = map(row -> Cite2Urn(row.lexicon), arr)
     words = map(row -> row.word, arr)
     forms = map(row -> Cite2Urn(row.form), arr)
-    DataFrame(urn = urns, word = words, form = forms)
+    DataFrame(lexiconurn = urns, word = words, form = forms)
 end
-
-
 
 function formsdf(repo)
     morphids = repo.root * "/morphology/formids.cex"
@@ -51,7 +49,7 @@ function formsdf(repo)
     urns = map(row -> Cite2Urn(row.urn), arr)
     labels = map(row -> row.label, arr)
     
-    DataFrame(urn = urns, label = labels)
+    DataFrame(form = urns, formlabel = labels)
 end
 
 end

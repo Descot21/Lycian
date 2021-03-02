@@ -12,5 +12,7 @@ using EditorsRepo
 
 r =  scriptrepo()
 analyses = r |> analysisdf
+forms = r |> formsdf
 
 
+ 
