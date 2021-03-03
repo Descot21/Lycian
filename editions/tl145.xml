@@ -17,11 +17,11 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"></ab>
-     <ab n="2"></ab>
-     <ab n="3"></ab>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
+     <ab n="1"><supplied>ebENne xopA</supplied> <w><supplied>m=</supplied>eti</w> <choice><sic>yrNnawatE</sic><corr>prNnawatE</corr></choice> hla : <persName><w>Nterobila<supplied>h</supplied></w></persName></ab>
+     <ab n="2">se tideimi mei Ntepi tAti : hlA se <w>la<supplied>dA</supplied></w></ab>
+     <ab n="3"><w><supplied>m</supplied>e</w> telahadi : sei <unclear>mqi</unclear></ab>
+     <ab n="4">oh <w>o<unclear>h</unclear>er</w> <persName n="urn:cite2:trmilli:divinities.v1:div_01"><w><supplied>En</supplied>i</w></persName> : qlahi ebiyehi</ab>
+     <ab n="5">r m <w><supplied>adaiy</supplied>E</w> 5½</ab>
     </body>
   </text>
 </TEI>
