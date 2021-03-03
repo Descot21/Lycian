@@ -17,14 +17,14 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"></ab>
-     <ab n="2"></ab>
-     <ab n="3"></ab>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
-     <ab n="6"></ab>
-     <ab n="7"></ab>
-     <ab n="8"></ab>
+     <ab n="1"><w><supplied>eb</supplied>eNnE</w> <w n="1">pixe<supplied>d</supplied>erekat</w></ab>
+     <ab n="2"><w n="1"><supplied>amla</supplied>h</w> : <placeName>arNna</placeName> se <placeName>tlawa</placeName> se <placeName><w n="2">p</w></placeName></ab>
+     <ab n="3"><w n="2"><supplied>inale</supplied></w> se <w>xadawAt<unclear>i</unclear></w> meNna</ab>
+     <ab n="4">troweheNne se ti</ab>
+     <ab n="5">oti kbiyehedi</ab>
+     <ab n="6"><unclear>ti</unclear> sewe Nte k</ab>
+     <ab n="7"><w><unclear>wel</unclear>i</w> eb</ab>
+     <ab n="8"><unclear>ne</unclear></ab>
     </body>
   </text>
 </TEI>

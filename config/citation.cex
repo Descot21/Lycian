@@ -8,6 +8,7 @@ urn:cts:trmilli:tl.13.v1:|tl13.xml|simpleAbReader|MidDiplomaticBuilder("Diplomat
 urn:cts:trmilli:tl.25.v1:|tl25.xml|simpleAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidEpigraphicBuilder("Normalized epigraphic builder ", "normed")|lycianAscii()
 urn:cts:trmilli:tl.26.v1:|tl26.xml|simpleAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidEpigraphicBuilder("Normalized epigraphic builder ", "normed")|lycianAscii()
 urn:cts:trmilli:tl.37.v1:|tl37.xml|simpleAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidEpigraphicBuilder("Normalized epigraphic builder ", "normed")|lycianAscii()
+urn:cts:trmilli:tl.45.v1:|tl45.xml|simpleAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidEpigraphicBuilder("Normalized epigraphic builder ", "normed")|lycianAscii()
 urn:cts:trmilli:tl.48.v1:|tl48.xml|simpleAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidEpigraphicBuilder("Normalized epigraphic builder ", "normed")|lycianAscii()
 urn:cts:trmilli:tl.52.v1:|tl52.xml|simpleAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidEpigraphicBuilder("Normalized epigraphic builder ", "normed")|lycianAscii()
 urn:cts:trmilli:tl.53.v1:|tl53.xml|simpleAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidEpigraphicBuilder("Normalized epigraphic builder ", "normed")|lycianAscii()
