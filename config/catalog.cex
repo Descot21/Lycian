@@ -163,8 +163,8 @@ urn:cts:trmilli:nf.307.v1:|line|Neufunde lykischer inschriften|307|HC edition||f
 urn:cts:trmilli:nf.308.v1:|line|Neufunde lykischer inschriften|308|HC edition||false|lyc
 urn:cts:trmilli:nf.309.v1:|line|Neufunde lykischer inschriften|309|HC edition||false|lyc
 urn:cts:trmilli:nf.310.v1:|line|Neufunde lykischer inschriften|310|HC edition||false|lyc
-urn:cts:trmilli:nf.311.v1:|line|Neufunde lykischer inschriften|311|HC edition||false|lyc
-urn:cts:trmilli:nf.312.v1:|line|Neufunde lykischer inschriften|312|HC edition||false|lyc
+urn:cts:trmilli:nf.311.v1:|line|Neufunde lykischer inschriften|311|HC edition||true|lyc
+urn:cts:trmilli:nf.312.v1:|line|Neufunde lykischer inschriften|312|HC edition||true|lyc
 urn:cts:trmilli:nf.313.v1:|line|Neufunde lykischer inschriften|313|HC edition||false|lyc
 urn:cts:trmilli:nf.314.v1:|line|Neufunde lykischer inschriften|314|HC edition||false|lyc
 urn:cts:trmilli:nf.315.v1:|line|Neufunde lykischer inschriften|315|HC edition||false|lyc
@@ -174,7 +174,7 @@ urn:cts:trmilli:nf.318.v1:|line|Neufunde lykischer inschriften|318|HC edition||f
 urn:cts:trmilli:nf.319.v1:|line|Neufunde lykischer inschriften|319|HC edition||false|lyc
 urn:cts:trmilli:nf.320.v1:|line|Neufunde lykischer inschriften|320|HC edition||true|lyc
 urn:cts:trmilli:nf.321.v1:|line|Neufunde lykischer inschriften|321|HC edition||false|lyc
-urn:cts:trmilli:nf.322.v1:|line|Neufunde lykischer inschriften|322|HC edition||false|lyc
+urn:cts:trmilli:nf.322.v1:|line|Neufunde lykischer inschriften|322|HC edition||true|lyc
 urn:cts:trmilli:nf.323.v1:|line|Neufunde lykischer inschriften|323|HC edition||false|lyc
 urn:cts:trmilli:adkam2017.Asarcık.v1:|line|Gephyra 19, 2020|1|HC edition||false|lyc
 urn:cts:trmilli:adkam2017.Sazak.v1:|line|Gephyra 19, 2020|2|HC edition||false|lyc
