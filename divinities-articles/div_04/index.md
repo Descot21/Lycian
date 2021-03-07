@@ -9,12 +9,7 @@ nav_order: 4
 
 `urn:cite2:trmilli:divinities.v1:div_04`
 
-Trevor Bryce has indentified a connection between the terms *tesi/tasa* (𐊗𐊁𐊖𐊆 / 𐊗𐊀𐊖𐊀) and *tesEti* (𐊗𐊁𐊖𐊚𐊗𐊆), which all relate to oaths---both in the actual verbage of an oath and the compact an oath implies.<sup>1</sup> Houwink ten Cate suggests a connection between the ending "-Eti" and the Luwian "-anti" which is used to convert a nueter noun into a personal term.<sup>2</sup> Broken down, the "tes(i)-Eti" are personified oaths. This is comparable to the Hittite *linki-(i)antes*, oath gods.<sup>3</sup> Since oaths and their compacts were essential to Hittite political stability, the *linkiiantes* were invoked to ensure the oath was honored and punish those guilty of violating treaties.<sup>4</sup> Similarly, the tomb owners of TL 135 and 149 invoke the *tesEti trMmili* ("Lycian oath-gods") to protect their tombs against violators:
-
-
-
-
-There is no evidence of a cult surrounding the tesEti, and it is probable that they were only called upon in political contexts. 
+Trevor Bryce has indentified a connection between the terms *tesi/tasa* (𐊗𐊁𐊖𐊆 / 𐊗𐊀𐊖𐊀) and *tesEti* (𐊗𐊁𐊖𐊚𐊗𐊆), which all relate to oaths---both in the actual verbage of an oath and the compact an oath implies.<sup>1</sup> Houwink ten Cate suggests a connection between the ending "-Eti" and the Luwian "-anti" which is used to convert a nueter noun into a personal term.<sup>2</sup> Broken down, the "tes(i)-Eti" are personified oaths. This is comparable to the Hittite *linki-(i)antes*, oath gods.<sup>3</sup> Since oaths and their compacts were essential to Hittite political stability, the *linkiiantes* were invoked to ensure the oath was honored and punish those guilty of violating treaties.<sup>4</sup> Similarly, the tomb owners of TL 135 and 149 invoke the *tesEti trMmili* ("Lycian oath-gods") to protect their tombs against violators. There is no evidence of a cult surrounding the tesEti, and it is probable that they were only called upon in political contexts. 
 
 --------------------
 
