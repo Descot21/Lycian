@@ -26,4 +26,5 @@ In the 1970s, the archaeologist G. E. Bean discovered an anthropomorphic scuptur
 
 Bean goes on to suggest that the statue was merely a students unfinsihed model, and not something of great religious importance. However, the scholar Fahri Işık argues that the statue could be a cult image of Eni mahanahi, and that it's archaism or unfinished appearence is actually a common Anatolian art form dating back to the netholic period. Similar statues of Kybele and other Anatolian goddesses have been found at Gordion, Keskaya, and Hattusa. It's discovery at the Letoon furthers the notion that the statue might have been of cultic value, and that it represented the Lycian mother goddess associated with the sanctuary. 
 
+-------------------------
 (Bryce 1986 84-85) 
