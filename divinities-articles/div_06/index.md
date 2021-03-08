@@ -9,7 +9,7 @@ nav_order: 6
 
 `urn:cite2:trmilli:divinities.v1:div_06`
 
-
+The identity of trzzobi as a divinity comes from the tomb inscription TL 111 in which the tomb's owner, erzesinobe, indentifies himself as a priest (
 
 
 
