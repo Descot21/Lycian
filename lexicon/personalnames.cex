@@ -1,12 +1,38 @@
 sequence|urn|lemma|xlit|article
-1|urn:cite2:trmilli:persnames.v1:m1|𐊀𐊂𐊀𐊌𐊎𐊙𐊎𐊁|abaqmAme|Personal name "AbaqmAme"
-2|urn:cite2:trmilli:persnames.v1:m2|𐊀𐊂𐊒...𐊇𐊚𐊗𐊁|abo...wEte|Personal name "AbowEte" (reading of the second half uncertain)
-3|urn:cite2:trmilli:persnames.v1:m3|𐊀𐊅𐊀𐊐𐊎𐊑𐊏𐊀|adaMmNna|Personal name "AdaMmNna"
-4|urn:cite2:trmilli:persnames.v1:m4|𐊀𐊛𐊀𐊎𐊙𐊖𐊆|ahamAsi|Personal name "AhamAsi"
-5|urn:cite2:trmilli:persnames.v1:m5|𐊀𐊛𐊂𐊀𐊍𐊀𐊇𐊆𐊊𐊀|ahbalawiya|Personal name "Ahbalawiya"
-6|urn:cite2:trmilli:persnames.v1:m6|𐊀𐊛𐊌𐊌𐊀𐊅𐊆|ahqqadi|Personal name "Ahqqadi"
-7|urn:cite2:trmilli:persnames.v1:m7|𐊀𐊂𐊀𐊌𐊎𐊙𐊎𐊁|alaxssaNtra|Personal name "AlaxssaNtra"; From the Greek "Αλέξανδρος" 
-8|urn:cite2:trmilli:persnames.v1:m8|𐊀𐊐𐊓𐊒.𐊁𐊒|aMpo.eo|Personal name "AMpoeo" (?)
-9|urn:cite2:trmilli:persnames.v1:m9|𐊀𐊏𐊒𐊈𐊀𐊂𐊀|anozaba|Personal name "Anozaba"
-10|urn:cite2:trmilli:persnames.v1:m10|𐊀𐊓𐊑𐊏𐊙𐊗𐊀𐊎𐊀|apNnAtama|Personal name "ApNnAtama"
-23|urn:cite2:trmilli:persnames.v1:m23|𐊀𐊖𐊀𐊇𐊙𐊈𐊀𐊍𐊀|asawAzala|Personal name "AsawAzala"
+1|urn:cite2:trmilli:persnames.v1:m1|𐊀𐊂𐊀𐊌𐊎𐊙𐊎𐊁|abaqmAme|Personal name
+2|urn:cite2:trmilli:persnames.v1:m2|𐊀𐊂𐊒...𐊇𐊚𐊗𐊁|abo...wEte|Personal name (reading of the second half uncertain)
+3|urn:cite2:trmilli:persnames.v1:m3|𐊀𐊅𐊀𐊐𐊎𐊑𐊏𐊀|adaMmNna|Personal name 
+4|urn:cite2:trmilli:persnames.v1:m4|𐊀𐊛𐊀𐊎𐊙𐊖𐊆|ahamAsi|Personal name 
+5|urn:cite2:trmilli:persnames.v1:m5|𐊀𐊛𐊂𐊀𐊍𐊀𐊇𐊆𐊊𐊀|ahbalawiya|Personal name 
+6|urn:cite2:trmilli:persnames.v1:m6|𐊀𐊛𐊌𐊌𐊀𐊅𐊆|ahqqadi|Personal name
+7|urn:cite2:trmilli:persnames.v1:m7|𐊀𐊂𐊀𐊌𐊎𐊙𐊎𐊁|alaxssaNtra|Personal name; from Greek "Αλέξανδρος" 
+8|urn:cite2:trmilli:persnames.v1:m8|𐊀𐊐𐊓𐊒.𐊁𐊒|aMpo.eo|Personal name "aMpoeo" (?)
+9|urn:cite2:trmilli:persnames.v1:m9|𐊀𐊏𐊒𐊈𐊀𐊂𐊀|anozaba|Personal name 
+10|urn:cite2:trmilli:persnames.v1:m10|𐊀𐊓𐊑𐊏𐊙𐊗𐊀𐊎𐊀|apNnAtama|Personal name
+11|urn:cite2:trmilli:persnames.v1:m11|𐊀𐊓𐊒𐊇𐊀𐊈𐊀|apowaza|Personal name 
+12|urn:cite2:trmilli:persnames.v1:m12|𐊀𐊕𐊀𐊉𐊉𐊆|araθθi|Personal name
+13|urn:cite2:trmilli:persnames.v1:m13|𐊀𐊕𐊀𐊆𐊍𐊆𐊖𐊁|arailise|Personal name
+14|urn:cite2:trmilli:persnames.v1:m14|𐊀𐊕𐊀𐊜𐊀|araxa|Personal name
+15|urn:cite2:trmilli:persnames.v1:m15|[𐊀]𐊕[𐊐]𐊎𐊀𐊜𐊒𐊗𐊀𐊇[𐊆]|[a]r[M]maxotaw[i]|Personal name; also rendered [e]r[M]maxotaw[i]; from Greek "Ερμακοτας"
+16|urn:cite2:trmilli:persnames.v1:m16|𐊀𐊕𐊐𐊓𐊀|arMpa|Personal name
+17|urn:cite2:trmilli:persnames.v1:m17|𐊀𐊕𐊐𐊓𐊀𐊍𐊆𐊗𐊜𐊀|arMpalitxa|Personal name
+18|urn:cite2:trmilli:persnames.v1:m18|𐊀𐊕𐊑𐊏𐊀𐊖|arNnas|Personal name
+19|urn:cite2:trmilli:persnames.v1:m19|𐊀𐊕𐊓𐊓𐊀𐊜𐊒|arppaxo|Personal name
+20|urn:cite2:trmilli:persnames.v1:m20|𐊀𐊕𐊖𐊖𐊙𐊎𐊀|arssAma|Personal name
+21|urn:cite2:trmilli:persnames.v1:m22|𐊀𐊕𐊗𐊗𐊒𐊐𐊓𐊀𐊕𐊀|arttoMpara|Personal name
+22|urn:cite2:trmilli:persnames.v1:m22|𐊀𐊕𐊒𐊇𐊙𐊗𐊆𐊊𐊁𐊖𐊁/𐊆|arowAtiyese/i|Personal name
+23|urn:cite2:trmilli:persnames.v1:m23|𐊀𐊖𐊀𐊇𐊙𐊈𐊀𐊍𐊀|asawAzala|Personal name
+24|urn:cite2:trmilli:persnames.v1:m24|𐊀𐊗𐊆𐊂𐊆𐊏𐊚|atibinE|Personal name
+25|urn:cite2:trmilli:persnames.v1:m25|𐊙𐊋𐊁|Ake|Personal name; or read ekA
+26|urn:cite2:trmilli:persnames.v1:m26|𐊙𐊎𐊀𐊕𐊗𐊆𐊗𐊁|Amartite|Personal name (or place name)
+27|urn:cite2:trmilli:persnames.v1:m27|𐊅𐊀𐊓𐊀𐊕𐊀|dapara|Personal name; from Greek Δαπαρας
+28|urn:cite2:trmilli:persnames.v1:m28|𐊅𐊅𐊀𐊓𐊖𐊖𐊐𐊎𐊀|ddapssMma|Personal name
+29|urn:cite2:trmilli:persnames.v1:m29|𐊅𐊅𐊀𐊌𐊀𐊖𐊀|ddaqasa|Personal name
+30|urn:cite2:trmilli:persnames.v1:m30|𐊅𐊅𐊀𐊇𐊀𐊛𐊙𐊎𐊀|ddawahAma|Personal name
+31|urn:cite2:trmilli:persnames.v1:m31|𐊅𐊅𐊀𐊇𐊙𐊓𐊀𐊕𐊗𐊀|ddawAparta|Personal name
+32|urn:cite2:trmilli:persnames.v1:m32|𐊅𐊅𐊁𐊅𐊆|ddedi|Personal name
+33|urn:cite2:trmilli:persnames.v1:m33|𐊅𐊅𐊁𐊏𐊁𐊇𐊁𐊍𐊁|ddenewele|Personal name
+34|urn:cite2:trmilli:persnames.v1:m34|𐊅𐊅𐊁𐊓𐊑𐊏𐊁𐊇𐊁|ddepNnewe|Personal name
+35|urn:cite2:trmilli:persnames.v1:m35|𐊅𐊅𐊚𐊑𐊗𐊆𐊎𐊆|ddENtimi|Personal name
+36|urn:cite2:trmilli:persnames.v1:m36|𐊅𐊅𐊆𐊎𐊆𐊒()|ddimio()|Personal name
+37|urn:cite2:trmilli:persnames.v1:m37|𐊅𐊅𐊜𐊒𐊄[𐊀]|ddxog[a]|Personal name 
