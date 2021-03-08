@@ -9,14 +9,13 @@ nav_order: 6
 
 `urn:cite2:trmilli:divinities.v1:div_06`
 
-The identity of trzzobi as a divinity comes from the tomb inscription TL 111 in which the tomb's owner, erzesinobe, indentifies himself as a priest (
+The identity of trzzobi as a divinity comes from the tomb inscription TL 111 in which the tomb's owner, erzesinobe (), indentifies himself as a priest of trzzobi (*komaza trzzoba*). The inscription goes on to state in the penatly clause that anyone who violates the tomb or buries another person within it must pay twenty cattle as penalty to trzzobi ("*se ttlidi : trzzobi : AMmAma : kbisNtAta : owa*"). Scholars like Neumann and Houwink ten Cate have pointed out that trzzobi might be the origin of the deity Τρωσοβιός mentioned in Plutarch's *Moralia*:     
 
-
-
-
-|Plutarch's *Moralia* | English Translation (Frank Cole Babbitt, 1936) |
+|*Moralia* 5.29.21 | English Translation (Frank Cole Babbitt, 1936) |
 |----------|----------|
-|ἐπεὶ καὶ Σολύμους πυνθάνομαι τοὺς Λυκίων προσοίκους ἐν τοῖς μάλιστα τιμᾶν τὸν Κρόνον: ἐπεὶ δ᾽ ἀποκτείνας τοὺς ἄρχοντας αὐτῶν, Ἄρσαλον καὶ Δρύον καὶ **Τρωσοβιόν**, ἔφυγε καὶ μετεχώρησεν ὁποιδήποτε (τοῦτο γὰρ οὐκ ἔχουσιν εἰπεῖν), ἐκεῖνον μὲν ἀμεληθῆναι, τοὺς δὲ περὶ τὸν Ἄρσαλον σκληροὺς θεοὺς προσαγορεύεσθαι, καὶ τὰς κατάρας ἐπὶ τούτων ποιεῖσθαι δημοσίᾳ καὶ ἰδίᾳ Λυκίους.|"In fact, I learned that the Solymi, who live next to the Lycians, paid especial honour to Cronus. But when he had slain their rulers, Arsalus, Dryus, and **Trosobius**, he fled away from that place to some place or other, where they cannot say; and then he ceased to be regarded, but Arsalus and those connected with him are called the 'stern gods,' and the Lycians employ their names in invoking curses both in public and in private." |
+|ἐπεὶ καὶ Σολύμους πυνθάνομαι τοὺς Λυκίων προσοίκους ἐν τοῖς μάλιστα τιμᾶν τὸν Κρόνον: ἐπεὶ δ᾽ ἀποκτείνας τοὺς ἄρχοντας αὐτῶν, Ἄρσαλον καὶ Δρύον καὶ **Τρωσοβιόν**, ἔφυγε καὶ μετεχώρησεν ὁποιδήποτε (τοῦτο γὰρ οὐκ ἔχουσιν εἰπεῖν), ἐκεῖνον μὲν ἀμεληθῆναι, τοὺς δὲ περὶ τὸν Ἄρσαλον σκληροὺς θεοὺς προσαγορεύεσθαι, καὶ τὰς κατάρας ἐπὶ τούτων ποιεῖσθαι δημοσίᾳ καὶ ἰδίᾳ Λυκίους.|"In fact, I learned that the Solymi, who live next to the Lycians, paid especial honour to Kronos. But when he had slain their rulers, Arsalos, Dryos, and **Trosobios**, he fled away from that place to some place or other, where they cannot say; and then he ceased to be regarded, but Arsalus and those connected with him are called the 'stern gods,' and the Lycians employ their names in invoking curses both in public and in private." |
+
+Here, trzzobi is identified as a "stern" (σκληροὺς) god along with two other divinities. However, out of the four dieties mentioned (Kronos, Arsalos, Dryos, and Trosobios), only Trosobios/trzzobi survives in the corpus. It is possible that alongside the cult of trzzobi there were cults of the other three deities, esepcially since festivals to Kronos have been recorded in Lycian cities like Tlos. However, not much else can be said about the indentities of these gods from the Lycians themselves. 
 
 
 --------------------------------------------------------------
