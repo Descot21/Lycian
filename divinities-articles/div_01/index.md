@@ -28,16 +28,16 @@ The statue itself is clearly a female, with it's hair tied back in some sort of 
 
 --------------------------------------------------------------
 #### Notes:
-<sup>1</sup>Laroche (1980) 1, 3<br>
-<sup>2</sup>Keen (1998) 195, Raimond (2015) 2.<br>
-<sup>3</sup>TL 56<br>
-<sup>4</sup>TL 131, translation by Bryce (1986) 84-85 and Dane Scott<br>
-<sup>5</sup>Keen (1998) 195<br>
-<sup>6</sup>*ibid*<br>
-<sup>7</sup>Bean (1978) 63<br>
-<sup>8</sup>Description based on images from Bean and from the Fethiye museum.<br>
-<sup>9</sup>Işık (2003) 211<br>
-<sup>10</sup>*ibid* 218<br>
+<sup>1</sup> Laroche (1980) 1, 3<br>
+<sup>2</sup> Keen (1998) 195, Raimond (2015) 2.<br>
+<sup>3</sup> TL 56<br>
+<sup>4</sup> TL 131, translation by Bryce (1986) 84-85 and Dane Scott<br>
+<sup>5</sup> Keen (1998) 195<br>
+<sup>6</sup> *ibid*<br>
+<sup>7</sup> Bean (1978) 63<br>
+<sup>8</sup> Description based on images from Bean and from the Fethiye museum.<br>
+<sup>9</sup> Işık (2003) 211<br>
+<sup>10</sup> *ibid* 218<br>
 
 #### Sources: 
 Bean, G.E. *Lycian Turkey: An Archeological Guide*. John Murray Publishers, London, 1978. 
