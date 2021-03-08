@@ -21,10 +21,10 @@ Along with being a mother goddess, Eni is also a localized goddess. Some inscrip
 
 In the 1970s, the archaeologist G. E. Bean discovered an anthropomorphic scupture probbaly dating to the end of the 7th century BCE in the Letoon. Bean's descriptions reads: 
 
->"The curious statue was found by us lying on top of a hedge near the theatre. It is 0.96 m. in hight an 0.43 m. in maximum breadth; the trunk is cut off a little below the waist. The back is flat, but quite rough. The figure is female, with hair tied back with a bandeau; the face is round, with large eyes; the nose is long and straight, with a straight groove down either side of it; the cars are shapeless lumps. The neck is left thick, and the arms are mere stumps projecting forward. The material is a curious variegated grey- and- white limestone, highly unsuitable for its purpose..."<sup>7</sup>
+>"[The curious stone figure was found ] lying on top of a thorn hedge. It is 3 feet high, neither statue nor bust, being cut off just above the legs. Most attention has been given to the face; the ears and the arms are mere shapeless lumps; the back is flat."<sup>7</sup> 
 >
 
-Bean goes on to suggest that the statue was merely a students unfinsihed model, and not something of great religious importance. However, the scholar Fahri Işık argues that the statue could be a cult image of Eni mahanahi, and that it's archaism or unfinished appearence is actually a common Anatolian art form dating back to the netholic period.<sup>8</sup> Similar statues of Kybele and other Anatolian goddesses have been found at Gordion, Keskaya, and Hattusa.<sup>9</sup> It's discovery at the Letoon furthers the notion that the statue might have been of cultic value, and that it represented the Lycian mother goddess associated with the sanctuary. 
+The statue itself is clearly a female, with it's hair tied back in some sort of hair piece. The eyes, cheeks, and nose are all exagerated, so that they take up the majority of the rounded face.<sup>8</sup> Bean suggest that the statue was merely a students unfinsihed model, and not something of great religious importance. However, the scholar Fahri Işık argues that the statue could be a cult image of Eni mahanahi, and that it's archaism or unfinished appearence is actually a common Anatolian art form dating back to the netholic period.<sup>9</sup> Similar statues of Kybele and other Anatolian goddesses have been found at Gordion, Keskaya, and Hattusa.<sup>10</sup> It's discovery at the Letoon furthers the notion that the statue might have been of cultic value, and that it represented the Lycian mother goddess associated with the sanctuary. 
 
 --------------------------------------------------------------
 #### Notes:
@@ -34,12 +34,13 @@ Bean goes on to suggest that the statue was merely a students unfinsihed model, 
 <sup>4</sup>TL 131, translation by Bryce (1986) 84-85 and Dane Scott<br>
 <sup>5</sup>Keen (1998) 195<br>
 <sup>6</sup>*ibid*<br>
-<sup>7</sup>(insert pages)<br>
-<sup>8</sup>Işık (2003) 211<br>
-<sup>9</sup>*ibid* 218<br>
+<sup>7</sup>Bean (1978) 63<br>
+<sup>8</sup>Description based on images from Bean and from the Fethiye museum.<br>
+<sup>9</sup>Işık (2003) 211<br>
+<sup>10</sup>*ibid* 218<br>
 
 #### Sources: 
-Bean, G.E. .......
+Bean, G.E. *Lycian Turkey: An Archeological Guide*. John Murray Publishers, London, 1978. 
 
 Bryce, Trevor R. “Disciplinary Agents in the Sepulchral Inscriptions of Lycia.” *Anatolian Studies*, vol. 31, 1981, pp. 81–93.
 
