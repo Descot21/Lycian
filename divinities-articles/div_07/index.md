@@ -1,11 +1,11 @@
 ---
-title: "eliyAna"
+title: "The eliyAna"
 layout: page
 parent: Divinities
 nav_order: 7
 ---
 
-# eliyAna, *spirits of water*
+# The eliyAna, *spirits of water*
 
 `urn:cite2:trmilli:divinities.v1:div_07`
 
