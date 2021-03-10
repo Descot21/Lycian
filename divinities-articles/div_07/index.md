@@ -19,5 +19,6 @@ The eliyAna (𐊁𐊍𐊆𐊊𐊙𐊏𐊀) only appear in the Letoon trilingual 
 #### Notes
 
 #### Sources
+Bryce, Trevor R. *The Lycians in Literary and Epigraphic Sources*, vol. 1, Museum Tusculanum Press, Copenhagen, 1986.
 
 Larson, Jennifer. *Greek Nymphs: Myth, Cult, Lore*. Oxford University Press, 2001. pages 209--210.
