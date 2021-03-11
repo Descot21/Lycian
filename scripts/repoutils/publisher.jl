@@ -23,6 +23,6 @@ end
 
 function publishsite(reporoot)
     publishconcordance(reporoot)
-    pub = lycpublisher(reporoot)
-    publishtexts(pub)
+    publisharticles(reporoot)
+    publishtexts(reporoot)
 end

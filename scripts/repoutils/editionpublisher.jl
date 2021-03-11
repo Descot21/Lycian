@@ -1,7 +1,9 @@
 
+function publishtexts(reporoot::AbstractString)
+    lycpublisher(reporoot) |> publishtexts
+end
 
-
-function publishtexts(publisher)
+function publishtexts(publisher::Publisher)
     textcat = textcatalog(publisher.editorsrepo, "catalog.cex")
     online = filter(row -> row.online, textcat) 
     for txt in online

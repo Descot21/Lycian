@@ -17,6 +17,7 @@ using Lycian
 export publishsite
 export Publisher, publishtext, publishtexts 
 export publishconcordance
+export publisharticles
 export edrepo
 export normalcorpus, indexcorpus, xmlcorpus
 export indexnames
@@ -30,6 +31,7 @@ include("concordance.jl")
 include("concordancepublisher.jl")
 
 include("names.jl")
+include("namespublisher.jl")
 
 include("morphology.jl")
 
