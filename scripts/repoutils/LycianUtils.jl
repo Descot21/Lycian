@@ -8,20 +8,18 @@
 
 module LycianUtils
 
-using CitableImage
-using CitableObject
-using CitableText
-using CitableTeiReaders
-using CSV
-using DataFrames
-using EditionBuilders
+using CitableImage, CitableObject, CitableText
+using CitableTeiReaders, EditionBuilders, Orthography
+using CSV, DataFrames, EzXML
 using EditorsRepo
 using Lycian
 
-
-export Publisher, publishtext, publishtexts
+export publishsite
+export Publisher, publishtext, publishtexts 
 export publishconcordance
 export edrepo
+export normalcorpus, indexcorpus, xmlcorpus
+export indexnames
 
 include("publisher.jl")
 
@@ -30,6 +28,8 @@ include("editionpublisher.jl")
 
 include("concordance.jl")
 include("concordancepublisher.jl")
+
+include("names.jl")
 
 include("morphology.jl")
 

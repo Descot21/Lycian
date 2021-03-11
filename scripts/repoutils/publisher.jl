@@ -19,3 +19,10 @@ function lycpublisher(root)
     textroot = root * "/offline/texts/" 
     Publisher(repo, ict, iiifsvc,textroot)
 end
+
+
+function publishsite(reporoot)
+    publishconcordance(reporoot)
+    pub = lycpublisher(reporoot)
+    publishtexts(pub)
+end

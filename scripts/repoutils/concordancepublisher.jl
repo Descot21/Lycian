@@ -1,17 +1,15 @@
 
-function publishconcordance(repo, target)
+function publishconcordance(reporoot)
+    target = reporoot * "/offline/Concordance/index.md" 
+    repo = edrepo(reporoot)
     # A CitableCorpus:
     indexable = normalcorpus(repo)
     # A GroupedDataFrame keyed by term
-    idx = indexcorpus(indexable)
-    fname = target * "/offline/Concordance/index.md" 
-    open(fname, "w") do io
+    idx = indexcorpus(indexable) 
+    open(target, "w") do io
         print(io, conc_yamlplus(), conc_mdpage(idx))
     end
 end
-
-
-
 
 function conc_mdrow(pr)
     hdg = "**" * pr[1] * "** (" * Lycian.ucode(pr[1]) * ")"
@@ -25,10 +23,11 @@ function conc_editionlink(u::CtsUrn)
     "[" * label * "](" * lnk * ")"
 end
 
-
-function conc_mdpage(gdf)
+"""
+"""
+function conc_mdpage(idx)
     delimited = []
-    for k in keys(gdf)
+    for k in keys(idx)
         term = k.term
         vals = idx[k]
         urns = vals[!, :urn]

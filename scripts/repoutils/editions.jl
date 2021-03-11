@@ -22,6 +22,24 @@ function normalcorpus(repo)
 
 end
 
+function xmlcorpus(reporoot::AbstractString)
+    repo = edrepo(reporoot)
+    xmlcorpus(repo)
+end
+
+function xmlcorpus(repo::EditingRepository)
+    textcat = textcatalog(repo, "catalog.cex")
+    online = filter(row -> row.online, textcat)
+    corpora = []
+    for txt in online
+        urn = CtsUrn(txt.urn)
+        reader = o2converter(repo, urn) |> Meta.parse |> eval
+        xml = textforurn(repo, urn)	
+        push!(corpora, reader(xml, urn))
+    end
+    composite_array(corpora)
+end
+
 """Read XML text from local file for a
 document identified by URN.
 df is a citation dataframe.

@@ -3,11 +3,7 @@ using Pkg
 Pkg.activate(".")
 
 using LycianUtils
-using EditorsRepo
-
-
-
 root = dirname(pwd())
-pub = lycpublisher(root)
+publishsite(root)
 
-publishtexts(pub)
+
