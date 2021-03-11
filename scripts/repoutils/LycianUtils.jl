@@ -19,7 +19,7 @@ using EditorsRepo
 using Lycian
 
 
-export Publisher, publishtext
+export Publisher, publishtext, publishtexts
 export edrepo
 
 

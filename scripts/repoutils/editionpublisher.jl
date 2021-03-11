@@ -7,6 +7,28 @@ struct Publisher
 end
 
 
+
+function lycpublisher(root)
+    repo = edrepo(root)
+    ict = "http://www.homermultitext.org/ict2/?"
+    # Citable Image service
+    baseiifurl = "http://www.homermultitext.org/iipsrv"
+    imgroot = "/project/homer/pyramidal/deepzoom"
+    iiifsvc = IIIFservice(baseiifurl, imgroot)
+    # Target for output
+    textroot = root * "/offline/texts/" 
+    Publisher(repo, ict, iiifsvc,textroot)
+end
+
+
+function publishtexts(publisher)
+    textcat = textcatalog(publisher.editorsrepo, "catalog.cex")
+    online = filter(row -> row.online, textcat) 
+    for txt in online
+        publishtext(publisher, txt)
+    end
+end
+
 """
 - catalogrow: One row of catalog
 - dse: DataFrame of DSE records
