@@ -29,21 +29,12 @@ function publishtext(
     dipl = diplomaticnodes(publisher.editorsrepo,urn)
 
     citedf = citation_df(publisher.editorsrepo)
-
-
     fname = editionfile(catalogrow, publisher.target)
     top = yamlplus(catalogrow)
-
     urnlabel = string("`", catalogrow.urn, "`\n\n")
-  
     thumb = ""
     fname = editionfile(catalogrow, publisher.target)
     top = yamlplus(catalogrow)
-
-    #converter = o2converter(editorsrepo, urn)
-
- 
-
     linkedimgs = imgs_for_dse(rowmatches, dipl, publisher.ict, publisher.iiifsvc)
 
 
@@ -64,6 +55,9 @@ function publishtext(
          catch e
              groupurn = droppassage(dipl[1].urn)
              println("FAILED to write edition for ", groupurn, " with ", length(dipl), " diplomatic lines and ", length(linkedimgs), " DSE records." )
+             msg = string(e)
+             @warn(msg)
+             #error(e)
          end
      end
      document
