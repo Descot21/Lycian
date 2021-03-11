@@ -33,6 +33,8 @@ function textforurn_df(df, urn)
 end
 
 
+# These are in editions.jl
+#=
 # Build a single epigraphically normalized corpus
 # for the whole repository
 function normalcorpus(repo) 
@@ -72,8 +74,10 @@ function indexcorpus(c)
     df = DataFrame( term = terms, urn = urns,)
     groupby(df, :term)
 end
+=#
 
-
+## These are in concordancepublihser.jl
+#=
 function mdrow(pr)
     hdg = "**" * pr[1] * "** (" * Lycian.ucode(pr[1]) * ")"
     
@@ -119,7 +123,7 @@ function yamlplus()
     ]
     join(lines,"\n")
 end
-
+=#
 
 root = dirname(pwd())
 repo = EditingRepository(root, "editions", "dse", "config")

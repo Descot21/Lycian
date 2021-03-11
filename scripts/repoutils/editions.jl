@@ -1,4 +1,26 @@
+"""Build a single epigraphically normalized corpus
+for the whole repository.
+"""
+function normalcorpus(repo) 
+    textcat = textcatalog(repo, "catalog.cex")
+    citedf = citation_df(repo)
 
+    online = filter(row -> row.online, textcat)
+    documents = []
+
+    for txt in online
+        urn = CtsUrn(txt.urn)
+        xml = textforurn(repo, urn)
+        # Need an xml corpus to build epigraphically normalized:
+        reader = ohco2forurn(citedf, urn)
+        normbuilder = normalizerforurn(citedf, urn)
+        xmlcorpus = reader(xml, urn)
+        normcorp = edition(normbuilder, xmlcorpus)
+        push!(documents, normcorp)
+    end
+    onecorpus  = CitableText.composite_array(documents)
+
+end
 
 """Read XML text from local file for a
 document identified by URN.

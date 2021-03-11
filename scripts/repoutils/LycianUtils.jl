@@ -20,12 +20,19 @@ using Lycian
 
 
 export Publisher, publishtext, publishtexts
+export publishconcordance
 export edrepo
 
+include("publisher.jl")
 
 include("editions.jl")
 include("editionpublisher.jl")
+
+include("concordance.jl")
+include("concordancepublisher.jl")
+
 include("morphology.jl")
+
 
 
 
