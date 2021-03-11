@@ -14,12 +14,6 @@ nav_order: 320
 
 `urn:cts:trmilli:nf.320.v1:`
 
-
-
-All images are linked to pannable/zoomable versions
-
-[![thumb)](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/citesalt/ifea/v1/IFEATMBAN02501.tif/full/200,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:citesalt:ifea.v1:IFEATMBAN02501)
-
 ## Diplomatic edition
 
 |  | Transcription | Lycian | Image link |

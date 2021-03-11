@@ -43,6 +43,8 @@ Hutter, Manfred. "Aspects in Luwian Religion." *The Luwians*, edited by Craig Me
 ## Appears in
 
 - [*tl* 150, 6](../../Texts/tl_150)
+- [*tl* 149, 2](../../Texts/tl_149)
+- [*tl* 149, 12](../../Texts/tl_149)
 - [*tl* 80, 3](../../Texts/tl_80)
 - [*tl* 76, 5](../../Texts/tl_76)
 - [*tl* 75, 5](../../Texts/tl_75)

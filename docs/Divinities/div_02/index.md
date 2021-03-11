@@ -15,7 +15,7 @@ trqqas's role as a strom-god can only be infered from his connection to the Luwi
 
 A further connection between trqqas and tarhunt is in their association with the Lycian/Luwian goddess maliya. A middle Hittite ritual invokes both and maliya in order to protect the royal vinyard.<sup>4</sup> Similarly, the Xanthos Stele (TL 44) and two other Lycian inscriptions (TL 26 and TL 80) invoke trqqas alongside maliya, suggesting that the Luwian/Hittite connection passed into Lycian cultic functions as well.
 
-During the Hellenistic period, the cults of trqqas transformed into cults dedicated to Zeus, which some scholars aregue was just trqqas renamed.<sup>5</sup> The evidence for this largely comes from two passages on the the Xanthos Stele: 
+During the Hellenistic period, the cults of trqqas transformed into cults dedicated to Zeus, whom some scholars aregue was just trqqas renamed.<sup>5</sup> The evidence for this largely comes from two passages on the the Xanthos Stele: 
 
 | TL 44b.62| TL 44c.30 |
 |----------|----------|
@@ -54,5 +54,6 @@ Keen, Antony G. *Dynastic Lycia: A Political History of the Lycians and their Re
 
 - [*tl* 93, 3](../../Texts/tl_93)
 - [*tl* 88, 6](../../Texts/tl_88)
+- [*tl* 83, 15](../../Texts/tl_83)
 - [*tl* 80, 3](../../Texts/tl_80)
 - [*tl* 26, 7](../../Texts/tl_26)

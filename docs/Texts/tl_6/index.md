@@ -14,12 +14,6 @@ nav_order: 6
 
 `urn:cts:trmilli:tl.6.v1:`
 
-
-
-All images are linked to pannable/zoomable versions
-
-[![thumb)](http://www.homermultitext.org/iipsrv?IIIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0001.tif/full/200,/0/default.jpg)](http://www.homermultitext.org/ict2/?urn=urn:cite2:lycian:hc.v1:2007.02.0001)
-
 ## Diplomatic edition
 
 |  | Transcription | Lycian | Image link |
