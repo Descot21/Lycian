@@ -8,18 +8,29 @@
 
 module LycianUtils
 
-using CSV, DataFrames
-using EditorsRepo
-using CitableText
+using CitableImage
 using CitableObject
+using CitableText
+using CitableTeiReaders
+using CSV
+using DataFrames
+using EditionBuilders
+using EditorsRepo
+using Lycian
 
 
-export labelledforms
-export repo, scriptrepo
+export Publisher, publishtext
+export edrepo
 
-function scriptrepo()
-    repo(dirname(pwd()))
-end
+
+include("editions.jl")
+include("editionpublisher.jl")
+include("morphology.jl")
+
+
+
+
+
 
 """
 Configure editorial repository for this project.
@@ -30,41 +41,11 @@ Example: invoked from scripts directory:
 repo = repo(dirname(pwd()))
 ```
 """
-function repo(root::AbstractString)
+function edrepo(root::AbstractString)
     EditingRepository(root, "editions", "dse", "config")
 end
 
 
 
-
-
-
-#=
-These functions all take a single argument,
-an editor's repository.
-=#
-function analysisdf(repo)
-    morphids = repo.root * "/morphology/analyses.cex"
-    arr = CSV.File(morphids, skipto=2, delim="|") |> Array
-    urns = map(row -> Cite2Urn(row.lexicon), arr)
-    words = map(row -> row.word, arr)
-    forms = map(row -> Cite2Urn(row.form), arr)
-    DataFrame(lexiconurn = urns, word = words, form = forms)
-end
-
-function formsdf(repo)
-    morphids = repo.root * "/morphology/formids.cex"
-    arr = CSV.File(morphids, skipto=2, delim="|") |> Array
-    urns = map(row -> Cite2Urn(row.urn), arr)
-    labels = map(row -> row.label, arr)
-    
-    DataFrame(form = urns, formlabel = labels)
-end
-
-function labelledforms(repo)
-    a = analysisdf(repo)
-    f = formsdf(repo)
-    innerjoin(a,f, on = :form)
-end
 
 end
