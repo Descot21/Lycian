@@ -29,7 +29,7 @@ function names_printindex(dict, dir)
     for k in keys(dict)
         u = Cite2Urn(k)
         fname = dir * objectcomponent(u) * "/index.md"
-        println("Append to ", fname)
+        println("Append names index to ", fname)
         md = names_mdlist(dict[k])
         open(fname, "a") do io
             print(io, md)

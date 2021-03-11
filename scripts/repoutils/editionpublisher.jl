@@ -63,7 +63,7 @@ function publishtext(
              print(io, document, thumb, tablemarkdown(dipl, normed, linkedimgs))
          catch e
              groupurn = droppassage(dipl[1].urn)
-             println("FAILED in ", groupurn, " with ", length(dipl), " diplomatic lines and ", length(linkedimgs), " DSE records." )
+             println("FAILED to write edition for ", groupurn, " with ", length(dipl), " diplomatic lines and ", length(linkedimgs), " DSE records." )
          end
      end
      document
