@@ -9,7 +9,7 @@ nav_order: 2
 
 `urn:cite2:trmilli:divinities.v1:div_02`
 
-The god trqqas (𐊗𐊕𐊌𐊌𐊀𐊖) appears in eleven inscriptions throughout Lycia. He is usually found as a disciplanry agent, but other texts---like the Xanthos Stele---hint at his cultic functions. 
+The god trqqas (𐊗𐊕𐊌𐊌𐊀𐊖) appears in multiple inscriptions throughout Lycia. He is usually found as a disciplanry agent, but other texts---like the Xanthos Stele---hint at his cultic functions. 
 
 trqqas's role as a strom-god can only be infered from his connection to the Luwian predecessor tarhunt. In fact, the root of name trqqas, *trqqNt-* (𐊗𐊕𐊌𐊌𐊑𐊗-), is a direct cognate with tarhunt. This deity held a prominent role in the state cults of the the Luwians, often being invoked to seal treaties and protect protect the king.<sup>1</sup> The Luwians gave tarhunt the epithet "*pihas* "shining, lightning", idetifying tarhunt---and perhaps ultimately trqqas---as a storm-god. tarhunt is often depicted as a powerful but benevolent deity. Moreover, Luwian epithets like "*warrahitassas*" ("helping god") indicate that tarhunt was called upon for the benefit of the luwian state,<sup>2</sup> and several hieroglyphic inscriptions associate tarhunt as a protector of vinyards and fields.<sup>3</sup> Similarly, trqqas is often invoked in sepuchral inscriptions to aid the deceased by punishing tomb-violators. 
 
