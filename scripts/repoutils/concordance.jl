@@ -14,3 +14,15 @@ function indexcorpus(c)
     df = DataFrame( term = terms, urn = urns,)
     groupby(df, :term)
 end
+
+function flatindex(c)
+    orthography = lycianAscii()
+    concordance = []
+    for n in c.corpus
+        tkns = orthography.tokenizer(n.text)
+        lextokens = filter(t -> t.tokencategory == Orthography.LexicalToken(), tkns)
+        pairs = map(tkn -> (tkn.text, n.urn), lextokens)
+        push!(concordance, pairs)
+    end
+    concordance |> Iterators.flatten |> collect
+end

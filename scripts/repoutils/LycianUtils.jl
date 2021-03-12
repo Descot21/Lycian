@@ -20,7 +20,7 @@ export publishconcordance
 export publisharticles
 export edrepo
 export normalcorpus, indexcorpus, xmlcorpus
-export indexnames
+export indexnames, flatindex
 
 include("publisher.jl")
 
