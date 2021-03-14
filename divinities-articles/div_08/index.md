@@ -10,6 +10,7 @@ nav_order: 8
 
 `urn:cite2:trmilli:divinities.v1:div_08`
 
+The divinity erBBazoma (𐊁𐊕𐊃𐊃𐊀𐊈𐊒𐊎𐊀) appears in the Letoon trilingual as a the companion of the xNtawata xbidENi (𐊜𐊑𐊗𐊀𐊇𐊀𐊗𐊀 𐊜𐊂𐊆𐊅𐊚𐊑𐊆). The triligual enumerates the procedure for establishing the cults of erBBazoma and the xNtawata xbidENi at the Letoon. Nthing difinitive is known about this deity; slars like Laroche believe the deity is Kaunian in origin, whereas others like Heubeck 
 
 
 ---------------
