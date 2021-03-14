@@ -17,13 +17,13 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"></ab>
-     <ab n="2"></ab>
-     <ab n="3"></ab>
-     <ab n="4"></ab>
-     <ab n="5"></ab>
-     <ab n="6"></ab>
-     <ab n="7"></ab>
+     <ab n="1">xopa ebehi</ab>
+     <ab n="2">tiyyadi : tike</ab>
+     <ab n="3">zoMmE : tihe</ab>
+     <ab n="4">me=ne tobidi</ab>
+     <ab n="5">eti ebehE</ab>
+     <ab n="6"><persName n="urn:cite2:trmilli:divinities.v1:div_14">xaxakba</persName></ab>
+     <ab n="7"><unclear/></ab>
     </body>
   </text>
 </TEI>

@@ -17,9 +17,9 @@
   </teiHeader>
   <text>
     <body>
-     <ab n="1"></ab>
-     <ab n="2"></ab>
-     <ab n="3"></ab>
+     <ab n="1"><persName n="urn:cite2:trmilli:divinities.v1:div_12">pedrita</persName></ab>
+     <ab n="2"><persName><w>alixssA<supplied>Ntra</supplied></w></persName></ab>
+     <ab n="3"><persName n="urn:cite2:trmilli:divinities.v1:div_03"><w>mal<supplied>iya</supplied></w></persName></ab>
     </body>
   </text>
 </TEI>
