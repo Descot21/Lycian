@@ -21,7 +21,7 @@ pedrita's identification with the Greek Aphrodite comes from a silver kantharos 
 <sup>2</sup> Bryce (1986) 181<br/>
 <sup>3</sup> *ibid*<br/>
 <sup>4</sup> Laroche (1980) 5<br/>
-<sup>4</sup> Keen (1998) 204
+<sup>5</sup> Keen (1998) 204
 
 
 #### Sources: 
