@@ -19,7 +19,7 @@ Like most Lycian divinities, Eni appears most often in sepulchral inscriptions a
 
 Along with being a mother goddess, Eni is also a localized divinity. Some inscriptions refer to her as *Eni qlahi ebiyehi* (𐊚𐊏𐊆 𐊌𐊍𐊀𐊛𐊆 𐊁𐊂𐊆𐊊𐊁𐊛𐊆) or the "mother of this sanctuary." The most notable *qla* (sanctuary) of Eni is the Letoon outside of Xanthos. This sanctuary probably dates back to the end of the second millenium BCE, and was of great importance to the Lycians, especially in the Hellenistic period when it became the national sanctuary of the Lycian League.<sup>5</sup> The sanctuary recieved it's name in the Hellenistic period, after the introduction of the cult of Leto and her children, Apollo and Artemis. Most scholars agree that Letoon originally belonged to the cult of Eni (or the Luwian *anniš*), but later assimilated with Leto after her introduction in Lycia.<sup>6</sup> More about Leto's presence in Lycian epichoric inscriptions can be found in the page "leθθe."
 
-In the 1970s, the archaeologist G. E. Bean discovered an anthropomorphic scupture probbaly dating to the end of the 7th century BCE in the Letoon. Bean's descriptions reads: 
+In the 1970s, the archaeologist G. E. Bean discovered an anthropomorphic scupture probbaly dating to the end of the 7th century BCE in the Letoon. Bean's description reads: 
 
 >"[The curious stone figure was found ] lying on top of a thorn hedge. It is 3 feet high, neither statue nor bust, being cut off just above the legs. Most attention has been given to the face; the ears and the arms are mere shapeless lumps; the back is flat."<sup>7</sup> 
 >
