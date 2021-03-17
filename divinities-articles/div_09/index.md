@@ -18,27 +18,26 @@ The xNtawata xbidENni (𐊜𐊑𐊗𐊀𐊇𐊀𐊗𐊀 𐊜𐊂𐊆𐊅𐊚𐊑
 
 Neumann identified “Temple C” on the acropolis as this *qla*, but this theory has been debated.<sup>3</sup>
 
-The xNtawata also appears on the Letoon trilingual as the partner of another divinity erBBazoma. The trilingual enumerates the procedures for the establishment of the xNtawata’s and erBBazoma’s cults in Xanthos. This is odd, given that the trilingual dates from the 4th century and the stele from the 5th.<sup>4</sup> Bryce reconciles this dissonance by suggesting that the trilingual reflects a *reestablishment* of the cult of the xNtawata xbidENni rather than an introduction.<sup>5</sup> This theory is supported by increasing evidence of cultural and political exchange between Karia---the region Kaunos is in---and Lycia during the 4th century.<sup>6</sup> 
+The xNtawata also appears on the Letoon trilingual as the partner of another divinity erBBazoma. The trilingual enumerates the procedures for the establishment of the xNtawata’s and erBBazoma’s cults in Xanthos. This is odd, given that the trilingual dates from the 4th century and the stele from the 5th.<sup>3</sup> Bryce reconciles this dissonance by suggesting that the trilingual reflects a *reestablishment* of the cult of the xNtawata xbidENni rather than an introduction.<sup>4</sup> This theory is supported by increasing evidence of cultural and political exchange between Karia---the region Kaunos is in---and Lycia during the 4th century.<sup>5</sup> 
 
-This divinity also appears in three Greek inscriptions outside Lycia. The first two are Hellenistic decrees from the city of Kaunos itself and they make mention of a “βασιλεύς ὁ θεός” who is “στεφανήφορος.”<sup>7</sup> Another inscription<sup>8</sup> from the island of Kos makes mention of a “βασιλεύς Καυνίου,” which closely reflects the Lycian construction of “xNtawata xbidENni.” Bean suggests that the βασιλεύς ὁ θεός referenced in the Hellenistic inscriptions (and perhaps the Lycian ones as well) refers to Kaunos, the eponymous founder of Kaunos, rather than a manifestation of Zeus or a similar divinity.<sup>9</sup> This means that the cult of xNtawata xbidENni is perhaps an extension of a native Karian hero cult. 
+This divinity also appears in three Greek inscriptions outside Lycia. The first two are Hellenistic decrees from the city of Kaunos itself and they make mention of a “βασιλεύς ὁ θεός” who is “στεφανήφορος.”<sup>6</sup> Another inscription<sup>8</sup> from the island of Kos describes a “βασιλεύς Καυνίου,” which closely reflects the Lycian construction of “xNtawata xbidENni.” Bean suggests that the βασιλεύς ὁ θεός referenced in the Hellenistic inscriptions (and perhaps the Lycian ones as well) refers to Kaunos, the eponymous founder of Kaunos, rather than a manifestation of Zeus or a similar divinity.<sup>8</sup> This means that the cult of xNtawata xbidENni is perhaps an extension of a native Karian hero cult. 
 
 --------------------
 
 #### Notes:
 
-<sup>1</sup> <br/>
-<sup>2</sup> <br/>
-<sup>3</sup> <br/>
-<sup>4</sup> <br/>
-<sup>5</sup> <br/>
-<sup>6</sup> <br/>
-<sup>7</sup> <br/>
-<sup>8</sup> <br/>
-<sup>9</sup> <br/>
+<sup>1</sup> Bryce (1986) 186, Neumann (1979) 38<br/>
+<sup>2</sup> Bryce (1986) 186 and Dane Scott<br/>
+<sup>3</sup> Neumann (1979) 38<br/>
+<sup>4</sup> Bryce (1986) 186<br/>
+<sup>5</sup> *ibid* <br/>
+<sup>6</sup> Bean (1954) 95-97; Bean numbers the inscriptions as 37b.6, 98 and 38c.16<br/>
+<sup>7</sup> *ibid* 96<br/>
+<sup>8</sup> *ibid*<br/>
 
 #### Sources: 
-Archi, Alfonso. “Translation of Gods: Kumarpi, Enlil, Dagan/NISABA, Ḫalki.” Orientalia, vol. 73, no. 4, 2004, pp. 319–336.
+Bean, G. E. “Notes and Inscriptions from Caunus (Continued).” The Journal of Hellenic Studies, vol. 74, 1954, pp. 85–110.
 
 Bryce, Trevor R. *The Lycians in Literary and Epigraphic Sources*, vol. 1, Museum Tusculanum Press, Copenhagen, 1986.
 
-Neumann, G. *Neufunde lykischer Inschriften seit 1901*, Vienna, 1979. 
+Neumann, G. "Namen und Epiklesen lykischer Goetter", *Florilegium Anatolicum* Paris, 1979. pp. 259--271  
