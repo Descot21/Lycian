@@ -44,3 +44,5 @@ urn:cts:trmilli:nf.314b.v1:|n314b.xml|simpleAbReader|MidDiplomaticBuilder("Diplo
 urn:cts:trmilli:nf.312.v1:|n312.xml|simpleAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidEpigraphicBuilder("Normalized epigraphic builder ", "normed")|lycianAscii()
 urn:cts:trmilli:nf.320.v1:|n320.xml|simpleAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidEpigraphicBuilder("Normalized epigraphic builder ", "normed")|lycianAscii()
 urn:cts:trmilli:nf.322.v1:|n322.xml|simpleAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidEpigraphicBuilder("Normalized epigraphic builder ", "normed")|lycianAscii()
+urn:cts:trmilli:adkam2017.Sazak.v1:|adkam2017_Sazak.xml|simpleAbReader|MidDiplomaticBuilder("Diplomatic edition builder","dipl")|MidEpigraphicBuilder("Normalized epigraphic builder ", "normed")|lycianAscii()
+
