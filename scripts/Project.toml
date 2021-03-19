@@ -20,6 +20,7 @@ Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
 PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
 PolytonicGreek = "72b824a7-2b4a-40fa-944c-ac4f345dc63a"
 PooledArrays = "2dfb63ee-cc39-5dd5-95bd-886bf059d720"
+Query = "1a8c2f83-1ff3-5112-b086-8aa67b057ba1"
 
 [compat]
 CSV = "0.8"
