@@ -14,7 +14,7 @@ The xNtawata xbidENni (𐊜𐊑𐊗𐊀𐊇𐊀𐊗𐊀 𐊜𐊂𐊆𐊅𐊚𐊑
 
 |Lycian | Transcription | Translation<sup>2</sup>|
 |----------|----------|----------|
-|...𐊖𐊁 𐊜𐊂𐊆𐊅𐊁 𐊖𐊗𐊗𐊀𐊗𐊆 𐊎𐊚 : 𐊖𐊗𐊗𐊀𐊍𐊀 : 𐊚𐊗𐊆 : 𐊌𐊍𐊀𐊛𐊆𐊂𐊆𐊊𐊁𐊛𐊆 : 𐊖𐊁 𐊎𐊀𐊍𐊆𐊊𐊀𐊛𐊆 : 𐊖𐊁 𐊁𐊕𐊗𐊁𐊎𐊁𐊛𐊆 : 𐊖𐊁 __𐊜𐊑𐊗𐊀𐊇𐊀𐊗𐊁𐊛𐊆 𐊜𐊂𐊆𐊅𐊚𐊑𐊛𐊆__|*...se xbide sttati mE : sttala : Eti : qlahibiyehi : se mal[i]yahi : se ertemehi : se __xNtawatehi xbidENhi__* |"...and Kaunos will erect a stele in honor of this *qla* and of maliya, and ertEmi, and the __xNtawatehi xbidENhi__."|
+|...𐊖𐊁 𐊜𐊂𐊆𐊅𐊁 𐊖𐊗𐊗𐊀𐊗𐊆 𐊎𐊚 : 𐊖𐊗𐊗𐊀𐊍𐊀 : 𐊚𐊗𐊆 : 𐊌𐊍𐊀𐊛𐊆𐊂𐊆𐊊𐊁𐊛𐊆 : 𐊖𐊁 𐊎𐊀𐊍𐊆𐊊𐊀𐊛𐊆 : 𐊖𐊁 𐊁𐊕𐊗𐊁𐊎𐊁𐊛𐊆 : 𐊖𐊁 __𐊜𐊑𐊗𐊀𐊇𐊀𐊗𐊁𐊛𐊆 𐊜𐊂𐊆𐊅𐊚𐊑𐊛𐊆__|*...se xbide sttati mE : sttala : Eti : qlahibiyehi : se mal[i]yahi : se ertemehi : se __xNtawatehi xbidENhi__* |"...and Kaunos will erect a stele in honor of this *qla* and of maliya, and ertEmi, and the __xNtawata xbidENni__."|
 
 Neumann identified “Temple C” on the acropolis as this *qla*, but this theory has been debated.<sup>3</sup>
 
