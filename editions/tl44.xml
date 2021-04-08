@@ -18,8 +18,8 @@
   <text>
     <body>
     <div n="c">
-     <ab n="1"><gap/> ine n <w><unclear>t</unclear>AtE</w> : zisaprNna <gap/></ab>
-     <ab n="2"><gap/> he : tideimi se parzza xbide : se <unclear>st</unclear></ab>
+     <ab n="1"><gap/> ine n <w><unclear>t</unclear>AtE</w> : <persName>zisaprNna</persName> <gap/></ab>
+     <ab n="2"><gap/> <persName><w><supplied>widrNna</supplied>he</w></persName> : tideimi se parzza xbide : se <unclear>st</unclear></ab>
      <ab n="3"><gap/> <w><unclear>a</unclear>li<supplied>y</supplied>ahe</w> trbbi : <placeName><w><supplied>a</supplied>tAnas</w></placeName> : zxxAte : terN : <w n="3">me</w></ab>
      <ab n="4"><w n="3">=ne</w> emo : axagA maraza : me obohAtE : xbiyEti  :se</ab>
      <ab n="5">otAna : sttati : sttala : Eti : <persName n="urn:cite2:trmilli:divinities.v1:div_03">maliyahi</persName> : pddAti</ab>
@@ -28,18 +28,18 @@
      <ab n="8"><w n="7">yahi</w> : se <choice><sic><w><unclear>m</unclear>ertemehi</w></sic><corr><persName n="urn:cite2:trmilli:divinities.v1:div_11">ertemehi</persName></corr></choice> : se <persName n="urn:cite2:trmilli:divinities.v1:div_09">xNtawatehi</persName> : <w n="8">xbidEN</w></ab>
      <ab n="9"><w n="8">hi</w> : se ddewe sttati mE orobliyE mei ti : <w n="9">powe</w></ab>
      <ab n="10"><w n="9">ti</w> : azzalA : <w>d<gap/>deo</w> trbbeite mE : esbEte : <w n="10">xNt</w></ab>
-     <ab n="11"><w n="10">awatedi</w> : <w>ona<gap/>bAMme</w> se me kizzaprNna : <w n="11">widr</w></ab>
-     <ab n="12"><w n="11">Nnah</w> : se <w>weri<gap/>y<gap/>amAna</w> telEziyehi qlA</ab>
+     <ab n="11"><w n="10">awatedi</w> : <w>ona<gap/>bAMme</w> se me <persName>kizzaprNna</persName> : <persName><w n="11">widr</w></persName></ab>
+     <ab n="12"><w n="11">Nnah</w> : <w>se=w<supplied>e</supplied></w> <persName><w>eri<gap/>y<gap/>amAna</w></persName> telEziyehi qlA</ab>
      <ab n="13"><placeName>arNnas</placeName> : <w>kehitx<gap/>Nta</w> erbbedi Ntobi Ter</ab>
-     <ab n="14"><w><unclear>k</unclear>izzaprNna</w> <w>e<gap/>priti</w> : se parza <w>meN<supplied>=ne</supplied></w> : t</ab>
-     <ab n="15">mA <w>a<unclear>k</unclear>a</w> se <w>Ntep<gap/>i</w> kizzaprNnA ttli</ab>
-     <ab n="16"></ab>
-     <ab n="17"></ab>
-     <ab n="18"></ab>
-     <ab n="19"></ab>
-     <ab n="32"></ab>
-     <ab n="33"></ab>
-     <ab n="34"></ab>
+     <ab n="14"><persName><w><unclear>k</unclear>izzaprNna</w></persName> <w>e<gap/>priti</w> : se parza <w>meN<supplied>=ne</supplied></w> : t</ab>
+     <ab n="15">mA <w>a<unclear>x</unclear>a</w> se <w>Ntep<gap/>i</w> <persName>kizzaprNnA</persName> <w>ttli<gap/></w></ab>
+     <ab n="16"><gap/> e <gap/> tideimi <gap/> ehbi arosN : nene <w>xla<gap/></w></ab>
+     <ab n="17">welE : <w>t<gap/>Ake</w> <w>N<gap/>tele</w> aiti : tihe : <w>zoM<supplied>mE</supplied></w></ab>
+     <ab n="18">taxa : sei <w>tez<supplied>i</supplied></w> <gap/> axA : Netpi : <w>t<gap/></w></ab>
+     <ab n="19">Nte Mme arNnase : se  <w>ozez<supplied>i</supplied></w></ab>
+     <ab n="32">sbirte : mezireima : sabadi : mrBBdipe : sebe : pasbA</ab>
+     <ab n="33"><persName n="urn:cite2:trmilli:divinities.v1:div_10">natri</persName> : slati : xosttedi : sebe xNtabo sebe Nte <w n="33">la</w></ab>
+     <ab n="34"><w n="33">Bra</w> troyeli zazati nbb ) <persName n="urn:cite2:trmilli:divinities.v1:div_0">trqqiz</persName></ab>
      <ab n="35"></ab>
      <ab n="36"></ab>
      <ab n="37"></ab>
