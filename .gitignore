@@ -1,0 +1,8 @@
+.jekyll-cache/
+**~
+**Gemfile.lock
+_site/
+offline/Texts/
+offline/Divinities/
+offline/Concordance/
+docs/Gemfile
