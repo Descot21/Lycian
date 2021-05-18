@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Neufunde 307</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="1"><persName n="urn:cite2:trmilli:divinities.v1:div_12">pedrita</persName></ab>
+     <ab n="2"><persName><w>alixssA<supplied>Ntra</supplied></w></persName></ab>
+     <ab n="3"><persName n="urn:cite2:trmilli:divinities.v1:div_03"><w>mal<supplied>iya</supplied></w></persName></ab>
+    </body>
+  </text>
+</TEI>

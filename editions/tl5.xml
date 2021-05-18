@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TL 5</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="1">ebENnE <w n="1">men</w></ab>
+     <ab n="2"><w n="1">e</w> prNnawatE <w n="2"><unclear>q</unclear></w></ab>
+     <ab n="3"><w n="2">NtbEddi</w> : <persName>ssMma</persName></ab>
+     <ab n="4">tideimi kete</ab>
+     <ab n="5"><w><choice><sic>ereMi</sic><corr>erehi</corr></choice></w> se iye : <w n="5">g</w></ab>
+     <ab n="6"><w n="5">aladrE<gap/>ma</w> <w><choice><sic>Nty</sic><corr>Nta</corr></choice></w></ab>
+     <ab n="7"><w><choice><sic>tadE</sic><corr>tadi</corr></choice></w> <gap/> sei <w n="7">niy</w></ab>
+     <ab n="8"><w n="7">e</w> : a tise <w n="8"><choice><sic>Mriq</sic><corr>hriq</corr></choice></w></ab>
+     <ab n="9"><w n="8">eri</w> siezi <w n="9"><supplied>e</supplied>tr</w></ab>
+     <ab n="10"><w n="9">i</w> : <choice><sic>Mbipi</sic><corr>hrppi</corr></choice> tAto</ab>
+    </body>
+  </text>
+</TEI>

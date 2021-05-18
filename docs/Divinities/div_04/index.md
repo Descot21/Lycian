@@ -29,5 +29,5 @@ Bryce, T. R. “Burial Fees in the Lycian Sepulchral Inscriptions.” *Anatolian
 
 ## Appears in
 
-- [*tl* 149, 10](../../Texts/tl_149)
+- [*tl* 149, b.10](../../Texts/tl_149)
 - [*tl* 135, 2](../../Texts/tl_135)

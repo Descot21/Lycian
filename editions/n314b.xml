@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Neufunde 314b</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+     <ab n="1">xopa ebehi</ab>
+     <ab n="2">tiyyadi : tike</ab>
+     <ab n="3">zoMmE : tihe</ab>
+     <ab n="4">me=ne tobidi</ab>
+     <ab n="5">eti ebehE</ab>
+     <ab n="6"><persName n="urn:cite2:trmilli:divinities.v1:div_14">xaxakba</persName></ab>
+     <ab n="7"><unclear/></ab>
+    </body>
+  </text>
+</TEI>

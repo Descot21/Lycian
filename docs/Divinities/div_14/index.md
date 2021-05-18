@@ -9,3 +9,10 @@ nav_order: 14
 # kakasbos
 
 `urn:cite2:trmilli:divinities.v1:div_14`
+
+*Forthcoming*
+
+
+## Appears in
+
+- [*nf* 314b, 6](../../Texts/nf_314b)

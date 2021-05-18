@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TL 149</title>
+        <editor>Dane Scott</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from digital images</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <div n="a">
+      <ab n="1"><w>ebENn<supplied>i</supplied></w> <gap/> <w n="1"><supplied>ar</supplied>ppa></w></ab>
+      <ab n="2"><w n="1">xoh</w> <w>tid<supplied>imi</supplied></w> <gap/> <w><supplied>kopr</supplied>lle<supplied>h</supplied></w></ab>
+      <ab n="3">xahba : <w>a<supplied>tli</supplied></w> <supplied>se ladi se tideime</supplied> <w n="3">eb<supplied>o</supplied></w></ab>
+      <ab n="4"><w n="3">re</w> : <w>ehb<supplied>iye</supplied></w> <gap/> o</ab>
+      <ab n="5">Ntikdo <gap/></ab>
+      <ab n="6">ri <w><unclear>xal</unclear><supplied>le</supplied></w> <gap/> e <gap/></ab>
+      <ab n="7">n <gap/> <w><gap/><unclear>ze</unclear></w> se ne : <w>tr<gap/></w></ab>
+      <ab n="8">e <gap/> ehe : mere : e <gap/></ab>
+      <ab n="9">t <gap/> <w><supplied>er</supplied>eweziyehed<supplied>i</supplied></w></ab>
+      <ab n="10">pN <gap/> iM : <persName>xerigahe</persName> <gap/></ab>
+      <ab n="11">me <gap/> xalle mei ti had<gap/></ab>
+      <ab n="12"><w>Nt<supplied>e</supplied></w> <gap/> <w><supplied>mahA</supplied>naha</w> tosNti ti <gap/></ab>
+      <ab n="13"><gap/> <placeName><w><supplied>ar</supplied>Nna</w></placeName> sei NtEnE pow<gap/></ab>
+      <ab n="14"><gap/> he : prNnawA Mmeit <gap/></ab>
+      <ab n="15"><gap/> <w><supplied>t</supplied>erN</w> : sei teli teli</ab>
+      <ab n="16"><gap/> ekebora : se=we <persName>maxA</persName> : <gap/></ab>
+      <ab n="17">e <persName>merehi</persName> : sonemamadi</ab>
+      <ab n="18">eseyE <w>θ<supplied>o</supplied>rtta</w> : ebEhE <persName>xer<supplied>iga</supplied></persName></ab>
+      <ab n="19">towete : ti ebENnE <w><supplied>n</supplied>ele=d</w></ab>
+      <ab n="20">tokedri <w>towet=<unclear>epi</unclear></w> θAkor <gap/> <w n="20">tid</w></ab>
+      <ab n="21"><w n="20">imi</w> arawaziye=de <persName><w>koprl<supplied>leh</supplied></w></persName> <w n="21"><supplied>ara</supplied></w></ab>
+      <ab n="22"><w n="21">waziya</w> : prNnawate <w>tomi<gap/></w></ab>
+      <ab n="23">trbbE s=atlahe ehbiye <w>h<gap/></w></ab>
+      <ab n="24">ti Ntepi <w>powey<supplied>e</supplied>he</w> <w>θort<supplied>ahe</supplied></w> <gap/></ab>
+      <ab n="25">NtewE : <persName><w>erbbinahe</w></persName> tezi : <w n="25">xo</w></ab>
+      <ab n="26"><w n="25"><supplied>ga</supplied>he</w> se NtewE teθθi <w>ehbiy<supplied>ehi</supplied></w></ab>
+      <ab n="27">se NtewE mahAna : neleze <gap/></ab>
+      <ab n="28">ezeze me przzE komA me=ti <gap/></ab>
+      <ab n="29">te xistte Enehi : se xnnahi <gap/> <w n="29">mere</w></ab>
+      <ab n="30"><w n="29">hi</w> : <persName>arppaxoh</persName> : tideimi : <persName><w>xerig<supplied>ah</supplied></w></persName> <gap/> <supplied><persName><w n="30">ko</w></persName></supplied></ab>
+      <ab n="31"><w n="30">prlleh</w> : xAhb : xezigah : tohes me <gap/> <supplied><w n="31">araw</w></supplied></ab>
+      <ab n="32"><w n="31">aziyedi</w> : ENne xistte wawadra <gap/></ab>
+      <ab n="33"><unclear>mE zbetE</unclear> : me owadraxi :ese przze <gap/> <w n="33">et</w></ab>
+      <ab n="34"><w n="33">etehi</w> axA ara nelede <placeName>arNna</placeName> me=ti : <w n="34">p<supplied>rzze</supplied></w></ab>
+      <ab n="35">axA trMmile izredi : pededi : Nterez <gap/> <w n="35">xo</w></ab>
+      <ab n="36"><w>base</w> topa esbedi hEmenedi <w n="36">trMmil<supplied>iy</supplied></w></ab>
+      <ab n="37"><w n="36">edi</w> se medezedi : <persName n="urn:cite2:trmilli:divinities.v1:div_12">padrAtahedi</persName> <w>hqqdai<supplied>me</supplied></w></ab>
+      <ab n="38"><w><supplied>d</supplied>i</w> : se <w>m<unclear>r</unclear>bbEnedi</w> : topeliyA : trMmilis</ab>
+      <ab n="39"><w><supplied>qa</supplied>Badomini</w> : poweyehN topeliyA se</ab>
+      <ab n="40">qaBadomini powejehN se iriyEMm</ab>
+      <ab n="41"><w><supplied>pr</supplied>oliya</w> epi=de : izredi : zEM=tiya : <w>ehbiye</w></ab>
+      <ab n="42">di : zagaba : nelede hAtahe : Etri : <placeName><w n="42">tomine</w></placeName></ab>
+      <ab n="43"><w n="42">hi</w> nelede : <w>h<supplied>A</supplied>tahe</w> <placeName>pttara</placeName> : <persName n="urn:cite2:trmilli:divinities.v1:div_03">maliyehi</persName> : <w n="43">hAta</w></ab>
+      <ab n="44"><w n="43">ahe</w> : <placeName>xbane</placeName> : ese : trbbEnimi : tebete : terN se</ab>
+      <ab n="45"><persName>milasANtrA</persName> : pddEn eke : xbAniye izredi</ab>
+      <ab n="46">ehbiyedi : hAtahe : <placeName>tlAN</placeName> nele : nele : <w n="46">tarbi</w></ab>
+      <ab n="47"><w n="46">de</w> : xerEi : qastte : TerN : tlahN : erbeddi : <w n="47">h</w></ab>
+      <ab n="48"><w n="47"><supplied>A</supplied>tahe</w> : medbiyahe : ese : xerEi : tebete : <unclear>TerN</unclear></ab>
+      <ab n="49">se waxssepddimi : Eti : zehi : hbAti <unclear>B <gap/> o</unclear></ab>
+      <ab n="50">Ntepi : xlaina terN hAtahe : Aka <persName>herikle</persName></ab>
+      <ab n="51">se haxlaza : pabrati : <placeName>xbide</placeName> : <w n="51">hrixNtawa</w></ab>
+      <ab n="52"><w n="51">tahi</w> : ese tabAna : terN : iyAnA : iyaeosas</ab>
+      <ab n="53"><w>krzz<supplied>A</supplied>nase</w> : hAtahe : <persName>mokale</persName> : tewEte : <placeName>sAma</placeName></ab>
+      <ab n="54">ti : trbbetE : toraxssi : zxxAna terN <w n="54">es</w></ab>
+      <ab n="55"><w n="54">e</w> : homrxxA : tebAna terN : hAtahe</ab>
+    </div>
+    <div n="b">
+      <ab n="1">ebei : kbiya : proliya : Eti <w>pddAt<supplied>i</supplied></w></ab>
+      <ab n="2">iyAna <w>ti<gap/>ya</w> : sey=estte=beli : pona<gap/></ab>
+      <ab n="3">Tere Tere : tAmade : zxxaziye : mei ti</ab>
+      <ab n="4"><w><gap/>bodi</w> : iwE se TeTeris : erizAna <w>tiy<gap/></w></ab>
+      <ab n="5"><w><gap/><unclear>i</unclear>ked<supplied>i</supplied></w> se mrbbEnedi xbihN <w>hN<gap/></w></ab>
+      <ab n="6"><gap/> <w><supplied>a</supplied>dMmedi</w> : arosN kbiho : <placeName><w>to<supplied>minehi</supplied></w></placeName></ab>
+      <ab n="7"><gap/> <w><supplied>hr</supplied>zzi</w> kbiho : xAkbi kbiho</ab>
+      <ab n="8"><gap/> Nterewetehi : komeziya</ab>
+      <ab n="9"><w><gap/>edi</w> pzzidezes : adMmahi : <w n="9">to<gap/></w></ab>
+      <ab n="10"><w n="9"><supplied>e</supplied>s</w> xttbadi kerθθi : se tiwi <gap/></ab>
+      <ab n="11"><gap/>ewes se <w>qr<supplied>i</supplied>rahas</w> trbbEnimi</ab>
+      <ab n="12">EnE : <w>s<supplied>Mmt</supplied>e</w> terN hatA <gap/> ei tAnAi <w>ob<gap/></w></ab>
+      <ab n="13">wazisN <gap/> lEziyehi : <w>qla<supplied>y</supplied>e</w> se <w>tre<supplied>l</supplied><gap/></w></ab>
+      <ab n="14">se=Nye : <w>tr<supplied>e</supplied>pe</w> xbahN : se nagorahi <persName><w n="14">po<supplied>nam</supplied></w></persName></ab>
+      <ab n="15"><w n="14"><supplied>o</supplied>wahe</w> : trbbi trosN : se toborehi <persName><w n="15">stt</w></persName></ab>
+      <ab n="16"><w n="15">An<supplied>id</supplied>a<unclear>h</unclear>e</w> trbbi <placeName>ENnei</placeName> <persName>miθrapata</persName> <w>e<gap/></w></ab>
+      <ab n="17"><w><supplied>te</supplied>rN</w> : xawales : dderiye me=ye <w>s<gap/></w></ab>
+      <ab n="18"><w><gap/>mate</w> : <persName>arowAtiyesi</persName> : <w>sttrat<supplied>Ani</supplied></w></ab>
+      <ab n="19"><w><gap/>iyete</w> me=ne <w><supplied>e</supplied>rbbedi</w> : <w>tobei<supplied>te</supplied></w> <gap/></ab>
+      <ab n="20"><w><supplied>e</supplied>riyAnA</w> : se iye moneita <w>po<supplied>Nte</supplied></w></ab>
+      <ab n="21"><persName><w><supplied>arowAt</supplied>iyeseh</w></persName> se <persName>tiloma</persName> <persName><w>qAtriher<gap/></w></persName></ab>
+      <ab n="22"><w><gap/><supplied>eri</supplied>yAna</w> triyerE <placeName>kiyezE</placeName> : <w>nago<unclear>rah</unclear></w></ab>
+      <ab n="23"><w><gap/><unclear>eriy</unclear>ete</w> triyerE : xerEhe : hNti <w>t<gap/></w></ab>
+      <ab n="24"><w><gap/><supplied>m</supplied>erehi</w> : hiyAnaxA : helediye <gap/></ab>
+      <ab n="25"><w><gap/>a</w> mere : itehe set=ewE ni <w>seye<gap/></w></ab>
+      <ab n="26"><w><gap/>ati</w> se : xssadrapahi : <placeName><w>trMmili<gap/></w></placeName></ab>
+      <ab n="27"><w><gap/>isN</w> iyAnisN <placeName>sppartazi</placeName> <placeName><w>atAna<supplied>zi</supplied></w></placeName></ab>
+      <ab n="28"><w><gap/>A</w> θorttA : seNnahiyE : se tohedi</ab>
+      <ab n="29"><w><supplied>θortt</supplied>adi</w> : seNnahiyedi dde : <placeName>trMmisN</placeName> : <w>po<gap/></w></ab>
+      <ab n="30"><placeName><w><supplied>a</supplied>rNna</w></placeName> <placeName>pinale</placeName> <placeName>tlawa</placeName> wedre <w>pisba<supplied>s</supplied></w></ab>
+      <ab n="31"><w><gap/>taddi</w> plMmaddi se qehNnedi <w n="31">pdd<supplied>Atiy</supplied></w></ab>
+      <ab n="32"><w n="31">edi</w> : <persName>sersseiziyedi</persName> : se <w>okehezi<supplied>yedi</supplied></w></ab>
+      <ab n="33"><gap/> epartai se=di : trowepeiyadi : <w>Ter<supplied>o</supplied></w></ab>
+      <ab n="34"><gap/>se orobliyedi : pri <persName n="urn:cite2:trmilli:divinities.v1:div_02">trqqas</persName> hexis</ab>
+      <ab n="35">Mmezezi : erbbi : sttAti : teli <w>qehN<supplied>ni</supplied></w></ab>
+      <ab n="36"><w><supplied>M</supplied>mey</w> ese : terN : ponerebe : se=be pibere</ab>
+      <ab n="37"><persName n="urn:cite2:trmilli:divinities.v1:div_02"><w><supplied>trq</supplied>qas</w></persName> ppe <w><unclear>asa</unclear>ti</w> xNtawatA : towi : se=be</ab>
+      <ab n="38"><gap/> <w><supplied>dAi</supplied>nE</w> : arawaziya : NtewE : <choice><sic>nemo</sic><corr>emo</corr></choice> : se <w>xθθA<gap/></w></ab>
+      <ab n="39"><gap/> <w><supplied>Nte</supplied>be</w> dewE emo : komezeiti ti : <w>merawaz<gap/></w></ab>
+      <ab n="40"><gap/><w><supplied>ad</supplied>e</w> : <placeName>tominehi</placeName> : mlatraza : tixzzi=di</ab>
+      <ab n="41">ahMmAta qarazotazi : tezi : <w>arowAt<supplied>iya</supplied></w></ab>
+      <ab n="42"><gap/> tokedri : sey=eti powEi : <w>sey=orobli<supplied>ye</supplied></w></ab>
+      <ab n="43"><w><supplied>a</supplied>de</w> : xorzi=de : se tokedri : atrA : tehlo</ab>
+      <ab n="44"><gap/> <w><supplied>m</supplied>ei</w> : θrMmA : pibiyeti : <placeName>xorzazE</placeName> <w n="44">komez</w></ab>
+      <ab n="45"><w n="44"><supplied>i</supplied>ne</w> : ohazata : wawA : trisNni : se Nte <w n="45">pd</w></ab>
+      <ab n="46"><w n="45"><supplied>dE</supplied>zrppodeine</w> : arawaziye : ehbiye : kbi</ab>
+      <ab n="47"><gap/> mei mE adrode : mahAi : se dde : ahata <w>ha<supplied>de</supplied></w></ab>
+      <ab n="48"><gap/> <w><unclear>E</unclear>nE</w> : qla=bi : ehetehi : se mahAna : ehete</ab>
+      <ab n="49"><gap/><placeName>arNna</placeName> : <placeName>tominehi</placeName> : kerθθi : <placeName>xAkbi</placeName> : <w>epi=d<supplied>e</supplied></w></ab>
+      <ab n="50"><gap/> <w><supplied>N</supplied>temlE</w> si tAma : se=we nepe : astte : <placeName><w n="50">trMm</w></placeName></ab>
+      <ab n="51"><w n="50">is</w> se dde towetE : komeziya : Tere Tere</ab>
+      <ab n="52"><persName n="urn:cite2:trmilli:divinities.v1:div_02">trqqNti</persName> : pddAtahi : qNnAkba : xrssEni : <w n="52">eh</w></ab>
+      <ab n="53"><w n="52">bi</w> : tabahaza : komeziya : <persName n="urn:cite2:trmilli:divinities.v1:div_12">padritahi</persName> : <placeName><w n="53">arN</w></placeName></ab>
+      <ab n="54"><w n="53">na</w> <placeName>tominehiya</placeName> : komeziya : <placeName>xAxbiya</placeName> : <w n="54">kome</w></ab>
+      <ab n="55"><w n="54">ziya</w> se tokedri : kerθθi : ade : orobliyE</ab>
+      <ab n="56">hAtahe : tobehi : prNnezi : se lihbeze : <w n="56">eh<supplied>b</supplied></w></ab>
+      <ab n="57"><w n="56">iye</w> se dewE : zxxaza : se Ntoweriha : ade se</ab>
+      <ab n="58">xθθAna : xogaha : se xNnaha : se xNtawati</ab>
+      <ab n="59">azzalAi Ntariyeosehe <persName><w n="59">sey=ertakssi</w></persName></ab>
+      <ab n="60"><w n="59">razahe</w> : θride : hriha : trMmilise : se=ti : <persName><w n="60">te</w></persName></ab>
+      <ab n="61"><w n="60">θθiweibi</w> : ademE : <persName n="urn:cite2:trmilli:divinities.v1:div_13">leθθi</persName> qlA : me sitEni <w n="61">eb</w></ab>
+      <ab n="62"><w n="61"><supplied>e</supplied>iya</w> garAi : <persName n="urn:cite2:trmilli:divinities.v1:div_02">zeosi</persName> : NtewE : xNtawati : <w n="62">sber</w></ab>
+      <ab n="63"><w n="62">ide</w> : xNtawati : topeleziye : se NtewE : <w n="63">sok</w></ab>
+      <ab n="64"><w n="63">inaye</w> : topeleziye : xNtawatiye : <w>sppart<supplied>azi</supplied></w></ab>
+    </div>
+    <div n="c">
+     <ab n="1"><gap/> ine n <w><unclear>t</unclear>AtE</w> : <persName>zisaprNna</persName> <gap/></ab>
+     <ab n="2"><gap/> <persName><w><supplied>widrNna</supplied>he</w></persName> : tideimi se parzza xbide : se <unclear>st</unclear></ab>
+     <ab n="3"><gap/> <w><unclear>a</unclear>li<supplied>y</supplied>ahe</w> trbbi : <placeName><w><supplied>a</supplied>tAnas</w></placeName> : zxxAte : terN : <w n="3">me</w></ab>
+     <ab n="4"><w n="3">=ne</w> emo : axagA maraza : me obohAtE : xbiyEti  :se</ab>
+     <ab n="5">otAna : sttati : sttala : Eti : <persName n="urn:cite2:trmilli:divinities.v1:div_03">maliyahi</persName> : pddAti</ab>
+     <ab n="6">ddewE zxxazAi neo ne mEseweh : Mmi : se xbide</ab>
+     <ab n="7">sttati mE : sttala : Eti : qlahibiyehi : se <persName n="urn:cite2:trmilli:divinities.v1:div_03"><w n="7">mal<supplied>i</supplied></w></persName></ab>
+     <ab n="8"><w n="7">yahi</w> : se <choice><sic><w><unclear>m</unclear>ertemehi</w></sic><corr><persName n="urn:cite2:trmilli:divinities.v1:div_11">ertemehi</persName></corr></choice> : se <persName n="urn:cite2:trmilli:divinities.v1:div_09">xNtawatehi</persName> : <w n="8">xbidEN</w></ab>
+     <ab n="9"><w n="8">hi</w> : se ddewe sttati mE orobliyE mei ti : <w n="9">powe</w></ab>
+     <ab n="10"><w n="9">ti</w> : azzalA : <w>d<gap/>deo</w> trbbeite mE : esbEte : <w n="10">xNt</w></ab>
+     <ab n="11"><w n="10">awatedi</w> : <w>ona<gap/>bAMme</w> se me <persName>kizzaprNna</persName> : <persName><w n="11">widr</w></persName></ab>
+     <ab n="12"><w n="11">Nnah</w> : <w>se=w<supplied>e</supplied></w> <persName><w>eri<gap/>y<gap/>amAna</w></persName> telEziyehi qlA</ab>
+     <ab n="13"><placeName>arNnas</placeName> : <w>kehitx<gap/>Nta</w> erbbedi Ntobi Ter</ab>
+     <ab n="14"><persName><w><unclear>k</unclear>izzaprNna</w></persName> <w>e<gap/>priti</w> : se parza <w>meN<supplied>=ne</supplied></w> : t</ab>
+     <ab n="15">mA <w>a<unclear>x</unclear>a</w> se <w>Ntep<gap/>i</w> <persName>kizzaprNnA</persName> <w>ttli<gap/></w></ab>
+     <ab n="16"><gap/> e <gap/> tideimi <gap/> ehbi arosN : nene <w>xla<gap/></w></ab>
+     <ab n="17">welE : <w>t<gap/>Ake</w> <w>N<gap/>tele</w> aiti : tihe : <w>zoM<supplied>mE</supplied></w></ab>
+     <ab n="18">taxa : sei <w>tez<supplied>i</supplied></w> <gap/> axA : Netpi : <w>t<gap/></w></ab>
+     <ab n="19">Nte Mme arNnase : se  <w>ozez<supplied>i</supplied></w></ab>
+    </div>
+    </body>
+  </text>
+</TEI>

@@ -28,3 +28,8 @@ Bryce, Trevor R. *The Lycians in Literary and Epigraphic Sources*, vol. 1, Museu
 
 Neumann, G. *Neufunde lykischer Inschriften seit 1901*, Vienna, 1979. 
 
+
+
+## Appears in
+
+- [*nf* 322, 2](../../Texts/nf_322)

@@ -17,11 +17,14 @@
   </teiHeader>
   <text>
     <body>
+      <div n="a">
      <ab n="1">ebENnE : prNnawA me=ne : prNnawatE</ab>
      <ab n="2"><persName>iyamara</persName> : <persName>terssexlehK</persName> : tideimi : <persName n="urn:cite2:trmilli:divinities.v1:div_03"><w n="2">mali</w></persName></ab>
      <ab n="3"><w n="2">yahi</w> : wedrENnehi : <choice><sic>axsAtaza</sic><corr>axAtaza</corr></choice> : me pibiyeti</ab>
      <ab n="4">prNneze : se tteri : adaiyE mei ne Nta wAtA</ab>
      <ab n="5"> pibiyeti : tere ebehE me iye ne : hrppi tAti</ab>
+    </div>
+    <div n="b">
      <ab n="6">tike : <persName>iyamaraye</persName> : tibe : <w><choice><sic>eadi</sic><corr>ladi</corr></choice></w> : ehbi <w>hrpp<supplied>iye</supplied></w> <supplied>mei</supplied></ab>
      <ab n="7">tadi tike : kbi : tike xttbadi : Eti <w>prNna<supplied>eziyehi</supplied></w></ab>
      <ab n="8">xbiyehi : tike : me httEmi : <w>Anaba<unclear>y</unclear>E</w> : se n</ab>
@@ -35,6 +38,7 @@
      <ab n="16">ohazata tere : ebehi : <w>kome<supplied>h</supplied>i</w> : hrppE m</ab>
      <ab n="17">se piyaxa meipEme komezei : <w><supplied>e</supplied>me</w> : ome</ab>
      <ab n="18">ebette :</ab>
+    </div>
     </body>
   </text>
 </TEI>

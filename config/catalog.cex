@@ -3,7 +3,7 @@ urn:cts:trmilli:tl.1.v1:|line|Tituli Lycii|1|HC edition||false|lyc
 urn:cts:trmilli:tl.2.v1:|line|Tituli Lycii|2|HC edition||false|lyc
 urn:cts:trmilli:tl.3.v1:|line|Tituli Lycii|3|HC edition||true|lyc
 urn:cts:trmilli:tl.4.v1:|line|Tituli Lycii|4|HC edition||true|lyc
-urn:cts:trmilli:tl.5.v1:|line|Tituli Lycii|5|HC edition||false|lyc
+urn:cts:trmilli:tl.5.v1:|line|Tituli Lycii|5|HC edition||true|lyc
 urn:cts:trmilli:tl.6.v1:|line|Tituli Lycii|6|HC edition||true|lyc
 urn:cts:trmilli:tl.7.v1:|line|Tituli Lycii|7|HC edition||false|lyc
 urn:cts:trmilli:tl.8.v1:|line|Tituli Lycii|8|HC edition||false|lyc
@@ -27,7 +27,7 @@ urn:cts:trmilli:tl.25.v1:|line|Tituli Lycii|25|HC edition||true|lyc
 urn:cts:trmilli:tl.26.v1:|line|Tituli Lycii|26|HC edition||true|lyc
 urn:cts:trmilli:tl.27.v1:|line|Tituli Lycii|27|HC edition||false|lyc
 urn:cts:trmilli:tl.28.v1:|line|Tituli Lycii|28|HC edition||false|lyc
-urn:cts:trmilli:tl.29.v1:|line|Tituli Lycii|29|HC edition||false|lyc
+urn:cts:trmilli:tl.29.v1:|line|Tituli Lycii|29|HC edition||true|lyc
 urn:cts:trmilli:tl.30.v1:|line|Tituli Lycii|30|HC edition||false|lyc
 urn:cts:trmilli:tl.31.v1:|line|Tituli Lycii|31|HC edition||false|lyc
 urn:cts:trmilli:tl.32.v1:|line|Tituli Lycii|32|HC edition||false|lyc
@@ -42,7 +42,7 @@ urn:cts:trmilli:tl.40.v1:|line|Tituli Lycii|40|HC edition||false|lyc
 urn:cts:trmilli:tl.41.v1:|line|Tituli Lycii|41|HC edition||false|lyc
 urn:cts:trmilli:tl.42.v1:|line|Tituli Lycii|42|HC edition||false|lyc
 urn:cts:trmilli:tl.43.v1:|line|Tituli Lycii|43|HC edition||false|lyc
-urn:cts:trmilli:tl.44.v1:|line|Tituli Lycii|44|HC edition||false|lyc
+urn:cts:trmilli:tl.44.v1:|line|Tituli Lycii|44|HC edition||true|lyc
 urn:cts:trmilli:tl.45.v1:|line|Tituli Lycii|45|HC edition||true|lyc
 urn:cts:trmilli:tl.46.v1:|line|Tituli Lycii|46|HC edition||false|lyc
 urn:cts:trmilli:tl.47.v1:|line|Tituli Lycii|47|HC edition||false|lyc
@@ -53,7 +53,6 @@ urn:cts:trmilli:tl.51.v1:|line|Tituli Lycii|51|HC edition||false|lyc
 urn:cts:trmilli:tl.52.v1:|line|Tituli Lycii|52|HC edition||true|lyc
 urn:cts:trmilli:tl.53.v1:|line|Tituli Lycii|53|HC edition||true|lyc
 urn:cts:trmilli:tl.54.v1:|line|Tituli Lycii|54|HC edition||false|lyc
-urn:cts:trmilli:tl.55.v1:|line|Tituli Lycii|55|HC edition||false|lyc
 urn:cts:trmilli:tl.56.v1:|line|Tituli Lycii|56|HC edition||true|lyc
 urn:cts:trmilli:tl.57.v1:|line|Tituli Lycii|57|HC edition||false|lyc
 urn:cts:trmilli:tl.58.v1:|line|Tituli Lycii|58|HC edition||false|lyc
@@ -159,14 +158,14 @@ urn:cts:trmilli:nf.303.v1:|line|Neufunde lykischer inschriften|303|HC edition||f
 urn:cts:trmilli:nf.304.v1:|line|Neufunde lykischer inschriften|304|HC edition||false|lyc
 urn:cts:trmilli:nf.305.v1:|line|Neufunde lykischer inschriften|305|HC edition||false|lyc
 urn:cts:trmilli:nf.306.v1:|line|Neufunde lykischer inschriften|306|HC edition||false|lyc
-urn:cts:trmilli:nf.307.v1:|line|Neufunde lykischer inschriften|307|HC edition||false|lyc
+urn:cts:trmilli:nf.307.v1:|line|Neufunde lykischer inschriften|307|HC edition||true|lyc
 urn:cts:trmilli:nf.308.v1:|line|Neufunde lykischer inschriften|308|HC edition||false|lyc
 urn:cts:trmilli:nf.309.v1:|line|Neufunde lykischer inschriften|309|HC edition||false|lyc
 urn:cts:trmilli:nf.310.v1:|line|Neufunde lykischer inschriften|310|HC edition||false|lyc
 urn:cts:trmilli:nf.311.v1:|line|Neufunde lykischer inschriften|311|HC edition||true|lyc
 urn:cts:trmilli:nf.312.v1:|line|Neufunde lykischer inschriften|312|HC edition||true|lyc
 urn:cts:trmilli:nf.313.v1:|line|Neufunde lykischer inschriften|313|HC edition||false|lyc
-urn:cts:trmilli:nf.314.v1:|line|Neufunde lykischer inschriften|314|HC edition||false|lyc
+urn:cts:trmilli:nf.314b.v1:|line|Neufunde lykischer inschriften|314|HC edition||true|lyc
 urn:cts:trmilli:nf.315.v1:|line|Neufunde lykischer inschriften|315|HC edition||false|lyc
 urn:cts:trmilli:nf.316.v1:|line|Neufunde lykischer inschriften|316|HC edition||false|lyc
 urn:cts:trmilli:nf.317.v1:|line|Neufunde lykischer inschriften|317|HC edition||false|lyc
@@ -177,7 +176,7 @@ urn:cts:trmilli:nf.321.v1:|line|Neufunde lykischer inschriften|321|HC edition||f
 urn:cts:trmilli:nf.322.v1:|line|Neufunde lykischer inschriften|322|HC edition||true|lyc
 urn:cts:trmilli:nf.323.v1:|line|Neufunde lykischer inschriften|323|HC edition||false|lyc
 urn:cts:trmilli:adkam2017.Asarcık.v1:|line|Gephyra 19, 2020|1|HC edition||false|lyc
-urn:cts:trmilli:adkam2017.Sazak.v1:|line|Gephyra 19, 2020|2|HC edition||false|lyc
+urn:cts:trmilli:adkam2017.Sazak.v1:|line|Gephyra 19, 2020|2|HC edition||true|lyc
 urn:cts:trmilli:cls.n335.v1:|line|Corpus der lykischen Sprachdenkmäler|n335|HC edition||false|lyc
 urn:cts:trmilli:cls.n336.v1:|line|Corpus der lykischen Sprachdenkmäler|n336|HC edition||false|lyc
 urn:cts:trmilli:cls.n337.v1:|line|Corpus der lykischen Sprachdenkmäler|n337|HC edition||false|lyc
