@@ -3,6 +3,6 @@
 **Gemfile.lock
 _site/
 offline/Texts/
-offline/Divinities/
+offline/Divinities/div*/
 offline/Concordance/
 docs/Gemfile

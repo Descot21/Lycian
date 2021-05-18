@@ -7,5 +7,5 @@ has_children: true
 
 # The Lycian Divinities
 
-Something about Lycian divinities here...
+
 
