@@ -11,8 +11,8 @@ One of the goals of Trmilli Texts is to create a set of resources that can be us
 
 ---
 
-1.“Integrating Lycian Mythological Data into a Greco-Roman Database: A Collaborative Digital
-Initiative,” R. Scott Smith, University of New Hampshire, and Dane Scott & Neel Smith, College of the
+**“Integrating Lycian Mythological Data into a Greco-Roman Database: A Collaborative Digital
+Initiative,”** R. Scott Smith, University of New Hampshire, and Dane Scott & Neel Smith, College of the
 Holy Cross.
 
 *Presented at the Classical Association of New England's (CANE) [Annual Conference 2021](https://drive.google.com/file/d/1KholBlt7XjO3Y_2aU9zfejORSKTs45K3/view)*
