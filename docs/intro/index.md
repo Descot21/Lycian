@@ -11,6 +11,8 @@ parent: "Home Page"
 
 Trmilli texts is a expanding systematic digital corpus of Lycian langauge epigraphic texts. This is an expanding database with aim of being a comprehensive resource for Lycian inscriptions. This website is the public-facing resource that is generated from Dane Scott's undergraduate senior thesis. This website contains diplomatic and normalized editions of Lycian texts tied closely with citable images of the iscription istelf. Tied to each inscription is an automatically updating concordance of Lycian words and a lexicon based on Craig Melchert's 2004 book *A Dictionary of the Lycian Language*. With these are a group of articles on the divinities mentioned  or appearing in the epigraphic corpus. Forthcomming are resources for the morphology of Lycian terms that will be tied to the text in which each lexical token appears. Translation of these texts, though possible for a select number of inscriptions with the completion of the morphology, is beyond the scope of this project.  
 
+---
+
 **What is Lycian?**
 
 Lycian is an ancient Anatolian language that was spoken in Lycia, a geo-political area in the southwest of modern-day Turkey. Most scholars agree that Lycian has it's origins in Indo-European, closely related to other Anatolian languages like Luwian, Carian, and (distantly) Hittite. It seems that Lycian maintained a strong written presence in Lycia during the 4th and 5th centuries BCE, appearing on stone, tombs, monuments, and coins. But, by the first century, Greek had fully replaced Lycian the sole public and administrative language.  
@@ -19,9 +21,13 @@ There are two forms of Lycian that have been discovered: Lycian A (simply called
 
 Lycian has not yet been fully deciphered, but significant strides have been made in recent centuries. The first non-deciphered texts were published by a French archaeological team in 1820, with the Lycian alphabet being deciphered later that year. The first extensive corpus of Lycian inscriptions was published by an Austrian expedition led by Ernest Kalinka in 1901. This corpus, called *Tituli Asiae Minoris: Tituli Lyciae* (shorted to TL in this collection), contianed 152 Lycian inscriptions, including some bilingual Lycian-Greek texts. The next significant publication of Lycian texts was by Guenter Neumann in 1979 called *Neufunde lykischer Inschriften seit 1901* (abbreviated as N in this collection) which was modeled as a continuation of Kalinka's corpus. There have been more recent publications, including a collection of small inscriptions from 2017 that have added to our understanding of Lycian, and there is an active effort by Austrian archaoelogists to collect and eventually publish recently discovered inscriptions. 
 
+---
+
 **Is Lycian fully deciphered?**
 
 No. Because of the relative small number of discovered attestations and the poor state of many of the sources, parts of the Lycian language remain unclear. Efforts to decipher Lycian have relied mainly on two strategies: bilingual texts and linguistic comparison with similar Anatolian languages. Both methods have lead to fantastic advancements in the full decipherment of Lycian, but each is limited by the dearth and state of the sources. For instance, the Xanthos Stele, the longest trilingual text in Lycian, Greek, and Milyan has been of little use because the Lycian parts have been badly damaged and the Greek side seems to have very little resemblance to the Lycian text. However, undertanding of morphology and syntax has been greatly advanced by comparison with Luwian and Carian, and indeed many of the dicovered texts follow similar formulaic patterns that make it easy to understand. Perhaps the greatest hinderance to the complete decipherement of Lycian remains in the vocabulary. There is simply some words that we do not have enough information to transalate, though the scholar Craig Melchert has published a very helpful dictionary of the Lycian langauge. 
+
+---
 
 **What types of inscriptions are included in this collection?**
 
@@ -29,6 +35,7 @@ This corpus focuses on epigraphic texts written in Lycian within the epichoric p
 
 Milyan/Lycian B is not covered in this corpus, and the non-Lycian portions in bilingual inscriptions have been treated as their own text and therefore not included in this corpus yet.
 
+---
 
 **The original prospectus for the Trmilli Text project**
 
@@ -40,6 +47,7 @@ This coming tutorial will build upon the work started in the Fall tutorial. I wi
 
 When I have compiled enough information in this digital edition, I hope to use the findings to revisit important questions about Lycian religion. The last scholars to survey this area of Lycian culture broadly were Trevor Bryce in 1986 and, more briefly Anthony Keen in 1989. Since then, valuable archeological and linguistic evidence has expanded our understanding of the corpus. I plan to use the Lycian corpus and archaeological evidence to craft an updated picture of Lycian religious life, tied closely to primary sources, with a specific focus on its votive and funerary practices.
 
+---
 
 **Who is Dane Scott?**
 
