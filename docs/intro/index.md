@@ -17,7 +17,7 @@ This website contains diplomatic and normalized editions of Lycian texts tied cl
 
 **What is Lycian?**
 
-Lycian is an ancient Anatolian language that was spoken in Lycia, a geo-political area in the southwest of modern-day Turkey. Most scholars agree that Lycian has it's origins in Indo-European, closely related to other Anatolian languages like Luwian, Carian, and (distantly) Hittite. It seems that Lycian maintained a strong written presence in Lycia during the 4th and 5th centuries BCE, appearing on stone, tombs, monuments, and coins. But, by the first century, Greek had fully replaced Lycian the sole public and administrative language.  
+Lycian, or 𐊗𐊕𐊐𐊎𐊆𐊍𐊆 (TrMmili), is an ancient Anatolian language that was spoken in Lycia, a geo-political area in the southwest of modern-day Turkey. Most scholars agree that Lycian has it's origins in Indo-European, closely related to other Anatolian languages like Luwian, Carian, and (distantly) Hittite. It seems that Lycian maintained a strong written presence in Lycia during the 4th and 5th centuries BCE, appearing on stone, tombs, monuments, and coins. But, by the first century, Greek had fully replaced Lycian the sole public and administrative language.  
 
 There are two forms of Lycian that have been discovered: Lycian A (simply called "Lycian") and Milyan (sometimes called Lycian B). Lycian accounts for the majority of texts discovered, while Milyan appears only in a select number of sources, usually from eastern Lycia in the Milyas region. Since Milyan appears in such a small number of sources, it has not been deciphered as well as Lycian. For that reason, Trmilli Texts only deals with texts written in Lycian. 
 
