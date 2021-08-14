@@ -38,7 +38,13 @@ urn:cite2:trmilli:morphforms.v1:2021220|verb: plural first preterite middle-pass
 urn:cite2:trmilli:morphforms.v1:2022220|verb: plural second preterite middle-passive
 urn:cite2:trmilli:morphforms.v1:2023220|verb: plural third preterite middle-passive
 
+urn:cite2:trmilli:morphforms.v1:2013010|verb: singular third imperative active
+urn:cite2:trmilli:morphforms.v1:2023010|verb: plural third imperative active
+
+
+
 urn:cite2:trmilli:morphforms.v1:0000001|indeclinable: particle
 urn:cite2:trmilli:morphforms.v1:0000002|indeclinable: preposition
 urn:cite2:trmilli:morphforms.v1:0000003|indeclinable: conjunction
 urn:cite2:trmilli:morphforms.v1:0000004|indeclinable: adverb
+urn:cite2:trmilli:morphforms.v1:0000005|indeclinable: infinitive
