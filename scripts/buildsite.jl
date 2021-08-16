@@ -5,6 +5,9 @@ push!(LOAD_PATH, "repoutils")
 
 using LycianUtils
 root = dirname(pwd())
-publishsite(root)
+
+publisher = LycianUtils.lycpublisher(root)
+
+#publishsite(root)
 
 
