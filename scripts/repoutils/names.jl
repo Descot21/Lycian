@@ -1,5 +1,6 @@
 
-function indexnames(c::CitableCorpus)
+# Index persName elements in corpus c
+function indexnames(c::CitableTextCorpus)
     dict = Dict()
     for cn in c.corpus
         xml = parsexml(cn.text)

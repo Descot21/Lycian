@@ -1,0 +1,7 @@
+name = "TrmilliBuilder"
+uuid = "1ce4388b-9bff-4781-a46b-5d9d15457447"
+authors = ["Neel Smith <dnsmith.neel@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Lycian = "7c215dd3-d1b4-4517-b6c6-0123f1059a20"

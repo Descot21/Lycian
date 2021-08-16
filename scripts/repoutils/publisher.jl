@@ -7,9 +7,10 @@ struct Publisher
 end
 
 
-
+"""Create a Publisher structure for the given repository root.
+"""
 function lycpublisher(root)
-    repo = edrepo(root)
+    repo = repository(root)
     ict = "http://www.homermultitext.org/ict2/?"
     # Citable Image service
     baseiifurl = "http://www.homermultitext.org/iipsrv"

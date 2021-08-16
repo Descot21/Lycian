@@ -1,7 +1,7 @@
 
 function publishconcordance(reporoot)
     target = reporoot * "/offline/Concordance/index.md" 
-    repo = edrepo(reporoot)
+    repo = repository(reporoot)
     # A CitableCorpus:
     indexable = normalcorpus(repo)
     # A GroupedDataFrame keyed by term

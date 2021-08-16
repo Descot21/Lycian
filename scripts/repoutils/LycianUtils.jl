@@ -8,7 +8,7 @@
 
 module LycianUtils
 
-using CitableImage, CitableObject, CitableText
+using CitableImage, CitableObject, CitableText, CitableCorpus
 using CitableTeiReaders, EditionBuilders, Orthography
 using CSV, DataFrames, EzXML
 using EditorsRepo
@@ -18,7 +18,7 @@ export publishsite
 export Publisher, publishtext, publishtexts 
 export publishconcordance
 export publisharticles
-export edrepo
+
 export normalcorpus, indexcorpus, xmlcorpus
 export indexnames, flatindex
 
@@ -50,9 +50,9 @@ Example: invoked from scripts directory:
 repo = repo(dirname(pwd()))
 ```
 """
-function edrepo(root::AbstractString)
-    EditingRepository(root, "editions", "dse", "config")
-end
+#function edrepo(root::AbstractString)
+#    repository(root) #, "editions", "dse", "config")
+#end
 
 
 

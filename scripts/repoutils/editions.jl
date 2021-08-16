@@ -23,7 +23,7 @@ function normalcorpus(repo)
 end
 
 function xmlcorpus(reporoot::AbstractString)
-    repo = edrepo(reporoot)
+    repo = repository(reporoot)
     xmlcorpus(repo)
 end
 
