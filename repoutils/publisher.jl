@@ -22,8 +22,12 @@ function lycpublisher(root)
 end
 
 
-function publishsite(reporoot)
+
+function publishsite(publisher::Publisher)
+    ## These shouyld all work off a publisher:
+    #=
     publishconcordance(reporoot)
     publisharticles(reporoot)
-    publishtexts(reporoot)
-end
+       =#
+    publishtexts(publisher)
+end 

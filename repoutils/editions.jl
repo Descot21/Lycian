@@ -1,44 +1,29 @@
 """Build a single epigraphically normalized corpus
 for the whole repository.
 """
-function normalcorpus(repo) 
-    textcat = textcatalog(repo, "catalog.cex")
-    citedf = citation_df(repo)
-
-    online = filter(row -> row.online, textcat)
-    documents = []
-
-    for txt in online
-        urn = CtsUrn(txt.urn)
-        xml = textforurn(repo, urn)
-        # Need an xml corpus to build epigraphically normalized:
-        reader = ohco2forurn(citedf, urn)
-        normbuilder = normalizerforurn(citedf, urn)
-        xmlcorpus = reader(xml, urn)
-        normcorp = edition(normbuilder, xmlcorpus)
-        push!(documents, normcorp)
-    end
-    onecorpus  = CitableText.composite_array(documents)
-
+function normalcorpus(edrep::EditingRepository) 
+    EditorsRepo.normedpassages(edrep) |> CitableTextCorpus
 end
+
+"""Compose full path to file for a single
+row of configuration table.
+"""
+function editionfile(csvrow, basedir)
+    urn = CtsUrn(csvrow.urn)
+    parts = workparts(urn)
+    editiondir = basedir * string(parts[1], "_", parts[2])
+    if !isdir(editiondir)
+        mkdir(editiondir)
+    end
+    editiondir * "/index.md"
+end
+
 
 function xmlcorpus(reporoot::AbstractString)
     repo = repository(reporoot)
     xmlcorpus(repo)
 end
 
-function xmlcorpus(repo::EditingRepository)
-    textcat = textcatalog(repo, "catalog.cex")
-    online = filter(row -> row.online, textcat)
-    corpora = []
-    for txt in online
-        urn = CtsUrn(txt.urn)
-        reader = o2converter(repo, urn) |> Meta.parse |> eval
-        xml = textforurn(repo, urn)	
-        push!(corpora, reader(xml, urn))
-    end
-    composite_array(corpora)
-end
 
 """Read XML text from local file for a
 document identified by URN.
@@ -57,22 +42,30 @@ function textforurn_df(df, urn)
 	end
 end
 
+
+function xmlcorpus(repo::EditingRepository)
+    textcat = textcatalog(repo, "catalog.cex")
+    online = filter(row -> row.online, textcat)
+    corpora = []
+    for txt in online
+        urn = CtsUrn(txt.urn)
+        reader = o2converter(repo, urn) |> Meta.parse |> eval
+        xml = textsourceforurn(repo, urn)	
+        push!(corpora, reader(xml, urn))
+    end
+    composite_array(corpora)
+end
+
+
+
+
+
+
 # Read citation configuration in an Array
 function citation(repo::EditingRepository)
 	arr = CSV.File(repo.root * "/" * repo.configs * "/citation.cex", skipto=2, delim="|", 
 	quotechar='&', escapechar='&') |> Array
 end
 
-"""Compose full path to file for a single
-row of configuration table.
-"""
-function editionfile(csvrow, basedir)
-    urn = CtsUrn(csvrow.urn)
-    parts = workparts(urn)
-    editiondir = basedir * string(parts[1], "_", parts[2])
-    if !isdir(editiondir)
-        mkdir(editiondir)
-    end
-    editiondir * "/index.md"
-end
+
 

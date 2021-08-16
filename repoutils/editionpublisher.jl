@@ -1,7 +1,9 @@
 
+#=
 function publishtexts(reporoot::AbstractString)
     lycpublisher(reporoot) |> publishtexts
 end
+=#
 
 function publishtexts(publisher::Publisher)
     textcat = textcatalog(publisher.editorsrepo, "catalog.cex")
@@ -24,7 +26,7 @@ function publishtext(
 
     urn = CtsUrn(catalogrow.urn)
     dse = dse_df(publisher.editorsrepo)
-    rowmatches  = filter(dserow -> urncontains(urn, dserow.passage), dse)
+    rowmatches  = filter(dserow -> CitableText.urncontains(urn, dserow.passage), dse)
     # Can directly convert diplomatic from nodes:
     dipl = diplomaticnodes(publisher.editorsrepo,urn)
 
@@ -39,7 +41,7 @@ function publishtext(
 
 
     # But need an xml corpus to build normalized:
-     xml = textforurn(publisher.editorsrepo, urn)
+     xml = textsourceforurn(publisher.editorsrepo, urn)
      reader = ohco2forurn(citedf, urn)
      xmlcorpus = reader(xml, urn)
 

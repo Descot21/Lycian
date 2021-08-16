@@ -1,4 +1,7 @@
 
+"""Copy articles about divinities from offline directory
+into published space.
+"""
 function cp_articles(root)
     divs = root * "/divinities-articles/"
     offlinedivs = root * "/offline/Divinities/"
