@@ -1,12 +1,11 @@
-# Run this script from the scripts directory
+# Run this script from the repository root!
 using Pkg
 Pkg.activate(".")
+Pkg.instantiate()
 push!(LOAD_PATH, "repoutils")
 
 using LycianUtils
-root = dirname(pwd())
-
-publisher = LycianUtils.lycpublisher(root)
+publisher = LycianUtils.lycpublisher(pwd())
 
 #publishsite(root)
 
