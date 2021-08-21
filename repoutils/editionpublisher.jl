@@ -14,41 +14,45 @@ function publishtexts(publisher::Publisher)
 end
 
 """
-- catalogrow: One row of catalog
+
+- publisher: configured Publisher object
 - dse: DataFrame of DSE records
-- target: destination directory for web site
 """
 function publishtext(
     publisher,
     catalogrow;
     w = 100
     )
+    urn = CtsUrn(catalogrow.urn) |> dropversion
+    # Can directly extract diplomatic and normalized text from editors repo
+    # by urn:
+    dipl = diplomaticnodes(publisher.editorsrepo,urn)
+    normed = normalizednodes(publisher.editorsrepo,urn)
 
-    urn = CtsUrn(catalogrow.urn)
+    urnlabel = string("`", catalogrow.urn, "`\n\n")
+
+    # Compose linked images:
     dse = dse_df(publisher.editorsrepo)
     rowmatches  = filter(dserow -> CitableText.urncontains(urn, dserow.passage), dse)
-    # Can directly convert diplomatic from nodes:
-    dipl = diplomaticnodes(publisher.editorsrepo,urn)
+    linkedimgs = imgs_for_dse(rowmatches, dipl, publisher.ict, publisher.iiifsvc)
 
+    #=
     citedf = citation_df(publisher.editorsrepo)
     fname = editionfile(catalogrow, publisher.target)
     top = yamlplus(catalogrow)
-    urnlabel = string("`", catalogrow.urn, "`\n\n")
+    
     thumb = ""
-    fname = editionfile(catalogrow, publisher.target)
     top = yamlplus(catalogrow)
-    linkedimgs = imgs_for_dse(rowmatches, dipl, publisher.ict, publisher.iiifsvc)
-
+    
+=#
 
     # But need an xml corpus to build normalized:
-     xml = textsourceforurn(publisher.editorsrepo, urn)
-     reader = ohco2forurn(citedf, urn)
-     xmlcorpus = reader(xml, urn)
-
-     
-     normbuilder = normalizerforurn(citedf, urn)
-     normcorp = edition(normbuilder, xmlcorpus)
-     normed = normcorp.corpus
+    # xml = textsourceforurn(publisher.editorsrepo, urn)
+    #reader = ohco2forurn(citedf, urn)
+    # xmlcorpus = reader(xml, urn)
+    # normbuilder = normalizerforurn(citedf, urn)
+    # normcorp = edition(normbuilder, xmlcorpus)
+    # normed = normcorp.corpus
 
      document = join([top, urnlabel], "\n\n")    
      open(fname, "w") do io
@@ -67,13 +71,16 @@ end
 
 
 function imgs_for_dse(dserows, textnodes, ict, iiifsvc; w = 100)
-
+    @info(string(length(textnodes), " text nodes and ", nrow(dserows), " dse rows."))
+   
     linkedimgs = [] 
     if (length(textnodes) != nrow(dserows))
         for row in eachrow(dserows)
             push!(linkedimgs, "Invalid indexing of text to source images.")
+            @info("Failure with dserow ", row.passage)
         end
     else 
+  
         for row in eachrow(dserows)
            push!(linkedimgs, linkedMarkdownImage(ict, row.image, iiifsvc, w, "image"))
         end

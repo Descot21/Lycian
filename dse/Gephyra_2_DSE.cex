@@ -1,3 +1,6 @@
+#!citerelationset
+urn|urn:cite2:trmilli:dse.v1:sazak1
+label|Collection of DSE records for Sazak inscription
 text|image|surface
 urn:cts:trmilli:adkam2017.Sazak.v1:1|urn:cite2:lycian:hc.v1:gephyra2@0.0002521,0.1272,0.9997,0.1886|urn:cite2:trmilli:inscriptions.v1:Gephyra2
 urn:cts:trmilli:adkam2017.Sazak.v1:2|urn:cite2:lycian:hc.v1:gephyra2@0.0002521,0.2829,0.9997,0.1201|urn:cite2:trmilli:inscriptions.v1:Gephyra2
