@@ -13,10 +13,10 @@ function publishtexts(publisher::Publisher)
     end
 end
 
-"""
+"""Write web page for a single text.
 
 - publisher: configured Publisher object
-- dse: DataFrame of DSE records
+- catalogrow: a single row of DataFrame of DSE records for texts
 """
 function publishtext(
     publisher,
@@ -29,44 +29,31 @@ function publishtext(
     dipl = diplomaticnodes(publisher.editorsrepo,urn)
     normed = normalizednodes(publisher.editorsrepo,urn)
 
-    urnlabel = string("`", catalogrow.urn, "`\n\n")
+    # Compute output file name
+    citedf = citation_df(publisher.editorsrepo)
+    fname = editionfile(catalogrow, publisher.target)
 
-    # Compose linked images:
+    # Compose linked images for passages:
     dse = dse_df(publisher.editorsrepo)
     rowmatches  = filter(dserow -> CitableText.urncontains(urn, dserow.passage), dse)
     linkedimgs = imgs_for_dse(rowmatches, dipl, publisher.ict, publisher.iiifsvc)
 
-    #=
-    citedf = citation_df(publisher.editorsrepo)
-    fname = editionfile(catalogrow, publisher.target)
+    # Compose markdown for page:
     top = yamlplus(catalogrow)
-    
-    thumb = ""
-    top = yamlplus(catalogrow)
-    
-=#
-
-    # But need an xml corpus to build normalized:
-    # xml = textsourceforurn(publisher.editorsrepo, urn)
-    #reader = ohco2forurn(citedf, urn)
-    # xmlcorpus = reader(xml, urn)
-    # normbuilder = normalizerforurn(citedf, urn)
-    # normcorp = edition(normbuilder, xmlcorpus)
-    # normed = normcorp.corpus
-
-     document = join([top, urnlabel], "\n\n")    
-     open(fname, "w") do io
-         try 
-             print(io, document, thumb, tablemarkdown(dipl, normed, linkedimgs))
-         catch e
+    urnlabel = string("`", catalogrow.urn, "`\n\n")
+    document = join([top, urnlabel], "\n\n")    
+    open(fname, "w") do io
+        try 
+            print(io, document, tablemarkdown(dipl, normed, linkedimgs))
+        catch e
              groupurn = droppassage(dipl[1].urn)
              println("FAILED to write edition for ", groupurn, " with ", length(dipl), " diplomatic lines and ", length(linkedimgs), " DSE records." )
              msg = string(e)
              @warn(msg)
              #error(e)
-         end
-     end
-     document
+        end
+    end
+    document
 end
 
 
@@ -82,13 +69,16 @@ function imgs_for_dse(dserows, textnodes, ict, iiifsvc; w = 100)
     else 
   
         for row in eachrow(dserows)
-           push!(linkedimgs, linkedMarkdownImage(ict, row.image, iiifsvc, w, "image"))
+           push!(linkedimgs, linkedMarkdownImage(ict, row.image, iiifsvc; ht=w, caption="image"))
         end
     end
     linkedimgs
 end
 
-# Compose markdown string for page title
+"""Compose markdown string for page title
+
+$(SIGNATURES)
+"""
 function mdtitle(csvrow)
     string("*", csvrow.groupName, "*, ", csvrow.workTitle)
 end
