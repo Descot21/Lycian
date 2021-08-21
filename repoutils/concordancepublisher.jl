@@ -4,6 +4,7 @@
 $(SIGNATURES)
 """
 function publishconcordance(publisher::Publisher)
+    @info("Composing concordance of all tokens in edition...")
     target = publisher.root * "/offline/Concordance/index.md" 
  
     # A CitableCorpus:
@@ -13,6 +14,7 @@ function publishconcordance(publisher::Publisher)
     open(target, "w") do io
         print(io, conc_yamlplus(), conc_mdpage(idx))
     end
+    @info("Written to ", target)
 end
 
 

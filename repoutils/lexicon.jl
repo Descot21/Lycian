@@ -1,53 +1,3 @@
-#=
-function singleLexicon(root)
-    #offlinelex = targetDir(root) 
-    # The lexicon
-    #lexdf = loadLexiconDF(root)
-
-    rows = []
-    for r in eachrow(lexdf)
-        # Figure out the nav link stuff!
-        push!(rows, LycianUtils.entryhdr(r))
-        push!(rows, LycianUtils.mdrow(r))
-    end
-
-    tail = "1. Contents\n{:toc}\n"
-    doc = string(LycianUtils.singleyaml(), join(rows, "\n\n"), "\n\n", tail)
-
-    outfile = offlinelex * "/index.md"
-    
-
-    open(outfile, "w") do io
-        print(io, doc)
-    end 
-end
-
-
-#basedir * "/offline/Lexicon/"
-
-function printLexicon(root)
-    #offlinelex = targetDir(root)
-    
-    # The lexicon
-    #lexdf = loadLexiconDF(root)
-    # Grouped by letter
-    grouped = groupby(lexdf, :letter)
-    sequenceDict = alphabetize(lexdf)
-
-    for k in keys(grouped)
-        string(offlinelex, k.letter)
-        entries = grouped[k]
-
-        str = entries[1,:xlit]
-        seq = sequenceDict[LycianUtils.initialAlpha(lowercase(str))]
-        outfile = outputfile(offlinelex, string("Letter ", k.letter))
-        printLetter(entries, outfile, k.letter, seq)
-    end
-end
-=#
-
-
-
 """Publish Lycian lexicon as a series of individual pages, one for
 each letter of the Lycian alphabet.
 
@@ -123,6 +73,11 @@ function outputfile(basedir, ltr)
     outputdir * "/index.md"
 end
 
+
+"""Compose markdown lexicon entry for a single article.
+
+$(SIGNATURES)
+"""
 function mdrow(entry)
     string("- ", entry.lemma, " (", entry.xlit, ") ", entry.article, " `", entry.urn, "`")
 end
@@ -179,8 +134,17 @@ function initialAlpha(s)
     replace(s, r"[-([]" => "")[1]
 end
 
+"""Comose markdown header for lexicon entry.
+
+$(SIGNATURES)
+"""
+function entryhdr(row)
+    id = Cite2Urn(row.urn) |> objectcomponent
+    string("### ", id)
+end
 
 
+#=
 function singleyaml() 
     lines = [
         "---",
@@ -196,16 +160,9 @@ function singleyaml()
     ]
     join(lines, "\n")  
 end
+=#
 
 
 
-"""Comose markdown header for lexicon entry.
-
-$(SIGNATURES)
-"""
-function entryhdr(row)
-    id = Cite2Urn(row.urn) |> objectcomponent
-    string("### ", id)
-end
 
 

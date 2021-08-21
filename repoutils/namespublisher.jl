@@ -17,11 +17,13 @@ and adding index of text passages for each named.
 $(SIGNATURES)
 """    
 function publisharticles(publisher::Publisher)
+    @info("Composing articles about Lycian divinities...")
     target = publisher.root *  "/offline/Divinities/"
     cp_articles(publisher)
     c = xmlcorpus(publisher.editorsrepo)
     namesidx = indexnames(c)
     names_printindex(namesidx, target)
+    @info("Done.")
 end
 
 

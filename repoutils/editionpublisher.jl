@@ -5,11 +5,13 @@
 $(SIGNATURES)
 """
 function publishtexts(publisher::Publisher)
+    @info("Composing editions of all cataloged texts...")
     textcat = textcatalog(publisher.editorsrepo, "catalog.cex")
     online = filter(row -> row.online, textcat) 
     for txt in online
         publishtext(publisher, txt)
     end
+    @info("Done.")
 end
 
 """Write a web page for a single text.

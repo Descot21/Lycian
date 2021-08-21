@@ -45,4 +45,6 @@ function publishsite(publisher::Publisher)
     publisharticles(publisher)
     publishconcordance(publisher)
     publishlexicon(publisher)
+    msg = "\n\nComplete website constructed in directory `offline`."
+    @info(msg)
 end 
