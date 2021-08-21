@@ -7,6 +7,7 @@ push!(LOAD_PATH, "repoutils")
 using LycianUtils
 publisher = LycianUtils.lycpublisher(pwd())
 
+# This does the whole thing!
 #publishsite(publisher)
 
 
