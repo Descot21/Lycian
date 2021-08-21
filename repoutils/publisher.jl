@@ -41,6 +41,7 @@ occurrences of that divinity in the text corpus.
 4. `publishlexicon` does something else.
 """
 function publishsite(publisher::Publisher)
+    @info("\nComposing complete web site for project.\n\n")
     publishtexts(publisher)
     publisharticles(publisher)
     publishconcordance(publisher)

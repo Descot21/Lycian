@@ -14,7 +14,7 @@ function publishconcordance(publisher::Publisher)
     open(target, "w") do io
         print(io, conc_yamlplus(), conc_mdpage(idx))
     end
-    @info("Done.")
+    @info("✔️  Completed compiling concordance of all tokens.")
 end
 
 

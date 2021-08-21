@@ -23,7 +23,7 @@ function publisharticles(publisher::Publisher)
     c = xmlcorpus(publisher.editorsrepo)
     namesidx = indexnames(c)
     names_printindex(namesidx, target)
-    @info("Done.")
+    @info("✔️  Completed indexing and formatting all articles.")
 end
 
 
@@ -65,7 +65,7 @@ function names_printindex(dict, dir)
     for k in keys(dict)
         u = Cite2Urn(k)
         fname = dir * objectcomponent(u) * "/index.md"
-        println("Append names index to ", fname)
+        #println("Append names index to ", fname)
         md = names_mdlist(dict[k])
         open(fname, "a") do io
             print(io, md)

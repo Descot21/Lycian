@@ -11,7 +11,7 @@ function publishtexts(publisher::Publisher)
     for txt in online
         publishtext(publisher, txt)
     end
-    @info("Done.")
+    @info("✔️ Completed building text editions.")
 end
 
 """Write a web page for a single text.
@@ -52,7 +52,7 @@ function publishtext(
             print(io, document, tablemarkdown(dipl, normed, linkedimgs))
         catch e
              groupurn = droppassage(dipl[1].urn)
-             println("FAILED to write edition for ", groupurn, " with ", length(dipl), " diplomatic lines and ", length(linkedimgs), " DSE records." )
+             @warn(string("Failed to write edition for ", groupurn, " with ", length(dipl), " diplomatic lines and ", length(linkedimgs), " DSE records." ))
              msg = string(e)
              @warn(msg)
              #error(e)
@@ -73,7 +73,7 @@ function imgs_for_dse(dserows, textnodes, ict, iiifsvc; w = 100)
     if (length(textnodes) != nrow(dserows))
         for row in eachrow(dserows)
             push!(linkedimgs, "Invalid indexing of text to source images.")
-            @info("Failure with dserow ", row.passage)
+            @warn(string("Failed with dse record for ", row.passage))
         end
     else 
   

@@ -3,7 +3,8 @@ each letter of the Lycian alphabet.
 
 $(SIGNATURES)
 """
-function publishlexicon(publisher::Publisher)    
+function publishlexicon(publisher::Publisher)  
+    @info("Composing Lycian lexicon...")  
     target = publisher.root * "/offline/Lexicon/"
     lexdf = loadLexiconDF(publisher)
     grouped = groupby(lexdf, :letter)
@@ -16,9 +17,10 @@ function publishlexicon(publisher::Publisher)
         str = entries[1,:xlit]
         seq = sequenceDict[LycianUtils.initialAlpha(lowercase(str))]
         outfile = LycianUtils.outputfile(target, string("Letter ", k.letter))
-        @info(outfile)
+        #@info(outfile)
         LycianUtils.writeLetter(entries, outfile, k.letter, seq)
     end
+    @info("✔️  Completed lexicon.")
 end
 
 
