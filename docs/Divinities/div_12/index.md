@@ -37,3 +37,5 @@ Payne, Annick. "Lycia - Crossroads of Hittite and Greek Traditions?." *Papers on
 ## Appears in
 
 - [*nf* 307, 1](../../Texts/nf_307)
+- [*tl* 44, a.37](../../Texts/tl_44)
+- [*tl* 44, b.53](../../Texts/tl_44)

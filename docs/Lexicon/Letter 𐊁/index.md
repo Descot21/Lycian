@@ -56,7 +56,7 @@ nav_order: 4
 - 𐊁𐊖𐊂𐊚𐊗𐊆 (esbEt(i)-) *noun*, "horseman, knight". `urn:cite2:trmilli:lexicon.v1:m103`
 - 𐊁𐊖𐊅𐊁- (esde-) ?. `urn:cite2:trmilli:lexicon.v1:m104`
 - 𐊁𐊖𐊁- (ese-) *preverb*. `urn:cite2:trmilli:lexicon.v1:m105`
-- 𐊁𐊖𐊁𐊅𐊚𐊑𐊁𐊇𐊁- (esedENnewe-) *noun*, "consanguineal descendant(s)". `urn:cite2:trmilli:lexicon.v1:106`
+- 𐊁𐊖𐊁𐊅𐊚𐊑𐊁𐊇𐊁- (esedENnewe-) *noun*, "consanguineal descendant(s)". `urn:cite2:trmilli:lexicon.v1:m106`
 - 𐊁𐊖𐊁𐊕𐊆- (eseri-) *preverb*, similar to Latin preposition "de-". `urn:cite2:trmilli:lexicon.v1:m107`
 - 𐊁𐊖𐊚𐊏𐊁𐊎𐊍𐊀- (esEnemla-) *noun*, "blood sacrifice". `urn:cite2:trmilli:lexicon.v1:m108`
 - 𐊁𐊗𐊆 (eti) *noun*, "father". `urn:cite2:trmilli:lexicon.v1:m109`

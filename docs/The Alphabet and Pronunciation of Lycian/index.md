@@ -1,7 +1,7 @@
 ---
 title: "The Alphabet and Pronunciation of Lycian"
 layout: page
-nav_order: 2
+nav_order: 3
 ---
 
 # The Alphabet and Pronunciation of Lycian
@@ -14,7 +14,7 @@ nav_order: 2
 |![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0004.tif&RGN=0.03977,0.04392,0.05712,0.1303&wID=30&CVT=JPEG)          |   𐊁   |   e    |    /æ/ (as in English c**a**t)   |
 |![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.07845,0.07705,0.01873,0.1625&wID=30&CVT=JPEG)          |   𐊂   |   b   |    /β/, /φ/   |
 |![W with a Hook](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.6690,0.1771,0.1690,0.1218&wID=60&CVT=JPEG)             |   𐊃   |    B    |    /ç/ (As in English **h**ue. Similar to /hj/)  |
-| ![gamma](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0171.tif&RGN=0.1696,0.5591,0.01406,0.04048&wID=25&CVT=JPEG)   |    𐊄    |   g    |   /ɣ/, /χ/    |
+| "gamma"   |    𐊄    |   g    |   /ɣ/, /χ/    |
 | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.6848,0.2446,0.02933,0.1441&wID=30&CVT=JPEG)            |  𐊅   |   d    |    /ð/, /θ/   |
 | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0020.tif&RGN=0.1173,0.2898,0.02261,0.1524&wID=30&CVT=JPEG)            |   𐊆   |   i    |    /ɪ/ (as in English l**i**st)    |
 | ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/lycian/hc/v1/2007.02.0084.tif&RGN=0.5238,0.3210,0.06190,0.1328&wID=30&CVT=JPEG)            |   𐊇   |    w    |    /w/   |
