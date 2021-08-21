@@ -45,6 +45,8 @@ function publishsite(publisher::Publisher)
     publisharticles(publisher)
     publishconcordance(publisher)
     publishlexicon(publisher)
-    msg = "\n\nComplete website constructed in directory `offline`."
+    msg = """\nComplete website constructed in directory `offline`.
+If you have jekyll installed on your system, you can run a jekyll web server there.    
+    """
     @info(msg)
 end 

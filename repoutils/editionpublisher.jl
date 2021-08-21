@@ -67,7 +67,7 @@ end
 $(SIGNATURES)
 """
 function imgs_for_dse(dserows, textnodes, ict, iiifsvc; w = 100)
-    @info(string(length(textnodes), " text nodes and ", nrow(dserows), " dse rows."))
+    #@info(string(length(textnodes), " text nodes and ", nrow(dserows), " dse rows."))
    
     linkedimgs = [] 
     if (length(textnodes) != nrow(dserows))

@@ -14,7 +14,7 @@ function publishconcordance(publisher::Publisher)
     open(target, "w") do io
         print(io, conc_yamlplus(), conc_mdpage(idx))
     end
-    @info("Written to ", target)
+    @info("Done.")
 end
 
 

@@ -97,14 +97,13 @@ function writeLetter(dictentries, outfile, letter, sequenceNum)
         push!(mdlines, mdrow(entry))
     end
     
-    println("Writing to " * outfile)
-    println("With ", length(mdlines), " lines of entries." )
+    #@info("Writing to " * outfile, " with ", length(mdlines), " lines of entries." )
     doc = top * join(mdlines,"\n")
     open(outfile, "w") do io
         try 
             print(io, doc)
         catch e
-            println("Failed to write file " * outfile)
+            @warn("Failed to write file " * outfile)
         end
     end 
 end
