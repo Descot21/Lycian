@@ -1,10 +1,9 @@
+# Functions for publishing text editions.
 
-#=
-function publishtexts(reporoot::AbstractString)
-    lycpublisher(reporoot) |> publishtexts
-end
-=#
+"""Write web page for all texts in the repository cataloged as online.
 
+$(SIGNATURES)
+"""
 function publishtexts(publisher::Publisher)
     textcat = textcatalog(publisher.editorsrepo, "catalog.cex")
     online = filter(row -> row.online, textcat) 
@@ -13,9 +12,13 @@ function publishtexts(publisher::Publisher)
     end
 end
 
-"""Write web page for a single text.
+"""Write a web page for a single text.
 
-- publisher: configured Publisher object
+$(SIGNATURES)
+
+Parameters:
+
+- publisher: a configured Publisher object
 - catalogrow: a single row of DataFrame of DSE records for texts
 """
 function publishtext(
@@ -57,6 +60,10 @@ function publishtext(
 end
 
 
+"""Compose a list of markdown strings for each passage in `dserows`.
+
+$(SIGNATURES)
+"""
 function imgs_for_dse(dserows, textnodes, ict, iiifsvc; w = 100)
     @info(string(length(textnodes), " text nodes and ", nrow(dserows), " dse rows."))
    
