@@ -5,7 +5,7 @@
 # directory:
 #
 # push!(LOAD_PATH, "repoutils/")
-
+#
 module LycianUtils
 
 using CitableImage, CitableObject, CitableText, CitableCorpus
@@ -13,6 +13,8 @@ using CitableTeiReaders, EditionBuilders, Orthography
 using CSV, DataFrames, EzXML
 using EditorsRepo
 using Lycian
+
+using Documenter, DocStringExtensions
 
 export publishsite
 export Publisher, publishtext, publishtexts 
@@ -33,28 +35,9 @@ include("concordancepublisher.jl")
 include("names.jl")
 include("namespublisher.jl")
 
+include("lexicon.jl")
+
 include("morphology.jl")
-
-
-
-
-
-
-
-"""
-Configure editorial repository for this project.
-
-Example: invoked from scripts directory:
-
-```julia
-repo = repo(dirname(pwd()))
-```
-"""
-#function edrepo(root::AbstractString)
-#    repository(root) #, "editions", "dse", "config")
-#end
-
-
 
 
 end

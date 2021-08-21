@@ -1,5 +1,6 @@
 
 struct Publisher
+    root
     editorsrepo
     ict
     iiifsvc
@@ -8,6 +9,8 @@ end
 
 
 """Create a Publisher structure for the given repository root.
+
+$(SIGNATURES)
 """
 function lycpublisher(root)
     repo = repository(root)
@@ -18,16 +21,28 @@ function lycpublisher(root)
     iiifsvc = IIIFservice(baseiifurl, imgroot)
     # Target for output
     textroot = root * "/offline/texts/" 
-    Publisher(repo, ict, iiifsvc,textroot)
+    Publisher(root, repo, ict, iiifsvc,textroot)
 end
 
 
+"""Publish complete website to testing directory `offline`.
 
+$(SIGNATURES)
+
+The `offline` directory has basic pages that can be published on github
+by copying to the `docs` directory.  This function composes the following markdown pages
+from source content in the repository:
+
+1. `publishtexts` composes web pages for all cataloged editions of texts
+2. `publisharticles` composes web pages for articles about divinites.  It takes the 
+markdown in `divinities-articles`, and appends an automatically assembled index of 
+occurrences of that divinity in the text corpus.
+3. `publishconcordance` composes a concordance of all tokens in the text editions.
+4. `publishlexicon` does something else.
+"""
 function publishsite(publisher::Publisher)
-    ## These shouyld all work off a publisher:
-    #=
-    publishconcordance(reporoot)
-    publisharticles(reporoot)
-       =#
     publishtexts(publisher)
+    publisharticles(publisher)
+    publishconcordance(publisher)
+    publishlexicon(publisher)
 end 

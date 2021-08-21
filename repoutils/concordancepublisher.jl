@@ -1,9 +1,13 @@
 
-function publishconcordance(reporoot)
-    target = reporoot * "/offline/Concordance/index.md" 
-    repo = repository(reporoot)
+"""Write concordance of tokens to test web site in `offline` directory.
+
+$(SIGNATURES)
+"""
+function publishconcordance(publisher::Publisher)
+    target = publisher.root * "/offline/Concordance/index.md" 
+ 
     # A CitableCorpus:
-    indexable = normalcorpus(repo)
+    indexable = normalcorpus(publisher.editorsrepo)
     # A GroupedDataFrame keyed by term
     idx = indexcorpus(indexable) 
     open(target, "w") do io
@@ -11,19 +15,31 @@ function publishconcordance(reporoot)
     end
 end
 
+
+"""Compose markdown for a Lycian token in transcription and in Unicode.
+
+$(SIGNATURES)
+"""
 function conc_mdrow(pr)
     hdg = "**" * pr[1] * "** (" * Lycian.ucode(pr[1]) * ")"
     
      hdg * ":  " * pr[2]
 end
 
+
+"""Compose link from Concordance page to a text identified by CTS URN.
+
+$(SIGNATURES)
+"""
 function conc_editionlink(u::CtsUrn)
     lnk = "../Texts/" * workparts(u)[1] * "_" * workparts(u)[2]
     label = string("*", workparts(u)[1], "* ",workparts(u)[2],", ", passagecomponent(u) )
     "[" * label * "](" * lnk * ")"
 end
 
-"""
+"""Compose body of Concordance web page in markdown.
+
+$(SIGNATURES)
 """
 function conc_mdpage(idx)
     delimited = []
@@ -32,7 +48,6 @@ function conc_mdpage(idx)
         vals = idx[k]
         urns = vals[!, :urn]
      
-
         urnlabels = map(u ->  conc_editionlink(u), urns)
         push!(delimited, term * "|" * join(urnlabels,"; "))
     end
@@ -42,7 +57,10 @@ function conc_mdpage(idx)
     join(rows, "\n\n")
 end
 
+"""Compose YAML header for Concordance web page.
 
+$(SIGNATURES)
+"""
 function conc_yamlplus()
     lines = [
         "---",

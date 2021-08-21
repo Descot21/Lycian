@@ -5,6 +5,7 @@ _site/
 offline/Texts/
 offline/Divinities/div*/
 offline/Concordance/
+offline/Lexicon/Letter*/
 docs/Gemfile
 **Manifest.toml
 **pdf

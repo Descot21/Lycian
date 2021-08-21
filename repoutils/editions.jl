@@ -18,13 +18,6 @@ function editionfile(csvrow, basedir)
     editiondir * "/index.md"
 end
 
-
-function xmlcorpus(reporoot::AbstractString)
-    repo = repository(reporoot)
-    xmlcorpus(repo)
-end
-
-
 """Read XML text from local file for a
 document identified by URN.
 df is a citation dataframe.
@@ -43,6 +36,15 @@ function textforurn_df(df, urn)
 end
 
 
+
+#=
+function xmlcorpus(reporoot::AbstractString)
+    repo = repository(reporoot)
+    xmlcorpus(repo)
+end
+=#
+
+
 function xmlcorpus(repo::EditingRepository)
     textcat = textcatalog(repo, "catalog.cex")
     online = filter(row -> row.online, textcat)
@@ -58,7 +60,7 @@ end
 
 
 
-
+#=
 
 
 # Read citation configuration in an Array
@@ -66,6 +68,4 @@ function citation(repo::EditingRepository)
 	arr = CSV.File(repo.root * "/" * repo.configs * "/citation.cex", skipto=2, delim="|", 
 	quotechar='&', escapechar='&') |> Array
 end
-
-
-
+=#
