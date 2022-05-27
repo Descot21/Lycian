@@ -7,9 +7,9 @@ parent: "Home Page"
 
 # Introduction to site 
 
-**What is Trmilli Texts?**
+**What is Trmmilli Texts?**
 
-Trmilli texts is a expanding systematic digital corpus of Lycian langauge epigraphic texts created by Dane Scott under the guidance of Dr. Neel Smith, College of the Holy Cross. This is an expanding database with the aim of being a comprehensive resource for Lycian inscriptions. This website is the public-facing resource that is generated from Dane Scott's undergraduate senior thesis. 
+Trmmilli texts is a expanding systematic digital corpus of Lycian langauge epigraphic texts created by Dane Scott under the guidance of Dr. Neel Smith, College of the Holy Cross. This is an expanding database with the aim of being a comprehensive resource for Lycian inscriptions. This website is the public-facing resource that is generated from Dane Scott's undergraduate senior thesis. 
 
 This website contains diplomatic and normalized editions of Lycian texts tied closely with citable images of the iscription istelf. Tied to each inscription is an automatically updating concordance of Lycian words and a lexicon based on Craig Melchert's 2004 book *A Dictionary of the Lycian Language*. Also included is a companion of articles on the divinities mentioned in the epigraphic corpus. Forthcomming are resources for the morphology of Lycian terms that will be tied to the text in which each lexical token appears. Translation of these texts, though possible for a select number of inscriptions with the completion of the morphology, is beyond the scope of this project.  
 
@@ -19,7 +19,7 @@ This website contains diplomatic and normalized editions of Lycian texts tied cl
 
 Lycian is an ancient Anatolian language that was spoken in Lycia, a geo-political area in the southwest of modern-day Turkey. Lycian is closely related to other Anatolian languages like Luwian, Carian, and (distantly) Hittite. It seems that Lycian maintained a strong written presence in Lycia during the 4th and 5th centuries BCE (the epichoric period), appearing on stone, tombs, monuments, and coins. But, by the first century, Greek had fully replaced Lycian the sole public and administrative language.  
 
-There are two forms of Lycian that have been discovered: Lycian A (simply called "Lycian") and Milyan (Lycian B). Lycian A accounts for the majority of texts discovered, while Milyan appears only in a select number of sources, usually from the Milyas region in eastern Lycia. Given the small number of inscriptions containing Milyan, knowledge of the language is sparse. For that reason, Trmilli Texts only deals with texts written in Lycian A. 
+There are two forms of Lycian that have been discovered: Lycian A (simply called "Lycian") and Milyan (Lycian B). Lycian A accounts for the majority of texts discovered, while Milyan appears only in a select number of sources, usually from the Milyas region in eastern Lycia. Given the small number of inscriptions containing Milyan, knowledge of the language is sparse. For that reason, Trmmilli Texts only deals with texts written in Lycian A. 
 
 The first non-deciphered Lycian texts were published by a French archaeological team in 1820, with the Lycian alphabet being deciphered later that year. The first extensive corpus of Lycian inscriptions was published by an Austrian expedition led by Ernest Kalinka in 1901. This corpus, called *Tituli Asiae Minoris: Tituli Lyciae* (shorted to TL in this collection), contianed 152 Lycian inscriptions, including bilingual Lycian-Greek texts. 
 
@@ -43,7 +43,7 @@ Milyan/Lycian B is not covered in this corpus, and the non-Lycian portions in bi
 
 ---
 
-**The original prospectus for the Trmilli Text project**
+**The original prospectus for the Trmmilli Text project**
 
 I am proposing a tutorial in the Lycian language with Professor Neel Smith to build off of the rapidly-growing work I completed during the Fall semester, and to culminate in a systematic digital edition of Lycian epigraphic sources--a “Lycian Perseus Project.” The work done in this semester has laid the groundwork for further in-depth research into this rich--but often understudied--Anatolian language.
 
